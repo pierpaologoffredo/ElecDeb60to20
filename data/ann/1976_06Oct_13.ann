@@ -1,0 +1,61 @@
+T475	Claim 530 676	This is the first time that I've - remember in the history of our country when we've let a foreign country circumvent or change our Bill of Rights
+T476	Claim 678 780	I'll do everything I can as president to stop the boycott of American businesses by the Arab countries
+T477	Claim 862 1102	I don't believe that Arab countries will pursue it when we have a strong president who will protect the integrity of our country, the commitment of our Constitution and Bill of Rights and protect people in this country who happen to be Jews
+T478	Premise 1104 1129	It may later be Catholics
+T479	Premise 1131 1203	it may be - later be Baptists who are threatened by some foreign country
+T480	Claim 1209 1234	we ought to stand staunch
+T481	Claim 1240 1400	I think it's a disgrace that so far Mr. Ford's administration has blocked the passage of legislation that would've revealed by law every instance of the boycott
+T482	Claim 1491 1526	Again Governor Carter is inaccurate
+T483	Premise 1528 1575	The Arab boycott action was first taken in 1952
+T484	Premise 1581 1888	in November of 1975 I was the first president to order the executive branch to take action, affirmative action, through the Department of Commerce and other cabinet departments, to make certain that no American businessman or business organization should discriminate against Jews because of an Arab boycott
+T485	Claim 1894 2112	I might add that uh - my administration - and I'm very proud of it - is the first administration that has taken an antitrust action against companies in this country that have allegedly cooperated with the Arab boycott
+T486	Premise 2114 2334	Just on Monday of this week I signed a tax bill that included an amendment that would prevent companies in the United States from taking a tax deduction if they have in any way whatsoever cooperated with the Arab boycott
+T487	Premise 2340 2710	last week when we were trying to get the Export Administration Act through the Congress - necessary legislation - my administration went to Capitol Hill and tried to convince the House and the Senate that we should have an amendment on that legislation which would take strong and effective action against those who uh - participate or cooperate with the Arab uh boycott
+T488	Premise 2737 2763	the Congress failed to act
+T489	Claim 2765 2906	I am going to announce tomorrow that the Department of Commerce will disclose those companies that have uh - participated in the Arab boycott
+T471	Claim 1405 1454	it would've prevented the boycott from continuing
+T537	Claim 2908 2940	This is something that we can do
+T490	Premise 2942 2970	the Congress failed to do it
+T538	Claim 2976 2994	we intend to do it
+T1	Claim 782 830	It's not a matter of diplomacy or trade with me.
+T2	Claim 831 856	It's a matter of morality
+T3	Claim 312 426	I believe that the boycott of American businesses by the Arab countries because those businesses trade with Israel
+T4	Claim 430 504	because they have American Jews who are owners or directors in the company
+T5	Claim 505 529	is an absolute disgrace.
+R1	Support Arg1:T3 Arg2:T5	
+R2	Support Arg1:T4 Arg2:T5	
+R3	Support Arg1:T475 Arg2:T5	
+R4	Support Arg1:T5 Arg2:T476	
+R5	Support Arg1:T476 Arg2:T1	
+R6	Support Arg1:T1 Arg2:T2	
+R7	Support Arg1:T2 Arg2:T5	
+R8	Attack Arg1:T477 Arg2:T3	
+R9	Attack Arg1:T477 Arg2:T475	
+R10	Attack Arg1:T477 Arg2:T4	
+R11	Attack Arg1:T477 Arg2:T5	
+R12	Support Arg1:T478 Arg2:T479	
+R13	Support Arg1:T478 Arg2:T480	
+R14	Support Arg1:T479 Arg2:T480	
+R15	Support Arg1:T476 Arg2:T477	
+R16	Support Arg1:T1 Arg2:T477	
+R17	Support Arg1:T2 Arg2:T477	
+R18	Support Arg1:T477 Arg2:T480	
+R19	Support Arg1:T481 Arg2:T471	
+R20	Attack Arg1:T481 Arg2:T475	
+R21	Attack Arg1:T482 Arg2:T481	
+R22	Support Arg1:T483 Arg2:T484	
+R23	Support Arg1:T484 Arg2:T482	
+R24	Support Arg1:T485 Arg2:T484	
+R25	Support Arg1:T485 Arg2:T486	
+R26	Support Arg1:T485 Arg2:T482	
+R27	Support Arg1:T486 Arg2:T482	
+R28	Support Arg1:T487 Arg2:T482	
+R29	Support Arg1:T486 Arg2:T487	
+R30	Support Arg1:T488 Arg2:T489	
+R31	Support Arg1:T489 Arg2:T537	
+R32	Support Arg1:T537 Arg2:T538	
+R33	Support Arg1:T537 Arg2:T490	
+R34	Support Arg1:T490 Arg2:T538	
+R35	Equivalent Arg1:T490 Arg2:T488	
+R36	Support Arg1:T490 Arg2:T489	
+R37	Attack Arg1:T489 Arg2:T481	

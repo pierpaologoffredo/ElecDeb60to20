@@ -1,0 +1,83 @@
+T270	Claim 697 786	Social Security and Medicare are entirely different in terms of the financial stabilities
+T271	Premise 665 695	there are two different things
+T272	Claim 822 920	Social Security is stable until, as you pointed out, at least the third decade of the next century
+T273	Premise 926 1032	we'd like to have a Social Security fund that has about 70 years of life instead of about 30 years of life
+T274	Premise 1034 1255	What we have to do is simply to make some adjustments to take account of the fact that the baby boomers, people like me, are bigger in number than the people that went just before us and the people that come just after us
+T275	Claim 1261 1338	I think what we'll plainly do is what we did in 1983 when Senator Dole served
+T276	Claim 1344 1439	this is something I think he did a good job on when he served on the Social Security commission
+T277	Claim 1444 1559	they made some modest changes in Social Security to make sure that it would be alive and well into the 21st century
+T278	Premise 1565 1580	we will do that
+T279	Claim 1582 1645	It's obvious that there are certain things that have to be done
+T280	Premise 1650 1686	there are 50 or 60 different options
+T281	Premise 1692 1802	a bipartisan commission to take it out of politics, will make recommendations and build support for the people
+T282	Premise 1804 1825	Medicare is different
+T283	Premise 1827 1850	Medicare needs help now
+T284	Claim 1852 1941	I have proposed a budget which would put ten years on the life of the Medicare trust fund
+T285	Premise 1943 2004	That's more than it's had a lot of the time in the last years
+T286	Claim 2006 2140	It would save a lot of money through more managed care, by giving more options, more preventative care and lowering the inflation rate
+T287	Claim 2145 2290	the prices we're paying providers without having the kind of big premium increases and out-of-pocket costs that the budget I vetoed would provide
+T288	Claim 2297 2389	that would give us ten years to do with Medicare what we're going to do with Social Security
+T289	Claim 2391 2481	have a bipartisan group look at what we have to do to save it when the baby boomers retire
+T290	Premise 2499 2599	we ought to pass this budget now and put ten years on it right away so no one has to worry about it.
+T291	Claim 2619 2724	if you're somebody thinking about the future, I think it's fair to say that it'll be -- we'll work it out
+T292	Premise 2726 2803	This is a political year, and the President is playing politics with Medicare
+T293	Claim 3434 3585	I think if I were a senior citizen I would be a little fed up with all these ads scaring seniors, scaring veterans and scaring students about education
+T294	Claim 2805 2889	After this year is over, we'll resolve it just as we did with Social Security in `83
+T295	Premise 2891 2920	It's a nonpartisan commission
+T296	Premise 2922 3016	Ronald Reagan got together with Tip O'Neill and Howard Baker, two Republicans and one Democrat
+T297	Premise 3018 3070	They appointed a commission I was on that commission
+T298	Claim 3072 3111	We resolved, we rescued Social Security
+T299	Claim 3113 3241	We suggested -- I think it has been over a year ago now -- we do the same with Medicare, and the White House called it a gimmick
+T300	Claim 3247 3357	last week I guess it was Donna Shalala said well we'll cut Medicare a hundred billion and appoint a commission
+T301	Premise 3359 3407	It will probably have to be done by a commission
+T302	Premise 3409 3432	Take it out of politics
+T303	Claim 3695 3734	We have ideas in the Dole-Kemp campaign
+T304	Claim 3739 3788	we will rescue Medicare as we did Social Security
+T305	Premise 3587 3693	When you don't have any ideas, you don't have any agenda, and all you have is fear, that's all you can use
+T306	Claim 3800 3881	Their idea was to have the poorest seniors in the country pay $270 more this year
+T307	Claim 3883 3985	Their idea was a budget that the that the American Hospital Association said could close 700 hospitals
+T308	Claim 3987 4076	Their idea was to charge everybody more out-of-pocket costs in their budget that I vetoed
+T309	Claim 4078 4101	Not in an election year
+T310	Premise 4108 4132	I told them in early '95
+T311	Premise 4134 4238	Senator Dole said 30 years ago he was one of 12 people who voted against Medicare and he was proud of it
+T312	Premise 4240 4277	A year ago he said, "I was right then
+T313	Premise 4279 4302	I knew it wouldn't work
+T314	Claim 4305 4367	American seniors have the highest life expectancy in the world
+T315	Claim 4369 4389	We need to reform it
+T316	Premise 4391 4403	Not wreck it
+R1	Support Arg1:T271 Arg2:T270	
+R2	Support Arg1:T273 Arg2:T274	
+R3	Support Arg1:T274 Arg2:T275	
+R4	Support Arg1:T276 Arg2:T275	
+R5	Support Arg1:T272 Arg2:T275	
+R6	Support Arg1:T277 Arg2:T275	
+R7	Support Arg1:T278 Arg2:T277	
+R8	Support Arg1:T280 Arg2:T279	
+R9	Support Arg1:T281 Arg2:T279	
+R11	Support Arg1:T282 Arg2:T270	
+R12	Support Arg1:T285 Arg2:T284	
+R10	Support Arg1:T283 Arg2:T284	
+R13	Support Arg1:T286 Arg2:T284	
+R14	Support Arg1:T287 Arg2:T284	
+R15	Support Arg1:T289 Arg2:T288	
+R16	Support Arg1:T288 Arg2:T287	
+R17	Support Arg1:T290 Arg2:T284	
+R18	Support Arg1:T292 Arg2:T291	
+R19	Support Arg1:T295 Arg2:T294	
+R20	Support Arg1:T296 Arg2:T295	
+R21	Support Arg1:T297 Arg2:T296	
+R22	Support Arg1:T298 Arg2:T294	
+R23	Support Arg1:T299 Arg2:T298	
+R24	Support Arg1:T300 Arg2:T299	
+R25	Support Arg1:T305 Arg2:T293	
+R26	Support Arg1:T298 Arg2:T304	
+R27	Support Arg1:T303 Arg2:T304	
+R28	Support Arg1:T316 Arg2:T315	
+R29	Support Arg1:T313 Arg2:T309	
+R30	Support Arg1:T312 Arg2:T309	
+R31	Support Arg1:T311 Arg2:T309	
+R32	Support Arg1:T310 Arg2:T309	
+R33	Support Arg1:T314 Arg2:T315	
+R34	Attack Arg1:T306 Arg2:T304	
+R35	Attack Arg1:T307 Arg2:T304	
+R36	Attack Arg1:T308 Arg2:T304	

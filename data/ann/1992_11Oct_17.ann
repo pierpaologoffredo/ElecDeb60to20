@@ -1,0 +1,64 @@
+T1	Claim 1045 1103	I have proposed a managed competition plan for health care
+T2	Claim 932 1043	Mr Bush is trying to run against Lyndon Johnson and Jimmy Carter and everybody in the world but me in this race
+T3	Claim 1123 1186	You cannot control health care costs simply by cutting Medicare
+T4	Premise 1210 1284	The Federal Government has cut Medicare and Medicaid in the last few years
+T5	Premise 1286 1360	States have cut Medicaid; we've done it in Arkansas under budget pressures
+T6	Premise 1380 1438	More and more people get on the rolls as poverty increases
+T7	Claim 1440 1533	If you don't control the health care costs of the entire system, you cannot get control of it
+R1	Equivalent Arg1:T3 Arg2:T7	
+R2	Support Arg1:T4 Arg2:T7	
+R3	Support Arg1:T5 Arg2:T7	
+R4	Support Arg1:T6 Arg2:T7	
+T8	Premise 1556 1700	We've set up a national ceiling on health care costs tied to inflation and population growth set by health care providers, not by the Government
+T9	Premise 1702 1828	We provide for managed competition, not Government models, in every State, and we control private and public health care costs
+T10	Premise 1830 2127	Now, just a few days ago, a bipartisan commission of Republicans and Democrats, more Republicans than Democrats, said my plan will save the average family $1,200 a year more than the Bush plan will by the year 2000; $2.2 trillion in the next 12 years; $400 billion a year by the end of this decade
+T11	Claim 2129 2173	I've got a plan to control health care costs
+R5	Support Arg1:T10 Arg2:T11	
+R6	Support Arg1:T9 Arg2:T11	
+R7	Support Arg1:T8 Arg2:T11	
+T12	Claim 2179 2219	you can't just do it by cutting Medicare
+R8	Attack Arg1:T11 Arg2:T12	
+T13	Claim 2221 2324	You have to take on the insurance companies, the bureaucracies, and you have to have cost controls, yes
+T14	Premise 2344 2439	we are spending 30 percent more on health care than any country in the world, any other country
+R9	Attack Arg1:T14 Arg2:T13	
+T15	Premise 2441 2480	Yet, we have 35 million people uninsure
+R10	Attack Arg1:T15 Arg2:T14	
+T16	Premise 2483 2521	We have no preventive and primary care
+T17	Claim 2523 2633	The Oregon plan is a good start if the Federal Government is going to continue to abandon its responsibilities
+R11	Support Arg1:T16 Arg2:T17	
+T18	Premise 2635 2702	I say if Germany can cover everybody and keep costs under inflation
+T19	Premise 2704 2797	if Hawaii can cover 98 percent of their people at lower health care costs than the rest of us
+T20	Premise 2799 2878	if Rochester, New York, can do it with two-thirds of the cost of the rest of us
+T21	Claim 2880 2902	America can do it, too
+R12	Support Arg1:T20 Arg2:T21	
+R13	Support Arg1:T19 Arg2:T21	
+R14	Support Arg1:T18 Arg2:T21	
+T22	Claim 2952 2981	We can do better, and we must
+R15	Equivalent Arg1:T21 Arg2:T22	
+T23	Claim 3120 3156	The Oregon plan made some good sense
+T24	Claim 3162 3211	it's easy to dismiss the concerns of the disabled
+R16	Attack Arg1:T24 Arg2:T23	
+T25	Premise 3213 3330	As President, I have to be sure that those waivers which we're approving all over the place are covered under the law
+T26	Premise 3362 3518	the Americans for Disabilities Act, speaking about sound and sensible civil rights legislation, was the foremost piece of legislation passed in modern times
+T27	Claim 3523 3573	we do have something more than a technical problem
+R17	Support Arg1:T26 Arg2:T27	
+R18	Support Arg1:T25 Arg2:T27	
+T28	Claim 3575 3675	Governor Clinton clicked off the things: You've got to take on insurance companies and bureaucracies
+T29	Premise 3677 3896	He failed to take on somebody else, the malpractice suit people, those that bring these lawsuits against -- these frivolous trial lawyers' lawsuits that are running costs of medical care up by $25 billion to $50 billion
+R19	Attack Arg1:T29 Arg2:T28	
+T30	Premise 3898 3960	He refuses to put anything -- controls on these crazy lawsuits
+R20	Support Arg1:T30 Arg2:T29	
+T31	Premise 3962 4243	If you want to help somebody, don't run the costs up by making doctors have to have five or six tests where one would do for fear of being sued, or have somebody along the highway not stop to pick up a guy and help him because he's afraid a trial lawyer will come along and sue him
+T32	Premise 4245 4313	We're suing each other too much and caring for each other too little
+R21	Support Arg1:T31 Arg2:T29	
+R22	Support Arg1:T32 Arg2:T29	
+T33	Premise 4352 4413	We've got the most expensive health care system in the world.
+T34	Premise 4414 4532	It ranks behind 15 other nations when we come to life expectancy and 22 other nations when we come to infant mortality
+T35	Claim 4537 4559	we don't have the best
+R23	Support Arg1:T34 Arg2:T35	
+R24	Support Arg1:T33 Arg2:T35	
+T36	Claim 4652 4703	go copy the people who have the best who spend less
+T37	Premise 4583 4651	if you're paying more and you don't have the best, if all else fails
+R25	Support Arg1:T37 Arg2:T36	
+R26	Support Arg1:T35 Arg2:T36	
+T38	Claim 4716 4742	we can do better than that

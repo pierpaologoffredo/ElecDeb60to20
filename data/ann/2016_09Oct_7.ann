@@ -1,0 +1,196 @@
+T130	Claim 903 911	she lied
+T238	Claim 233 243	Absolutely
+T239	Claim 319 362	I will be a president for all of our people
+T240	Claim 368 518	I’ll be a president that will turn our inner cities around and will give strength to people and will give economics to people and will bring jobs back
+T241	Premise 253 317	she calls our people deplorable, a large group, and irredeemable
+T243	Premise 1174 1222	Devastating what’s happening to our inner cities
+T244	Claim 1310 1333	She doesn’t get it done
+T245	Claim 1263 1308	As usual, she talks about it, nothing happens
+T246	Premise 1224 1261	She’s been talking about it for years
+T247	Claim 2249 2268	It doesn’t get done
+T248	Claim 2233 2247	she’s all talk
+T249	Claim 2270 2321	All you have to do is take a look at her Senate run
+T250	Claim 2323 2354	Take a look at upstate New York
+T251	Claim 4497 4556	I want to be the best president I can be for every American
+T252	Claim 4884 4943	You didn’t express regret for using the term deplorables.
+T253	Claim 4970 5049	how can you unite a country if you’ve written off tens of millions of Americans
+T254	Premise 4713 4841	You said that half of Donald Trump’s supporters are, quote, deplorables, racist, sexist, homophobic, xenophobic, Islamophobic.
+T255	Premise 4842 4882	You later said you regretted saying half
+T256	Claim 5146 5184	my argument is not with his supporters
+T257	Premise 5186 5406	It’s with him and with the hateful and divisive campaign that he has run, and the inciting of violence at his rallies, and the very brutal kinds of comments about not just women, but all Americans, all kinds of Americans
+T258	Claim 6859 6894	that’s what you’re getting with her
+T259	Claim 6794 6853	this country cannot take another four years of Barack Obama
+T260	Premise 6761 6788	she’s got tremendous hatred
+T261	Claim 7286 7325	Is that the discipline of a good leader
+T262	Premise 7053 7138	You said, if a leader doesn’t have it, quote, he or she won’t be one for very long.
+T263	Premise 7139 7284	In the days after the first debate, you sent out a series of tweets from 3 a.m. to 5 a.m., including one that told people to check out a sex tape
+T264	Premise 6942 7051	In 2008, you wrote in one of your books that the most important characteristic of a good leader is discipline
+T266	Claim 7338 7371	there wasn’t check out a sex tape
+T267	Premise 7373 7482	It was just take a look at the person that she built up to be this wonderful Girl Scout who was no Girl Scout
+T268	Claim 8348 8383	she shouldn’t be talking about that
+T269	Premise 8235 8332	the only one she talked to was Sidney Blumenthal, who’s her friend and not a good guy, by the way
+T270	Premise 8184 8229	Ambassador Stevens sent 600 requests for help
+T271	Premise 7882 7932	she said she was awake at 3 o’clock in the morning
+T272	Premise 7938 7991	she also sent a tweet out at 3 o’clock in the morning
+T273	Claim 7997 8022	I won’t even mention that
+T274	Premise 8028 8052	she said she’ll be awake
+T276	Claim 8827 8851	I’m shocked to hear that
+T277	Claim 8879 8903	it’s not only my opinion
+T278	Premise 8905 9015	It’s the opinion of many others, national security experts, Republicans, former Republican members of Congress
+T279	Claim 9149 9332	it’s not just because I watched my husband take a $300 billion deficit and turn it into a $200 billion surplus, and 23 million new jobs were created, and incomes went up for everybody
+T280	Claim 9021 9143	it’s in part because those of us who have had the great privilege of seeing this job up close and know how difficult it is
+T281	Premise 9345 9388	African-American incomes went up 33 percent
+T282	Claim 10058 10154	He would send us back into recession with his tax plans that benefit the wealthiest of Americans
+T283	Claim 10026 10056	We are back on the right track
+T284	Premise 9981 10024	$13 trillion in family wealth was wiped out
+T285	Premise 9893 9921	Five million homes were lost
+T286	Premise 9807 9842	Nine million people lost their jobs
+R1	Attack Arg1:T238 Arg2:T241	
+R2	Attack Arg1:T239 Arg2:T241	
+T1	Claim 519 628	Because NAFTA, signed by her husband, is perhaps the greatest disaster trade deal in the history of the world
+R3	Attack Arg1:T240 Arg2:T1	
+T2	Claim 651 687	It stripped us of manufacturing jobs
+T3	Claim 689 705	We lost our jobs
+T4	Claim 707 724	We lost our money
+T5	Claim 726 744	We lost our plants
+T6	Claim 746 762	It is a disaster
+T7	Premise 768 832	now she wants to sign TPP, even though she says now she’s for it
+T8	Premise 834 865	She called it the gold standard
+T9	Premise 913 1000	because it turned out that she did say the gold standard and she said she didn’t say it
+R4	Attack Arg1:T2 Arg2:T1	
+R5	Support Arg1:T3 Arg2:T2	
+R6	Support Arg1:T4 Arg2:T3	
+R7	Support Arg1:T5 Arg2:T4	
+R8	Support Arg1:T6 Arg2:T5	
+R9	Support Arg1:T7 Arg2:T8	
+R10	Support Arg1:T9 Arg2:T130	
+R11	Attack Arg1:T130 Arg2:T8	
+T10	Premise 1002 1034	They actually said that she lied
+R12	Support Arg1:T10 Arg2:T9	
+T11	Claim 1044 1052	she lied
+*	Equivalent T11 T130
+T12	Claim 1058 1090	she’s lied about a lot of things
+T13	Claim 1090 1172	.I would be a president for all of the people, African-Americans, the inner cities
+R13	Support Arg1:T12 Arg2:T11	
+R14	Support Arg1:T243 Arg2:T246	
+R15	Attack Arg1:T246 Arg2:T245	
+R16	Attack Arg1:T13 Arg2:T243	
+T14	Premise 1334 1388	Same with the Latino Americans, the Hispanic Americans
+T15	Premise 1390 1410	The same exact thing
+T16	Claim 1412 1445	They talk, they don’t get it done
+R17	Support Arg1:T244 Arg2:T245	
+R18	Attack Arg1:T14 Arg2:T244	
+R19	Support Arg1:T15 Arg2:T14	
+R20	Support Arg1:T245 Arg2:T16	
+T17	Premise 1513 1574	African- Americans now 45 percent poverty in the inner cities
+T18	Premise 1447 1511	You go into the inner cities and — you see it’s 45 percent poverty
+R21	Support Arg1:T17 Arg2:T18	
+R22	Attack Arg1:T18 Arg2:T16	
+T19	Claim 1576 1603	The education is a disaster
+T20	Claim 1605 1637	Jobs are essentially nonexistent
+T21	Claim 1763 1785	It can’t get any worse
+T22	Premise 1791 1845	she’s been talking about the inner cities for 25 years
+T23	Claim 1847 1877	Nothing’s going to ever happen
+T24	Claim 1895 1961	if she’s president of the United States, nothing’s going to happen
+T25	Claim 1963 1989	It’s just going to be talk
+T26	Premise 1991 2046	And all of her friends, the taxes we were talking about
+T27	Claim 2052 2082	I would just get it by osmosis
+T28	Claim 2084 2113	She’s not doing any me favors
+T29	Claim 2115 2173	But by doing all the others’ favors, she’s doing me favors
+R23	Support Arg1:T21 Arg2:T20	
+R24	Attack Arg1:T23 Arg2:T22	
+R25	Support Arg1:T24 Arg2:T23	
+R26	Support Arg1:T25 Arg2:T24	
+R27	Attack Arg1:T27 Arg2:T26	
+R28	Attack Arg1:T29 Arg2:T28	
+R29	Support Arg1:T248 Arg2:T247	
+R30	Support Arg1:T249 Arg2:T247	
+R31	Support Arg1:T250 Arg2:T249	
+T30	Premise 2523 2598	67 percent of the people voted to re-elect me when I ran for my second term
+T31	Premise 2604 2645	I was very proud and very humbled by that
+T32	Claim 2658 2735	I have tried my entire life to do what I can to support children and families
+T33	Premise 2747 2818	right out of law school, I went to work for the Children’s Defense Fund
+R32	Support Arg1:T31 Arg2:T30	
+R33	Support Arg1:T33 Arg2:T32	
+T34	Claim 2902 2919	I’m proud of that
+T35	Premise 2824 2900	Donald talks a lot about, you know, the 30 years I’ve been in public service
+R34	Attack Arg1:T34 Arg2:T35	
+T36	Premise 2931 3073	I started off as a young lawyer working against discrimination against African-American children in schools and in the criminal justice system
+T37	Premise 3075 3192	I worked to make sure that kids with disabilities could get a public education, something that I care very much about
+T38	Premise 3194 3324	I have worked with Latinos—one of my first jobs in politics was down in south Texas registering Latino citizens to be able to vote
+T39	Premise 3326 3472	So I have a deep devotion, to use your absolutely correct word, to making sure that every American feels like he or she has a place in our country
+T40	Claim 3479 3617	think when you look at the letters that I get, a lot of people are worried that maybe they wouldn’t have a place in Donald Trump’s America
+R35	Attack Arg1:T34 Arg2:T36	
+R36	Support Arg1:T36 Arg2:T37	
+R37	Support Arg1:T37 Arg2:T38	
+R38	Support Arg1:T38 Arg2:T39	
+R39	Attack Arg1:T39 Arg2:T40	
+T41	Premise 3619 3677	They write me, and one woman wrote me about her son, Felix
+T42	Premise 3679 3730	She adopted him from Ethiopia when he was a toddler
+T43	Premise 3732 3753	He’s 10 years old now
+T44	Premise 3755 3795	This is the only country he’s ever known
+T45	Premise 3801 3962	he listens to Donald on TV and he said to his mother one day, will he send me back to Ethiopia if he gets elected?You know, children listen to what is being said
+R40	Support Arg1:T41 Arg2:T42	
+R41	Support Arg1:T42 Arg2:T43	
+R42	Support Arg1:T43 Arg2:T44	
+R43	Support Arg1:T44 Arg2:T45	
+R44	Support Arg1:T45 Arg2:T40	
+T46	Claim 4013 4096	there’s a lot of fear—in fact, teachers and parents are calling it the Trump effect
+T47	Premise 4098 4112	Bullying is up
+T48	Premise 4114 4159	A lot of people are feeling, you know, uneasy
+T49	Premise 4161 4205	A lot of kids are expressing their concerns.
+T50	Claim 4205 4281	So, first and foremost, I will do everything I can to reach out to everybody
+T51	Claim 4330 4393	Democrats, Republicans, independents, people across our country
+R45	Support Arg1:T47 Arg2:T46	
+R46	Support Arg1:T48 Arg2:T46	
+R47	Support Arg1:T49 Arg2:T46	
+R48	Support Arg1:T50 Arg2:T51	
+R49	Support Arg1:T51 Arg2:T251	
+T52	Claim 5091 5136	I was sorry about the way I talked about that
+R50	Support Arg1:T52 Arg2:T256	
+R51	Attack Arg1:T257 Arg2:T256	
+T53	Premise 5411 5567	what he has said about African-Americans and Latinos, about Muslims, about POWs, about immigrants, about people with disabilities, he’s never apologized for
+R52	Support Arg1:T53 Arg2:T257	
+T54	Premise 5576 5692	I do think that a lot of the tone and tenor that he has said—I’m proud of the campaign that Bernie Sanders and I ran
+T55	Claim 5694 5740	We ran a campaign based on issues, not insults
+R53	Support Arg1:T54 Arg2:T55	
+R54	Attack Arg1:T55 Arg2:T53	
+T56	Claim 6092 6116	We have a divided nation
+T57	Claim 6118 6147	We have a very divided nation
+T58	Premise 6149 6170	You look at Charlotte
+T59	Premise 6172 6193	You look at Baltimore
+T60	Premise 6195 6376	You look at the violence that’s taking place in the inner cities, Chicago, you take a look at Washington, D.C.We have a increase in murder within our cities, the biggest in 45 years
+T61	Claim 6378 6402	We have a divided nation
+T62	Claim 6404 6480	because people like her—and believe me, she has tremendous hate in her heart
+T63	Claim 6486 6525	when she said deplorables, she meant it
+T64	Claim 6532 6683	hen she said irredeemable, they’re irredeemable, you didn’t mention that, but when she said they’re irredeemable, to me that might have been even worse
+R55	Support Arg1:T57 Arg2:T56	
+R56	Support Arg1:T58 Arg2:T59	
+R57	Support Arg1:T59 Arg2:T60	
+R58	Support Arg1:T60 Arg2:T61	
+R59	Support Arg1:T56 Arg2:T61	
+R60	Support Arg1:T62 Arg2:T61	
+R61	Support Arg1:T63 Arg2:T62	
+R62	Support Arg1:T64 Arg2:T62	
+R63	Support Arg1:T260 Arg2:T64	
+R64	Attack Arg1:T61 Arg2:T259	
+R65	Support Arg1:T259 Arg2:T258	
+R66	Support Arg1:T278 Arg2:T277	
+R67	Support Arg1:T280 Arg2:T279	
+R68	Support Arg1:T281 Arg2:T279	
+T65	Claim 9393 9590	it’s not just because I worked with George W. Bush after 9/11, and I was very proud that when I told him what the city needed, what we needed to recover, he said you’ve got it, and he never wavered
+R69	Support Arg1:T279 Arg2:T65	
+T66	Claim 9592 9655	He stuck with me.And I have worked and I admire President Obama
+R70	Support Arg1:T65 Arg2:T66	
+T67	Premise 9657 9723	He inherited the worst financial crisis since the Great Depression
+T68	Premise 9725 9765	That was a terrible time for our country
+R71	Support Arg1:T68 Arg2:T67	
+R72	Support Arg1:T67 Arg2:T66	
+R73	Support Arg1:T286 Arg2:T68	
+R74	Support Arg1:T285 Arg2:T68	
+R75	Support Arg1:T284 Arg2:T68	
+R76	Attack Arg1:T283 Arg2:T282	
+T69	Premise 10273 10310	We have the slowest growth since 1929
+T70	Claim 10383 10441	our country has the slowest growth and jobs are a disaster
+R77	Support Arg1:T69 Arg2:T70	
+R78	Attack Arg1:T70 Arg2:T282	

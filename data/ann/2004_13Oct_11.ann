@@ -1,0 +1,83 @@
+T711	Claim 205 270	our National Guard and Reserve forces are being severely strained
+T712	Premise 279 331	many of them are being held beyond their enlistments
+T713	Premise 134 178	President Bush said he did not favor a draft
+T714	Claim 180 199	You agreed with him
+T715	Claim 333 377	Some of them say that it's a back-door draft
+T716	Premise 380 465	Is there any relief that could be offered to these brave Americans and their families
+T717	Premise 508 674	what would you do about this situation of holding National Guard and Reservists for these extended periods of time and these repeated call-ups that they're now facing
+T719	Claim 2153 2256	I believe the president broke faith with the American people in the way that he took this nation to war
+T720	Claim 1018 1046	Our military is overextended
+T721	Premise 1048 1151	Nine out of 10 active-duty Army divisions are either in Iraq, going to Iraq or have come back from Iraq
+T722	Claim 1337 1491	I'm going to double the number of Special Forces so that we can fight a more effective war on terror, with less pressure on the National Guard and Reserve
+T723	Claim 1763 1955	the most important thing to relieve the pressure on all of the armed forces is frankly to run a foreign policy that recognizes that America is strongest when we are working with real alliances
+T724	Claim 1957 2113	when we are sharing the burdens of the world by working through our statesmanship at the highest levels and our diplomacy to bring other nations to our side
+T725	Claim 1207 1321	I've proposed adding two active-duty divisions to the armed forces of the United States -- one combat, one support
+T726	Premise 1497 1606	what I would like to do is see the National Guard and Reserve be deployed differently here in our own country
+T727	Premise 1608 1674	There's much we can do with them with respect to homeland security
+T728	Premise 2258 2303	He said he would work through a real alliance
+T729	Premise 2305 2382	He said in Cincinnati we would plan carefully, we would take every precaution
+T730	Claim 2390 2399	we didn't
+T731	Claim 2405 2452	the result is our forces today are overextended
+T732	Premise 2472 2519	he did not choose to go to war as a last result
+T733	Claim 2525 2633	America now is paying, already $120 billion, up to $200 billion before we're finished and much more probably
+T734	Claim 2639 2713	that is the result of this president taking his eye off of Osama bin Laden
+T735	Claim 2750 2820	The best way to take the pressure off our troops is to succeed in Iraq
+T736	Claim 2822 2882	is to train Iraqis so they can do the hard work of democracy
+T737	Claim 2884 2932	is to give them a chance to defend their country
+T738	Premise 2934 2969	which is precisely what we're doing
+T739	Claim 3659 3680	I'll work with allies
+T740	Claim 3682 3704	I'll work with friends
+T741	Claim 3706 3747	We'll continue to build strong coalitions
+T742	Claim 3753 3838	I will never turn over our national- security decisions to leaders of other countries
+T743	Claim 3841 3934	We'll be resolute, we'll be strong, and we'll wage a comprehensive war against the terrorists
+T744	Premise 3399 3451	My opponent, the senator, talks about foreign policy
+T745	Premise 3514 3583	In order to defend ourselves, we'd have to get international approval
+T746	Premise 3454 3512	In our first debate he proposed America pass a global test
+T747	Claim 4076 4146	I will never turn the security of the United States over to any nation
+T748	Claim 3966 4041	I have never suggested a test where we turn over our security to any nation
+T749	Premise 4148 4187	No nation will ever have a veto over us
+T750	Claim 4217 4306	I think most Americans in their guts know, that we ought to pass a sort of truth standard
+T751	Claim 4193 4215	I think it makes sense
+T752	Premise 4308 4366	That's how you gain legitimacy with your own countrypeople
+T753	Premise 4372 4415	that's how you gain legitimacy in the world
+T754	Claim 4422 4477	I'll never fail to protect the United States of America
+T755	Premise 4487 4571	In 1990, there was a vast coalition put together to run Saddam Hussein out of Kuwait
+T756	Premise 4735 4777	my opponent voted against the use of force
+T757	Premise 4573 4660	The international community, the international world said this is the right thing to do
+T758	Premise 4666 4733	when it came time to authorize the use of force on the Senate floor
+T759	Claim 4779 4843	Apparently you can't pass any test under his vision of the world
+R1	Support Arg1:T721 Arg2:T720	
+R2	Support Arg1:T720 Arg2:T725	
+R3	Support Arg1:T726 Arg2:T722	
+R4	Support Arg1:T724 Arg2:T723	
+R5	Support Arg1:T728 Arg2:T719	
+R6	Support Arg1:T729 Arg2:T719	
+R7	Support Arg1:T730 Arg2:T719	
+R8	Support Arg1:T731 Arg2:T719	
+R9	Support Arg1:T732 Arg2:T731	
+R10	Support Arg1:T733 Arg2:T719	
+R11	Support Arg1:T734 Arg2:T719	
+R12	Attack Arg1:T735 Arg2:T723	
+R13	Support Arg1:T736 Arg2:T735	
+R14	Support Arg1:T737 Arg2:T735	
+R15	Support Arg1:T738 Arg2:T735	
+T1	Premise 2971 3028	We'll have 125,000 troops trained by the end of this year
+R16	Support Arg1:T1 Arg2:T737	
+R17	Support Arg1:T746 Arg2:T745	
+R18	Support Arg1:T744 Arg2:T745	
+R19	Attack Arg1:T742 Arg2:T745	
+R20	Support Arg1:T740 Arg2:T741	
+R21	Support Arg1:T739 Arg2:T741	
+R22	Attack Arg1:T741 Arg2:T742	
+R23	Support Arg1:T743 Arg2:T742	
+R24	Attack Arg1:T748 Arg2:T746	
+R25	Attack Arg1:T747 Arg2:T745	
+R26	Support Arg1:T749 Arg2:T747	
+R27	Support Arg1:T752 Arg2:T750	
+R28	Support Arg1:T753 Arg2:T750	
+R29	Support Arg1:T750 Arg2:T754	
+R30	Attack Arg1:T759 Arg2:T750	
+R31	Support Arg1:T755 Arg2:T757	
+R32	Support Arg1:T757 Arg2:T758	
+R33	Support Arg1:T758 Arg2:T756	
+R34	Support Arg1:T756 Arg2:T759	

@@ -1,0 +1,75 @@
+T40	Claim 291 367	That presumably would cost the Treasury quite a bit of money in lost revenue
+T41	Premise 172 289	You have said that you favor more tax cuts for middle-income Americans - even those earning up to $30 thousand a year
+T42	Claim 1601 1697	I think we can - with the help of the Congress, we can justify fully a $28 billion tax reduction
+T43	Premise 1555 1593	if we keep the lid on federal spending
+T46	Claim 571 741	At the time, Mr. Gannon, that I made the recommendation for a $28 billion tax cut - three-quarters of it to go to individual taxpayers and 25 percent to American business
+T47	Premise 743 937	I said at the time that we had to hold the lid an federal spending, that for every dollar of a tax reduction we had to have an equal reduction in federal expenditures - a one-for-one proposition
+T48	Premise 943 1118	I recommended that to the Congress with a budget ceiling of three hundred and ninety-five billion dollars, and that would have permitted us to have a $25 billion tax reduction
+T49	Claim 1120 1320	In my tax reduction program for middle-income taxpayers, I recommended that the Congress increase personal exemptions from seven hundred and fifty dollars per person to one thousand dollars per person
+T50	Premise 1322 1549	That would mean, of course, that for a family of four that that family would have a thousand dollars more personal exemption - money that they could spend for their own purposes, money that the government wouldn't have to spend
+T51	Premise 1850 1950	For the last ten years the budget of the United States has grown from uh - about 11 percent per year
+T52	Premise 1952 2007	We can't afford that kind of growth in federal spending
+T53	Claim 1699 1848	In the budget that I submitted to the Congress in January this year, I re- recommended a 50 percent cutback in the rate of growth of federal spending
+T54	Premise 2013 2110	in the budget that I recommended we cut it in half - a growth rate of 5 to 5 and one-half percent
+T57	Claim 3080 3109	Congress could have done that
+T58	Premise 3110 3244	if the budget committees of the Congress, and the Congress as a whole, had not increased the spending that I recommended in the budget
+T59	Premise 3246 3419	I'm sure that you know that in the resolutions passed by the Congress, that have added about $17 billion in more spending, by the Congress over the budget that I recommended
+T60	Claim 2808 2876	That tax bill does not entirely meet the criteria that I established
+T61	Premise 2886 3074	the Congress should have uh - added another $10 billion reduction in personal income taxes, including the increase of personal exemptions from seven hundred and fifty to a thousand dollars
+T62	Claim 3928 4052	from the a- analysis that I've made so far, it seems to me that that tax bill does uh - justify my signature and my approval
+T63	Claim 3424 3530	I would prefer in that tax bill to have an additional tax cut and a further limitation on federal spending
+T64	Premise 3536 3659	this tax bill - that hasn't reached the White House yet, but is expected in a day or two - it's about fifteen hundred pages
+T65	Premise 3661 3694	It has some good provisions in it
+T66	Premise 3696 3760	It has - uh left out some that I have recommended, unfortunately
+T67	Premise 3762 3922	On the other hand, uh when you have a bill of that magnitude, with - tho- those many provisions, a president has to sit and decide if there's more good than bad
+T68	Claim 4180 4235	The present tax structure is a disgrace to this country
+T69	Claim 4237 4277	it's just a welfare program for the rich
+T70	Premise 4305 4404	25 percent of the total tax deductions, go for only 1 percent of the richest people in this country
+T71	Premise 4410 4507	over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country
+T73	Premise 4509 4778	When Mr. Ford first became president in - in August of 1974, the first thing he did in - in October was to ask for a $4.7 billion increase in taxes on our people in the midst of the heaviest recession, since uh - since the great depression of nineteen uh - of the 1940s
+T74	Premise 4780 4987	In uh - January of 1975 he asked for a tax change: a $5.6 billion increase on low-and-middle-income private individuals, a six and a half billion dollar decrease on the corporations and the special interests
+T75	Premise 4989 5123	In uh - December of uh - 1975 he vetoed the roughly 18 to 20 billion dollar uh tax-reduction bill that had been passed by the Congress
+T76	Premise 5129 5373	then he came back later on in January of this year and he did advocate a $10 billion tax reduction, but it would be offset by a $6 billion increase this coming January in deductions for Social Security payments and for unemployment compensation
+T77	Claim 5375 5531	The whole philosophy of the Republican party, including uh - my opponent, has been to pile on taxes on low-income people to take 'em off on the corporations
+T72	Claim 4110 4178	Mr. Ford is - is uh changing uh considerably his previous philosophy
+T78	Premise 5533 5730	As a matter fact, in - sin- since the late sixties when Mr. Nixon took office, we've had a reduction in uh - in the percentage of taxes paid by corporations from 30 percent down to about 20 percent
+T79	Premise 5732 5830	We've had an increase in taxes paid by individuals, payroll taxes, from14 Percent up to 20 percent
+T80	Premise 5836 5880	this is what the Republicans have done to us
+T81	Claim 5886 5926	this is why a tax reform is so important
+R1	Support Arg1:T43 Arg2:T42	
+R2	Attack Arg1:T42 Arg2:T40	
+R3	Support Arg1:T50 Arg2:T49	
+R4	Support Arg1:T47 Arg2:T43	
+R5	Support Arg1:T48 Arg2:T47	
+R6	Support Arg1:T52 Arg2:T53	
+R7	Support Arg1:T51 Arg2:T52	
+R8	Support Arg1:T52 Arg2:T54	
+R9	Support Arg1:T61 Arg2:T60	
+R10	Support Arg1:T69 Arg2:T68	
+R11	Support Arg1:T70 Arg2:T69	
+R12	Support Arg1:T71 Arg2:T69	
+R13	Support Arg1:T73 Arg2:T72	
+R14	Support Arg1:T74 Arg2:T72	
+R15	Support Arg1:T75 Arg2:T72	
+R16	Support Arg1:T77 Arg2:T69	
+R17	Support Arg1:T78 Arg2:T77	
+R18	Support Arg1:T79 Arg2:T77	
+T1	Claim 2112 2223	With that kind of limitation, on federal spending, we can fully justify the tax reductions that I have proposed
+R20	Support Arg1:T1 Arg2:T54	
+T2	Premise 2229 2494	it seems to me with the stimulant of more money in the hands of the taxpayers, and with more money in the hands of business to expand, to modernize, to provide more jobs, our economy stimulated so that we'll get more revenue and we'll have a more prosperous economy
+R21	Support Arg1:T2 Arg2:T49	
+R22	Support Arg1:T76 Arg2:T72	
+R23	Support Arg1:T59 Arg2:T60	
+R24	Support Arg1:T59 Arg2:T63	
+R25	Support Arg1:T66 Arg2:T60	
+R26	Support Arg1:T65 Arg2:T62	
+R27	Support Arg1:T58 Arg2:T57	
+R28	Support Arg1:T47 Arg2:T46	
+R29	Support Arg1:T46 Arg2:T42	
+R30	Support Arg1:T49 Arg2:T42	
+R31	Attack Arg1:T67 Arg2:T60	
+R32	Support Arg1:T67 Arg2:T62	
+R33	Attack Arg1:T72 Arg2:T62	
+R34	Support Arg1:T77 Arg2:T72	
+R19	Support Arg1:T80 Arg2:T77	
+R35	Support Arg1:T68 Arg2:T81	

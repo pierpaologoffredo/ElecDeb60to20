@@ -1,0 +1,74 @@
+T222	Premise 218 332	you call for expanding some of the welfare programs for schools, for teacher salaries, medical care, and so forth;
+T223	Premise 337 381	you also call for reducing the federal debt.
+T225	Premise 539 583	I did not advocate reducing the federal debt
+T226	Claim 592 711	I don't believe that you're going to be able to reduce the federal debt very much in nineteen sixty-one, two, or three.
+T227	Claim 712 773	I think you have heavy obligations which affect our security,
+T228	Premise 780 808	we're going to have to meet.
+T229	Premise 823 945	I've never suggested we should uh - be able to retire the debt substantially, or even at all in nineteen sixty-one or two.
+T230	Claim 1227 1364	In my judgment, the hard money, tight money policy, fiscal policy of this Administration has contributed to the slow-down in our economy,
+T231	Premise 1365 1412	which helped bring the recession of fifty-four;
+T232	Premise 1413 1468	which made the recession of fifty-eight rather intense,
+T233	Premise 1473 1531	which has slowed, somewhat, our economic activity in 1960.
+T234	Claim 1567 1652	the kind of programs that I've talked about, in my judgment, are uh - fiscally sound.
+T235	Premise 1653 1714	Medical care for the aged, I would put under social security.
+T236	Claim 1715 1757	The Vice President and I disagree on this.
+T237	Claim 2209 2283	I support federal aid to education and federal aid for teachers' salaries.
+T238	Premise 1958 2105	The program which I advocated, which failed by five votes in the United States Senate, would have put medical care for the aged in Social Security,
+T240	Premise 2110 2198	would have been paid for through the Social Security System and the Social Security tax.
+T239	Premise 1758 1957	The program - the Javits-Nixon or the Nixon- Javits program - would have cost, if fully used uh - six hundred million dollars by the government per year, and six hundred million dollars by the state.
+T241	Claim 2284 2317	I think that's a good investment.
+T242	Claim 2318 2355	I think we're going to have to do it.
+T243	Claim 2360 2632	I think to heap the burden further on the property tax, which is already strained in many of our communities, will provide, will make sh- insure, in my opinion, that many of our children will not be adequately educated, and many of our teachers not adequately compensated.
+T244	Premise 2633 2732	There is no greater return to an economy or to a society than an educational system second to none.
+T245	Premise 2733 2852	On the question of the development of natural resources, I would pay as you go in the sense that they would be balanced
+T246	Premise 2857 2975	the power revenues would bring back sufficient money to finance the projects, in the same way as the Tennessee Valley.
+T247	Claim 2976 3009	I believe in the balanced budget.
+T248	Premise 3014 3147	the only conditions under which I would unbalance the budget would be if there was a grave national emergency or a serious recession.
+T249	Premise 3203 3351	Mr. Nixon and Mr. Rockefeller, in their meeting, said a five per cent economic growth would bring by 1962 ten billion dollars extra in tax revenues.
+T250	Claim 3376 3448	I think that we can finance essential programs within a balanced budget,
+T251	Premise 3449 3477	if business remains orderly.
+T252	Claim 3522 3605	I think what Mr. Novins was referring to was not one of Senator Kennedy's speeches,
+T253	Claim 3610 3679	the Democratic platform, which did mention cutting the national debt.
+T256	Claim 3900 3936	it will be necessary to raise taxes.
+T257	Premise 3937 4105	As Senator Kennedy points out that as far as his one proposal is concerned - the one for medical care for the aged - that that would be financed out of Social Security.
+T255	Claim 4106 4172	That, however, is raising taxes for those who pay Social Security.
+T258	Premise 4173 4271	He points out that he would make pay-as-you-go be the basis for our natural resources development.
+T259	Claim 4278 4335	our natural resources development - which I also support,
+T260	Claim 4536 4622	it doesn't mean that you - the government doesn't have to put out the money this year.
+T261	Premise 4360 4535	whenever you uh - uh - in - in - uh - appropriates money for one of these projects, you have to pay now and appropriate the money and the eh- while they eventually do pay out,
+T262	Claim 4745 4766	he has to raise taxes
+T263	Claim 4770 4801	he has to unbalance the budget.
+T264	Premise 4842 4861	you have inflation,
+T265	Claim 4980 5045	As far as aid for school construction is concerned, I favor that,
+T266	Claim 5185 5233	I believe that's the best way to aid our schools
+T267	Premise 5234 5329	without running any risk whatever of the federal government telling our teachers what to teach.
+R1	Support Arg1:T229 Arg2:T227	
+R2	Support Arg1:T227 Arg2:T226	
+R4	Attack Arg1:T225 Arg2:T223	
+R5	Support Arg1:T235 Arg2:T234	
+R6	Support Arg1:T240 Arg2:T234	
+R8	Support Arg1:T238 Arg2:T236	
+R9	Support Arg1:T239 Arg2:T236	
+R10	Equivalent Arg1:T240 Arg2:T238	
+R7	Support Arg1:T242 Arg2:T241	
+R11	Support Arg1:T237 Arg2:T234	
+R12	Support Arg1:T231 Arg2:T230	
+R13	Support Arg1:T232 Arg2:T230	
+R14	Support Arg1:T233 Arg2:T230	
+R15	Support Arg1:T244 Arg2:T243	
+R16	Support Arg1:T248 Arg2:T247	
+R17	Support Arg1:T250 Arg2:T247	
+R18	Equivalent Arg1:T253 Arg2:T252	
+R19	Support Arg1:T252 Arg2:T225	
+R20	Support Arg1:T255 Arg2:T256	
+R21	Attack Arg1:T262 Arg2:T234	
+R22	Attack Arg1:T263 Arg2:T250	
+R24	Support Arg1:T260 Arg2:T263	
+R25	Support Arg1:T266 Arg2:T265	
+R26	Support Arg1:T267 Arg2:T266	
+R27	Support Arg1:T261 Arg2:T260	
+R28	Attack Arg1:T261 Arg2:T246	
+T1	Claim 3680 3878	I think, too, that it should be pointed out that of course it is not possible, particularly under the proposals that Senator Kennedy has advocated, either to cut the national debt or to reduce taxes
+R3	Support Arg1:T225 Arg2:T226	
+R29	Attack Arg1:T257 Arg2:T255	
+*	Equivalent T256 T262

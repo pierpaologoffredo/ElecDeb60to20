@@ -1,0 +1,107 @@
+T311	Claim 1450 1517	we have an adversarial relationship between government and business
+T312	Claim 1519 1672	Our international competitors that are cleaning our plate have an intelligent relationship between government and business, and a supportive relationship
+T313	Claim 446 573	the American people send me up there, the day after election, I'll get with congressional--we won't even wait till inauguration
+T314	Claim 652 765	we will start putting together teams to put together--to take all the plans that exist and do something with them
+T315	Premise 786 854	There are great plans lying all over Washington nobody ever executes
+T316	Premise 856 912	It's like having a blueprint for a house you never built
+T317	Claim 952 1013	our challenge is to take these things, do something with them
+T318	Claim 1025 1060	we want to put America back to work
+T320	Claim 1259 1312	Have a 3rd task force on new industries of the future
+T321	Premise 1399 1443	Convert from 19th to 21st century capitalism
+T322	Premise 1721 1778	next to jobs, our people are concerned about their safety
+T323	Claim 1780 1829	Health care, schools--one on the debt and deficit
+T324	Premise 1843 1984	in that 90- day period before the inauguration, put together the framework for the town hall and give the American people a Christmas present
+T325	Premise 1986 2037	Show them by Christmas the first cut at these plans
+T326	Premise 2039 2143	By the time Congress comes into session to go to work, have those plans ready to go in front of Congress
+T327	Claim 2150 2205	get off to a flying start in '93 to execute these plans
+T328	Claim 2407 2439	my orientation is let's go do it
+T329	Premise 2446 2482	put together your plans by Christmas
+T330	Claim 2538 2580	Small business--you've got to have capital
+T331	Claim 2608 2644	many of them need mentors or coaches
+T332	Claim 2650 2711	we can create more jobs there in a hurry than any other place
+T333	Claim 2762 2807	This country desperately needs a jobs program
+T334	Claim 2813 2862	my first priority would be to pass a jobs program
+T335	Premise 2916 3146	I would meet with the leaders of the Congress, with all the newly elected members of the Congress and as many others with whom I could meet between the time of the election and the inauguration, and we would present a jobs program
+T336	Premise 3148 3257	Then we would present a plan to control health care costs and phase in health care coverage for all Americans
+T337	Claim 3259 3333	Until we control health care costs, we're not going to control the deficit
+T338	Claim 3335 3363	It is the number one culprit
+T339	Claim 3369 3414	first we must have an aggressive jobs program
+T340	Premise 3416 3514	I live in a state where manufacturing job growth has far outpaced the nation in the last few years
+T341	Premise 3516 3653	where we have created more private sector jobs since Mr. Bush has been president than have been created in the entire rest of the country
+T342	Premise 3655 3721	where Mr. Bush's labor secretary said job growth has been enormous
+T343	Premise 3723 3748	We've done it in Arkansas
+T344	Claim 3808 3820	We can do it
+T345	Claim 3961 4030	I've already put forward things that'll get this country working fast
+T346	Claim 4201 4535	What I'm going to do is say to Jim Baker when this campaign is over, all right, let's sit down now, you do in domestic affairs what you've done in foreign affairs, be kind of the economic coordinator of all the domestic side of the House, and that includes all the economic side, all the training side, and bring this program together
+T347	Claim 4537 4571	We're going to have a new Congress
+T348	Premise 4652 4719	Nobody wants gridlock anymore, and so let's get the program through
+T349	Claim 4725 4745	I believe it'll work
+T350	Premise 4769 4785	we got the plans
+T351	Premise 4787 4820	The plans are all over Washington
+T352	Premise 4826 4900	I've put ours together in something called the Agenda for American Renewal
+T353	Claim 4906 4920	it makes sense
+T354	Claim 4922 4935	it's sensible
+T355	Claim 4937 4952	it creates jobs
+T356	Claim 4954 5001	it gets to the base of the kind of jobs we need
+T357	Premise 5010 5069	I'll just be asking for support to get that put into effect
+T554	Claim 579 612	I'll ask the president to help me
+T555	Claim 617 646	I'll ask his staff to help me
+T613	Premise 914 946	You don't have anywhere to sleep
+T614	Claim 1062 1097	clean up the small business problem
+T615	Claim 1099 1134	have one task force at work on that
+T617	Premise 1316 1397	make sure we nail those for our country and they don't wind up in Europe and Asia
+T618	Claim 1679 1711	have another task force on crime
+T619	Premise 2484 2517	be ready to go when Congress goes
+T620	Premise 2519 2536	nail these things
+T621	Claim 2582 2602	you've got to credit
+T622	Claim 2864 2914	to introduce it on the first day I was inaugurated
+T623	Premise 4032 4075	some of which have been echoed here tonight
+T624	Premise 4077 4199	investment tax allowance, capital gains reduction, more on research and development, tax credit for first-time home buyers
+T625	Claim 4577 4650	we're going to say to them, you've listened to the voters the way we have
+R1	Support Arg1:T315 Arg2:T314	
+R2	Support Arg1:T316 Arg2:T315	
+R3	Support Arg1:T613 Arg2:T316	
+R5	Support Arg1:T615 Arg2:T614	
+R7	Support Arg1:T614 Arg2:T318	
+R8	Support Arg1:T617 Arg2:T320	
+R9	Support Arg1:T321 Arg2:T320	
+R10	Support Arg1:T322 Arg2:T618	
+R11	Support Arg1:T324 Arg2:T325	
+R12	Support Arg1:T326 Arg2:T327	
+R13	Support Arg1:T325 Arg2:T327	
+R14	Support Arg1:T329 Arg2:T328	
+R15	Support Arg1:T619 Arg2:T328	
+R16	Support Arg1:T620 Arg2:T328	
+R17	Equivalent Arg1:T329 Arg2:T325	
+R18	Equivalent Arg1:T619 Arg2:T326	
+R19	Support Arg1:T621 Arg2:T330	
+R20	Support Arg1:T331 Arg2:T330	
+R21	Support Arg1:T332 Arg2:T330	
+R22	Support Arg1:T333 Arg2:T334	
+R23	Support Arg1:T622 Arg2:T334	
+R24	Support Arg1:T335 Arg2:T334	
+R26	Support Arg1:T336 Arg2:T337	
+R27	Support Arg1:T337 Arg2:T338	
+R28	Equivalent Arg1:T339 Arg2:T334	
+R30	Support Arg1:T341 Arg2:T340	
+R31	Support Arg1:T342 Arg2:T340	
+R32	Support Arg1:T340 Arg2:T343	
+R33	Support Arg1:T343 Arg2:T344	
+R35	Support Arg1:T334 Arg2:T344	
+R36	Support Arg1:T623 Arg2:T345	
+R37	Support Arg1:T624 Arg2:T623	
+R38	Support Arg1:T625 Arg2:T347	
+R39	Support Arg1:T348 Arg2:T349	
+R40	Support Arg1:T350 Arg2:T349	
+R41	Support Arg1:T351 Arg2:T350	
+R42	Support Arg1:T352 Arg2:T350	
+R43	Support Arg1:T353 Arg2:T352	
+R44	Support Arg1:T354 Arg2:T352	
+R45	Support Arg1:T356 Arg2:T352	
+R46	Support Arg1:T352 Arg2:T357	
+T1	Premise 1148 1257	you've got your big companies that are in trouble, including the defense industries--have another one on that
+R4	Support Arg1:T320 Arg2:T311	
+R6	Support Arg1:T312 Arg2:T311	
+T2	Claim 3893 3959	We've got the plan announced for what we can do for small business
+R25	Support Arg1:T346 Arg2:T345	
+R29	Support Arg1:T348 Arg2:T347	

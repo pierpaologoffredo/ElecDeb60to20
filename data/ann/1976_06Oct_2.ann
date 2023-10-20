@@ -1,0 +1,85 @@
+T39	Claim 706 763	I don't believe we should move to a cold-war relationship
+T40	Claim 765 948	I think it's in the best interest of the United States, and the world as a whole that the United States negotiate rather than go back to the cold-war relationship with the Soviet Unio
+T42	Claim 1049 1138	I believe that the United States ha- had many successes in recent years, in recent months
+T43	Premise 1187 1222	We have been successful in Portugal
+T46	Premise 1363 1400	We have a democracy in Portugal today
+T47	Claim 1442 1538	maybe two years ago, the Soviet Union looked like they had continued strength in the Middle East
+T49	Claim 3082 3147	I think that would destroy the integrity and the strength of NATO
+T50	Claim 3153 3179	I am totally opposed to it
+T51	Premise 2994 3080	Mr. Carter has indicated he would look with sympathy to a Communist government in NATO
+T52	Claim 2865 2992	I don't believe that it's in the best interest of the United States and the NATO nations to have a Communist government in NATO
+T53	Claim 2692 2785	I believe that instead of talking about Soviet progress, we can talk about American successes
+T54	Claim 2591 2686	The United States foreign policy under this administration has been one of progress and success
+T55	Claim 2524 2589	The United States is trusted by other elements in southern Africa
+T56	Claim 2420 2522	in southern Africa today the United States is trusted by the black front-line nations and black Africa
+T57	Premise 2330 2384	We wanted to preserve human dignity in southern Africa
+T58	Premise 2242 2328	We wanted to have majority rule with the full protection of the rights of the minority
+T59	Premise 2172 2240	We wanted to have the right of self-determination in southern Africa
+T60	Premise 2121 2170	We wanted to end the bloodshed in southern Africa
+T61	Claim 2052 2119	The United States of America took the initiative in southern Africa
+T63	Premise 1757 1820	The Soviet Union relationship with Syria is at a very low point
+T64	Premise 1692 1755	the Soviet Union relationship with Egypt is uh - at a low level
+T66	Claim 3264 3319	I have never advocated a Communist government for Italy
+T67	Premise 3321 3423	That would obviously be a ridiculous thing for anyone to do who wanted to be president of this country
+T68	Claim 3425 3550	I think that this is uh - an instance of uh - deliberate distortion, and this has occurred also in the question about defense
+T69	Claim 3578 3643	I've never advocated any cut of $15 billion in our defense budget
+T70	Claim 3666 3730	Mr. Ford has made a political football out of the defense budget
+T71	Premise 3732 3807	About a year ago he cut the Pentagon budget six point eight billion dollars
+T72	Claim 4785 4822	we have weakened our position in NATO
+T74	Premise 4932 5023	we stuck to the Portugal dictatorships much longer than other democracies did in this world
+T75	Premise 4464 4603	we went into south Africa late, after Great Britain, Rhodesia, the black nations had been trying to solve this problem for many, many years
+T76	Premise 3912 4021	When Ronald Reagan won the Texas primary election, Mr. Ford added back another one and a half billion dollars
+T77	Premise 4023 4145	Immediately before the Kansas City convention, he added back another one point eight billion dollars in the defense budget
+T78	Premise 3809 3910	After he fired James Schlesinger, the political heat got so great that he added back about $3 billion
+T79	Premise 4151 4326	his own uh - Office of Management and Budget testified that he had a $3 billion cut insurance added to the defense budget - defense budget under the pressure from the Pentagon
+T80	Claim 4339 4424	this is another indication of trying to use the defense budget for political purposes
+T1	Premise 4831 4930	the other countries in Europe supported the democ- democratic forces in Portugal long before we did
+T2	Claim 3196 3262	Mr. Ford, unfortunately, has just made a statement that's not true
+T3	Claim 1822 1958	The United States today, according to Prime Minister Rabin of Israel, is a- at a peak in its uh - influence and power in the Middle East
+T4	Premise 1540 1667	Today, according to Prime Minister Rabin, the Soviet Union is weaker in the Middle East than they have been in many, many years
+R3	Support Arg1:T40 Arg2:T39	
+R4	Support Arg1:T43 Arg2:T42	
+R8	Attack Arg1:T4 Arg2:T47	
+R9	Attack Arg1:T64 Arg2:T47	
+R10	Attack Arg1:T63 Arg2:T47	
+R12	Support Arg1:T64 Arg2:T4	
+R13	Support Arg1:T63 Arg2:T4	
+R11	Attack Arg1:T3 Arg2:T47	
+R14	Support Arg1:T61 Arg2:T56	
+R15	Support Arg1:T56 Arg2:T55	
+R16	Support Arg1:T61 Arg2:T55	
+R17	Support Arg1:T60 Arg2:T61	
+R18	Support Arg1:T59 Arg2:T61	
+R19	Support Arg1:T58 Arg2:T61	
+R20	Support Arg1:T57 Arg2:T61	
+R21	Support Arg1:T55 Arg2:T54	
+R22	Support Arg1:T42 Arg2:T54	
+R23	Support Arg1:T3 Arg2:T54	
+R24	Attack Arg1:T53 Arg2:T47	
+R25	Support Arg1:T54 Arg2:T53	
+R26	Support Arg1:T49 Arg2:T52	
+R27	Support Arg1:T50 Arg2:T49	
+R28	Support Arg1:T50 Arg2:T52	
+R29	Attack Arg1:T52 Arg2:T51	
+R30	Attack Arg1:T2 Arg2:T51	
+R31	Support Arg1:T66 Arg2:T2	
+R32	Support Arg1:T67 Arg2:T66	
+R34	Support Arg1:T68 Arg2:T2	
+R35	Support Arg1:T69 Arg2:T68	
+R37	Support Arg1:T70 Arg2:T68	
+R45	Support Arg1:T1 Arg2:T72	
+R46	Support Arg1:T1 Arg2:T74	
+R47	Support Arg1:T74 Arg2:T72	
+R48	Support Arg1:T75 Arg2:T72	
+T5	Question 151 698	For a generation the United States has had a foreign policy based on containment of Communism. Yet we have lost the first war in Vietnam; we lost a shoving match in Angola. Uh - the Communists threatened to come to power by peaceful means in Italy and relations generally have cooled with the Soviet Union in the last few months. So le- let me ask you first, what do you do about such cases as Italy? And secondly, does this general drift mean that we're moving back toward something like an old cold - cold-war relationship with the Soviet Union?
+R2	Support Arg1:T46 Arg2:T43	
+T6	Premise 1224 1361	where a year ago it looked like there was a very great possibility that the uh - Communists would take over in Portugal. It didn't happen
+R1	Support Arg1:T6 Arg2:T43	
+R5	Support Arg1:T4 Arg2:T3	
+R6	Attack Arg1:T49 Arg2:T51	
+R7	Equivalent Arg1:T80 Arg2:T70	
+R33	Support Arg1:T71 Arg2:T70	
+R36	Support Arg1:T79 Arg2:T80	
+R38	Support Arg1:T78 Arg2:T70	
+R39	Support Arg1:T76 Arg2:T70	
+R40	Support Arg1:T77 Arg2:T80	

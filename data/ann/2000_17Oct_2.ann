@@ -1,0 +1,87 @@
+T59	Claim 515 631	I think one of the problems we have, particularly for seniors, is there is no prescription drug coverage in Medicare
+T60	Claim 796 875	I think step one to make sure prescription drugs is more affordable for seniors
+T61	Claim 881 1071	those are the folks who really rely upon prescription drugs a lot these days, is to reform the Medicare system, is to have prescription drugs as an integral part of Medicare once and for all
+T62	Claim 648 791	when they have to try to purchase drugs they do so on their own, there's no kind of collective bargaining, no power of purchasing among seniors
+T63	Claim 1851 1943	I think price controls would hurt our ability to continue important research and development
+T64	Claim 1823 1849	I'm against price controls
+T66	Claim 2407 2449	the best thing to do is to reform Medicare
+T67	Claim 1580 1680	I think it's important to have what's called Immediate Helping Hand, which is direct money to states
+T68	Claim 1689 1758	seniors, poor seniors, don't have to choose between food and medicine
+T69	Claim 1305 1561	I want to call upon Republicans and Democrats to forget all the arguing and finger pointing, and come together and take care of our seniors' prescription drug program, that says we'll pay for the poor seniors, we'll help all seniors with prescription drugs
+T70	Claim 1073 1213	The problem we have today is like the patient's bill of rights, particularly with health care, there's a lot of bickering in Washington, D.C
+T71	Premise 1215 1279	It's kind of like a political issue as opposed to a people issue
+T72	Premise 1760 1794	That's part of an overall overhaul
+T73	Claim 2016 2102	One of the most important things is to continue the research and development component
+T74	Claim 2385 2401	That makes sense
+T75	Claim 2196 2383	Allowing the new bill that was passed in the Congress made sense to allow for, you know, drugs that were sold overseas to come back and other countries to come back into the United States
+T76	Claim 2139 2194	Expediting drugs through the FDA makes sense, of course
+T77	Claim 3509 3632	I want to streamline the approval of the competing generic drugs and the new kinds of treatments that can compete with them
+T78	Claim 3636 3673	we bring the price down for everybody
+T79	Claim 4291 4352	if you pass the big drug companies' bill, nothing will happen
+T80	Claim 4235 4285	I'll bring new competition to bring the price down
+T81	Claim 4147 4229	If you have extraordinarily high cost, then they pay all over $4,000 out-of-pocket
+T82	Claim 4111 4145	If you're poor, they pay all of it
+T83	Claim 4011 4042	nobody can overrule your doctor
+T84	Premise 3957 4006	The doctor chooses the prescription that you need
+T85	Claim 2715 2731	this is your man
+T86	Premise 2543 2713	if you want someone who will spend a lot of words describing a whole convoluted process and then end up supporting legislation that is supported by the big drug companies
+T87	Claim 2981 3004	I want to fight for you
+T88	Premise 2733 2974	If you want someone who will fight for you and who will fight for the middle-class families and working men and women, who are sick and tired of having their parents and grandparents pay higher prices for prescription drugs than anybody else
+T89	Premise 3045 3066	it's not only seniors
+T90	Premise 3010 3036	you asked a great question
+T91	Claim 3076 3147	for 24 years I have never been afraid to take on the big drug companies
+T92	Claim 3210 3222	that's great
+T93	Premise 3149 3174	They do some great things
+T94	Premise 3176 3205	They discover great new cures
+T95	Claim 3224 3253	We want them to continue that
+T96	Claim 3462 3507	they can keep charging these very high prices
+T97	Premise 3392 3458	they are trying artificially extend the monopoly patent protection
+T98	Claim 3322 3343	You see all these ads
+T99	Premise 3259 3320	they are now spending more money on advertising and promotion
+T100	Premise 3345 3386	Than they are on research and development
+T101	Claim 3778 3851	I propose a real prescription drug benefit under Medicare for all seniors
+T102	Claim 3891 3955	You pick your own doctor, and nobody can take that away from you
+T103	Claim 4044 4109	You go to your own pharmacy and then Medicare pays half the price
+T1	Claim 2111 2137	I'm against price controls
+R1	Support Arg1:T62 Arg2:T59	
+R2	Attack Arg1:T60 Arg2:T62	
+R3	Support Arg1:T60 Arg2:T61	
+R4	Attack Arg1:T61 Arg2:T70	
+R5	Support Arg1:T71 Arg2:T70	
+R6	Attack Arg1:T69 Arg2:T70	
+R7	Support Arg1:T67 Arg2:T68	
+R8	Support Arg1:T72 Arg2:T67	
+R9	Support Arg1:T67 Arg2:T69	
+R10	Support Arg1:T63 Arg2:T64	
+T2	Premise 1945 2014	Drug therapies are replacing a lot of medicines as we used to know it
+R11	Support Arg1:T2 Arg2:T63	
+R12	Support Arg1:T73 Arg2:T63	
+R13	Support Arg1:T1 Arg2:T64	
+R14	Support Arg1:T75 Arg2:T76	
+R15	Support Arg1:T74 Arg2:T76	
+R16	Support Arg1:T66 Arg2:T61	
+R17	Support Arg1:T86 Arg2:T85	
+R18	Attack Arg1:T85 Arg2:T66	
+R19	Support Arg1:T88 Arg2:T87	
+R20	Attack Arg1:T87 Arg2:T85	
+R21	Support Arg1:T93 Arg2:T92	
+R22	Support Arg1:T94 Arg2:T92	
+R23	Support Arg1:T92 Arg2:T95	
+R24	Support Arg1:T99 Arg2:T98	
+R25	Attack Arg1:T98 Arg2:T100	
+R26	Support Arg1:T97 Arg2:T96	
+R27	Support Arg1:T77 Arg2:T78	
+R28	Support Arg1:T78 Arg2:T96	
+R29	Support Arg1:T89 Arg2:T91	
+R30	Support Arg1:T90 Arg2:T89	
+R31	Attack Arg1:T99 Arg2:T95	
+R32	Support Arg1:T91 Arg2:T78	
+R33	Support Arg1:T102 Arg2:T84	
+R34	Support Arg1:T84 Arg2:T83	
+R35	Support Arg1:T83 Arg2:T101	
+R36	Support Arg1:T103 Arg2:T82	
+R37	Support Arg1:T103 Arg2:T81	
+R38	Attack Arg1:T80 Arg2:T79	
+R39	Support Arg1:T81 Arg2:T101	
+R40	Support Arg1:T82 Arg2:T101	
+R41	Support Arg1:T80 Arg2:T101	

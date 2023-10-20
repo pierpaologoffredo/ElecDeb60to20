@@ -1,0 +1,111 @@
+T259	Premise 701 765	always in the past we've had an ability to have a strong defense
+T260	Premise 770 820	also have - to have a strong uh - domestic economy
+T261	Premise 826 907	also to be strong in our reputation and influence within the community of nations
+T262	Claim 909 986	These uh - characteristics of our country have been endangered under Mr. Ford
+T263	Premise 1014 1164	in a showdown vote in the United Nations or in - in any other international council we're lucky to get 20 percent of the other nations to vote with us
+T264	Claim 1166 1207	Our allies feel that we've neglected them
+T265	Premise 1313 1510	we've also had an inclination to keep separate the European countries, thinking that if they are separate, then we can dominate them and proceed with our secret, Lone Ranger-type diplomatic efforts
+T266	Claim 1553 1612	we, in this country, have let our economy go down the drain
+T267	Claim 1614 1660	The worst inflation since the Great Depression
+T268	Claim 1662 1723	The highest unemployment of any developed nation of the world
+T269	Claim 1725 1812	We have a higher unemployment rate in this country than Great Britain, and West Germany
+T270	Claim 1814 1870	Our unemployment rate is twice as high as it is in Italy
+T271	Claim 1872 1933	it's three or four times as high as it is - as it is in Japan
+T272	Premise 1939 2002	that terrible circumstance in this country is exported overseas
+T273	Premise 2004 2078	We comprise about 30 percent of the world's economic trade power influence
+T274	Premise 2084 2181	when we're weak at home - weaker than all our allies - that weakness weakens the whole free world
+T275	Claim 2183 2218	So strong economy is very important
+T276	Claim 2239 2376	we need to do is to reestablish the good relationships that we ought to have between the United States and our natural allies and friends
+T277	Premise 2378 2402	They have felt neglected
+T278	Claim 2664 2757	Under this administration we've had a continuation of the so-called balance of power politics
+T279	Premise 2759 2860	where everything is looked on as a struggle between us on the one side, the Soviet Union on the other
+T280	Claim 2928 3007	we need is to try to seek individualized bilateral relationships with countries
+T281	Premise 3091 3133	we want to preserve peace through strength
+T282	Claim 3283 3380	I can guarantee it will not come if Gerald Ford is reelected and this present policy is continued
+T283	Claim 3382 3409	it will come if I'm elected
+T284	Premise 3854 3979	under President Johnson, in spite of the massive investment in the Vietnam War, he turned over a balanced budget to Mr. Nixon
+T285	Claim 3981 4026	The unemployment rate was less than 4 percent
+T286	Claim 4028 4092	The inflation rate under Kennedy and Johnson was about 2 percent
+T287	Claim 4095 4141	one-third what it is under this administration
+T288	Claim 4146 4215	we did have at that time with good management, the ability to do both
+T289	Claim 4217 4356	I don't think that anybody can say that Johnson and Kennedy neglected the poor and the destitute people in this country or around the world
+T290	Claim 4378 4651	The number one responsibility of any president, above all else, is to guarantee the security of our nation - an ability to be free of the threat of attack, or blackmail and to carry out our obligations to our allies and friends, and to carry out a legitimate foreign policy
+T291	Claim 4653 4733	They must go hand in hand, but the security of this nation has got to come first
+T292	Claim 4800 4925	you cannot maintain the security of the United States with the kind of defense budget cuts that Governor Carter has indicated
+T293	Premise 4927 4974	In 1975 he wanted to cut the budget $15 billion
+T294	Premise 4976 5034	He's now down to a figure of five to seven billion dollars
+T295	Claim 5036 5156	Reductions of that kind will not permit the United States to be strong enough to deter aggression and maintain the peace
+T296	Premise 5209 5399	As soon as I became president, I initiated a meeting with the NATO heads of state and met with them in Brussels to discuss how we could improve the re- defense relationship in Western Europe
+T297	Premise 5409 5598	November of 1975 I met with the leaders of the five industrial nations in France for the purpose of seeing what we could do acting together to meet the problems of uh - the coming recession
+T298	Premise 5600 5781	In Puerto Rico this year, I met with six of the leading industrial nations' heads of state to meet the problem of inflation so we would be able to solve it before it got out of hand
+T299	Premise 5783 5860	I have met with the heads of government bilaterally as well as multilaterally
+T300	Claim 5862 5909	Our relations with Japan have never been better
+T301	Claim 5911 5965	I was the first United States president to visit Japan
+T302	Premise 5971 6168	we uh - had the emperor of Japan here this uh - past year and the net result is Japan and the United States are working more closely together now than at any time in the history of our relationship
+T303	Claim 6251 6308	President Rabin said that our relations were never better
+T534	Premise 5158 5207	Governor Carter apparently doesn't know the facts
+R1	Support Arg1:T259 Arg2:T260	
+R2	Support Arg1:T260 Arg2:T261	
+R3	Attack Arg1:T261 Arg2:T262	
+R4	Attack Arg1:T260 Arg2:T262	
+R5	Attack Arg1:T259 Arg2:T262	
+R6	Support Arg1:T263 Arg2:T262	
+R7	Support Arg1:T263 Arg2:T264	
+T1	Claim 1209 1285	The so-called Nixon shock against Japan had weakened our relationships there
+R8	Support Arg1:T264 Arg2:T1	
+R9	Support Arg1:T263 Arg2:T1	
+R10	Support Arg1:T265 Arg2:T264	
+R11	Support Arg1:T267 Arg2:T266	
+R12	Support Arg1:T268 Arg2:T266	
+R13	Support Arg1:T269 Arg2:T266	
+R14	Support Arg1:T269 Arg2:T270	
+R15	Support Arg1:T270 Arg2:T271	
+R16	Support Arg1:T270 Arg2:T266	
+R17	Support Arg1:T271 Arg2:T266	
+R18	Support Arg1:T272 Arg2:T266	
+R19	Support Arg1:T272 Arg2:T273	
+R20	Support Arg1:T273 Arg2:T274	
+R21	Support Arg1:T273 Arg2:T266	
+R22	Support Arg1:T274 Arg2:T266	
+R23	Support Arg1:T274 Arg2:T275	
+R24	Attack Arg1:T275 Arg2:T266	
+R25	Attack Arg1:T276 Arg2:T264	
+R26	Attack Arg1:T276 Arg2:T1	
+R27	Support Arg1:T277 Arg2:T276	
+T2	Premise 2408 2575	using that base of strength, and using the idealism, the honesty, the predictability, the commitment, the integrity of our own country, that's where our strength lies.
+T3	Claim 2592 2663	ermit us to deal with the developing nations in a position of strength.
+R28	Support Arg1:T2 Arg2:T3	
+R29	Support Arg1:T276 Arg2:T3	
+T4	Claim 2862 2921	Our allies - the smaller countries get trampled in the rush
+R30	Support Arg1:T279 Arg2:T278	
+R31	Support Arg1:T4 Arg2:T278	
+R32	Support Arg1:T281 Arg2:T280	
+R33	Support Arg1:T283 Arg2:T280	
+T5	Premise 3247 3277	I can't say when this can come
+R34	Attack Arg1:T5 Arg2:T280	
+R35	Support Arg1:T5 Arg2:T282	
+R36	Attack Arg1:T283 Arg2:T282	
+R37	Support Arg1:T284 Arg2:T285	
+R38	Support Arg1:T284 Arg2:T288	
+R39	Support Arg1:T285 Arg2:T288	
+R40	Attack Arg1:T286 Arg2:T287	
+R41	Support Arg1:T286 Arg2:T288	
+R42	Support Arg1:T288 Arg2:T289	
+R43	Support Arg1:T286 Arg2:T289	
+R44	Support Arg1:T290 Arg2:T291	
+R45	Support Arg1:T289 Arg2:T290	
+R46	Attack Arg1:T292 Arg2:T290	
+R47	Support Arg1:T293 Arg2:T292	
+R48	Support Arg1:T294 Arg2:T292	
+R49	Support Arg1:T292 Arg2:T295	
+R50	Support Arg1:T534 Arg2:T295	
+R51	Attack Arg1:T534 Arg2:T290	
+T6	Claim 6170 6235	You can go around the world - and let me take Israel for example.
+R52	Support Arg1:T296 Arg2:T6	
+R53	Support Arg1:T297 Arg2:T6	
+R54	Support Arg1:T299 Arg2:T6	
+R55	Support Arg1:T300 Arg2:T6	
+R56	Support Arg1:T301 Arg2:T300	
+R57	Support Arg1:T302 Arg2:T6	
+R58	Support Arg1:T302 Arg2:T300	
+R59	Support Arg1:T303 Arg2:T6	

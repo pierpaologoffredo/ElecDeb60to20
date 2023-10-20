@@ -1,0 +1,94 @@
+T327	Claim 143 170	We're gonna have to move on
+T328	Claim 122 141	We're gonna move on
+T333	Claim 1137 1196	We can't put the Middle East peace process on our timetable
+T334	Claim 1448 1473	That's what a leader does
+T335	Claim 1413 1446	You've got to have a clear vision
+T336	Claim 1368 1411	You can't worry about polls or focus groups
+T337	Claim 1291 1366	We can't dictate the terms of peace, which means that you have to be steady
+T338	Claim 1198 1289	It's got to be on the timetable of the people that we're trying to bring to the peace table
+T339	Claim 1100 1135	the next leader needs to be patient
+T340	Claim 992 1083	We need to reach out to moderate Arab nations as well to build coalitions to keep the peace
+T341	Claim 874 942	When we say we're somebody's friend, everybody has got to believe it
+T342	Claim 830 872	Our nation needs to be credible and strong
+T343	Claim 634 673	I've got a strategy for the Middle East
+T344	Claim 554 632	I've been a person who has to set a clear vision and convince people to follow
+T345	Claim 701 762	our nation now needs to speak with one voice during this time
+T346	Premise 768 828	I applaud the president for working hard to diffuse tensions
+T347	Claim 969 990	we'll stand by Israel
+T348	Premise 944 964	Israel is our friend
+T349	Claim 1475 1556	A leader also understands that the United States must be strong to keep the peace
+T350	Claim 1611 1653	Our coalition against Saddam is unraveling
+T351	Claim 1558 1609	Saddam Hussein still is a threat in the Middle East
+T352	Premise 1655 1677	Sanctions are loosened
+T354	Premise 1760 1780	inspectors aren't in
+T353	Claim 1679 1751	The man who may be developing weapons of mass destruction, we don't know
+T355	Claim 1810 1969	it requires a clear vision, a willingness to stand by our friends, and the credibility for people both friend and foe to understand when America says something
+T356	Claim 1971 1981	we mean it
+T357	Claim 2263 2288	We stand for those values
+T358	Claim 2293 2329	we have to be willing to assert them
+T359	Premise 2185 2261	Even in Iran they have had an election that began to bring about some change
+T360	Claim 2023 2183	I see a future when the world is at peace, with the United States of America promoting the values of democracy and human rights and freedom all around the world
+T361	Claim 2331 2405	Right now our military is the strongest in the entire history of the world
+T362	Claim 2417 2500	I pledge to you I will do whatever is necessary to make sure that it stays that way
+T363	Claim 3236 3303	we're gonna face some serious new challenges in the next four years
+T364	Claim 2843 2917	I learned what it was like to be an enlisted man in the United States Army
+T365	Claim 2777 2837	I didn't do the most or run the greatest risk by a long shot
+T366	Claim 3018 3228	I worked hard to learn the subject of nuclear arms control and how we can diffuse these tensions and deal with non-proliferation and deal with the problems of terrorism and these new weapons of mass destruction
+T367	Premise 2919 3013	In the Congress, in the House of Representatives, I served on the House Intelligence Committee
+T368	Claim 3305 3338	I've worked on that long and hard
+T369	Claim 3603 3749	In the Senate I was one of only ten Democrats, along with Senator Joe Lieberman, to support Governor Bush's dad in the Persian Gulf War Resolution
+T370	Claim 3755 3824	for the last eight years I've served on the National Security Council
+T1	Premise 534 552	I've been a leader
+R1	Support Arg1:T1 Arg2:T344	
+R3	Support Arg1:T346 Arg2:T345	
+R4	Support Arg1:T345 Arg2:T341	
+R5	Support Arg1:T348 Arg2:T347	
+R6	Support Arg1:T347 Arg2:T341	
+R2	Support Arg1:T343 Arg2:T344	
+R7	Support Arg1:T341 Arg2:T344	
+R8	Support Arg1:T340 Arg2:T344	
+R9	Support Arg1:T347 Arg2:T343	
+R10	Support Arg1:T340 Arg2:T343	
+R11	Support Arg1:T339 Arg2:T333	
+R12	Attack Arg1:T333 Arg2:T338	
+R13	Support Arg1:T337 Arg2:T339	
+R14	Support Arg1:T334 Arg2:T335	
+R15	Attack Arg1:T335 Arg2:T336	
+R16	Support Arg1:T344 Arg2:T335	
+R17	Support Arg1:T343 Arg2:T335	
+R18	Support Arg1:T341 Arg2:T342	
+R19	Support Arg1:T345 Arg2:T342	
+R20	Support Arg1:T342 Arg2:T344	
+R21	Support Arg1:T342 Arg2:T335	
+R22	Attack Arg1:T337 Arg2:T333	
+R23	Support Arg1:T351 Arg2:T350	
+R24	Support Arg1:T352 Arg2:T350	
+R25	Attack Arg1:T349 Arg2:T350	
+R26	Support Arg1:T354 Arg2:T353	
+R27	Support Arg1:T353 Arg2:T351	
+R28	Support Arg1:T356 Arg2:T355	
+R29	Support Arg1:T335 Arg2:T355	
+R30	Support Arg1:T349 Arg2:T355	
+R31	Support Arg1:T339 Arg2:T355	
+R32	Support Arg1:T341 Arg2:T355	
+R33	Support Arg1:T342 Arg2:T355	
+R34	Support Arg1:T359 Arg2:T360	
+R35	Support Arg1:T357 Arg2:T359	
+R36	Support Arg1:T357 Arg2:T360	
+R37	Support Arg1:T358 Arg2:T357	
+R38	Support Arg1:T362 Arg2:T361	
+T2	Premise 2543 2618	When I was a young man, my father was a senator opposed to the Vietnam War.
+T3	Premise 2619 2726	When I graduated from college, there were plenty of fancy ways to get out of going and being a part of that
+T4	Premise 2728 2775	I went and I volunteered, and I went to Vietnam
+R39	Support Arg1:T2 Arg2:T3	
+R40	Support Arg1:T3 Arg2:T4	
+R41	Support Arg1:T4 Arg2:T365	
+R42	Support Arg1:T365 Arg2:T364	
+R43	Support Arg1:T367 Arg2:T366	
+T5	Premise 3340 3439	When I went to the United States Senate, I asked for an assignment to the Armed Services Committee.
+T6	Premise 3440 3601	And while I was there I worked on a bipartisan basis, as I did in the House, I worked with former President Reagan on the modernization of our strategic weaponry
+R44	Support Arg1:T5 Arg2:T6	
+R45	Support Arg1:T6 Arg2:T368	
+R46	Support Arg1:T369 Arg2:T368	
+R47	Support Arg1:T370 Arg2:T368	
+R48	Attack Arg1:T366 Arg2:T363	

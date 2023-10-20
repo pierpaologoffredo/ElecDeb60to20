@@ -1,0 +1,82 @@
+T183	Claim 3133 3208	If we build our economy the way we should, we can afford to do these things
+T184	Claim 3213 3226	we must do it
+T185	Claim 3109 3131	I believe we can do it
+T186	Claim 2702 2740	I believe it's essential that we do it
+T187	Premise 2749 2860	in the next ten years the balance of power is going to begin to move in the world from one direction or another
+T188	Premise 2906 3034	unless we begin to identify ourselves not only with the anti-Communist fight, but also with the fight against poverty and hunger
+T189	Claim 3036 3107	these people are going to begin to turn to the Communists as an example
+T190	Claim 2387 2442	I think that we could not afford not to do these things
+T191	Claim 2444 2469	This goes to our survival
+T194	Claim 2330 2385	I think the United States can afford to do these things
+T195	Claim 2145 2328	if India should lose her battle, with thirty-five per cent of the people of the underdeveloped world within her borders, then I believe that the balance of power could move against us
+T196	Claim 1988 2139	unless we're ready to carry out programs like that in the sixties, this battle for economic survival which these people are waging are going to be lost
+T197	Claim 1735 1779	I would strengthen the Development Loan Fund
+T198	Claim 1785 1843	Senator Fulbright, Senator Humphrey and I tried to do that
+T199	Claim 1845 1982	We tried to provide an appropriation of a billion and a half for five years, on a long-term loan basis, which this Administration opposed
+T200	Claim 1630 1733	I believe that in cases of India and Africa and Latin America that this is where our emphasis should be
+T201	Claim 1522 1624	It permits us to make sure that the projects which are invested in are going to produce greater wealth
+T202	Claim 1472 1520	This permits them to maintain their self-respect
+T203	Claim 1315 1470	I believe instead of doing that, we should concentrate our aid in long-term loans which these people can pay back either in hard money or in local currency
+T205	Premise 1222 1313	we ought to know now that Laos is moving from neutralism in the direction of the Communists
+T208	Claim 285 359	We have been wholly indifferent to Latin America until the last few months
+T209	Premise 361 468	The program that was put forward this summer, after we broke off the sugar quota with Cuba, really was done
+T210	Premise 477 567	we wanted to get through the O.A.S. meeting a condemnation of Russian infiltration of Cuba
+T212	Premise 3264 3351	Senator Kennedy has put a great deal of stress on the necessity for economic assistance
+T213	Claim 3353 3370	This is important
+T215	Claim 3546 3573	We need to step up exchange
+T216	Claim 4789 4817	We must stand for our ideals
+T217	Claim 4705 4787	We must not meet the Communists purely in the field of gross atheistic materialism
+T218	Claim 4251 4287	This we must get across to the world
+T219	Claim 4603 4642	This is primarily an ideological battle
+T220	Premise 4645 4703	a battle for the minds and the hearts and the souls of men
+T221	Claim 4448 4601	The other point that I would make with regard to economic assistance and technical assistance is that the United States must not rest its case here alone
+T222	Claim 4293 4446	we can't do it unless we do have adequate funds for, for example, information which has been cut by the Congress, adequate funds for technical assistance
+T223	Claim 3575 3614	we need to step up technical assistance
+T224	Claim 3623 3699	trained people in these newly developing countries can operate the economies
+T225	Claim 3701 3837	We also have to have in mind something else with regard to this whole situation in the world, and that is: that as America moves forward
+T226	Claim 3839 3971	we not only must think in terms of fighting Communism, but we must also think primarily in terms of the interests of these countries
+T227	Claim 3973 4023	We must associate ourselves with their aspirations
+R2	Support Arg1:T202 Arg2:T203	
+R3	Support Arg1:T201 Arg2:T203	
+R4	Support Arg1:T200 Arg2:T201	
+R5	Support Arg1:T197 Arg2:T198	
+R6	Equivalent Arg1:T199 Arg2:T198	
+R7	Support Arg1:T196 Arg2:T195	
+R8	Support Arg1:T194 Arg2:T197	
+R10	Support Arg1:T190 Arg2:T191	
+R12	Support Arg1:T197 Arg2:T191	
+R13	Support Arg1:T187 Arg2:T186	
+R14	Support Arg1:T189 Arg2:T186	
+R16	Support Arg1:T188 Arg2:T189	
+R18	Support Arg1:T183 Arg2:T185	
+R21	Equivalent Arg1:T184 Arg2:T186	
+R22	Support Arg1:T223 Arg2:T224	
+R23	Support Arg1:T215 Arg2:T224	
+R24	Support Arg1:T224 Arg2:T213	
+R26	Equivalent Arg1:T227 Arg2:T226	
+R28	Support Arg1:T227 Arg2:T218	
+R29	Attack Arg1:T222 Arg2:T218	
+R30	Support Arg1:T221 Arg2:T224	
+R31	Support Arg1:T220 Arg2:T219	
+R32	Equivalent Arg1:T219 Arg2:T216	
+R33	Support Arg1:T217 Arg2:T219	
+R34	Equivalent Arg1:T217 Arg2:T216	
+T1	Claim 2475 2700	here in a country which if it is moving ahead, if it's developing its economy to the fullest - which we are not now - in my judgment, we'll have the resources to meet our military commitments and also our commitments overseas
+T2	Claim 3376 3544	it's also tremendously important to bear in mind that when you pour in money without pouring in technical assistance at w- as well, that you have a disastrous situation
+T3	Premise 1118 1217	We paid more military aid, more aid into Laos po- per - per person than in any country in the world
+T4	Premise 583 847	we passed an authorization - not an aid bill - which was the first time, really, since the Inter-American Bank which was founded a year ago was developed, that we really have looked at the needs of Latin America; that we have associated ourselves with those people
+T6	Claim 4025 4249	We must let them know that the great American ideals - of independence, of the right of people to be free, and of the right to progress - that these are ideals that belong not to ourselves alone, but they belong to everybody
+R1	Support Arg1:T209 Arg2:T208	
+R35	Support Arg1:T210 Arg2:T208	
+T7	Claim 859 1003	I believe that in the ca- that it's far better for the United States, instead of concentrating our aid, particularly in the underdeveloped world
+T8	Premise 1005 1116	on surplus military equipment - we poured three hundred million dollars of surplus military equipment into Laos
+R36	Attack Arg1:T8 Arg2:T7	
+R37	Support Arg1:T3 Arg2:T8	
+R38	Support Arg1:T205 Arg2:T7	
+R39	Support Arg1:T4 Arg2:T7	
+R9	Support Arg1:T186 Arg2:T1	
+R11	Support Arg1:T1 Arg2:T191	
+R15	Support Arg1:T212 Arg2:T213	
+R17	Attack Arg1:T213 Arg2:T2	
+R19	Support Arg1:T2 Arg2:T226	
+R20	Support Arg1:T6 Arg2:T218	

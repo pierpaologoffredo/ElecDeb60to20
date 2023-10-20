@@ -1,0 +1,95 @@
+T460	Claim 257 307	I think our relationships with China are important
+T461	Claim 312 341	I don't want to isolate China
+T462	Claim 347 498	I think it is a mistake for us to do what this Administration did when all those kids went out there carrying the Statue of Liberty in Tiananmen Square
+T463	Premise 500 608	Mr Bush sent two people in secret to toast the Chinese leaders and basically tell them not to worry about it
+T464	Premise 610 692	They rewarded him by opening negotiations with Iran to transfer nuclear technology
+T465	Premise 694 740	That was their response to that sort of action
+T466	Premise 742 878	Now that the voices in the Congress and throughout the country have insisted that we do something about China, look at what has happened
+T467	Premise 880 955	China has finally agreed to stop sending us products made with prison labor
+T468	Claim 957 1057	Not because we coddled them, but because the Administration was pushed into doing something about it
+T469	Premise 1059 1264	And recently the Chinese have announced they are going to lower some barriers to our products, which they ought to do since they have a 15 billion dollar trade surplus with the United States under Mr. Bush
+T470	Premise 1266 1306	The second biggest surplus next to Japan
+T471	Claim 1311 1326	I would be firm
+T472	Claim 1328 1495	I would say if you want to continue as Most Favored Nation status for your government owned industries as well as your private ones, observe human rights in the future
+T473	Premise 1597 1633	If we can stand up for our economics
+T474	Claim 1720 1773	over the long run they will be more reliable partners
+T475	Claim 1828 1919	the Administration was the first major country to stand up to the abuse in Tiananmen Square
+T476	Premise 1921 1973	We are the one that worked out the prison labor deal
+T477	Premise 1975 2057	We are the ones that lowered the barrier to products with Carla Hill's negotiation
+T478	Premise 2059 2162	I am the one that said let's keep the M.F.N. because you see China moving towards a free market economy
+T479	Claim 2164 2256	To do what the Congress and Governor Clinton is suggesting, you'd isolate and ruin Hong Kong
+T480	Premise 2258 2306	They are making some progress, not enough for us
+T481	Premise 2308 2350	We were the first ones to put sanctions on
+T482	Premise 2352 2389	We still have them on, on some things
+T483	Claim 2395 2440	Governor Clinton's philosophy is isolate them
+T484	Claim 2857 2879	I'm not going to do it
+T485	Claim 3067 3096	They didn't go over to coddle
+T486	Claim 3098 3166	He went over to say we must make the very changes they're making now
+T488	Claim 2467 2616	the policies he's expounding of putting conditions on M.F.N. and kind of humiliating them is not the way you make the kind of progress we are getting
+T487	Premise 2622 2653	I've stood up with these people
+T489	Claim 2659 2722	I understand what you have to do to be strong in this situation
+T490	Premise 2728 2765	it's moving, not as fast as we'd like
+T491	Claim 2771 2851	you isolate China and turn them inward, and then we've made a tremendous mistake
+T492	Premise 2885 2948	I've had to fight a lot of people that were saying human rights
+T493	Premise 2954 3013	weâ€™re the ones that put the sanctions on and stood for it
+T494	Claim 3423 3477	Asia will be our largest trading partner in the future
+T495	Premise 3219 3228	it's huge
+T496	Premise 3230 3282	China, is a huge country, broken into many provinces
+T497	Premise 3284 3356	It has some very elderly leaders that will not be around too much longer
+T498	Premise 3358 3421	Capitalism is growing and thriving across big portions of China
+T499	Claim 3479 3525	It will be a growing and a closer relationship
+T500	Claim 3744 3768	time is our friend there
+T501	Premise 3778 3825	their leaders will change in not too many years
+T502	Premise 3843 3881	their country is making great progress
+T503	Claim 3527 3606	We have a delicate, tight-wire walk that we must go through at the present time
+T504	Premise 3964 4041	We have written agreements and we have some missiles that have been destroyed
+T505	Premise 4047 4141	we have a huge number of intercontinental ballistic missiles that are still in place in Russia
+T507	Premise 4193 4267	Till they're destroyed, some crazy person can either sell them or use them
+T641	Claim 1497 1514	Open your society
+T642	Claim 1516 1595	Recognize the legitimacy of those kids that were carrying the Statue of Liberty
+T643	Claim 1635 1714	we ought to be able to preserve the democratic interests of the people of China
+T645	Premise 3655 3738	to make sure that they don't get the impression that they can suppress their people
+T646	Premise 3607 3653	to make sure that we do not cozy up to tyrants
+R4	Support Arg1:T466 Arg2:T467	
+R8	Support Arg1:T472 Arg2:T471	
+R9	Support Arg1:T641 Arg2:T471	
+R10	Support Arg1:T642 Arg2:T471	
+R11	Support Arg1:T473 Arg2:T643	
+R12	Support Arg1:T643 Arg2:T471	
+R14	Support Arg1:T476 Arg2:T475	
+R15	Attack Arg1:T475 Arg2:T462	
+R16	Support Arg1:T477 Arg2:T475	
+R17	Support Arg1:T478 Arg2:T475	
+R18	Equivalent Arg1:T483 Arg2:T479	
+R19	Support Arg1:T481 Arg2:T482	
+R20	Support Arg1:T488 Arg2:T483	
+R21	Support Arg1:T487 Arg2:T489	
+R22	Support Arg1:T490 Arg2:T489	
+R23	Support Arg1:T491 Arg2:T484	
+R24	Support Arg1:T488 Arg2:T484	
+R25	Support Arg1:T483 Arg2:T484	
+R26	Support Arg1:T489 Arg2:T484	
+R27	Support Arg1:T486 Arg2:T485	
+R28	Equivalent Arg1:T496 Arg2:T495	
+R31	Support Arg1:T495 Arg2:T494	
+R32	Support Arg1:T494 Arg2:T499	
+R33	Support Arg1:T645 Arg2:T503	
+R34	Support Arg1:T646 Arg2:T503	
+R35	Support Arg1:T501 Arg2:T500	
+R36	Support Arg1:T502 Arg2:T500	
+R1	Support Arg1:T463 Arg2:T462	
+R2	Support Arg1:T464 Arg2:T462	
+R3	Support Arg1:T465 Arg2:T462	
+R5	Support Arg1:T467 Arg2:T468	
+R7	Support Arg1:T469 Arg2:T471	
+R6	Support Arg1:T468 Arg2:T471	
+R40	Support Arg1:T474 Arg2:T643	
+R13	Attack Arg1:T476 Arg2:T468	
+R41	Attack Arg1:T488 Arg2:T472	
+R42	Attack Arg1:T485 Arg2:T468	
+R30	Support Arg1:T498 Arg2:T494	
+R29	Support Arg1:T497 Arg2:T494	
+T1	Claim 4143 4191	The fact that you have an agreement is one thing
+R37	Attack Arg1:T507 Arg2:T1	
+R38	Support Arg1:T504 Arg2:T1	
+R39	Support Arg1:T505 Arg2:T507	

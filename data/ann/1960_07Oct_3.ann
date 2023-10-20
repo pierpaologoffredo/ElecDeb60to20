@@ -1,0 +1,71 @@
+T64	Claim 476 541	I think we have to make progress first in the field of employment
+T65	Claim 383 474	My intentions in the field of civil rights have been spelled out in the Republican platform
+T66	Premise 629 697	which is an effective way of getting real progress made in this area
+T67	Claim 547 627	there we would give statutory authority to the Committee on Government Contracts
+T68	Claim 806 1053	Certainly I think all of us agree that when anybody has a government contract, certainly the money that is spent under that contract ought to be disbursed equally without regard to the race or creed or color of the individual who is to be employed
+T70	Claim 2723 2762	I do it right at this time particularly
+T72	Claim 2612 2665	I do it because it's the responsibility of leadership
+T73	Claim 2667 2721	I do it because we have to solve this problem together
+T74	Claim 2437 2533	Not because I am preaching to the people of the South because this isn't just a Southern problem
+T75	Claim 2535 2580	it's a Northern problem and a Western problem
+T76	Claim 2582 2610	it's a problem for all of us
+T78	Claim 1088 1241	we believe that there should be provisions whereby the federal government would give assistance to those districts who do want to integrate their schools
+T79	Claim 1405 1497	as far as other areas are concerned, I think that we have to look to presidential leadership
+T80	Premise 1243 1394	That of course was rejected as was the government contracts provision by the special session of the Congress to - in which Mr. Kennedy was quite active
+T81	Claim 1603 1658	Here we have a situation which causes all of us concern
+T82	Premise 1690 1776	the denial of the rights of people to the equality which we think belongs to everybody
+T83	Claim 2013 2064	This is wrong, and we have to do something about it
+T85	Claim 2115 2280	what we do is what the Attorney-General of the United States did under the direction of the President: call in the owners of chain stores and get them to take action
+T86	Claim 4805 4865	I can assure you that if I'm elected president we will do so
+T87	Claim 4704 4799	Those are the questions to which the president must establish a moral tone and moral leadership
+T88	Claim 4615 4702	What will be done to provide equality of education in all sections of the United States
+T89	Premise 3697 3865	He has not indicated his support of an attempt to provide fair employment practices around the country, so that everyone can get a job regardless of their race or color
+T90	Premise 3867 3920	Nor has he indicated that he will support Title Three
+T91	Claim 3922 4010	which would give the Attorney General additional powers to protect Constitutional rights
+T92	Claim 3253 3303	Mr. Nixon hasn't discussed the two basic questions
+T93	Premise 3305 3408	what is going to be done and what will be his policy on implementing the Supreme Court decision of 1954
+T94	Claim 3410 3511	Giving aid to schools technically that are trying to carry out the decision is not the great question
+T95	Claim 3523 3571	what's he going to do to provide fair employment
+T96	Premise 3573 3695	He's been the head of the Committee on Government Contracts that's carried out two cases, both in the District of Columbia
+T97	Claim 4265 4364	These are the questions in these areas that the North and South, East and West are entitled to know
+T98	Claim 4012 4074	These are the great questions: equality of education in school
+T99	Claim 4366 4475	What will be the leadership of the president in these areas to provide equality of opportunity for employment
+T100	Claim 4477 4613	Equality of opportunity in the field of housing, which could be done on all federal supported housing by a stroke of the president's pen
+R1	Support Arg1:T65 Arg2:T64	
+R4	Attack Arg1:T80 Arg2:T78	
+R5	Support Arg1:T82 Arg2:T81	
+R6	Equivalent Arg1:T81 Arg2:T83	
+R7	Equivalent Arg1:T76 Arg2:T75	
+R8	Equivalent Arg1:T76 Arg2:T74	
+R9	Equivalent Arg1:T75 Arg2:T74	
+R14	Support Arg1:T93 Arg2:T92	
+R15	Attack Arg1:T94 Arg2:T78	
+R16	Attack Arg1:T95 Arg2:T64	
+R17	Attack Arg1:T89 Arg2:T68	
+R18	Attack Arg1:T90 Arg2:T91	
+R19	Equivalent Arg1:T97 Arg2:T98	
+R20	Support Arg1:T87 Arg2:T86	
+R21	Support Arg1:T100 Arg2:T86	
+R22	Support Arg1:T99 Arg2:T86	
+R23	Support Arg1:T88 Arg2:T86	
+T1	Premise 2771 3035	when we have Khrushchev in this country - a man who has enslaved millions, a man who has slaughtered thousands - we cannot continue to have a situation where he can point the finger at the United States of America and say that we are denying rights to our citizens
+T2	Premise 1810 2011	I've heard them explain - try to explain - how they tell their children how they can go into a store and buy a loaf of bread but then can't go into that store and sit at the counter and get a Coca Cola
+T3	Premise 705 804	about one out of every four jobs is held by and is allotted by people who have government contracts
+R25	Support Arg1:T3 Arg2:T66	
+R26	Support Arg1:T66 Arg2:T67	
+R2	Support Arg1:T67 Arg2:T64	
+R24	Support Arg1:T80 Arg2:T79	
+R27	Support Arg1:T68 Arg2:T78	
+T4	Premise 1544 1601	I refer for example to our attitude on the sit-in strikes
+R3	Support Arg1:T4 Arg2:T81	
+R28	Support Arg1:T2 Arg2:T83	
+R29	Support Arg1:T83 Arg2:T85	
+R10	Attack Arg1:T74 Arg2:T72	
+R30	Support Arg1:T75 Arg2:T72	
+R31	Support Arg1:T76 Arg2:T72	
+R11	Support Arg1:T72 Arg2:T83	
+R12	Support Arg1:T73 Arg2:T83	
+R13	Support Arg1:T70 Arg2:T83	
+R32	Support Arg1:T1 Arg2:T70	
+R33	Support Arg1:T96 Arg2:T95	
+R34	Attack Arg1:T91 Arg2:T85	

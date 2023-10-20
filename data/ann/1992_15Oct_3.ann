@@ -1,0 +1,72 @@
+T110	Premise 1404 1509	I'm spending my money -- not PAC money, not foreign money, my money -- to take this message to the people
+T114	Claim 812 868	I've been buying 30-minute segments to talk about issues
+T115	Premise 1217 1282	I have said again and again and again let's get off mud wrestling
+T116	Premise 1284 1402	let's get off personalities and let's talk about jobs, health care, crime, the things that concern the American people
+T117	Premise 874 974	tomorrow night on NBC, from 10:30 to 11 Eastern, we're going to talk about how you pay the debt down
+T118	Premise 979 1021	we're going to come right down to that one
+T119	Claim 1743 1796	I believe that character is a part of being president
+T120	Claim 1798 1828	I think you have to look at it
+T121	Claim 1830 1907	I think that has to be a part of a candidate for president or being president
+T122	Claim 2102 2155	I've come out with a new agenda for America's renewal
+T123	Claim 2157 2232	a plan that I believe really will help stimulate the growth of this economy
+T124	Claim 2402 2482	I think the first negative campaign run in this election was by Governor Clinton
+T125	Claim 4123 4191	I do think that you can't turn the White House into the Waffle House
+T126	Claim 3891 3995	the big argument I have with the governor on this is this taking different positions on different issues
+T127	Premise 3999 4117	trying to be one thing to one person here that's opposing the NAFTA agreement and then for it -- what we call waffling
+T128	Premise 1931 2007	I've submitted, what, 4 different budgets to the US Congress in great detail
+T129	Premise 2058 2096	everything in there says what I am for
+T130	Claim 2234 2281	My record on world affairs is pretty well known
+T131	Premise 2290 2357	I've been president for 4 years, so I feel I've been talking issues
+T132	Claim 2370 2396	nobody likes who shot John
+T133	Premise 2488 2536	I'm not going to sit there and be a punching bag
+T134	Premise 2538 2602	I'm going to stand up and say, hey, listen, here's my side of it
+T135	Claim 2609 2655	character is an important part of the equation
+T136	Premise 2657 2887	The other night Governor Clinton raised my -- I don't know if you saw the debate the other night. You did -- suffered through that? Well, he raised the question of my father -- it was a good line, well rehearsed and well delivered
+T137	Claim 3750 3811	I'm thinking of Ross Perot's running mate sitting in the jail
+T138	Claim 4566 4650	I believe so strongly in the question you asked that I suggested this format tonight
+T139	Claim 4652 4745	I started doing these formats a year ago in New Hampshire and I found that we had huge crowds
+T140	Premise 4754 4834	all I did was let people ask questions and I tried to give very specific answers
+T141	Premise 4836 4875	I also had a program starting last year
+T142	Premise 4877 4939	I've been disturbed by the tone and the tenor of this campaign
+T143	Premise 5040 5110	Mr. Bush said once again I was going to have $150 billion tax increase
+T144	Claim 5112 5176	When Mr. Quayle said that all the networks said, that's not true
+T145	Claim 5178 5231	He's got over $100 billion of tax cuts and incentives
+T147	Claim 5390 5504	the Washington Post ran a long editorial today saying they couldn't believe Mr. Bush was making character an issue
+T148	Premise 5509 5606	they said he was the greatest quote "political chameleon" for changing his positions of all times
+T149	Claim 6017 6037	I think you're right
+T152	Claim 5875 6012	I'm interested in what we can trust him to do and what you can trust me to do and what you can trust Mr. Perot to do for the next 4 years
+R1	Support Arg1:T119 Arg2:T120	
+R2	Support Arg1:T119 Arg2:T121	
+R3	Support Arg1:T131 Arg2:T130	
+R4	Attack Arg1:T132 Arg2:T124	
+T1	Premise 2893 3041	he raised the question of my father and said, well, your father, Prescott Bush, was against McCarthy, you should be ashamed of yourself, McCarthyism
+R5	Equivalent Arg1:T136 Arg2:T1	
+T2	Claim 3519 3639	I am deeply troubled by someone who demonstrates and organizes demonstration in a foreign land when his country's at war
+T3	Premise 4941 5038	Thank goodness the networks have a fact check so I don't have to just go blue in the face anymore
+R6	Attack Arg1:T144 Arg2:T143	
+T4	Claim 1151 1181	I couldn't agree with you more
+T5	Claim 1183 1211	couldn't agree with you more
+R7	Equivalent Arg1:T4 Arg2:T5	
+R8	Support Arg1:T115 Arg2:T4	
+R9	Support Arg1:T116 Arg2:T4	
+R10	Support Arg1:T110 Arg2:T4	
+T6	Premise 2009 2052	It's so heavy they'd give you a broken back
+R11	Support Arg1:T122 Arg2:T123	
+R12	Support Arg1:T129 Arg2:T123	
+R13	Support Arg1:T6 Arg2:T123	
+R14	Support Arg1:T128 Arg2:T123	
+R16	Attack Arg1:T134 Arg2:T132	
+R15	Attack Arg1:T133 Arg2:T132	
+R17	Equivalent Arg1:T119 Arg2:T135	
+R18	Support Arg1:T127 Arg2:T126	
+R19	Support Arg1:T125 Arg2:T126	
+R20	Support Arg1:T139 Arg2:T138	
+R21	Support Arg1:T140 Arg2:T139	
+R22	Support Arg1:T141 Arg2:T138	
+R23	Support Arg1:T143 Arg2:T142	
+R24	Support Arg1:T145 Arg2:T144	
+R25	Attack Arg1:T147 Arg2:T135	
+R26	Support Arg1:T148 Arg2:T147	
+T7	Claim 5821 5869	I want to change the character of the presidency
+T8	Premise 5784 5819	I'm not interested in his character
+R27	Support Arg1:T8 Arg2:T7	

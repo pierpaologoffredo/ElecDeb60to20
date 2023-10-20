@@ -1,0 +1,54 @@
+T1	Claim 464 523	I get there, it will be a very unusual and historical event
+T2	Premise 557 608	the people, not the special interests, put me there
+R1	Support Arg1:T2 Arg2:T1	
+T3	Claim 730 859	we're going to inform the people in detail on the issues through an electronic town hall so that they really know what's going on
+T4	Premise 861 909	They will want to do what's good for our country
+T5	Claim 915 1207	all these fellows with thousand-dollar suits and alligator shoes running up and down the Halls of Congress that make policy now, the lobbyists, the PAC guys, the foreign lobbyists, what have you, they'll be over there in the Smithsonian -- [laughter] -- because we're going to get rid of them
+T6	Claim 1209 1253	The Congress will be listening to the people
+R2	Support Arg1:T5 Arg2:T6	
+R3	Support Arg1:T4 Arg2:T3	
+T7	Claim 1689 1736	They've never seen anything happen in that town
+T8	Premise 1749 2036	This is a town where the White House says, "Congress did it." Congress says, "The White House did it." And I'm sitting there and saying, "Well, who else could be around?" And then when they get off by themselves, they said, "Nobody did it." [Laughter] And yet, the cash register is empty
+R4	Support Arg1:T8 Arg2:T7	
+T9	Premise 2042 2127	it used to have our money, the taxpayers' money, in it, and we didn't get the results
+R5	Support Arg1:T9 Arg2:T7	
+T10	Claim 2220 2246	it's not quite that simple
+T11	Premise 2286 2363	Both parties in Washington, the President and the Congress, have cut Medicare
+T12	Premise 2365 2501	The average senior citizen is spending a higher percentage of income on health care today than they were in 1965 before Medicare came in
+T13	Premise 2503 2600	The President's got another proposal to require them to pay $400 a year more for the next 5 years
+T14	Premise 2606 2780	if you don't have the guts to control cost by changing the insurance system and taking on the bureaucracies and the regulation of health care in the private and public sector
+T15	Claim 2782 2808	you can't fix this problem
+R6	Support Arg1:T14 Arg2:T15	
+T16	Claim 2810 2839	Costs will continue to spiral
+R7	Support Arg1:T16 Arg2:T15	
+T17	Premise 2868 2962	A lot of folks on Medicare are out there every day making the choice between food and medicine
+T18	Premise 2964 3002	Not poor enough for Medicare, Medicaid
+T19	Premise 3004 3044	not wealthy enough to buy their medicine
+T20	Premise 3046 3148	I've met them, people like Mary Annie and Edward Davis of Nashua, New Hampshire, all over this country
+T21	Premise 3150 3179	They cannot even buy medicine
+T22	Claim 3202 3366	When we talk about cutting health care costs, let's start with the insurance companies and the people that are making a killing instead of making our people healthy
+R8	Support Arg1:T21 Arg2:T22	
+R9	Support Arg1:T20 Arg2:T18	
+R10	Support Arg1:T18 Arg2:T22	
+R11	Support Arg1:T19 Arg2:T22	
+R12	Support Arg1:T17 Arg2:T22	
+T23	Premise 3468 3605	every 4 years the Democrats go around and say, "Hey, Republicans are going to cut Social Security and Medicare." They've started it again
+T24	Premise 3607 3684	I am the President that stood up and said, "Don't mess with Social Security."
+R13	Attack Arg1:T24 Arg2:T23	
+T25	Claim 3689 3721	I'm not going to, and we haven't
+R14	Support Arg1:T24 Arg2:T25	
+T26	Claim 3723 3781	We are not going to go after the Social Security recipient
+T27	Claim 3783 3827	I have one difference with Mr. Perot on that
+T28	Premise 3836 3882	I don't think we need to touch Social Security
+R15	Support Arg1:T28 Arg2:T27	
+T29	Claim 3884 3964	What we do need to do, though, is control the growth of these mandatory programs
+T30	Premise 4029 4083	Governor Clinton refuses to touch that, simply refuses
+T31	Claim 4088 4134	what we've got to do is control it, the growth
+R16	Attack Arg1:T31 Arg2:T30	
+R17	Equivalent Arg1:T31 Arg2:T29	
+T32	Claim 4247 4297	I believe that is the way you get the deficit down
+T33	Premise 4299 4409	not by the tax-and-spend program that we hear every 4 years, whether it's Mondale, Dukakis, whoever else it is
+R18	Attack Arg1:T32 Arg2:T33	
+T34	Claim 4411 4451	I just don't believe we ought to do that
+T35	Claim 4456 4542	hold the line on Social Security, and put a cap on the growth of the mandatory program
+R19	Equivalent Arg1:T31 Arg2:T35	

@@ -1,0 +1,113 @@
+T554	Claim 168 227	at least 8,000 people cross our borders illegally every day
+T555	Claim 229 273	Some people believe this is a security issue
+T556	Claim 288 323	Some believe it's an economic issue
+T557	Claim 325 360	Some see it as a human-rights issue
+T558	Premise 386 416	what do we need to do about it
+T559	Premise 363 380	How do you see it
+T560	Premise 134 151	about immigration
+T561	Claim 426 455	I see it as a serious problem
+T562	Claim 457 485	I see it as a security issue
+T563	Claim 487 516	I see it as an economic issue
+T564	Claim 522 554	I see it as a human-rights issue
+T565	Claim 2289 2338	I don't think we ought to reward illegal behavior
+T566	Claim 556 613	We're increasing the border security of the United States
+T567	Premise 615 679	We've got 1,000 more Border Patrol agents on the southern border
+T568	Premise 682 707	We're using new equipment
+T569	Premise 709 767	We're using unmanned vehicles to spot people coming across
+T570	Claim 774 822	we'll continue to do so over the next four years
+T571	Premise 824 861	It's a subject I'm very familiar with
+T572	Premise 874 909	I was a border governor for a while
+T573	Claim 1331 1445	I believe there ought to be a temporary worker card that allows a willing worker and a willing employer to mate up
+T574	Premise 1447 1568	so long as there's not an American willing to do that job, to join up in order to be able to fulfill the employers' needs
+T575	Claim 912 971	Many people are coming to this country for economic reasons
+T576	Premise 973 1000	They're coming here to work
+T577	Premise 1002 1151	If you can make 50 cents in the heart of Mexico, for example, or make $5 here in America, $5. 15, you're going to come here if you're worth your salt
+T578	Premise 1153 1207	if you want to put food on the table for your families
+T579	Claim 2247 2287	I don't believe we ought to have amnesty
+T580	Claim 1688 1763	It makes sure that the people coming across the border are humanely treated
+T581	Claim 1765 1816	that they're not kept in the shadows of our society
+T582	Claim 1818 1878	that they're able to go back and forth to see their families
+T583	Claim 1885 1937	the card, it'll have a period of time attached to it
+T584	Premise 1571 1686	That has the benefit of making sure our employers aren't breaking the law as they try to fill their workforce needs
+T585	Premise 1988 2097	If somebody is coming here to work with a card, it means they're not going to have to sneak across the border
+T586	Claim 2099 2184	It means our border patrol will be more likely to be able to focus on doing their job
+T587	Premise 1940 1986	It also means it takes pressure off the border
+T588	Premise 2340 2403	There are plenty of people standing in line to become a citizen
+T589	Premise 2468 2524	If they want to become a citizen, they can stand in line
+T590	Claim 2576 2634	In September 2003, he supported amnesty for illegal aliens
+T591	Premise 2536 2574	here is where my opponent and I differ
+T592	Claim 2771 2829	The American middle-class family isn't making it right now
+T593	Claim 3249 3365	Under President Bush, the middle class has seen their tax burden go up and the wealthiest's tax burden has gone down
+T594	Claim 3371 3383	that's wrong
+T595	Premise 3391 3425	with respect to immigration reform
+T596	Premise 2840 3020	what the president said about the tax cuts has been wiped out by the increase in health care, the increase in gasoline, the increase in tuitions, the increase in prescription drugs
+T597	Claim 3036 3147	the take-home pay of a typical American family as a share of national income is lower than it's been since 1929
+T598	Claim 3153 3185	the take-home pay of the richest
+T599	Premise 3188 3246	1 percent of Americans is the highest it's been since 1928
+T600	Claim 3427 3480	the president broke his promise on immigration reform
+T601	Premise 3482 3508	He said he would reform it
+T602	Claim 3510 3559	Four years later he is now promising another plan
+T603	Premise 3595 3656	the borders are more leaking today than they were before 9/11
+T604	Premise 3671 3731	we haven't done what we need to do to toughen up our borders
+T605	Claim 3737 3743	I will
+T606	Claim 3756 3786	we need a guest-worker program
+T607	Claim 3792 3848	if it's all we have, it's not going to solve the problem
+T608	Claim 3868 3910	we need is to crack down on illegal hiring
+T609	Premise 3912 3978	It's against the law in the United States to hire people illegally
+T610	Claim 3984 4026	we ought to be enforcing that law properly
+T611	Claim 4042 4207	we need an earned-legalization program for people who have been here for a long time, stayed out of trouble, got a job, paid their taxes, and their kids are American
+T612	Claim 4209 4280	We got to start moving them toward full citizenship, out of the shadows
+T613	Premise 4346 4465	to say that the borders are not as protected as they were prior to September the 11th shows he doesn't know the borders
+T614	Claim 4467 4550	They're much better protected today than they were when I was the governor of Texas
+T615	Premise 4552 4608	We have much more manpower and much more equipment there
+T616	Premise 4611 4658	He just doesn't understand how the borders work
+T617	Claim 4718 4755	we'll continue to protect our borders
+T618	Claim 4757 4808	We're continuing to increase manpower and equipment
+T619	Premise 4840 4895	Four thousand people a day are coming across the border
+T620	Premise 5319 5368	our borders are not as secure as they ought to be
+T621	Claim 5374 5395	I'll make them secure
+T622	Claim 4914 4990	we now have people from the Middle East, allegedly, coming across the border
+T623	Claim 4997 5059	we're not doing what we ought to do in terms of the technology
+T624	Premise 5061 5099	We have iris-identification technology
+T625	Premise 5101 5149	We have thumbprint, fingerprint technology today
+T626	Claim 5151 5181	We can know who the people are
+T627	Claim 5188 5258	they're really the people they say they are when they cross the border
+T628	Premise 5261 5281	We could speed it up
+T629	Claim 5283 5304	There are huge delays
+R1	Support Arg1:T562 Arg2:T561	
+R2	Support Arg1:T563 Arg2:T561	
+R3	Support Arg1:T564 Arg2:T561	
+R4	Support Arg1:T561 Arg2:T566	
+R5	Support Arg1:T567 Arg2:T566	
+R6	Support Arg1:T568 Arg2:T566	
+R7	Support Arg1:T569 Arg2:T566	
+R8	Support Arg1:T572 Arg2:T571	
+R9	Support Arg1:T571 Arg2:T575	
+R10	Support Arg1:T576 Arg2:T575	
+R11	Support Arg1:T577 Arg2:T575	
+R12	Support Arg1:T578 Arg2:T577	
+R13	Support Arg1:T574 Arg2:T573	
+R14	Support Arg1:T584 Arg2:T574	
+R15	Support Arg1:T575 Arg2:T573	
+R16	Support Arg1:T580 Arg2:T573	
+R17	Support Arg1:T581 Arg2:T580	
+R18	Support Arg1:T582 Arg2:T580	
+R19	Support Arg1:T587 Arg2:T583	
+R20	Support Arg1:T585 Arg2:T583	
+R21	Support Arg1:T596 Arg2:T592	
+R22	Support Arg1:T601 Arg2:T600	
+R23	Support Arg1:T600 Arg2:T602	
+R24	Attack Arg1:T607 Arg2:T606	
+R25	Support Arg1:T609 Arg2:T608	
+R26	Support Arg1:T610 Arg2:T608	
+R27	Support Arg1:T613 Arg2:T614	
+R28	Attack Arg1:T613 Arg2:T603	
+R29	Support Arg1:T615 Arg2:T614	
+R30	Support Arg1:T616 Arg2:T614	
+R31	Support Arg1:T618 Arg2:T617	
+T1	Claim 4684 4711	That is an outrageous claim
+R32	Support Arg1:T614 Arg2:T1	
+R33	Support Arg1:T619 Arg2:T622	
+R34	Support Arg1:T624 Arg2:T623	
+R35	Support Arg1:T622 Arg2:T623	
+R36	Support Arg1:T625 Arg2:T623	

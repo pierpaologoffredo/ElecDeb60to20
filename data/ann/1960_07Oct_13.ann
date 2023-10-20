@@ -1,0 +1,86 @@
+T459	Premise 550 601	that's the way we elect a president in this country
+T460	Claim 607 629	it's the way we should
+T461	Claim 1309 1329	It's what we believe
+T462	Claim 1285 1307	It's what we stand for
+T463	Claim 1263 1283	It's our whole lives
+T464	Claim 1245 1261	It's what we are
+T465	Claim 974 1066	I believe that in an election when we are trying to determine who should lead the free world
+T466	Claim 1184 1243	it isn't the label that he wears or that I wear that counts
+T467	Premise 1097 1181	as Senator Kennedy has already indicated, the most important election in our history
+T468	Premise 1069 1085	not just America
+T471	Claim 1483 1625	I don't think it's enough for Senator Kennedy to go before the audiences on the Democratic side and say, "Vote for me because I'm a Democrat."
+T472	Claim 1626 1643	That isn't enough
+T473	Claim 1645 1720	What's involved here is the question of leadership for the whole free world
+T474	Claim 1722 1756	Now that means the best leadership
+T475	Premise 1758 1800	It may be Republican, it may be Democratic
+T479	Claim 1893 2059	I believe the people, therefore, should be asked to make up their minds not simply on the basis of, "Vote the way your grandfather did; vote the way your mother did."
+T480	Claim 2060 2128	I think the people should put America first, rather than party first
+T482	Claim 2576 2605	This is what I deeply believe
+T483	Premise 2485 2518	They will move her forward faster
+T484	Premise 2524 2574	they will move her more surely than in his program
+T485	Claim 2607 2670	I'm sure he believes just as deeply that his will move that way
+T486	Claim 2672 2791	I suggest, however, that in the interest of fairness that he could give me the benefit of also believing as he believes
+T487	Claim 2846 2957	I do think that parties are important in that they tell something about the program and something about the man
+T488	Premise 2959 3014	Abraham Lincoln was a great president of all the people
+T489	Premise 3020 3073	he was selected by his party at a key time in history
+T490	Premise 3082 3111	his party stood for something
+T491	Claim 3113 3173	The Democratic party in this century has stood for something
+T492	Claim 3175 3200	It has stood for progress
+T493	Claim 3202 3251	it has stood for concern for the people's welfare
+T494	Premise 3329 3400	as a result, produced Wilson, President Roosevelt, and President Truman
+T495	Claim 3253 3323	It has stood for a strong foreign policy and a strong national defense
+T496	Claim 3907 3942	I think that record tells something
+T498	Claim 3614 3644	That's the importance of party
+T499	Premise 3646 3689	only if it tells something about the record
+T500	Claim 3487 3514	They do stand for something
+T501	Claim 3516 3612	They stand for a whole different approach to the problems facing this country at home and abroad
+T502	Premise 3402 3485	The Republican party has produced McKinley and Harding, Coolidge, Dewey, and Landon
+R1	Support Arg1:T468 Arg2:T465	
+R5	Equivalent Arg1:T466 Arg2:T462	
+R6	Equivalent Arg1:T466 Arg2:T461	
+R7	Equivalent Arg1:T461 Arg2:T462	
+R8	Equivalent Arg1:T461 Arg2:T463	
+R9	Equivalent Arg1:T461 Arg2:T464	
+R10	Equivalent Arg1:T462 Arg2:T463	
+R11	Equivalent Arg1:T462 Arg2:T464	
+R12	Equivalent Arg1:T463 Arg2:T464	
+R14	Equivalent Arg1:T471 Arg2:T472	
+R16	Support Arg1:T473 Arg2:T472	
+R17	Equivalent Arg1:T474 Arg2:T473	
+R19	Support Arg1:T466 Arg2:T480	
+R20	Support Arg1:T479 Arg2:T466	
+R21	Support Arg1:T484 Arg2:T482	
+R22	Support Arg1:T483 Arg2:T482	
+R23	Support Arg1:T488 Arg2:T487	
+R24	Support Arg1:T489 Arg2:T487	
+R25	Support Arg1:T490 Arg2:T487	
+R26	Attack Arg1:T487 Arg2:T466	
+R28	Support Arg1:T490 Arg2:T491	
+R29	Equivalent Arg1:T492 Arg2:T491	
+R30	Equivalent Arg1:T493 Arg2:T491	
+R31	Equivalent Arg1:T493 Arg2:T492	
+R32	Support Arg1:T494 Arg2:T492	
+R33	Equivalent Arg1:T495 Arg2:T493	
+R34	Equivalent Arg1:T495 Arg2:T492	
+R35	Equivalent Arg1:T495 Arg2:T491	
+R36	Support Arg1:T494 Arg2:T491	
+R37	Support Arg1:T494 Arg2:T493	
+R38	Equivalent Arg1:T500 Arg2:T491	
+R39	Equivalent Arg1:T501 Arg2:T500	
+R40	Support Arg1:T491 Arg2:T498	
+R41	Support Arg1:T500 Arg2:T498	
+R42	Support Arg1:T499 Arg2:T496	
+R43	Support Arg1:T501 Arg2:T498	
+R44	Support Arg1:T493 Arg2:T498	
+R45	Support Arg1:T495 Arg2:T498	
+T1	Claim 1349 1482	I don't think it's enough to go before Republican audiences - and I never do - and say, "Look, vote for me because I'm a Republican."
+T2	Claim 2378 2483	we do have programs in all of these fields - education, housing, defense - that will move America forward
+T3	Premise 3695 3902	the Republicans in recent years - not only in the last twenty-five years, but in the last eight years - have opposed housing, opposed care for the aged, opposed federal aid to education, opposed minimum wage
+T4	Premise 631 850	I'm a student of history as is Senator Kennedy, incidentally; and I have found that in the history of this country we've had many great presidents. Some of them have been Democrats and some of them have been Republicans
+R2	Support Arg1:T4 Arg2:T466	
+R3	Support Arg1:T1 Arg2:T466	
+R4	Equivalent Arg1:T471 Arg2:T1	
+R13	Support Arg1:T502 Arg2:T500	
+R15	Support Arg1:T3 Arg2:T496	
+R18	Support Arg1:T496 Arg2:T487	
+R27	Support Arg1:T500 Arg2:T487	

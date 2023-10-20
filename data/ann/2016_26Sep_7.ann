@@ -1,0 +1,31 @@
+T1017	Claim 253 306	I certainly will support the outcome of this election
+T1018	Premise 210 247	sometimes you win, sometimes you lose
+T1019	Premise 181 204	I support our democracy
+T1020	Claim 559 658	I sure hope you will get out and vote as though your future depended on it, because I think it does
+T1021	Premise 448 554	It's not about us so much as it is about you and your families and the kind of country and future you want
+T1022	Premise 318 446	Donald's trying very hard to plant doubts about it, but I hope the people out there understand: This election's really up to you
+T1023	Claim 768 802	I want to make America great again
+T1024	Claim 804 846	We are a nation that is seriously troubled
+T1025	Premise 848 869	We're losing our jobs
+T1026	Premise 907 950	The other day, we were deporting 800 people
+T1027	Premise 871 906	People are pouring into our country
+T1028	Premise 956 1160	perhaps they passed the wrong button, they pressed the wrong button, or perhaps worse than that, it was corruption, but these people that we were going to deport for good reason ended up becoming citizens
+T1029	Premise 1210 1270	now it turns out it might be 1,800, and they don't even know
+T1030	Premise 1194 1204	it was 800
+T1031	Premise 1162 1188	Ended up becoming citizens
+T1033	Claim 1466 1508	if she wins, I will absolutely support her
+T1034	Claim 1421 1449	I don't believe Hillary will
+T1035	Claim 1390 1419	I'm going to be able to do it
+R1	Support Arg1:T1019 Arg2:T1017	
+R2	Support Arg1:T1018 Arg2:T1017	
+R3	Support Arg1:T1021 Arg2:T1022	
+R4	Support Arg1:T1022 Arg2:T1020	
+R5	Support Arg1:T1025 Arg2:T1024	
+R6	Support Arg1:T1027 Arg2:T1024	
+R7	Support Arg1:T1026 Arg2:T1027	
+R8	Support Arg1:T1031 Arg2:T1028	
+R9	Support Arg1:T1030 Arg2:T1028	
+R10	Support Arg1:T1028 Arg2:T1024	
+R11	Support Arg1:T1029 Arg2:T1027	
+R12	Support Arg1:T1024 Arg2:T1023	
+R13	Attack Arg1:T1034 Arg2:T1017	

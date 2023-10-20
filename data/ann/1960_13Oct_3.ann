@@ -1,0 +1,81 @@
+T62	Claim 726 833	I believe that we should move full time on our missile production, particularly on Minuteman and on Polaris
+T63	Premise 835 858	It may be a long period
+T64	Claim 874 905	we must get started immediately
+T65	Claim 993 1077	I feel that another effort should be made by a new Administration in January of 1961
+T66	Premise 1079 1244	to renew negotiations with the Soviet Union and see whether it's possible to come to some conclusion which will lessen the chances of contamination of the atmosphere
+T67	Premise 1250 1332	also lessen the chances that other powers will begin to possess a nuclear capacity
+T68	Premise 1334 1519	There are indications, because of new inventions, that ten, fifteen, or twenty nations will have a nuclear capacity - including Red China - by the end of the presidential office in 1964
+T69	Premise 1521 1546	This is extremely serious
+T70	Premise 1548 1599	There have been many wars in the history of mankind
+T71	Claim 1605 1761	to take a chance uh - now be - and not make every effort that we could make to provide for some control over these weapons, I think would be a great mistake
+T72	Premise -1 103; -1 103	to take a chance not make every effort that we could make to provide for some control over these weapons
+T73	Claim 1833 1967	I don't feel a real effort has been made an this very sensitive subject, not only of nuclear controls, but also of general disarmament
+T74	Premise 1969 2070	Less than a hundred people have been working throughout the entire federal government on this subject
+T75	Claim 2076 2143	I believe it's been reflected in our success and failures at Geneva
+T76	Claim 2150 2168	we may not succeed
+T77	Premise 2170 2224	The Soviet Union may not agree to an inspection system
+T78	Premise 2764 2813	I think the fate not only of our own civilization
+T79	Premise 2819 2917	I think the fate of world and the future of the human race is involved in preventing a nuclear war
+T80	Claim 2671 2726	If we cannot succeed, then we must strengthen ourselves
+T81	Claim 2651 2669	These must be done
+T82	Claim -1 256; -1 256	I hope the next Administration will - make one last great effort to provide for control of nuclear testing, control of nuclear weapons, if possible, control of outer space, free from weapons, and also to begin again the subject of general disarmament levels
+T84	Claim 3960 4043	under no circumstances must the United States ever make an agreement based on trust
+T85	Claim 3920 3954	Yes, we should make a great effort
+T86	Premise 3494 3574	It isn't a question of the number of people who are working in an Administration
+T87	Premise 3576 3607	It's a question of who they are
+T88	Premise 3609 3722	This has been one of the highest level operations in the whole State Department right under the President himself
+T89	Claim 3214 3284	we must move forward in every possible way to reduce the danger of war
+T90	Claim 3286 3323	to move toward controlled disarmament
+T91	Claim 3325 3341	to control tests
+T92	Premise 3377 3444	when Senator Kennedy suggests that we haven't been making an effort
+T93	Claim 3446 3492	he simply doesn't know what he's talking about
+T94	Claim 4045 4080	There must be an absolute guarantee
+T95	Claim 4724 4778	the United States will not defend the offshore islands
+T96	Premise 4442 4559	that amendment put the Senate of the United States on record with a majority of the Senator's own party voting for it
+T97	Premise 4572 4691	the majority of Republicans - put them on record - against the very position that the Senator takes now of surrendering
+T98	Premise 4379 4436	which passed the Senate overwhelmingly, seventy to twelve
+T61	Claim 535 591	I think we should st- strengthen our conventional forces
+T467	Premise 597 719	we should attempt in January, February, and March of next year to increase the airlift capacity of our conventional forces
+R1	Support Arg1:T467 Arg2:T61	
+R3	Support Arg1:T63 Arg2:T64	
+R4	Support Arg1:T66 Arg2:T65	
+R5	Support Arg1:T67 Arg2:T65	
+R7	Support Arg1:T69 Arg2:T68	
+R9	Support Arg1:T70 Arg2:T69	
+R8	Support Arg1:T74 Arg2:T73	
+R11	Support Arg1:T75 Arg2:T73	
+R12	Support Arg1:T77 Arg2:T76	
+R13	Support Arg1:T76 Arg2:T80	
+R18	Support Arg1:T92 Arg2:T93	
+R19	Attack Arg1:T93 Arg2:T73	
+R20	Attack Arg1:T86 Arg2:T74	
+R21	Support Arg1:T87 Arg2:T86	
+R22	Support Arg1:T84 Arg2:T94	
+R23	Support Arg1:T96 Arg2:T97	
+R24	Support Arg1:T97 Arg2:T95	
+R25	Support Arg1:T98 Arg2:T96	
+R26	Support Arg1:T90 Arg2:T89	
+R27	Support Arg1:T91 Arg2:T89	
+R28	Support Arg1:T88 Arg2:T93	
+R29	Attack Arg1:T85 Arg2:T92	
+R30	Attack Arg1:T85 Arg2:T84	
+R31	Support Arg1:T85 Arg2:T89	
+T1	Claim 2273 2322	It may be necessary for us to begin testing again
+T2	Premise 2226 2271	We may be able to get satisfactory assurances
+R34	Support Arg1:T2 Arg2:T1	
+T3	Claim 2430 2649	make one last great effort to provide for control of nuclear testing, control of nuclear weapons, if possible, control of outer space, free from weapons, and also to begin again the subject of general disarmament levels
+R35	Equivalent Arg1:T81 Arg2:T3	
+R32	Support Arg1:T65 Arg2:T71	
+R36	Attack Arg1:T71 Arg2:T73	
+R37	Attack Arg1:T65 Arg2:T76	
+R38	Support Arg1:T65 Arg2:T3	
+T4	Premise 3751 3872	extra mile and then some in making offers to the Soviet Union on control of tests, on disarmament, and in every other way
+R2	Support Arg1:T68 Arg2:T65	
+R6	Support Arg1:T1 Arg2:T3	
+R10	Equivalent Arg1:T3 Arg2:T65	
+T5	Claim 2732 2755	I would make the effort
+R17	Equivalent Arg1:T5 Arg2:T3	
+R33	Support Arg1:T78 Arg2:T5	
+R14	Support Arg1:T79 Arg2:T5	
+R15	Support Arg1:T5 Arg2:T80	
+R16	Support Arg1:T4 Arg2:T93	

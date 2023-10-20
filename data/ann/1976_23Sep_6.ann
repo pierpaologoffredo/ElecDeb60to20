@@ -1,0 +1,97 @@
+T234	Claim 789 864	in the uh - last two years, as I indicated before, we had a very tough time
+T235	Premise 866 922	We were faced with uh - heavy inflation, over 12 percent
+T236	Premise 924 967	we were faced with substantial unemployment
+T237	Claim 1327 1398	The net result is we are going to have some improvement in our receipts
+T238	Claim 1404 1457	I think we'll have some decrease in our disbursements
+T239	Claim 1459 1512	We expect to have a lower deficit in fiscal year 1978
+T240	Premise 973 1092	in the last uh - twenty-four months we've turned the economy around and we've brought inflation down to under 6 percent
+T241	Premise 1129 1204	we have added employment of about four million in the last seventeen months
+T242	Premise 1224 1325	we have eighty-eight million people working in America today - the most in the history of the country
+T243	Claim 1616 1792	we can in a moderate way increase, as I recommended, over the next ten years a new parks program that would cast a billion and a half dollars, doubling our national park system
+T244	Claim 1980 2042	We believe that we can uh do a better job in the area of crime
+T245	Premise 2048 2158	that requires a tougher sentencing, mandatory certain prison sentences for those who violate our criminal laws
+T246	Claim 2160 2224	We - uh believe that uh you can revise the federal criminal code
+T247	Premise 2226 2273	which has not been revised in a good many years
+T249	Premise 1794 1902	We have recommended that in the h- housing program we can reduce down payments and moderate monthly payments
+T250	Premise 1908 1978	that doesn't cost any more as far as the federal treasury is concerned
+T251	Premise 2275 2307	That doesn't cost any more money
+T252	Claim 2826 3034	as we look at the quality-of-life programs - jobs, health, education, crime, recreation - we feel that as we move forward with a healthier economy, we can absorb the small necessary cost that will be required
+T253	Premise 2515 2686	It's my understanding that Governor Carter has indicated that uh - he approves of a $30 billion uh - expenditure by the federal government as far as education is concerned
+T254	Premise 2688 2773	At the present time we're spending roughly three billion five hundred million dollars
+T255	Premise 2775 2820	I don't know where that money would come from
+T256	Claim 2430 2513	We feel that uh - in education we can have a slight increase - not a major increase
+T257	Claim 2309 2428	We believe that you can uhh - do something more effectively with a moderate increase in money in the drug abuse program
+T258	Claim 3451 3541	we can still have a balanced budget which I will submit to the Congress in January of 1978
+T259	Premise 3315 3449	with the programs that I have recommended, the additional $10 billion tax cut, with the moderate increases in the quality-of-life area
+T260	Claim 3543 3620	We won't wait one year or two years longer, as Governor Carter uh - indicates
+T261	Claim 4106 4195	I cannot, and would not, endorse the kind of program that uh - Governor Carter recommends
+T262	Premise 3622 3757	As the economy improves, and it is improving, our gross national product this year will average about 6 percent increase over last year
+T263	Premise 3759 3873	We will have the lower rate of inflation for the uh - calendar year this year - something slightly under 6 percent
+T264	Premise 3875 3896	Employment will be up
+T265	Premise 3898 3917	revenues will be up
+T266	Premise 3919 4100	We'll keep the lid on some of these programs that we can hold down as we have a little extra money to spend for those quality-of-life programs which I think are needed and necessary
+T267	Premise 4197 4308	He endorses the Democratic uh - platform which, as I read it, calls for approximately sixty additional programs
+T268	Claim 4474 4526	Those programs you cannot afford and give tax relief
+T269	Premise 4310 4472	We estimate that those programs would add a hundred billion dollars minimum and probably two hundred billion dollars - uhh maximum each year to the federal budget
+T270	Claim 4528 4655	We feel that you can hold the line and restrain federal spending, give a tax reduction and still have a balanced budget by 1978
+T271	Claim 4698 4768	Mr. Ford takes the uh - same attitude that the Republicans always take
+T272	Claim 4770 4904	In the last three months before an election, they're always for the programs that they always fight the other three-and-one-half years
+T273	Premise 4911 4979	I remember when uh - Herbert Hoover was against uh - jobs for people
+T274	Premise 4981 5035	I remember when Alf Landon was against Social Security
+T275	Premise 5045 5192	later President Nixon, sixteen years ago, was telling the public that John Kennedy's proposals would bankrupt the country and would double the cost
+T276	Claim 5987 6048	This uh - talking about more people at work - uh is distorted
+T279	Premise 6234 6333	their fathers didn't make enough to pay the increased cost of uh - food and uh housing and clothing
+T280	Claim 6822 6948	talk about the future and a drastic change or conversion on the part of Mr. Ford as of last minute is one that just doesn't go
+T281	Premise 6778 6817	This is the kind of record that's there
+T282	Claim 6576 6661	we've had a negative growth in our - in our national economy measured in real dollars
+T283	Premise 6663 6776	The take-home pay of a worker in this country is actually less now than it was in 1968 - measured in real dollars
+T284	Premise 6335 6452	We have uh - in this last uh two years alone a hundred and twenty billion dollars total deficits under President Ford
+T285	Premise 6462 6574	at the same time we've had, in the last eight years, a doubling in the number of bankruptcies for small business
+T286	Premise 5307 5516	we had last year a $65 billion deficit - the largest deficit in the history of our country - more of a deficit spending than we had in the entire eight-year period under President Johnson and President Kennedy
+T287	Premise 5518 5621	We've got five hundred thousand more Americans out of jobs today than were out of work three months ago
+T288	Premise 5626 5843	since Mr. Ford's been in office two years, we've had a 50 percent increase in unemployment from five million people out of work to two and a half million more people out of work and a total of seven and a half million
+T289	Premise 5909 5986	He's got four times the size of the deficits that Mr. Nixon even had himself.
+R1	Support Arg1:T235 Arg2:T234	
+R2	Support Arg1:T236 Arg2:T234	
+R3	Support Arg1:T238 Arg2:T237	
+R4	Support Arg1:T237 Arg2:T239	
+R5	Support Arg1:T250 Arg2:T249	
+R6	Support Arg1:T245 Arg2:T244	
+R7	Support Arg1:T241 Arg2:T242	
+R8	Support Arg1:T246 Arg2:T244	
+R9	Support Arg1:T247 Arg2:T246	
+R10	Support Arg1:T251 Arg2:T246	
+R11	Support Arg1:T254 Arg2:T255	
+R12	Support Arg1:T253 Arg2:T255	
+R13	Support Arg1:T255 Arg2:T256	
+R14	Support Arg1:T252 Arg2:T256	
+R15	Support Arg1:T267 Arg2:T261	
+R17	Support Arg1:T268 Arg2:T261	
+R18	Support Arg1:T269 Arg2:T268	
+R19	Support Arg1:T272 Arg2:T271	
+R20	Support Arg1:T273 Arg2:T272	
+R21	Support Arg1:T274 Arg2:T272	
+R22	Support Arg1:T275 Arg2:T272	
+T1	Claim 5194 5300	The best thing to do is to look at the record uh - of Mr. Ford's Administration and Mr. Nixon's before his
+R23	Support Arg1:T286 Arg2:T1	
+R24	Support Arg1:T287 Arg2:T1	
+R25	Support Arg1:T288 Arg2:T1	
+R26	Support Arg1:T1 Arg2:T272	
+T2	Claim 5845 5907	We've also got uh - a comparison between himself and Mr. Nixon
+R27	Support Arg1:T289 Arg2:T2	
+T3	Premise 6057 6225	with a 14 percent increase in the cost of living in the last uh - two years, it means that - that women and young people have had to go to work when they didn't want to
+R28	Support Arg1:T279 Arg2:T3	
+R29	Support Arg1:T3 Arg2:T276	
+R30	Support Arg1:T284 Arg2:T1	
+R31	Support Arg1:T285 Arg2:T1	
+R32	Support Arg1:T1 Arg2:T280	
+R33	Support Arg1:T283 Arg2:T1	
+R34	Support Arg1:T240 Arg2:T237	
+R35	Support Arg1:T242 Arg2:T237	
+T4	Premise 1514 1563	We feel that with this improvement in the economy
+T5	Premise 1565 1615	we feel with more receipts and fewer disbursements
+R36	Support Arg1:T4 Arg2:T243	
+R37	Support Arg1:T5 Arg2:T243	
+R38	Support Arg1:T262 Arg2:T258	
+R39	Support Arg1:T263 Arg2:T258	
+R40	Support Arg1:T266 Arg2:T258	

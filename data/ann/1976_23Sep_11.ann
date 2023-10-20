@@ -1,0 +1,28 @@
+T521	Claim 984 1101	the president ought to have a chance to appoint a chairman of the Federal Reserve Board to have a coterminous uh term
+T522	Claim 1103 1163	in other words, both of 'em serve the same four - four years
+T526	Claim 1466 1587	I think that Mr. uh - Burns did take a typical, erroneous Republican attitude in the 1973 year when inflation was so high
+T527	Premise 1589 1729	They assumed that the uh - inflation rate was because of excessive demand and uh - therefore put into effect tight constraint on the economy
+T528	Premise 1731 1923	very high interest rates, which is typical also of the Republican administration, uh - tried to increase the uh - the tax uh - payments by individuals, and cut the tax payments by corporations
+T529	Claim 1925 1959	I would have uh - done it opposite
+T530	Claim 1961 2217	I think the uh - problem should've been addressed by increasing productivity, by having uh - put - put people back to work so they could purchase more goods, lower income taxes on individuals, perhaps raise them, if necessary, on corporations in comparison
+T531	Claim 2228 2286	Mr. Burns uh - in that respect made a very serious mistake
+T532	Claim 2288 2373	I would not wanna destroy the - the independence of the uh Federal Reserve - uh Board
+T533	Claim 2379 2667	I do think we ought to have a cohesive economic policy with at - at least the chairman of the Federal Reserve Board and the president's terms being uh - the same and letting the Congress, of course, be the third uh - entity with uh - with independence subject only to the president's veto
+T523	Claim 2909 2950	we have had a responsible monetary policy
+T524	Premise 2716 2779	The chairman of the Federal Reserve Board should be independent
+T525	Premise 2781 2861	Fortunately, he has been during Democratic as well as Republican administrations
+T534	Premise 2955 3092	the Federal Reserve Board indicated that the supply of money would be held between four to four and a half and seven and seven and a half
+T535	Claim 3094 3244	They have done a good job in integrating the money supply with the uh - fiscal policy of the uh - executive and legislative branches of the government
+T536	Premise 3246 3377	It would be catastrophic if the chairman of the Federal Reserve Board became the tool of the political uh - party that was in power
+T537	Claim 3379 3528	It's important for our future uhh - economic security that that job be nonpolitical and uh - separate from the executive and the Legislative branches
+R1	Support Arg1:T522 Arg2:T521	
+R2	Support Arg1:T527 Arg2:T526	
+R3	Support Arg1:T528 Arg2:T526	
+R4	Support Arg1:T530 Arg2:T529	
+R5	Support Arg1:T531 Arg2:T529	
+R6	Support Arg1:T529 Arg2:T526	
+R7	Support Arg1:T524 Arg2:T532	
+R8	Support Arg1:T525 Arg2:T524	
+R9	Support Arg1:T535 Arg2:T523	
+R10	Support Arg1:T536 Arg2:T524	
+R11	Support Arg1:T536 Arg2:T537	

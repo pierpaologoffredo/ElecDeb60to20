@@ -1,0 +1,71 @@
+T871	Claim 587 669	you probably detected my frustration with their attitude about the American people
+T872	Premise 808 847	He's talking about my mother and father
+T873	Premise 737 805	Romney points out 47 percent of the people won't take responsibility
+T874	Premise 671 735	My friend says that 30 percent of the American people are takers
+T875	Premise 849 930	He's talking about the places I grew up in, my neighbors in Scranton and Claymont
+T876	Premise 958 1016	he's talking about the people that have built this country
+T877	Claim 1051 1090	all they're looking for is an even shot
+T878	Premise 1092 1140	Whenever you give them the shot, they've done it
+T879	Premise 1142 1157	They've done it
+T880	Premise 1159 1227	Whenever you've leveled the playing field, they've been able to move
+T881	Claim 1233 1272	they want a little bit of peace of mind
+T882	Claim 1279 1541	the president and I are not going to rest until that playing field is leveled, they, in fact, have a clear shot, and they have peace of mind, until they can turn to their kid and say with a degree of confidence, Honey, it's going to be OK. It's going to be OK.
+T883	Claim 1944 2064	His economic agenda, more spending, more borrowing, higher taxes, a government takeover of health care. It's not working
+T884	Premise 1887 1921	President Obama, he had his chance
+T885	Premise 1923 1942	He made his choices
+T886	Claim 2066 2104	It's failed to create the jobs we need
+T887	Premise 2107 2167	Twenty-three million Americans are struggling for work today
+T888	Premise 2169 2212	Fifteen percent of Americans are in poverty
+T889	Claim -1 53; -1 53	Mitt Romney is uniquely qualified to get this job done
+T891	Claim 2755 2803	Mitt Romney and I will not duck the tough issues
+T892	Claim 2809 2857	we will not blame others for the next four years
+T893	Claim 2859 2886	We will take responsibility
+T894	Claim 2892 2942	we will not try to replace our founding principles
+T895	Claim 2944 2983	We will reapply our founding principles
+T896	Claim 2324 2390	We're offering real reforms for a real recovery for every American
+T897	Claim 2214 2257	This is not what a real recovery looks like
+T1	Claim 300 381	The fact is that we're in a situation where we inherited a god-awful circumstance
+T2	Premise 383 409	People are in real trouble
+R1	Support Arg1:T2 Arg2:T1	
+T3	Claim 411 484	We acted to move to bring relief to the people who need the most help now
+R2	Support Arg1:T1 Arg2:T3	
+T4	Claim 493 576	and in the process, we -- in case you haven't noticed, we have strong disagreements
+R3	Support Arg1:T871 Arg2:T4	
+R4	Support Arg1:T874 Arg2:T871	
+R5	Support Arg1:T873 Arg2:T871	
+R6	Support Arg1:T872 Arg2:T871	
+R7	Support Arg1:T875 Arg2:T871	
+R8	Support Arg1:T876 Arg2:T871	
+R9	Support Arg1:T878 Arg2:T877	
+R10	Support Arg1:T880 Arg2:T877	
+R11	Support Arg1:T877 Arg2:T882	
+T5	Claim 1542 1571	That's what this is all about
+R12	Support Arg1:T882 Arg2:T5	
+T6	Claim 1767 1792	We face a very big choice
+R13	Support Arg1:T884 Arg2:T6	
+R14	Support Arg1:T885 Arg2:T884	
+R15	Support Arg1:T886 Arg2:T883	
+R16	Support Arg1:T887 Arg2:T886	
+R17	Support Arg1:T888 Arg2:T883	
+R18	Support Arg1:T883 Arg2:T897	
+T7	Claim 2259 2277	You deserve better
+T8	Claim 2279 2322	Mitt Romney and I want to earn your support
+R19	Support Arg1:T8 Arg2:T7	
+R20	Support Arg1:T896 Arg2:T8	
+T9	Premise 2408 2494	his experience, his ideas, his solutions -- is uniquely qualified to get this job done
+R21	Support Arg1:T9 Arg2:T8	
+T10	Claim 2608 2627	The choice is clear
+T11	Premise 2629 2688	a stagnant economy that promotes more government dependency
+T12	Premise 2694 2753	dynamic, growing economy that promotes opportunity and jobs
+R22	Support Arg1:T11 Arg2:T10	
+R23	Support Arg1:T12 Arg2:T10	
+R24	Support Arg1:T891 Arg2:T893	
+R25	Support Arg1:T892 Arg2:T893	
+R26	Support Arg1:T895 Arg2:T894	
+T13	Claim 2986 3036	The choice is clear, and the choice rests with you
+T14	Claim 3038 3066	And we ask you for your vote
+R27	Support Arg1:T13 Arg2:T14	
+R28	Support Arg1:T894 Arg2:T13	
+R29	Support Arg1:T893 Arg2:T13	
+R30	Support Arg1:T7 Arg2:T13	
+R31	Support Arg1:T897 Arg2:T13	

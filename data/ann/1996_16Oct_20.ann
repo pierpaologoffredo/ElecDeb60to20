@@ -1,0 +1,67 @@
+T930	Claim 521 587	no doubt about it, our founding fathers had a great deal of wisdom
+T931	Claim 1054 1227	the President of the United States, the highest office in the world, the most important office in the world, has a responsibility to young people, as we talked about earlier
+T932	Claim 984 1042	Honor, duty, and country, that's what America is all about
+T933	Premise 1258 1313	when it comes to public ethics, he has a responsibility
+T934	Premise 1319 1452	you have 30-some in your administration, either left or being investigated or in jail or whatever, then you've got an ethical problem
+T935	Premise 1454 1475	This is public ethics
+T936	Premise 1477 1513	I'm not talking about private ethics
+T937	Premise 1544 1677	When you have 900 files gathered up by some guy who is a bouncer in a bar and hired a security officer to collect files, in Watergate
+T938	Premise 1681 1751	I know a person who went to jail for looking at one file, one FBI file
+T939	Claim 1868 1908	The president has a great responsibility
+T940	Premise 1910 1967	That's one that I understand and certainly will carry out
+T941	Claim 1979 2031	This is the most religious, great country in history
+T942	Claim 1753 1797	There are 900 sequestered in the White House
+T943	Premise 1821 1866	Why should they be rifling through your files
+T944	Claim 2064 2164	we have the most religious freedom of any country in the world, including the freedom not to believe
+T945	Premise 2174 2237	we have all these people just up the road in Los Angeles County
+T946	Premise 2239 2329	we have people from 150 different racial and ethnic groups and tons of different religions
+T947	Premise 2335 2398	the fundamental tenets of virtually every religion are the same
+T948	Claim 2404 2534	what I try to do is to support policies that would respect religion and then help parents inculcate those values to their children
+T949	Claim 2580 2656	One of my proudest moments was signing the Religious Freedom Restoration Act
+T950	Premise 2658 2757	that says the government has got to bend over backwards before we interfere with religious practice
+T951	Claim 2762 2843	I changed the Justice Department's effort to get a church to pay back a man tithe
+T952	Premise 2853 2884	he was bankrupt when he gave it
+T953	Claim 2886 2974	I have supported character education programs in our schools, drug-free schools programs
+T954	Claim 2976 3130	I supported giving parents a V-chip on their television so if they don't want their young kids to watch things they shouldn't watch, they wouldn't have to
+T955	Premise 3132 3171	That is the kind of thing we have to do
+T956	Premise 3173 3257	give people like you and our families the power to give those values to our children
+T957	Claim 3266 3339	I think it's -- before I came in, my wife and daughter and I had a prayer
+T958	Premise 3349 3382	it's God's will, whatever happens
+T959	Premise 3384 3399	It's God's will
+T960	Premise 3401 3413	it'll happen
+T961	Claim 3415 3508	The constitutional amendment for voluntary prayer in school, in my view would be a great idea
+T962	Claim 3510 3522	I support it
+T963	Claim 3524 3548	the president opposes it
+T964	Claim 3550 3653	It seems to me the president, whoever the president may be, this is one of his highest responsibilities
+T965	Premise 3655 3742	People look to the President of the United States more than any other person in America
+T966	Premise 3748 3779	that's the way it's always been
+T967	Premise 3785 3817	that's the way it always will be
+R1	Support Arg1:T932 Arg2:T930	
+R2	Support Arg1:T931 Arg2:T932	
+R3	Support Arg1:T933 Arg2:T931	
+R4	Support Arg1:T936 Arg2:T935	
+R5	Support Arg1:T935 Arg2:T934	
+R6	Support Arg1:T934 Arg2:T933	
+R7	Support Arg1:T937 Arg2:T938	
+R8	Support Arg1:T938 Arg2:T942	
+R9	Support Arg1:T943 Arg2:T942	
+R10	Support Arg1:T939 Arg2:T931	
+R11	Support Arg1:T940 Arg2:T939	
+R12	Support Arg1:T947 Arg2:T948	
+R13	Support Arg1:T946 Arg2:T948	
+R14	Support Arg1:T945 Arg2:T948	
+R15	Support Arg1:T950 Arg2:T949	
+R16	Support Arg1:T952 Arg2:T951	
+R17	Support Arg1:T955 Arg2:T954	
+R18	Support Arg1:T956 Arg2:T954	
+R19	Support Arg1:T951 Arg2:T949	
+R20	Support Arg1:T953 Arg2:T949	
+R21	Support Arg1:T954 Arg2:T949	
+R22	Support Arg1:T958 Arg2:T957	
+*	Equivalent T959 T958
+R23	Support Arg1:T959 Arg2:T960	
+R24	Attack Arg1:T962 Arg2:T949	
+R25	Support Arg1:T963 Arg2:T949	
+R26	Support Arg1:T965 Arg2:T964	
+R27	Support Arg1:T967 Arg2:T965	
+R28	Support Arg1:T966 Arg2:T965	

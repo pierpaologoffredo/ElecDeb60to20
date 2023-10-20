@@ -1,0 +1,125 @@
+T302	Claim 388 419	We're not going to have a draft
+T303	Premise 429 458	The all- volunteer army works
+T304	Premise 460 509	It works particularly when we pay our troops well
+T305	Premise 511 605	It works when we make sure they've got housing, like we have done in the last military budgets
+T306	Claim 608 686	An all-volunteer army is best suited to fight the new wars of the 21st century
+T307	Premise 688 769	which is to be specialized and to find these people as they hide around the world
+T308	Claim 772 805	We don't need mass armies anymore
+T309	Claim 807 899	One of the things we've done is we've taken the -- we're beginning to transform our military
+T310	Premise 921 1000	we're moving troops out of Korea and replacing them with more effective weapons
+T311	Premise 1002 1076	We don't need as much manpower on the Korean Peninsula to keep a deterrent
+T312	Premise 1079 1178	In Europe, we have massed troops as if the Soviet Union existed and was going to invade into Europe
+T313	Premise 1217 1297	we're moving troops out of Europe and replacing it with more effective equipment
+T314	Claim 1184 1208	those days are over with
+T315	Premise 1370 1437	we're withdrawing manpower so they can be stationed here in America
+T316	Premise 1439 1463	so there's less rotation
+T317	Claim 1536 1608	we'll be more likely to be able to keep people in the all-volunteer army
+T318	Premise 1465 1500	so life is easier on their families
+T319	Claim 1611 1696	One of the more important things we're doing in this administration is transformation
+T320	Premise 1698 1744	There are some really interesting technologies
+T321	Premise 1747 1863	For instance, we're flying unmanned vehicles that can send real- time messages back to stations in the United States
+T322	Premise 1865 1884	That saves manpower
+T323	Premise 1890 1908	it saves equipment
+T324	Claim 1930 1979	we can target things easier and move more quickly
+T325	Claim 1993 2061	we need to be lighter and quicker and more facile and highly trained
+T326	Claim 2105 2166	We're not going to have a draft so long as I am the president
+T327	Claim 2230 2253	I don't support a draft
+T328	Claim 2864 2912	our military is overextended under the president
+T329	Premise 2372 2673	I am very proud in this race to have the support of General John Shalikashvili, former chairman of the Joint Chiefs of Staff; Admiral William Crowe, former chairman of the Joint Chiefs of Staff; General Tony McPeak, who ran the air war for the president's father and did a brilliant job, supporting me
+T330	Premise 2915 2978	Our Guard and reserves have been turned into almost active duty
+T331	Premise 2980 3027	You've got people doing two and three rotations
+T332	Premise 3029 3110	You've got stop-loss policies, so people can't get out when they were supposed to
+T333	Premise 3112 3150	You've got a back-door draft right now
+T334	Premise 3157 3192	a lot of our military are underpaid
+T335	Premise 3194 3226	These are families that get hurt
+T336	Claim 3228 3253	It hurts the middle class
+T337	Claim 3255 3275	It hurts communities
+T338	Premise 3285 3315	these are our first responders
+T339	Premise 3321 3338	they're called up
+T340	Premise 3344 3377	they're over there, not over here
+T341	Claim 3385 3443	I'm going to add 40,000 active duty forces to the military
+T342	Claim 3449 3538	I'm going to make people feel good about being safe in our military, and not overextended
+T343	Claim 3548 3664	I'm going to run a foreign policy that actually does what President Reagan did, President Eisenhower did, and others
+T344	Claim 3667 3697	We're going to build alliances
+T345	Claim 3699 3733	We're not going to go unilaterally
+T346	Claim 3735 3786	We're not going to go alone like this president did
+T347	Claim 4306 4386	It denigrates an alliance to say we're going alone, to discount their sacrifices
+T348	Claim 4388 4456	You cannot lead an alliance if you say, you know, you're going alone
+T349	Premise 4103 4140	You tell Tony Blair we're going alone
+T350	Premise 4142 4175	Tell Tony Blair we're going alone
+T351	Premise 4177 4217	Tell Silvio Berlusconi we're going alone
+T352	Premise 4219 4274	Tell Aleksander Kwasniewski of Poland we're going alone
+T353	Premise 4276 4304	There are 30 countries there
+T354	Premise 4462 4475	people listen
+T355	Premise 4477 4504	They're sacrificing with us
+T356	Claim 4548 4596	countries are leaving the coalition, not joining
+T357	Premise 4598 4626	Eight countries have left it
+T358	Premise 4628 4843	If Missouri, just given the number of people from Missouri who are in the military over there today, were a country, it would be the third largest country in the coalition, behind Great Britain and the United States
+T359	Claim 4846 4874	That's not a grand coalition
+T360	Premise 4877 4922	Ninety percent of the casualties are American
+T361	Premise 4924 4982	Ninety percent of the costs are coming out of your pockets
+T362	Claim 5010 5035	My plan does a better job
+T363	Claim 4985 5008	I could do a better job
+T364	Claim 5052 5087	I'll be a better commander in chief
+R1	Support Arg1:T303 Arg2:T304	
+R2	Support Arg1:T304 Arg2:T305	
+R3	Support Arg1:T305 Arg2:T306	
+R4	Attack Arg1:T303 Arg2:T302	
+R5	Attack Arg1:T306 Arg2:T302	
+R6	Support Arg1:T307 Arg2:T306	
+R7	Support Arg1:T308 Arg2:T306	
+R8	Support Arg1:T310 Arg2:T309	
+R9	Support Arg1:T309 Arg2:T308	
+R10	Support Arg1:T311 Arg2:T310	
+R11	Attack Arg1:T314 Arg2:T312	
+R12	Support Arg1:T314 Arg2:T308	
+R13	Support Arg1:T313 Arg2:T309	
+R14	Attack Arg1:T313 Arg2:T312	
+R15	Support Arg1:T316 Arg2:T315	
+R16	Support Arg1:T318 Arg2:T315	
+R17	Support Arg1:T315 Arg2:T317	
+R18	Support Arg1:T309 Arg2:T319	
+R19	Support Arg1:T320 Arg2:T321	
+R20	Support Arg1:T322 Arg2:T321	
+R21	Support Arg1:T323 Arg2:T321	
+R22	Support Arg1:T321 Arg2:T319	
+R23	Support Arg1:T324 Arg2:T325	
+R24	Support Arg1:T325 Arg2:T319	
+R25	Support Arg1:T302 Arg2:T326	
+R26	Support Arg1:T327 Arg2:T326	
+R27	Support Arg1:T329 Arg2:T328	
+R28	Support Arg1:T330 Arg2:T328	
+R29	Support Arg1:T331 Arg2:T328	
+R30	Support Arg1:T332 Arg2:T328	
+R31	Support Arg1:T333 Arg2:T328	
+R32	Support Arg1:T334 Arg2:T328	
+R33	Support Arg1:T335 Arg2:T328	
+R34	Support Arg1:T335 Arg2:T336	
+R35	Support Arg1:T336 Arg2:T337	
+R36	Support Arg1:T338 Arg2:T337	
+R37	Support Arg1:T340 Arg2:T337	
+R38	Support Arg1:T341 Arg2:T342	
+R39	Support Arg1:T343 Arg2:T342	
+R40	Attack Arg1:T342 Arg2:T328	
+R41	Support Arg1:T346 Arg2:T343	
+R42	Support Arg1:T344 Arg2:T345	
+R43	Support Arg1:T345 Arg2:T346	
+R44	Support Arg1:T349 Arg2:T350	
+R45	Support Arg1:T350 Arg2:T351	
+R46	Support Arg1:T351 Arg2:T352	
+R47	Support Arg1:T352 Arg2:T353	
+R48	Support Arg1:T353 Arg2:T347	
+R49	Support Arg1:T348 Arg2:T347	
+R50	Support Arg1:T354 Arg2:T355	
+R51	Support Arg1:T355 Arg2:T347	
+R52	Attack Arg1:T347 Arg2:T346	
+R53	Attack Arg1:T356 Arg2:T353	
+R54	Support Arg1:T357 Arg2:T356	
+R55	Support Arg1:T358 Arg2:T359	
+R56	Attack Arg1:T359 Arg2:T353	
+R57	Support Arg1:T360 Arg2:T361	
+R58	Support Arg1:T361 Arg2:T359	
+R59	Support Arg1:T360 Arg2:T359	
+R60	Attack Arg1:T363 Arg2:T356	
+R61	Support Arg1:T362 Arg2:T363	
+R62	Support Arg1:T363 Arg2:T364	

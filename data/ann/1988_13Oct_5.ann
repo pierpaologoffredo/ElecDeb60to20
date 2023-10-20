@@ -1,0 +1,135 @@
+T1	Premise 788 897	If I knew of three new weapons systems that I thought were purely waste and weren't protected by the Congress
+T2	Claim 899 929	they wouldn't be in the budget
+T3	Claim 931 962	They would not be in the budget
+R1	Equivalent Arg1:T2 Arg2:T3	
+R2	Support Arg1:T1 Arg2:T2	
+T4	Premise 986 1178	I'll give you one, that HMET, that heavy truck, that's cost what is it $850 million and the Pentagon didn't request it and, yet, a member of Congress, a very powerful one, put it in the budget
+T5	Claim 1180 1251	I think we can save money through this whole very sophisticated concept
+T6	Premise 1266 1316	I know you do understand of competitive strategies
+T7	Premise 1318 1378	It is new and it is very very different than what's happened
+T8	Premise 1384 1430	it's not quite ready to be totally implemented
+T9	Claim 1436 1455	it's very important
+T10	Premise 1457 1610	I think we can say, through the Packard Commission Report and I'm very proud that David Packard, the originator of that report, is strongly supporting me
+T11	Claim 1616 1682	it's not a question of saying our budget is full of a lot of waste
+T12	Claim 1684 1704	I don't believe that
+T13	Claim 1706 1721	I do think this
+T14	Premise 1723 1823	We're in the serious stages of negotiation with the Soviet Union on the strategic arms control talks
+T15	Premise 1829 1910	we're protecting a couple of options in terms of modernizing our strategic forces
+T16	Claim 1912 2021	My Secretary of Defense is going to have to make a very difficult decision in which system to go forward with
+T17	Premise 2027 2057	we are protecting both of them
+T18	Premise 2059 2098	We are moving forward with negotiations
+T19	Claim 2113 2235	I just think it would be dumb negotiating policy with the Soviets to cut out one or the other of the two options right now
+T20	Premise 2237 2264	The Soviets are modernizing
+T21	Premise 2266 2292	They continue to modernize
+T22	Claim 2297 2359	we can't simply we've got enough nuclear weapons, let's freeze
+T23	Claim 2361 2377	We can't do that
+T24	Claim 2379 2408	We have to have modernization
+T25	Premise 2421 2534	if we achieve the 50 percent reduction in strategic weapons that our President is taking the leadership to attain
+T26	Claim 2545 2575	that's the way I'd reply to it
+T27	Claim 2580 2641	I believe we can have the strongest and best defense possible
+T28	Premise 2642 2657	if we modernize
+T29	Premise 2659 2703	if we go forward with competitive strategies
+T30	Premise 2708 2764	if we do follow through on the Packard Commission report
+R3	Support Arg1:T4 Arg2:T5	
+R4	Support Arg1:T15 Arg2:T16	
+R5	Support Arg1:T14 Arg2:T16	
+R6	Support Arg1:T17 Arg2:T16	
+R7	Support Arg1:T19 Arg2:T22	
+R8	Support Arg1:T20 Arg2:T22	
+R9	Support Arg1:T21 Arg2:T22	
+R10	Support Arg1:T18 Arg2:T19	
+R11	Support Arg1:T16 Arg2:T22	
+R12	Equivalent Arg1:T23 Arg2:T22	
+R13	Support Arg1:T22 Arg2:T24	
+R14	Support Arg1:T25 Arg2:T24	
+R15	Support Arg1:T28 Arg2:T27	
+R16	Support Arg1:T29 Arg2:T27	
+R17	Support Arg1:T30 Arg2:T27	
+R18	Support Arg1:T24 Arg2:T27	
+T31	Premise 2825 2913	we've just had another example of why the Vice President's mathematics just don't add up
+T32	Claim 2974 3093	there's no way that we can build all of the weapons the Vice President says he wants to build within the defense budget
+T33	Premise 2915 2967	I think you know because you've covered these issues
+R19	Support Arg1:T33 Arg2:T32	
+R20	Support Arg1:T31 Arg2:T32	
+T34	Premise 3095 3152	Everybody knows that including the people at the Pentagon
+T35	Premise 3159 3410	my defense secretary is going to have a lot to do with those decisions, but it's going to be the President who's going to have to ultimately decide before that budget goes to the Congress what weapons systems are going to go and what are going to stay
+T36	Claim 3412 3506	We are not going to spend the billions and trillions that Mr. Bush wants to spend on Star Wars
+T37	Claim 3508 3566	We're not going to spend billions on MX's on railroad cars
+T38	Premise 3568 3607	which is a weapons system we don't need
+T39	Premise 3609 3621	can't afford
+T40	Premise 3626 3663	won't help our defense posture at all
+T41	Claim 3665 3752	We're not going to spend hundreds of millions on a space plane from Washington to Tokyo
+T42	Claim 3754 3810	Those are decisions that the chief executive has to make
+T43	Claim 3812 3890	Yes, we're going to have a strong and credible and effective nuclear deterrent
+T44	Claim 3892 4006	We're going to go forward with the Stealth and the D-5 and the advance cruise missile and good conventional forces
+T45	Claim 4012 4104	the next President of the United States will have to make some tough and difficult decisions
+T46	Claim 4106 4131	I'm prepared to make them
+T47	Claim 4133 4158	the Vice President is not
+R21	Attack Arg1:T32 Arg2:T27	
+R22	Support Arg1:T34 Arg2:T32	
+R23	Support Arg1:T38 Arg2:T37	
+R24	Support Arg1:T39 Arg2:T37	
+R25	Support Arg1:T40 Arg2:T37	
+R26	Support Arg1:T45 Arg2:T46	
+R27	Support Arg1:T32 Arg2:T47	
+R28	Support Arg1:T44 Arg2:T46	
+R29	Support Arg1:T43 Arg2:T46	
+R30	Support Arg1:T42 Arg2:T46	
+R31	Support Arg1:T41 Arg2:T46	
+R32	Support Arg1:T37 Arg2:T46	
+R33	Support Arg1:T36 Arg2:T47	
+R34	Attack Arg1:T46 Arg2:T47	
+T48	Premise 4929 5008	today we have 13,000 strategic nuclear warheads, on land, on air and in the sea
+T49	Claim 5010 5057	That's an incredibly powerful nuclear deterrent
+T50	Claim 5059 5089	I don't rule out modernization
+T51	Premise 5095 5234	there are discussions going on now in the Congress, I know with the Pentagon, about a less expensive modernized land-based leg of the triad
+T52	Premise 5240 5277	there are limits to what we can spend
+T53	Premise 5279 5353	There are limits to this nation's ability to finance these weapons systems
+T54	Premise 5359 5516	one of the things that the Vice President either ignores or won't address is the fact that you can't divorce our military security from our economic security
+T55	Premise 5518 5608	How can we build a strong America militarily that's teeter-tottering on a mountain of debt
+R35	Support Arg1:T48 Arg2:T49	
+R36	Support Arg1:T51 Arg2:T50	
+R37	Attack Arg1:T52 Arg2:T50	
+R38	Support Arg1:T53 Arg2:T52	
+R39	Support Arg1:T54 Arg2:T53	
+R40	Support Arg1:T55 Arg2:T54	
+T56	Claim 5725 5780	that debt is going to grow bigger and bigger and bigger
+T57	Premise 5614 5723	if we go forward with the kinds of policies that the Vice President is suggesting tonight and has in the past
+R41	Support Arg1:T57 Arg2:T56	
+R42	Support Arg1:T52 Arg2:T56	
+T58	Claim 5785 5840	military security and economic security go hand in hand
+R43	Support Arg1:T56 Arg2:T58	
+T59	Claim 5846 5912	we will have a strong and effective and credible nuclear deterrent
+T60	Claim 5914 6023	We're going to have conventional forces that are well maintained, well equipped, well trained, well supported
+T61	Claim 6029 6102	we have serious problems with our conventional forces at the present time
+T62	Claim 6108 6199	they'll get worse unless we have a president who is willing to make some of these decisions
+T63	Claim 6205 6351	we also have important domestic priorities, in education and housing and health care, in economic development, in job training, in the environment
+T64	Claim 6577 6664	I want the men and women of our Armed Forces to have the support they need to defend us
+T65	Claim 6666 6758	the support they need when they risk our lives to keep us free and to keep this country free
+T66	Claim 6764 6807	we cannot continue to live on a credit card
+R44	Attack Arg1:T66 Arg2:T64	
+R45	Support Arg1:T65 Arg2:T64	
+T67	Premise 6809 7022	We cannot continue to tell the American people that we're going to build all of these systems, and at the same time, invest in important things here at home, and be serious about building a strong and good America
+R46	Support Arg1:T67 Arg2:T66	
+R47	Support Arg1:T61 Arg2:T62	
+R48	Support Arg1:T58 Arg2:T62	
+R49	Support Arg1:T63 Arg2:T62	
+R50	Support Arg1:T60 Arg2:T62	
+R51	Support Arg1:T59 Arg2:T62	
+T68	Claim 7249 7357	I think the foremost responsibility of a president really gets down to the national security of this country
+T69	Premise 7359 7513	The Governor talks about limits, what we can't do, opposes these two modernization systems, talks now about well, we'll develop some new kind of a missile
+T70	Claim 7515 7558	It takes eight years, ten years, to do that
+R52	Attack Arg1:T70 Arg2:T69	
+T71	Premise 7560 7740	He talked about a nuclear freeze back at the time when I was in Europe trying to convince European public opinion that we ought to go forward with the deployment of the INF weapons
+T72	Claim 7791 7806	They were wrong
+T73	Premise 7812 7908	the result is, we deployed, and the Soviets kept deploying, and then we negotiated from strength
+T74	Premise 7914 7992	now we have the first arms control agreement in the nuclear age to ban weapons
+R53	Attack Arg1:T72 Arg2:T71	
+R54	Support Arg1:T73 Arg2:T72	
+R55	Support Arg1:T74 Arg2:T72	
+T75	Claim 7994 8095	You just don't make unilateral cuts in the naive hope that the Soviets are going to behave themselves
+T76	Premise 8097 8153	World peace is important, and we have enhanced the peace
+T77	Claim 8238 8266	Peace through strength works
+R56	Support Arg1:T77 Arg2:T75	
+R57	Support Arg1:T76 Arg2:T75	
+R58	Support Arg1:T75 Arg2:T72	

@@ -1,0 +1,84 @@
+T500	Claim 1151 1192	The United States must be a nation strong
+T501	Claim 1194 1235	the United States must be a nation secure
+T502	Claim 1237 1280	We must have a society that's just and fair
+T503	Claim 1286 1372	we must extend the benefits of our own commitment to peace, to create a peaceful world
+T504	Claim 2384 2457	I think they ought to remember that one vote can make a lot of difference
+T505	Premise 2459 2564	If one vote per precinct had changed in 1960, John Kennedy would never have been President of this nation
+T506	Premise 2570 2698	if a few more people had gone to the polls and voted in 1968, Hubert Humphrey would have been President; Richard Nixon would not
+T507	Claim 2747 2969	To stay strong, to stay at peace, to raise high the banner of human rights, to set an example for the rest of the world, to let our deep beliefs and commitments be felt by others in other nations, is my plan for the future
+T508	Claim 210 371	I think it's been a very constructive debate and I hope it's helped to acquaint the American people with the sharp differences between myself and Governor Reagan
+T509	Premise 500 545	I've been President now for almost four years
+T510	Premise 547 647	I've had to make thousands of decisions, and each one of those decisions has been a learning process
+T511	Premise 649 743	I've seen the strength of my nation, and I've seen the crises it approached in a tentative way
+T512	Premise 749 799	I've had to deal with those crises as best I could
+T513	Premise 804 932	I've studied the record between myself and Governor Reagan, I've been impressed with the stark differences that exist between us
+T514	Claim 934 1000	I think the result of this debate indicates that that fact is true
+T515	Claim 1002 1049	I consider myself in the mainstream of my party
+T516	Claim 1051 1149	I consider myself in the mainstream even of the bipartisan list of Presidents who served before me
+T517	Claim 2078 2095	It's a lonely job
+T518	Premise 1374 1496	I believe that since I've been in office, there have been six or eight areas of combat evolved in other parts of the world
+T519	Premise 1498 1613	In each case, I alone have had to determine the interests of my country and the degree of involvement of my country
+T520	Premise 1615 1707	I've done that with moderation, with care, with thoughtfulness; sometimes consulting experts
+T521	Premise 1714 1891	I've learned in this last three and a half years that when an issue is extremely difficult, when the call is very close, the chances are the experts will be divided almost 50-50
+T522	Premise 1897 2076	the final judgment about the future of the nation - war, peace, involvement, reticence, thoughtfulness, care, consideration, concern - has to be made by the man in the Oval Office
+T523	Claim 2186 2218	the job is a very gratifying one
+T524	Premise 2101 2159	with the involvement of the American people in the process
+T525	Premise 2161 2184	with an open Government
+T526	Claim 4053 4117	I think your choice is very obvious as to whom you will vote for
+T527	Premise 4001 4041	if you answer all of those questions yes
+T528	Claim 4282 4326	I could suggest another choice that you have
+T529	Premise 4119 4137	If you don't agree
+T530	Premise 4139 4275	if you don't think that this course that we've been on for the last four years is what you would like to see us follow for the next four
+T531	Claim 4328 4386	This country doesn't have to be in the shape that it is in
+T532	Claim 4691 4743	All of this can be cured and all of it can be solved
+T533	Claim 4388 4493	We do not have to go on sharing in scarcity with the country getting worse off, with unemployment growing
+T534	Premise 4533 4689	If all of the unemployed today were in a single line allowing two feet for each of them, that line would reach from New York City to Los Angeles, California
+T535	Claim 4825 5041	I think in being Governor of California, the most populous state in the Union - if it were a nation, it would be the seventh-ranking economic power in the world - I, too, had some lonely moments and decisions to make
+T536	Claim 5043 5189	I know that the economic program that I have proposed for this nation in the next few years can resolve many of the problems that trouble us today
+T538	Premise 5206 5221	we did it there
+T539	Premise 5223 5304	We cut the cost - the increased cost of government - in half over the eight years
+T540	Premise 5306 5377	We returned $5.7 billion in tax rebates, credits and cuts to our people
+T541	Premise 5379 5468	We, as I have said earlier, fell below the national average in inflation when we did that
+T542	Premise 5474 5539	I know that we did give back authority and autonomy to the people
+T543	Claim 5541 5631	I would like to have a crusade today, and I would like to lead that crusade with your help
+T544	Claim 5637 5797	it would be one to take Government off the backs of the great people of this country, and turn you loose again to do those things that I know you can do so well
+T545	Premise 5807 5847	you did them and made this country great
+T1	Claim 5191 5197	I know
+R1	Support Arg1:T513 Arg2:T508	
+R2	Support Arg1:T502 Arg2:T500	
+R3	Support Arg1:T510 Arg2:T509	
+R4	Support Arg1:T511 Arg2:T509	
+R5	Support Arg1:T512 Arg2:T511	
+R6	Support Arg1:T514 Arg2:T513	
+R7	Support Arg1:T503 Arg2:T501	
+R8	Support Arg1:T502 Arg2:T501	
+R9	Support Arg1:T519 Arg2:T510	
+R10	Support Arg1:T519 Arg2:T518	
+R11	Support Arg1:T521 Arg2:T522	
+R12	Support Arg1:T522 Arg2:T517	
+R13	Support Arg1:T525 Arg2:T523	
+R14	Support Arg1:T524 Arg2:T523	
+T2	Claim 2220 2287	The American people now are facing, next Tuesday, a lonely decision
+T3	Claim 2289 2378	Those listening to my voice will have to make a judgment about the future of this country
+R15	Support Arg1:T3 Arg2:T2	
+R16	Support Arg1:T505 Arg2:T504	
+R17	Support Arg1:T506 Arg2:T504	
+R18	Support Arg1:T502 Arg2:T507	
+R19	Support Arg1:T500 Arg2:T507	
+R20	Support Arg1:T503 Arg2:T507	
+R21	Support Arg1:T527 Arg2:T526	
+R22	Support Arg1:T530 Arg2:T528	
+R23	Support Arg1:T529 Arg2:T528	
+R24	Support Arg1:T533 Arg2:T531	
+R25	Support Arg1:T528 Arg2:T531	
+R26	Support Arg1:T532 Arg2:T533	
+R27	Support Arg1:T536 Arg2:T532	
+R28	Support Arg1:T535 Arg2:T536	
+R29	Support Arg1:T535 Arg2:T538	
+R30	Support Arg1:T538 Arg2:T1	
+R31	Support Arg1:T539 Arg2:T538	
+R32	Support Arg1:T540 Arg2:T538	
+R33	Support Arg1:T541 Arg2:T538	
+R34	Support Arg1:T542 Arg2:T538	
+R35	Support Arg1:T545 Arg2:T544	
+R36	Support Arg1:T544 Arg2:T543	

@@ -1,0 +1,97 @@
+T61	Claim 66 117	we are better off today than we were four years ago
+T62	Claim 146 188	he's better off than he was four years ago
+T64	Premise 303 348	I looked at the slowest growth in the century
+T65	Premise 350 426	He inherited a growth of 4.7 4.8 percent, now it's down to about 2.4 percent
+T66	Premise 428 510	We're going to pass a million bankruptcies this year for the first time in history
+T67	Premise 512 536	We've got stagnant wages
+T68	Premise 547 585	women's wages have dropped 2.2 percent
+T69	Premise 587 625	Men's wages haven't gone up, gone down
+T70	Claim 630 648	we have stagnation
+T71	Premise 650 693	We have the highest foreign debt in history
+T72	Claim 765 795	I guess some may be better off
+T73	Premise 797 861	Saddam Hussein is probably better off than he was four years ago
+T74	Premise 863 930	Renee Proval (ph) is probably better off than he was four years ago
+T75	Premise 961 1023	They're working harder and higher and harder paying more taxes
+T76	Premise 1025 1097	For the first time in history, you pay about 40 percent of what you earn
+T77	Premise 1099 1194	More than you spend for food, clothing and shelter combined for taxes under this administration
+T79	Premise 1224 1262	They talk about family income being up
+T80	Claim 1264 1317	That's not true in Connecticut, family income is down
+T81	Claim 1323 1344	it's up in some cases
+T82	Premise 1353 1377	both parents are working
+T83	Premise 1379 1450	One works for the family, and one works to pay taxes for the government
+T84	Claim 1452 1561	We're going to give them tax cuts so they can spend more time with their children, maybe even take a vacation
+T85	Claim 1563 1595	That's what America is all about
+T86	Claim 1676 1786	in February Senator Dole acknowledged that the American economy was in the best shape it's been in in 30 years
+T87	Premise 1788 1911	We have ten and a half million more jobs, a faster job growth rate than under any Republican administration since the 1920s
+T88	Premise 1913 1963	Wages are goings up for the first time in a decade
+T89	Premise 1965 2011	We have record numbers of new small businesses
+T90	Premise 2013 2084	We have the biggest drop in the number of people in poverty in 27 years
+T91	Premise 2086 2118	All groups of people are growing
+T92	Premise 2120 2184	We had the biggest drop in income inequality in 27 years in 1995
+T93	Premise 2186 2272	The average family's income has gone up over $1600 just since our economic plan passed
+T94	Claim 2277 2345	I think it's clear that we're better off than we were four years ago
+T95	Claim 2347 2415	Now we need to focus on what do we need to do to be better off still
+T96	Claim 2417 2619	How can we help people as we are to get their retirements when they work for small businesses, to be able to afford health insurance, to be able to educate their children. That's what I want to focus on
+T98	Premise 2680 2718	as Senator Dole acknowledged this year
+T99	Claim 2751 2793	I doubt that I acknowledged that this year
+T100	Claim 2813 2846	I think we just look at the facts
+T101	Claim 2941 3007	It's not whether we're better off, it's whether they're better off
+T102	Premise 3124 3182	Drug use has doubled the past 44 months all across America
+T103	Claim 3184 3203	Crime has gone down
+T104	Premise 3208 3314	it's because the mayors like Rudy Giuliani where one third of the drop happened in one city, New York City
+T106	Claim 3354 3529	of the people listening tonight, the working families who will benefit from economic packages, they'll be better off when Bob Dole is president and Jack Kemp is vice president
+T63	Claim 2625 2678	we are clearly better off than we were four years ago
+T1	Claim 1196 1221	So some may be better off
+T2	Claim 3326 3348	some may be better off
+T3	Claim 200 218	I agree with that.
+R1	Support Arg1:T64 Arg2:T65	
+R2	Support Arg1:T65 Arg2:T70	
+R3	Support Arg1:T66 Arg2:T70	
+R4	Support Arg1:T67 Arg2:T70	
+R5	Support Arg1:T68 Arg2:T70	
+R6	Support Arg1:T69 Arg2:T70	
+R7	Support Arg1:T3 Arg2:T62	
+T4	Claim 244 301	I may be better off four years from now, but I don't know
+R8	Support Arg1:T71 Arg2:T70	
+T5	Premise 720 758	f you take a look, are you better off?
+R9	Attack Arg1:T5 Arg2:T72	
+R10	Support Arg1:T73 Arg2:T72	
+R11	Support Arg1:T74 Arg2:T72	
+T6	Claim 932 960	But are the American people?
+R12	Attack Arg1:T6 Arg2:T72	
+R13	Support Arg1:T75 Arg2:T6	
+R14	Support Arg1:T76 Arg2:T6	
+R15	Support Arg1:T77 Arg2:T6	
+R16	Support Arg1:T72 Arg2:T1	
+R17	Attack Arg1:T80 Arg2:T79	
+R18	Support Arg1:T82 Arg2:T81	
+R19	Support Arg1:T79 Arg2:T81	
+R20	Support Arg1:T83 Arg2:T82	
+R21	Support Arg1:T85 Arg2:T84	
+R22	Attack Arg1:T81 Arg2:T80	
+R23	Support Arg1:T84 Arg2:T82	
+R24	Attack Arg1:T86 Arg2:T70	
+R25	Support Arg1:T87 Arg2:T94	
+R26	Support Arg1:T88 Arg2:T94	
+R27	Support Arg1:T89 Arg2:T94	
+R28	Support Arg1:T90 Arg2:T94	
+R29	Support Arg1:T91 Arg2:T94	
+R30	Support Arg1:T92 Arg2:T94	
+R31	Support Arg1:T93 Arg2:T94	
+R32	Support Arg1:T94 Arg2:T95	
+R33	Support Arg1:T95 Arg2:T96	
+R34	Support Arg1:T63 Arg2:T94	
+R35	Support Arg1:T98 Arg2:T63	
+R36	Support Arg1:T98 Arg2:T86	
+R37	Attack Arg1:T99 Arg2:T98	
+R38	Attack Arg1:T99 Arg2:T86	
+T7	Premise 3009 3076	Are you working harder to put food on the table, feed your children
+T8	Premise 3078 3122	Are your children getting a better education
+T9	Premise 2848 2940	We ask the people that are viewing tonight, are you better off than you were four years ago.
+R39	Support Arg1:T104 Arg2:T103	
+R40	Support Arg1:T9 Arg2:T7	
+R41	Support Arg1:T7 Arg2:T8	
+R42	Support Arg1:T100 Arg2:T9	
+R43	Support Arg1:T2 Arg2:T8	
+R44	Support Arg1:T2 Arg2:T101	
+R45	Support Arg1:T2 Arg2:T106	

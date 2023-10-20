@@ -1,0 +1,81 @@
+T264	Claim 1301 1376	I think that I have found a great hunger in America for a spiritual revival
+T265	Claim 2207 2354	I do believe that no one in this country should be denied the right to express themselves, or to even try to persuade others to follow their leader
+T266	Claim 2356 2391	That's what elections are all about
+T267	Claim 1378 1429	For a belief that law must be based on a higher law
+T268	Claim 1431 1485	For a return to traditions and values that we once had
+T269	Premise 1487 1637	Our Government, in its most sacred documents - the Constitution and the Declaration of Independence and all - speak of man being created, of a Creator
+T270	Premise 1639 1668	That we're a nation under God
+T271	Premise 1675 1826	I have thought for a long time that too many of our churches have been too reluctant to speak up in behalf of what they believe is proper in Government
+T272	Premise 1832 1980	they have been too too lax in interfering, in recent years, with Government's invasion of the family itself, putting itself between parent and child
+T273	Premise 1982 2054	I vetoed a number of bills of that kind myself, when I was in California
+T274	Claim 2862 3046	to try to tell the parishioners of any church, of any denomination, how they should vote, or for whom they should vote, I think violates the principle of separation of church and state
+T275	Premise 2713 2782	certainly the church has the right to take a position on moral issues
+T276	Claim 3154 3252	I think that is a moral issue that ought to be left to the freedom of conscience of the individual
+T277	Premise 3053 3152	Governor Reagan is running on a platform that calls for a Constitutional amendment banning abortion
+T278	Premise 3258 3499	for the state to interfere with a Constitutional amendment, and tell a woman that she must carry that pregnancy to term, regardless of her personal belief, that, I think, violates freedom of conscience as much as anything that I can think of
+T279	Claim 3796 3826	I believe in freedom of choice
+T280	Claim 3828 3903	I don't believe in Constitutional Amendments that would interfere with that
+T281	Claim 3905 3996	I don't believe in trying to legislate new tests for the selection of the Federal Judiciary
+T282	Premise 3505 3790	he is also running on a platform that suggests a litmus test for the selection of judges - that only judges that hold a certain, quote, "view," on the sanctity of family life, ought to be appointed to the Federal Judiciary, one of the three great independent branches of our Government
+T283	Claim 4322 4460	for me to try, in this very pluralistic society of ours, to try to frame any definition, whatever, of what that belief should be, is wrong
+T284	Claim 3998 4062	On the Amendment that you mentioned, I abandoned it 15 years ago
+T286	Premise 4470 4645	not once, but twice - in 1971 - I voted on the floor of the House of Representatives against a Constitutional amendment that tried to bring prayer back into the public schools
+T287	Premise 4647 4833	I think mother ought to whisper to Johnny and to Susie, as they button their coats in the morning and leave for the classroom, "Be sure to say a prayer before you start your day's work."
+T288	Claim 4838 4990	I don't think that the state, the Board of Regents, a Board of Education, or any state official, should try to compose that prayer for a child to recite
+T289	Claim 5175 5206	I don't think that's a bad idea
+T290	Claim 5208 5265	I think all of us should have a respect for innocent life
+T291	Premise 5022 5168	The litmus test that John says is in the Republican platform, says no more than the judges to be appointed should have a respect for innocent life
+T292	Claim 5808 5833	I happen to believe it is
+T293	Claim 5659 5732	I do believe that maybe we could find the answer through medical evidence
+T294	Premise 5734 5807	if we would determine once and for all, is an unborn child a human being?
+T295	Claim 5267 5404	With regard to the freedom of the individual for choice with regard to abortion, there's one individual who's not being considered at all
+T296	Premise 5406 5441	That's the one who is being aborted
+T297	Premise 5447 5517	I've noticed that everybody that is for abortion has already been born
+T298	Claim 5869 5929	I also think that that unborn child has a right to be wanted
+T299	Claim 5935 6112	I also believe, sir, that the most personal intimate decision that any woman is ever called upon to make is the decision as to whether or not she shall carry a pregnancy to term
+T300	Claim 6118 6559	for the state to interfere in that decision, under whatever guise, and with whatever rationale, for the state to try to take over in that situation, and by edict, command what the individual shall do, and substitute itself for that individual's conscience, for her right to consult her rabbi, her minister, her priest, her doctor - any other counselor of her choice - I think goes beyond what we want to ever see accomplished in this country
+T301	Premise 6561 6604	if we really believe in the First Amendment
+T302	Premise 6606 6679	if we really believe in freedom of choice and the right of the individual
+T1	Claim 969 1272	I don't think there's any way that we can suggest that because people believe in God and go to church, that they should not want reflected in those people and those causes they support, their own belief in morality, and in the high traditions and principles which we've abandoned so much in this country
+R1	Support Arg1:T1 Arg2:T264	
+R2	Support Arg1:T264 Arg2:T267	
+R3	Support Arg1:T267 Arg2:T268	
+R4	Support Arg1:T267 Arg2:T1	
+R5	Support Arg1:T268 Arg2:T1	
+R6	Support Arg1:T269 Arg2:T268	
+R7	Support Arg1:T269 Arg2:T270	
+R8	Support Arg1:T270 Arg2:T268	
+R9	Support Arg1:T271 Arg2:T272	
+R10	Support Arg1:T272 Arg2:T273	
+R11	Support Arg1:T266 Arg2:T265	
+R12	Support Arg1:T273 Arg2:T265	
+R13	Support Arg1:T275 Arg2:T274	
+R14	Attack Arg1:T276 Arg2:T277	
+R15	Support Arg1:T278 Arg2:T276	
+R16	Attack Arg1:T279 Arg2:T282	
+R17	Support Arg1:T276 Arg2:T279	
+R18	Attack Arg1:T279 Arg2:T280	
+R19	Attack Arg1:T279 Arg2:T281	
+R20	Attack Arg1:T281 Arg2:T282	
+T2	Premise 4068 4316	I have said freely, all over this country, that it was a mistake for me or anyone to ever try to put the Judeo-Christian heritage of this country, important as it is, and important as my religious faith is to me - it's a very deeply personal matter
+R21	Attack Arg1:T283 Arg2:T2	
+R22	Support Arg1:T286 Arg2:T283	
+R23	Support Arg1:T283 Arg2:T288	
+R24	Support Arg1:T2 Arg2:T287	
+R25	Attack Arg1:T288 Arg2:T287	
+R26	Support Arg1:T289 Arg2:T290	
+R27	Attack Arg1:T291 Arg2:T282	
+R28	Support Arg1:T289 Arg2:T291	
+R29	Support Arg1:T290 Arg2:T295	
+R30	Support Arg1:T296 Arg2:T295	
+R31	Support Arg1:T297 Arg2:T295	
+R32	Support Arg1:T294 Arg2:T293	
+R33	Support Arg1:T294 Arg2:T292	
+R34	Support Arg1:T292 Arg2:T293	
+R35	Support Arg1:T292 Arg2:T298	
+R36	Support Arg1:T294 Arg2:T298	
+R37	Support Arg1:T298 Arg2:T299	
+R38	Support Arg1:T299 Arg2:T300	
+R39	Support Arg1:T301 Arg2:T302	
+R40	Support Arg1:T302 Arg2:T300	
+R41	Support Arg1:T301 Arg2:T300	

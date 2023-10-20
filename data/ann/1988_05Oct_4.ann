@@ -1,0 +1,40 @@
+T105	Claim 764 840	You may be surprised, Tom, they didn't ask me those questions on those votes
+T106	Premise 850 1032	they were glad that I took time out of my schedule to go down and to talk about how we are going to get a food bank going and making sure that a food bank goes in Fort Wayne, Indiana
+T107	Premise 1038 1155	I have a very good record and a commitment to the poor, to those that don't have a family, that want to have a family
+T108	Claim 1157 1252	This administration, and a George Bush administration, will be committed to eradicating poverty
+T109	Premise 1254 1299	Poverty hasn't gone up in this administration
+T110	Premise 1301 1332	it hasn't gone down much either
+T111	Claim 1338 1380	that means we have a challenge ahead of us
+T112	Premise 1445 1673	What we have done for the poor is that we in fact - the homeless bill, the McKinney Act, which is the major piece of legislation that deals with homeless - the Congress has cut the funding that the administration has recommended
+T114	Claim 1975 2062	To help the poor, we'll have a commitment to the programs and those programs will go on
+T115	Premise 2068 2152	we are spending more in poverty programs today than we were in 1981 - that is a fact
+T116	Claim 2154 2239	The poverty program we are going to concentrate on is creating jobs and opportunities
+T117	Claim 2249 2300	everyone will have the opportunities that they want
+T118	Premise 1675 1798	The poor and the poverty - the biggest thing that we have done for poverty in America is the Tax Simplification Act of 1986
+T119	Premise 1800 1853	six million working poor families got off the payroll
+T120	Premise 1855 1973	six million people are off the taxpaying payrolls because of that tax reform, and they are keeping the tax money there
+T122	Premise 2415 2733	he has been of no help at all when it comes to passing the most major welfare reform bill in the history of our country, one where we are working very hard to see that people can get off welfare, break that cycle, take a step up in life, doing the kinds of things that we did there to let them have Medicaid for a year
+T123	Claim 2735 2770	That's a positive thing that's done
+T124	Claim 3103 3189	I don't really believe that that is identifying with the concerns of people in poverty
+T125	Premise 2772 2918	What also frustrates me with the kind of report that I have just heard here is the kind of votes that he has cast against child nutrition programs
+T126	Premise 2920 3096	the fact that he has voted against money that we needed for further immunization, the denial of polio shots to kids where the parents couldn't afford to get that kind of a shot
+T127	Claim 4023 4073	Dukakis and I have disagreed on the contra program
+T1	Premise 674 762	I have met with those people, and I met with them in Fort Wayne, Indiana, at a food bank
+R1	Support Arg1:T106 Arg2:T105	
+R2	Support Arg1:T1 Arg2:T107	
+R3	Support Arg1:T107 Arg2:T108	
+R4	Support Arg1:T109 Arg2:T108	
+R5	Attack Arg1:T110 Arg2:T108	
+R6	Support Arg1:T110 Arg2:T111	
+R7	Support Arg1:T112 Arg2:T108	
+R8	Support Arg1:T118 Arg2:T108	
+R9	Support Arg1:T119 Arg2:T108	
+R10	Support Arg1:T120 Arg2:T108	
+R11	Support Arg1:T114 Arg2:T108	
+R12	Support Arg1:T115 Arg2:T114	
+R13	Support Arg1:T116 Arg2:T117	
+R14	Support Arg1:T117 Arg2:T114	
+R15	Attack Arg1:T122 Arg2:T107	
+R16	Support Arg1:T126 Arg2:T125	
+R17	Support Arg1:T125 Arg2:T124	
+R18	Attack Arg1:T124 Arg2:T108	

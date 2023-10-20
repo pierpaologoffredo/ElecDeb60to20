@@ -1,0 +1,88 @@
+T443	Claim 246 384	I can pledge to the American people categorically that no one will lose benefits under our plan for Social Security as far forward as 2054
+T444	Claim 737 830	Al and I have committed to putting that Social Security surplus in a lockbox, not touching it
+T445	Claim 844 893	allows us to keep Social Security solvent to 2054
+T446	Claim 429 548	Al Gore and I view Social Security as probably the best thing the government did in the second half -- the last century
+T447	Premise 550 604	It has created a floor under which seniors cannot fall
+T448	Premise 610 683	so many of them depend on it for their basic living, for their livelihood
+T449	Premise 685 724	It's critically important to protect it
+T450	Claim 895 1013	Our opponents have an idea for privatizing Social Security that will jeopardize Social Security payments to recipients
+T451	Claim 1667 1840	Al Gore and I are going to guarantee Social Security and add to it the retirement savings plan that I mentioned earlier which will help middle-class families looking forward
+T453	Premise 1842 1881	They will have not only Social Security
+T454	Claim 1887 1928	a superb extra retirement account as well
+T455	Claim 1930 1958	Social Security plus with us
+T456	Claim 1982 2031	Social Security minus from the Bush-Cheney ticket
+T457	Premise 1124 1209	Dick, better than I, you have to drill deep to find out whether there's oil in a well
+T458	Premise 1223 1288	I was drilling into this idea of privatization of Social Security
+T459	Claim 1290 1402	The deeper I got the drier the well became and it seemed to me at the end it was going to dry up Social Security
+T460	Claim 1404 1484	It requires taking as much as a trillion dollars out of the Social Security fund
+T461	Premise 1487 1565	he independent analysts have said that would put the fund out of money in 2023
+T462	Premise 1567 1636	or if it's not out of money, benefits will have to be cut by over 50%
+T463	Claim 2350 2531	Governor Bush and I want to make absolutely certain that the first thing we do is guarantee the continuation of those payments, those benefits and keep those promises that were made
+T464	Premise 3611 3647	We think we can generate at least 6%
+T465	Claim 3452 3539	we can generate a higher return off that investment than you get in the existing system
+T466	Premise 3237 3288	it gives them a stake in the Social Security system
+T467	Claim 2105 2145	The Social Security system is in trouble
+T468	Premise 2147 2280	It's been a fantastic program and has been there for 65 years that has provided benefits for senior citizens over that period of time
+T469	Claim 2298 2344	It means a great deal to millions of Americans
+T470	Claim 2640 2717	They seriously question whether or not there will be any system left for them
+T471	Premise 2734 2795	the demographics that work out there, it's almost an iron law
+T472	Premise 2537 2638	if you look down the road, you say you're 30 years old today, and I have two daughters about that age
+T473	Claim 3029 3195	The reform we would like to offer is to allow our young people to begin to take a portion of the payroll tax, 2% of it, and invest it in a personal retirement account
+T475	Premise 3290 3317	That becomes their property
+T476	Premise 3319 3330	They own it
+T477	Premise 3332 3378	They can pass it on to their kids if they want
+T478	Claim 3380 3440	They don't have that kind of equity in Social Security today
+T479	Premise 3541 3609	Today you get about a 2% return of what you pay into Social Security
+T480	Premise 3649 3696	At least three times what we're able to get now
+T481	Claim 4155 4263	We have a plan to do that and a plan to give our young people a choice and more control over their own lives
+T482	Claim 3908 3981	With respect to Al Gore and Joe's plan, they don't reform Social Security
+T483	Claim 3983 4069	They add another huge obligation on top of it that future generations will have to pay
+T484	Claim 4071 4113	They do  n't touch the basic system itself
+T485	Claim 4115 4153	They don't reform it and don't save it
+T486	Claim 3698 3868	And long-term by generating a bigger return, we'll put additional funds into the system that will help us survive that crunch that is otherwise going to hit in the future
+T487	Claim 2953 3027	it will drive the system into bankruptcy unless we reform and deal with it
+T488	Premise 2797 2832	They know how many people there are
+T489	Premise 2834 2951	when they reach retirement, we know when the baby boom generation is coming along, how long they will live after that
+T1	Question 41 220	We all know Social Security is the backbone of the retirement system in our nation. Can either of you pledge tonight categorically that no one will lose benefits under your plans?
+R1	Support Arg1:T446 Arg2:T443
+R2	Support Arg1:T447 Arg2:T446
+R3	Support Arg1:T448 Arg2:T447
+R5	Support Arg1:T446 Arg2:T444
+R6	Support Arg1:T449 Arg2:T444
+R4	Support Arg1:T445 Arg2:T444
+R7	Support Arg1:T458 Arg2:T459
+R8	Attack Arg1:T460 Arg2:T450
+R9	Support Arg1:T460 Arg2:T459
+R10	Attack Arg1:T459 Arg2:T450
+R11	Support Arg1:T461 Arg2:T460
+R12	Support Arg1:T462 Arg2:T460
+R13	Attack Arg1:T451 Arg2:T450
+R15	Support Arg1:T453 Arg2:T451
+R14	Support Arg1:T454 Arg2:T451
+R16	Support Arg1:T455 Arg2:T451
+R17	Support Arg1:T456 Arg2:T450
+R18	Support Arg1:T469 Arg2:T463
+R19	Support Arg1:T468 Arg2:T469
+R20	Support Arg1:T467 Arg2:T463
+R21	Support Arg1:T471 Arg2:T470
+R22	Support Arg1:T470 Arg2:T467
+R23	Support Arg1:T472 Arg2:T470
+R24	Support Arg1:T488 Arg2:T471
+R25	Support Arg1:T489 Arg2:T471
+R26	Support Arg1:T487 Arg2:T470
+R27	Support Arg1:T466 Arg2:T473
+R28	Support Arg1:T475 Arg2:T473
+R29	Support Arg1:T476 Arg2:T473
+R30	Support Arg1:T477 Arg2:T473
+R31	Support Arg1:T478 Arg2:T467
+R32	Support Arg1:T465 Arg2:T473
+R33	Support Arg1:T479 Arg2:T465
+R34	Support Arg1:T464 Arg2:T465
+R35	Support Arg1:T480 Arg2:T465
+R36	Attack Arg1:T482 Arg2:T451
+R37	Attack Arg1:T463 Arg2:T456
+R38	Support Arg1:T483 Arg2:T482	
+R39	Support Arg1:T484 Arg2:T482	
+R40	Support Arg1:T485 Arg2:T482	
+R41	Support Arg1:T473 Arg2:T481	
+R42	Support Arg1:T486 Arg2:T465	

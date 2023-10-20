@@ -1,0 +1,75 @@
+T3	Claim 771 873	I think what you can do in that one, and which would be very helpful, is to use a lot more natural gas
+T4	Claim 1234 1376	it's interesting to me to see in the resume of Senator Quayle that he brags on the fact that he's been able to fight the acid rain legislation
+T5	Claim 1378 1461	I don't think that that's a proper objective in trying to clean up this environment
+T6	Premise 1467 1532	the greenhouse effect is one that has to be a threat to all of us
+T7	Premise 1538 1585	we have to look for alternative sources of fuel
+T8	Claim 1591 1624	I've supported that very strongly
+T9	Premise 1626 1740	The Department of Energy is one that has cut back substantially on the study of those alternative sources of fuels
+T10	Claim 1742 1789	We can use other things that'll help the farmer
+T11	Premise 1791 1860	We can convert corn to ethanol, and I would push for that very strong
+T13	Claim 1877 1965	I'll do those things that are necessary to put the environment of our country number one
+T14	Premise 1975 2041	if we don't protect that, we'll destroy the future of our children
+T15	Premise 2047 2250	we must be committed to trying - to clean up the water, clean up the air, and do everything we can, not only from a research standpoint, but also in the applied legislation to see that that's carried out
+T16	Premise 2372 2487	He has said further that he will deal with the acid rain legislation and reduce millions of tons of the S02 content
+T17	Claim 2489 2546	That legislation won't get through the Congress this year
+T18	Claim 2552 2603	it will get through in a George Bush Administration
+T19	Claim 2607 2669	George Bush Administration that is committed to the environmen
+T20	Claim 3927 3959	i t's not just with the Japanese
+T21	Claim 4169 4279	I would rather have people come over here and to make investments in this country, rather than going elsewhere
+T23	Premise 4289 4368	by coming over here, and making investments in this country, we are seeing jobs
+T24	Premise 4370 4449	Do you realize that today we are producing Hondas and exporting Hondas to Japan
+T25	Claim 4451 4479	We are the envy of the world
+T28	Premise 4600 4677	they don't believe that the United States of America is the envy of the world
+T29	Claim 4701 4780	the American people think the United States of America is the envy of the world
+T30	Claim 4848 4921	We are the greatest nation in this world, and the greatest economic power
+T31	Claim 4990 5018	Forgiveness of debt is wrong
+T32	Claim 5020 5080	Forgiveness of international debt would be counterproductive
+T33	Claim 5086 5142	I would like to see those that talk about forgiving debt
+T34	Premise 5144 5237	Senator Bentsen, go out and talk about a farmer that's in debt that doesn't have his forgiven
+T35	Claim 5239 5290	That's not the kind of policy George Bush will have
+T36	Claim 5425 5524	what we also should do is get them to give us more burden sharing when it comes to national defense
+T37	Claim 5526 5668	We have a situation today where, on a per capita basis, people in Western Europe are spending about one-third as much as we are in our country
+T38	Premise 5674 5795	then when you go to Japan, where we're spending 6-1/2 percent on defense of the democracies, they're spending one percent
+T39	Premise 6374 6564	the Senator from Indiana, when we passed a resolution in the United States Senate to ask for burden sharing on that cost to keep those sea lanes open from the Japanese, he votes against that
+T40	Claim 6566 6589	I don't understand that
+T41	Premise 2676 2733	the greenhouse effect is an important environmental issue
+T42	Claim 2735 2876	It is important for us to get the data in, to see what alternatives we might have to the fossil fuels, and make sure we know what we're doing
+T43	Claim 2882 2954	there are some explorations and things that we can consider in this area
+T44	Premise 2956 3004	The drought highlighted the problem that we have
+T45	Claim 3021 3046	we need to get on with it
+T46	Claim 3052 3109	in a George Bush Administration, you can bet that we will
+T1	Premise 875 900	which burns a lot cleaner
+R1	Support Arg1:T1 Arg2:T3	
+T2	Premise 906 1100	what Mike Dukakis has said is that he'll try to break down those regulatory roadblocks that you have in the regulatory agency that denies much of the passage of that natural gas to the northeast
+T47	Premise 1102 1169	a way, in turn, can fight against acid rain which is another threat
+T48	Premise 1179 1228	it's sterilizing our lakes, it's killing our fish
+R2	Support Arg1:T2 Arg2:T3	
+R3	Support Arg1:T47 Arg2:T2	
+R4	Support Arg1:T48 Arg2:T47	
+R5	Attack Arg1:T5 Arg2:T4	
+R6	Support Arg1:T6 Arg2:T5	
+R7	Support Arg1:T7 Arg2:T5	
+R8	Support Arg1:T5 Arg2:T8	
+R9	Attack Arg1:T10 Arg2:T9	
+R10	Support Arg1:T11 Arg2:T10	
+R11	Support Arg1:T3 Arg2:T13	
+R12	Support Arg1:T14 Arg2:T13	
+R13	Support Arg1:T8 Arg2:T13	
+R14	Support Arg1:T15 Arg2:T13	
+R15	Support Arg1:T44 Arg2:T45	
+R16	Equivalent Arg1:T19 Arg2:T46	
+R17	Equivalent Arg1:T18 Arg2:T19	
+R18	Support Arg1:T16 Arg2:T18	
+R19	Support Arg1:T17 Arg2:T18	
+R20	Support Arg1:T41 Arg2:T42	
+R21	Support Arg1:T42 Arg2:T43	
+R22	Support Arg1:T43 Arg2:T45	
+R23	Support Arg1:T23 Arg2:T21	
+R24	Support Arg1:T24 Arg2:T23	
+R25	Support Arg1:T29 Arg2:T25	
+R26	Attack Arg1:T29 Arg2:T28	
+R27	Support Arg1:T30 Arg2:T29	
+R28	Support Arg1:T32 Arg2:T31	
+R29	Support Arg1:T34 Arg2:T32	
+R30	Support Arg1:T31 Arg2:T35	
+R31	Attack Arg1:T38 Arg2:T37	

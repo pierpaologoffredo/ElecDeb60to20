@@ -1,0 +1,79 @@
+T268	Claim 141 208	I think you asked for a crash program to raise education standards,
+T269	Premise 286 399	you said - it was back in 1957 - that salaries paid to school teachers were nothing short of a national disgrace.
+T270	Premise 400 455	Higher salaries for teachers, you added, were important
+T271	Premise 460 531	if the situation wasn't corrected it could lead to a national disaster.
+T272	Claim 541 603	you refused to vote in the Senate in order to break a tie vote
+T273	Premise 609 695	that single vote, if it had been yes, would have granted salary increases to teachers.
+T274	Claim 902 1004	I think that the reason that I voted against having the federal government uh - pay teachers' salaries
+T276	Premise 1186 1259	at that time did not feel that there should be aid for teachers' salaries
+T277	Claim 1532 1566	we want higher teachers' salaries.
+T278	Claim 1606 1663	we also want our education to be free of federal control.
+T279	Claim 1567 1601	We need higher teachers' salaries.
+T280	Claim 1724 1832	inevitably in my opinion, it will acquire the power to set standards and to tell the teachers what to teach.
+T281	Premise 1664 1723	When the federal government gets the power to pay teachers,
+T282	Claim 1833 1875	I think this would be bad for the country;
+T283	Claim 1876 1928	I think it would be bad for the teaching profession.
+T284	Claim 1973 2010	I favor higher salaries for teachers.
+T285	Premise 2095 2179	the way that you get higher salaries for teachers is to support school construction,
+T286	Premise 2197 2330	all of the local school districts in the various states then have money which is freed to raise the standards for teachers' salaries.
+T287	Claim 2463 2566	your local communities and your states are not going to meet the responsibility as much as they should.
+T288	Premise 2361 2462	once you put the responsibility on the federal government for paying a portion of teachers' salaries,
+T289	Claim 2567 2685	I believe, in other words, that we have seen the local communities and the state assuming more of that responsibility.
+T290	Premise 2686 2835	Teachers' salaries very fortunately have gone up fifty percent in the last eight years as against only a thirty-four percent rise for other salaries.
+T291	Claim 2879 3007	I do not believe that the way to get more salaries for teachers is to have the federal government get in with a massive program.
+T292	Premise 3054 3205	My objection here is the potential cost in controls and eventual freedom for the American people by giving the federal government power over education,
+T293	Premise 3008 3053	My objection here is not the cost in dollars.
+T294	Claim 3362 3441	I do not believe the federal government should pay directly teachers' salaries,
+T295	Premise 3446 3499	that was not the issue before the Senate in February.
+T296	Premise 3500 3575	The issue before the Senate was that the money would be given to the state.
+T297	Premise 3576 3684	The state then could determine whether the money would be spent for school construction or teacher salaries.
+T298	Claim 3685 3737	On that question the Vice President and I disagreed.
+T299	Premise 3738 3797	I voted in favor of that proposal and supported it strongly
+T300	Claim 3807 3917	I think that that provided assistance to our teachers for their salaries without any chance of federal control
+T301	Premise 3922 3975	it is on that vote that th- Mr. Nixon and I disagreed
+T302	Premise 3981 4051	his tie vote uh - defeated his breaking the tie defeated the proposal.
+T303	Claim 4052 4123	I don't want the federal government paying teachers' salaries directly.
+T304	Claim 4268 4361	in my opinion you protect the local authority over the school board and the school committee.
+T305	Premise 4128 4162	if the money will go to the states
+T306	Premise 4167 4267	the states can then determine whether it shall go for school construction or for teachers' salaries,
+T307	Claim 4366 4409	therefore I think that was a sound proposal
+T308	Premise 4414 4440	that is why I supported it
+T309	Premise 4445 4475	I regret that it did not pass.
+T310	Claim 4634 4672	That is wholly wrong, wholly in error,
+T311	Claim 4834 4915	That is not my view and I think it ought to be stated very clearly on the record.
+T312	Premise 4678 4833	t is a fact that in the last eight years the Democratic Congress has reduced the appropri- the requests for the appropriations by over ten billion dollars.
+T313	Premise 4528 4583	the Democratic platform would cost a good deal of money
+T314	Claim 4593 4633	I am in favor of unbalancing the budget.
+R1	Support Arg1:T271 Arg2:T270	
+R2	Equivalent Arg1:T277 Arg2:T279	
+R3	Equivalent Arg1:T277 Arg2:T284	
+R4	Support Arg1:T282 Arg2:T278	
+R5	Support Arg1:T283 Arg2:T278	
+R6	Support Arg1:T286 Arg2:T285	
+R7	Support Arg1:T287 Arg2:T278	
+R8	Support Arg1:T290 Arg2:T289	
+R9	Equivalent Arg1:T291 Arg2:T278	
+R13	Support Arg1:T294 Arg2:T291	
+R14	Equivalent Arg1:T294 Arg2:T303	
+R16	Support Arg1:T300 Arg2:T303	
+R17	Support Arg1:T304 Arg2:T307	
+R18	Attack Arg1:T312 Arg2:T313	
+R19	Support Arg1:T312 Arg2:T310	
+R20	Support Arg1:T311 Arg2:T310	
+T1	Premise 1018 1180	the very reason that concerned Senator Kennedy when in January of this year, in his kick-off press conference, he said that he favored aid for school construction
+R21	Support Arg1:T1 Arg2:T274	
+R22	Attack Arg1:T276 Arg2:T1	
+T2	Premise 1271 1304	that's the way I read his remarks
+R23	Support Arg1:T2 Arg2:T276	
+R24	Support Arg1:T281 Arg2:T280	
+R25	Support Arg1:T280 Arg2:T282	
+R26	Support Arg1:T288 Arg2:T287	
+R27	Support Arg1:T285 Arg2:T284	
+R10	Support Arg1:T292 Arg2:T282	
+R11	Support Arg1:T299 Arg2:T303	
+R12	Support Arg1:T307 Arg2:T300	
+R15	Support Arg1:T308 Arg2:T303	
+R28	Support Arg1:T309 Arg2:T303	
+T3	Premise 4916 5052	My view is that you can do these programs - and they should be carefully drawn - within a balanced budget if our economy is moving ahead
+R29	Support Arg1:T3 Arg2:T311	
+R30	Attack Arg1:T310 Arg2:T314	

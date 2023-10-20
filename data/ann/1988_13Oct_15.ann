@@ -1,0 +1,46 @@
+T1	Claim 554 588	I will not agree to another debate
+T2	Premise 590 637	The American people are up to here with debates
+T3	Premise 639 662	They had thirty of them
+T4	Premise 664 684	we had seven of them
+T5	Premise 686 713	Now we've got three of them
+T6	Premise 715 843	I am going to carry this election debate all across this country in the last whatever remains of the last three and a half weeks
+T7	Claim 887 926	I am not going to have any more debates
+T8	Claim 928 958	we don't need any more debates
+T9	Premise 960 988	I've spelled out my position
+T10	Premise 990 1099	In terms of negative campaigning, you know, I don't want to sound like a kid in the schoolyard: he started it
+T11	Premise 1105 1163	take a look at the Democratic convention take a look at it
+T12	Premise 1165 1334	Do you remember the Senator from Boston chanting out there and the ridicule factor from that lady from Texas that was on there; I mean, come on, this was just outrageous
+T13	Premise 1384 1513	If you could accept a little criticism, I went all across central Illinois and spoke about agricultural issues, about seven stops
+T14	Premise 1788 1917	you are so interested in a poll that might have been coming out, or because somebody had said something nasty about somebody else
+T15	Claim 2381 2474	I think we can all share, with respect, in the fact that maybe the message is not getting out
+T16	Premise 2480 2534	it's not getting out because there are too few debates
+R1	Attack Arg1:T16 Arg2:T15	
+T17	Claim 2536 2565	There will be no more debates
+T18	Premise 1959 2037	Somebody hit me and said Barry Goldwater said you ought to talk on issues more
+T19	Premise 2039 2376	How can Barry Goldwater sitting in Arizona know whether I'm talking on the issues or not when we put out position paper after position paper, he puts out position paper after position paper; and we see this much about it, because everyone else is fascinated with polls and who's up or down today and who's going to be up or down tomorrow
+T20	Premise 2648 2741	I can understand, after the vice presidential debate, why Mr. Bush would want no more debates
+T21	Claim 2865 2896	we have fundamental differences
+T22	Premise 2898 2946	I think a great many of them have come out today
+R2	Support Arg1:T22 Arg2:T21	
+T23	Premise 2952 3227	I think if we get rid of the labels--and I'm not keeping count, but I think Mr. Bush has used the label "liberal" at least ten times if I had a dollar, George, for every time you used that label, I'd qualify for one of those tax breaks for the rich that you want to give away
+T24	Premise 3272 3310	Most Americans believe in basic values
+T25	Premise 3419 3615	I am concerned about the fact that 10 percent of our manufacturing and 20 percent of our banking and nearly half of the real estate in the city of Los Angeles are in the hands of foreign investors
+T26	Premise 3617 3666	I am concerned about what that does to our future
+T27	Premise 3668 3795	I'm concerned about the fact that so many of our securities are in the hands of foreign banks because of these massive deficits
+T28	Claim 3801 3854	those are the issues on which we ought to be debating
+T29	Premise 3859 3991	if we can just put away the flag factories and the balloons and those kinds of thing and get on to a real discussion of these issues
+T30	Claim 3993 4028	I think we will have a good success
+R3	Equivalent Arg1:T7 Arg2:T1	
+R4	Support Arg1:T8 Arg2:T7	
+R5	Support Arg1:T9 Arg2:T8	
+R6	Attack Arg1:T10 Arg2:T11	
+R7	Support Arg1:T12 Arg2:T11	
+R8	Support Arg1:T19 Arg2:T15	
+R9	Support Arg1:T18 Arg2:T15	
+R10	Equivalent Arg1:T17 Arg2:T7	
+R11	Support Arg1:T2 Arg2:T1	
+R14	Support Arg1:T5 Arg2:T2	
+R12	Support Arg1:T3 Arg2:T2	
+R13	Support Arg1:T4 Arg2:T2	
+R15	Support Arg1:T6 Arg2:T1	
+R16	Attack Arg1:T20 Arg2:T17	

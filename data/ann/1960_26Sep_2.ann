@@ -1,0 +1,21 @@
+T111	Premise 81 167	the Vice President in his campaign has said that you were naive and at times immature.
+T112	Premise 316 376	the Vice President and I came to the Congress together 1946;
+T113	Premise 377 415	we both served in the Labor Committee.
+T114	Premise 416 492	I've been there now for fourteen years, the same period of time that he has,
+T115	Claim 501 549	our experience in uh - government is comparable.
+T117	Claim 1177 1231	I think Mr. Nixon is an effective leader of his party.
+T118	Premise 874 918	Mr. Nixon comes out of the Republican party.
+T119	Premise 919 942	He was nominated by it.
+T120	Claim 947 1176	it is a fact that through most of these last twenty-five years the Republican leadership has opposed federal aid for education, medical care for the aged, development of the Tennessee Valley, development of our natural resources.
+T121	Premise 668 794	I come out of the Democratic party, which in this century has produced Woodrow Wilson and Franklin Roosevelt and Harry Truman,
+T122	Premise 799 873	which supported and sustained these programs which I've discussed tonight.
+T123	Claim 1232 1266	I hope he would grant me the same.
+R1	Support Arg1:T112 Arg2:T115	
+R2	Support Arg1:T113 Arg2:T115	
+R3	Support Arg1:T114 Arg2:T115	
+R4	Attack Arg1:T115 Arg2:T111	
+R6	Support Arg1:T118 Arg2:T117	
+R7	Support Arg1:T119 Arg2:T117	
+R8	Support Arg1:T117 Arg2:T123	
+R9	Support Arg1:T121 Arg2:T123	
+R5	Support Arg1:T122 Arg2:T123	

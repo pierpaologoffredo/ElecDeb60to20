@@ -1,0 +1,82 @@
+T201	Claim 1177 1207	I vetoed the strip-mining bill
+T202	Premise 1228 1427	it was the overwhelming consensus of knowledgeable people that that strip-mining bill would have meant the loss of literally uh - thousands of jobs, something around a hundred and forty thousand jabs
+T203	Premise 1441 1513	that strip-mining bill would've severely set back our need for more coal
+T204	Premise 1519 1669	Governor Carter has said repeatedly that coal is the resource that we need to use more in the effort to become independent of the uh - Arab oil supply
+T205	Claim 1675 1686	I vetoed it
+T206	Premise 1687 1712	because of a loss of jobs
+T207	Premise 1725 1784	it would've interfered with our energy independence program
+T208	Claim 3089 3150	I think the League of Conservation Voters is absolutely right
+T209	Claim 2028 2110	let's talk about what the Ford administration has done in the field of environment
+T210	Premise 2112 2248	I have increased, as president, by over 60 percent the funding for water treatment plants in the United States, the federal contribution
+T211	Premise 2250 2309	I have fully funded the land and water conservation program
+T212	Premise 2311 2424	in fact, have recommended and the Congress approved a substantially increased land and water conservation program
+T213	Premise 2431 2515	I have uh - added in the current year budget the funds for the National Park Service
+T214	Premise 2517 2646	For example, we uh - proposed about $12 million to add between four and five hundred more employees for the National Park Service
+T215	Premise 2652 2816	a month or so ago I did uh - likewise say over the next ten years we should expand - double - this national parks, the wild wilderness areas, the scenic river areas
+T216	Premise 2839 3028	the - the final thing is that I have signed and approved of more scenic rivers, more wilderness areas, since I've been president than any other president in the history of the United States
+T217	Claim 3152 3212	This uh - administration's record on environment is very bad
+T218	Claim 3219 3421	I think it's accurate to say that the uh - strip-mining law which was passed twice by the Congress - uh - and was only like two votes I believe of being overridden - would have been good for the country
+T219	Claim 3423 3525	The claim that it would have put hundred and forty thousand miners out of work is uh - hard to believe
+T220	Premise 3532 3616	at the time Mr. Ford vetoed it, the United Mine Workers was uh - supporting the bill
+T221	Premise 3622 3745	I don't think they would have supported the uh - bill had they known that they would lose a hundred and forty thousand jobs
+T222	Premise 3747 3901	There's been a consistent policy on the part of this administration to lower or delay enforcement of air pollution standards and water pollution standards
+T223	Premise 3907 4047	under both President Nixon and Ford, monies have been impounded that would've gone to uh - cities and others to control uh - water pollution
+T224	Premise 4049 4073	We have no energy policy
+T225	Claim 4075 4379	We, I think, are the only developed nation in the world that has no comprehensive energy policy, to permit us to plan in an orderly way how to shift from increasing the scarce uh - energy uh - forms: oil, and have research and development concentrated on the increased use of coal, which I strongly favor
+T226	Claim 4381 4467	The research and development to be used primary to make the coal burning uh - be clean
+T227	Claim 4469 4501	We need a heritage trust program
+T228	Premise 4503 4539	similar to the one we had in Georgia
+T229	Premise 4541 4657	to set aside additional lands that have uh - geological and archeological importance, uh natural areas for enjoyment
+T230	Premise 5045 5241	this administration, having been in office now for two years or more, has still not taken strong and bold action to stop the proliferation of nuclear waste around the world, particularly plutonium
+T231	Premise 5243 5313	Those are some brief remarks about the failures of this administration
+T232	Claim 5315 5355	I would do the opposite in every respect
+T233	Premise 4664 4772	the lands that Mr. Ford uh - brags about having approved are in Alaska and they are enormous in uh - in size
+T234	Premise 4778 4870	as far as the accessibility of them by the American people, it's very uh - far in the future
+T235	Premise 4872 4949	We've taken no strong position in the uh - control of pollution of our oceans
+T236	Premise 4955 5039	I would say the worst uh - threat to the environment of all is nuclear proliferation
+R1	Support Arg1:T202 Arg2:T201	
+R2	Support Arg1:T203 Arg2:T201	
+R3	Support Arg1:T204 Arg2:T203	
+R4	Equivalent Arg1:T205 Arg2:T201	
+R5	Support Arg1:T206 Arg2:T205	
+R6	Support Arg1:T206 Arg2:T201	
+R7	Support Arg1:T203 Arg2:T205	
+R8	Support Arg1:T202 Arg2:T205	
+R9	Support Arg1:T207 Arg2:T205	
+R10	Support Arg1:T207 Arg2:T201	
+R11	Support Arg1:T210 Arg2:T209	
+R12	Support Arg1:T211 Arg2:T209	
+R13	Support Arg1:T212 Arg2:T209	
+R14	Support Arg1:T213 Arg2:T209	
+R15	Support Arg1:T214 Arg2:T213	
+R16	Support Arg1:T215 Arg2:T213	
+R17	Support Arg1:T216 Arg2:T209	
+R18	Support Arg1:T217 Arg2:T208	
+R19	Attack Arg1:T217 Arg2:T209	
+R20	Attack Arg1:T217 Arg2:T216	
+R21	Attack Arg1:T217 Arg2:T213	
+R22	Attack Arg1:T217 Arg2:T212	
+R23	Attack Arg1:T217 Arg2:T210	
+R24	Attack Arg1:T218 Arg2:T205	
+R25	Attack Arg1:T218 Arg2:T201	
+R26	Attack Arg1:T219 Arg2:T206	
+R27	Support Arg1:T221 Arg2:T220	
+R28	Support Arg1:T220 Arg2:T219	
+R29	Support Arg1:T222 Arg2:T217	
+R30	Support Arg1:T223 Arg2:T217	
+R31	Support Arg1:T224 Arg2:T217	
+R32	Support Arg1:T225 Arg2:T224	
+R33	Support Arg1:T225 Arg2:T217	
+R34	Support Arg1:T229 Arg2:T227	
+R35	Attack Arg1:T233 Arg2:T216	
+R36	Attack Arg1:T234 Arg2:T216	
+R37	Support Arg1:T235 Arg2:T217	
+R38	Support Arg1:T230 Arg2:T217	
+R39	Support Arg1:T232 Arg2:T217	
+R40	Support Arg1:T217 Arg2:T232	
+R41	Support Arg1:T230 Arg2:T232	
+R42	Support Arg1:T235 Arg2:T232	
+R43	Support Arg1:T224 Arg2:T232	
+R44	Support Arg1:T223 Arg2:T232	
+R45	Support Arg1:T222 Arg2:T232	
+R46	Support Arg1:T218 Arg2:T232	

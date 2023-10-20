@@ -1,0 +1,72 @@
+T160	Claim 599 829	I think the United States, with its European allies, ought to do everything we can to encourage the people of Serbia to do exactly what they've been doing over the last few days to rise up and end this reign of terror by Milosevic
+T161	Claim 835 943	bring themselves back into the family of nations where they will be welcomed by the United States and others
+T162	Premise 548 592	If that is not confirmed and does not happen
+T163	Premise 255 360	The encouraging news is that the state news agency is reporting that Mr. Kostunica is the president-elect
+T164	Premise 362 462	There are some press reports that are unconfirmed that say that Milosevic has actually left Belgrade
+T165	Claim 513 546	It's the end of a reign of terror
+T166	Premise 464 511	That is a very happy ending to a terrible story
+T167	Premise 955 1038	I'm very proud on this night as it appears that Milosevic is about to or has fallen
+T168	Claim 1043 1158	the leadership role the United States played in the effort to stop his aggression and genocide in Bosnia and Kosovo
+T170	Premise 1325 1350	we stopped the aggression
+T171	Claim 1391 1453	strengthened our relationship with our European allies in NATO
+T172	Premise 1352 1375	we stopped the genocide
+T173	Premise 1469 1563	made the United States more respected and trusted by our allies and more feared by our enemies
+T174	Premise 1160 1223	I know our opponents have said they thought it was overreaching
+T175	Premise 1225 1234	It wasn't
+T176	Claim 1236 1306	It was a matter of principle in America's national interest and values
+T177	Premise 1785 1863	hopefully tonight we're seeing the final results of that bold and brave effort
+T178	Claim 2018 2096	I think probably more than anything else it's a victory for the Serbian people
+T179	Claim 3535 3621	I think this is an opportunity for the United States to test President Putin of Russia
+T180	Claim 3465 3509	I think he deserves a lot of credit for that
+T181	Claim 2706 2805	I do think it's noteworthy that there appears to be an effort underway to get the Russians involved
+T182	Claim 2497 2638	I think with respect to how this process has been managed most recently, we want to do everything we can to support Mr. Milosevic's departure
+T183	Claim 2469 2495	I think we all admire that
+T184	Premise 1980 2016	I hope it marks the end of Milosevic
+T185	Premise 2098 2176	They've taken to the streets to support their democracy, to support their vote
+T186	Claim 2195 2316	this is a continuation of a process that began ten years ago all across eastern Europe and has only now arrived in Serbia
+T187	Premise 2318 2338	We saw it in Germany
+T188	Premise 2340 2360	we saw it in Rumania
+T189	Premise 2362 2389	we saw it in Czechoslovakia
+T190	Premise 2394 2463	the people of eastern Europe rose up and made their claim for freedom
+T191	Premise 2659 2704	that would not involve committing U.S. troops
+T192	Premise 2884 3009	Governor Bush suggested exactly that we ought to try to get the Russians involved to exercise some leverage over the Serbians
+T193	Premise 3056 3091	that's exactly what they were doing
+T194	Claim 3101 3167	Governor Bush was correct in his assessment and his recommendation
+T195	Claim 3169 3214	He has supported the administration on Kosovo
+T196	Claim 3216 3280	He lobbied actively against passage of the Byrd-Warner provision
+T197	Premise 3281 3380	which would have set a specific deadline, one he felt was too soon, for forcing the U.S. troops out
+T198	Claim 3382 3459	He's been supportive of the policy that we've seen with respect to Yugoslavia
+T199	Premise 3652 3708	we ought to find out whether he's committed to democracy
+T200	Premise 3710 3835	Whether or not he's willing to support the forces of freedom and democracy diplomatically there in the area of eastern Europe
+T201	Claim 3978 4106	how we manage that process of integrating those 150 million eastern Europeans into the security and economic framework of Europe
+T202	Premise 3841 3916	it's a test for him whether he represents the old guard in the Soviet Union
+T1	Question 41 158	If Yugoslavia  's Slobodan Milosevic prevails, notwithstanding the election results, would you support his overthrow?
+R1	Support Arg1:T166 Arg2:T165
+R2	Support Arg1:T164 Arg2:T165
+R3	Support Arg1:T163 Arg2:T165
+R4	Support Arg1:T167 Arg2:T168
+R5	Attack Arg1:T175 Arg2:T174
+R6	Support Arg1:T175 Arg2:T176
+R7	Support Arg1:T168 Arg2:T176
+R10	Support Arg1:T172 Arg2:T171
+R11	Support Arg1:T170 Arg2:T171
+R12	Support Arg1:T171 Arg2:T176
+R8	Support Arg1:T173 Arg2:T176
+T2	Claim 1565 1779	I think that Vice President Gore played a critical role, passionate purposive role in leading the administration, along with Republican supporters like Bob Dole and John McCain, to do the right thing in the Balkans
+R9	Support Arg1:T177 Arg2:T2
+R13	Support Arg1:T185 Arg2:T178
+R14	Support Arg1:T187 Arg2:T186
+R15	Support Arg1:T188 Arg2:T186
+R16	Support Arg1:T189 Arg2:T186
+R17	Support Arg1:T190 Arg2:T186
+R18	Support Arg1:T191 Arg2:T181
+R19	Support Arg1:T192 Arg2:T194	
+R20	Support Arg1:T193 Arg2:T194
+R21	Support Arg1:T194 Arg2:T195
+R23	Support Arg1:T197 Arg2:T196
+R24	Support Arg1:T198 Arg2:T180
+R25	Support Arg1:T195 Arg2:T180
+R26	Support Arg1:T196 Arg2:T180
+R22	Support Arg1:T199 Arg2:T179
+R27	Support Arg1:T200 Arg2:T179
+R28	Support Arg1:T202 Arg2:T179

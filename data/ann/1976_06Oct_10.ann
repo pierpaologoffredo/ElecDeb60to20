@@ -1,0 +1,103 @@
+T1	Claim 1373 1458	I believe that uh - our foreign policy must express the highest standards of morality
+T2	Premise 1464 1617	the initiatives that we took in southern Africa are the best examples of what this administration is doing and will continue to do in the next four years
+T3	Premise 1619 1786	If the United States had not moved when we did in southern Africa, there's no doubt there would have been an acceleration of bloodshed in that tragic part of the world
+T4	Premise 1788 1992	If we had not taken our initiative, it's very, very possible that uh - the government of Rhodesia would have been overrun and that the Soviet Union and the Cubans would have dominated uh - southern Africa
+T5	Premise 1997 2200	the United States, seeking to preserve the principle of self-determination, to eliminate the possibility of bloodshed, to protect the rights of the minority as we insisted upon the rights of the majority
+T6	Claim 2207 2286	I believe followed the good conscience of the American people in foreign policy
+T7	Claim 2292 2324	I believe that we used our skill
+T8	Premise 2326 2452	Secretary of State Kissinger has done a superb job in working with the black African nations, the so-called front-line nations
+T9	Premise 2454 2612	He has done a superb job in getting the prime minister of South Africa, Mr. Vorster, to agree that the time had come for a solution to the problem of Rhodesia
+T10	Premise 2614 2871	Secretary Kissinger, in his meeting with uh - Prime Minister Smith of Rhodesia, was able to convince him that it was in the best interests of whites as well as blacks in Rhodesia to find an answer for a transitional government and then a majority government
+T11	Claim 2873 2985	This is a perfect example of the kind of leadership that the United States, under this administration, has taken
+T13	Claim 2991 3182	I can assure you that this administration will follow that high moral principle in our future efforts in foreign policy, including our efforts in the Middle East where it is vitally important
+T12	Premise 3191 3237	the Middle East is the crossroads of the world
+T14	Premise 3239 3342	There've been more disputes in its area where there's more volatility than any other place in the world
+T15	Premise 3356 3466	Arab nations and the Israelis trust the United States, we were able to take the lead in the Sinai II Agreement
+T16	Claim 3472 3654	I can assure you that the United States will have the leadership role in moving toward a comprehensive settlement of the Middle Eastern problems, I hope and trust as soon as possible
+T17	Claim 4707 4795	I think in all fairness and equity we have to recognize the problem that South Korea has
+T20	Claim 5332 5422	This is a leadership role that the United States under this administration is carrying out
+T21	Claim 5725 5884	This is an - a typical example, maybe of many others, where this administration overthrew an elected government and helped to establish a military dictatorship
+T22	Premise 5886 5928	This has not been an ancient history story
+T23	Premise 5930 6063	Last year under Mr. Ford, of all the Food for Peace that went to South America, 85 percent went to the military dictatorship in Chile
+T24	Claim 6164 6245	That's one of the problems with this administration's so-called shuttle diplomacy
+T25	Premise 6247 6421	While the secretary of state's in one country, there are almost a hundred and fifty others that are wondering what we're gonna do next, what will be the next secret agreement
+T26	Claim 6423 6539	We don't have a comprehensive understandable foreign policy that deals with world problems or even regional problems
+T27	Premise 6737 6867	Karl Marx said that the free enterprise system in a democracy can only continue to exist when they are at war or preparing far war
+T28	Premise 6869 6911	Karl Marx was the grandfather of Communism
+T29	Claim 6913 6946	I don't agree with that statement
+T30	Premise 6980 7221	He has put pressure on the Congress - and I don't believe Mr. Ford would even deny this - to hold up on nonproliferation legislation until the Congress agreed for an $8 billion program for private industry to start producing enriched uranium
+T31	Claim 6948 6978	I hope Mr. Ford doesn't either
+T32	Premise 7313 7360	We were peaceful when Mr. Ford went into office
+T33	Premise 7366 7436	he and Mr. Kissinger and others tried to start a new Vietnam in Angola
+T34	Claim 7442 7624	it was only the outcry of the American people and the Congress when their secret deal was discovered that prevented our involvement in that conflagration which was taking place there
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T2	
+R3	Support Arg1:T4 Arg2:T3	
+R4	Support Arg1:T5 Arg2:T3	
+R5	Support Arg1:T5 Arg2:T1	
+R6	Support Arg1:T5 Arg2:T6	
+R7	Support Arg1:T6 Arg2:T1	
+R8	Support Arg1:T8 Arg2:T7	
+R9	Support Arg1:T9 Arg2:T7	
+R10	Support Arg1:T8 Arg2:T9	
+R11	Support Arg1:T9 Arg2:T10	
+R12	Support Arg1:T10 Arg2:T7	
+R13	Support Arg1:T7 Arg2:T11	
+R14	Support Arg1:T11 Arg2:T13	
+R15	Support Arg1:T13 Arg2:T1	
+R16	Support Arg1:T12 Arg2:T14	
+R17	Support Arg1:T14 Arg2:T15	
+R18	Support Arg1:T15 Arg2:T13	
+R19	Support Arg1:T14 Arg2:T13	
+R20	Support Arg1:T12 Arg2:T13	
+R21	Support Arg1:T13 Arg2:T16	
+T35	Claim 3660 3707	we will do it with the highest moral principles
+R22	Support Arg1:T35 Arg2:T16	
+R23	Support Arg1:T1 Arg2:T35	
+T36	Claim 4159 4210	the United States must not spread itself too thinly
+T37	Premise 4213 4292	that was one of the problems that helped to create the circumstances in Vietnam
+T38	Claim 4439 4512	United States will take the leadership and try to resolve the differences
+T39	Premise 4327 4428	we are asked by the various parties, either one nation against another or individuals within a nation
+T40	Claim 4558 4701	I have personally told President Pack that the United States does not condone the kind of repressive measures that he has taken in that country
+T19	Premise 4797 4893	On the north they have North Korea with five hundred thousand well-trained, well-equipped troops
+T41	Premise 4896 4948	they are supported by the People's Republic of China
+T42	Premise 4950 4989	they are supported by the Soviet Union.
+T43	Claim 4990 5033	South Korea faces a very delicate situation
+T44	Premise 5072 5331	this administration, has recommended a year ago and we have reiterated it again this year, that the United States, South Korea, North Korea and the uh - People's Republic of China sit down at a conference table to resolve the problems of the Korean peninsula.
+T18	Claim 5428 5439	if we do it
+T45	Premise 5445 5511	I think the opportunities and the possibilities are getting better
+T46	Claim 5514 5617	e will have solved many of the internal domestic problems that exist in South Korea at the present time
+T47	Claim 6101 6163	He says we have to move from one area of the world to another.
+T48	Claim 6577 6736	what Mr. Ford said about unemployment, that - insinuating that under Johnson and Kennedy that unemployment could only be held down when this country is at war.
+R24	Support Arg1:T37 Arg2:T36	
+R25	Support Arg1:T39 Arg2:T38	
+R26	Attack Arg1:T36 Arg2:T38	
+R27	Support Arg1:T19 Arg2:T17	
+R28	Support Arg1:T41 Arg2:T17	
+R29	Support Arg1:T42 Arg2:T17	
+R30	Attack Arg1:T40 Arg2:T17	
+R31	Support Arg1:T17 Arg2:T43	
+R32	Support Arg1:T44 Arg2:T20	
+R33	Support Arg1:T45 Arg2:T18	
+R34	Support Arg1:T18 Arg2:T20	
+R35	Support Arg1:T38 Arg2:T20	
+R36	Support Arg1:T46 Arg2:T20	
+R37	Support Arg1:T45 Arg2:T46	
+T49	Premise 5671 5723	Mr. Ford didn't comment on the uh - prisons in Chile
+R38	Support Arg1:T49 Arg2:T21	
+R39	Support Arg1:T22 Arg2:T23	
+R40	Support Arg1:T23 Arg2:T21	
+R41	Support Arg1:T47 Arg2:T24	
+T50	Premise 4104 4152	as we move to one area of the world from another
+R42	Support Arg1:T50 Arg2:T36	
+R43	Attack Arg1:T47 Arg2:T50	
+R44	Support Arg1:T24 Arg2:T38	
+R45	Support Arg1:T25 Arg2:T24	
+R46	Support Arg1:T28 Arg2:T27	
+R47	Support Arg1:T25 Arg2:T26	
+R48	Support Arg1:T27 Arg2:T48	
+R49	Attack Arg1:T29 Arg2:T48	
+R50	Attack Arg1:T29 Arg2:T27	
+R51	Support Arg1:T31 Arg2:T29	
+R52	Support Arg1:T32 Arg2:T33	
+R53	Support Arg1:T33 Arg2:T34	

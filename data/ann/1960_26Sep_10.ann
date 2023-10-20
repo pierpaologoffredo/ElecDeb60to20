@@ -1,0 +1,29 @@
+T381	Claim 361 391	Well, I think they're serious.
+T382	Claim 392 484	I think it's a matter that we should continue to uh - give uh - great care and attention to.
+T383	Claim 485 624	We should support uh - the laws which the United States has passed in order to protect us from uh - those who would destroy us from within.
+T384	Claim 625 704	We should sustain uh - the Department of Justice in its efforts and the F.B.I.,
+T385	Claim 709 740	we should be continually alert.
+T386	Claim 829 874	I think that we can meet any internal threat.
+T387	Premise 749 828	if the United States is maintaining a strong society here in the United States,
+T388	Claim 875 922	The major threat is external and will continue.
+T389	Claim 957 1024	I agree with Senator Kennedy's appraisal generally in this respect.
+T390	Premise 1025 1121	The question of Communism within the United States has been one that has worried us in the past.
+T391	Premise 1122 1185	It is one that will continue to be a problem for years to come.
+T392	Premise 1186 1360	We have to remember that the cold war that Mr. Khrushchev is waging and his colleagues are waging, is waged all over the world and it's waged right here in the United States.
+T393	Claim 1361 1404	That's why we have to continue to be alert.
+T394	Claim 1405 1457	It is also essential in being alert that we be fair;
+T395	Premise 1458 1547	fair because by being fair we uphold the very freedoms that the Communists would destroy.
+T396	Premise 1548 1613	We uphold the standards of conduct which they would never follow.
+T397	Claim 1639 2009	I think that uh - we must look to the future having in mind the fact that we fight Communism at home not only by our laws to deal with Communists uh - the few who do become Communists and the few who do become tra- fellow travelers, but we also fight Communism at home by moving against those various injustices which exist in our society which the Communists feed upon.
+T398	Claim 2110 2298	I do believe that he uh - would agree that I am just as sincere in believing that my proposals for federal aid to education, my proposals for health care are just as sincerely held as his.
+R1	Support Arg1:T382 Arg2:T381
+R2	Support Arg1:T383 Arg2:T382
+R3	Support Arg1:T384 Arg2:T382
+R4	Support Arg1:T385 Arg2:T382
+R5	Support Arg1:T390 Arg2:T381
+R6	Support Arg1:T387 Arg2:T386
+R7	Support Arg1:T392 Arg2:T390
+R8	Support Arg1:T391 Arg2:T393
+R9	Support Arg1:T393 Arg2:T389
+R10	Support Arg1:T395 Arg2:T394
+R11	Support Arg1:T396 Arg2:T395

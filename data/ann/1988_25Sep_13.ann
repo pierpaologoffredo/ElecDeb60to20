@@ -1,0 +1,90 @@
+T842	Claim 282 424	I have made specific proposals on education and the environment and on ethics and energy and how we do better in battling crime in our country
+T843	Claim 503 538	I want to keep this expansion going
+T844	Claim 564 581	we are the change
+T845	Claim 540 559	Yes, we want change
+T846	Claim 583 598	I am the change
+T847	Claim 600 651	I don't want to go back to malaise and misery index
+T848	Claim 771 815	in terms of peace, we are on the right track
+T849	Claim 697 765	The best poverty program is a job with dignity in the private sector
+T850	Claim 817 901	We've achieved an arms control agreement that our critics thought was never possible
+T851	Claim 906 927	I want to build on it
+T852	Claim 929 975	I want to see us finalize that START agreement
+T853	Claim 980 1074	I want it to be the one to finally lead the world to banishing chemical and biological weapons
+T854	Claim 1077 1137	I want to see asymmetrical reductions in conventional forces
+T855	Claim 1345 1373	I do favor the death penalty
+T856	Claim 1612 1733	Who has the integrity and stability to get the job done?â‰¤ My fellow Americans, I am that man and I ask for your support
+T1	Claim 480 501	Opportunity and peace
+T2	Premise 426 478	But there are two main focal points of this election
+R1	Support Arg1:T2 Arg2:T1	
+T3	Claim 675 695	Keep America at work
+T4	Premise 658 673	so, opportunity
+R2	Support Arg1:T1 Arg2:T843	
+R3	Attack Arg1:T844 Arg2:T845	
+R4	Support Arg1:T846 Arg2:T844	
+R5	Support Arg1:T844 Arg2:T847	
+R6	Support Arg1:T846 Arg2:T847	
+R7	Support Arg1:T4 Arg2:T3	
+R8	Support Arg1:T1 Arg2:T3	
+R9	Support Arg1:T849 Arg2:T3	
+R10	Support Arg1:T850 Arg2:T848	
+R11	Support Arg1:T851 Arg2:T848	
+R12	Support Arg1:T852 Arg2:T853	
+R13	Support Arg1:T853 Arg2:T848	
+R14	Support Arg1:T854 Arg2:T848	
+T5	Premise 1574 1611	Who has the experience that we trust?
+T6	Premise 1541 1573	Who has the values I believe in?
+T7	Premise 1279 1339	on tough sentencing of drug king pins and this kind of thing
+R15	Support Arg1:T7 Arg2:T855	
+R16	Support Arg1:T6 Arg2:T856	
+R17	Support Arg1:T5 Arg2:T856	
+T8	Premise 2153 2180	that can build partnerships
+T9	Premise 2183 2232	hat can build jobs in every part of this country,
+T10	Premise 2233 2266	not certain parts of this country
+T11	Premise 2277 2447	my friends, my parents came to this country as immigrants like millions and millions of Americans before them and since, seeking opportunities, seeking the American dream
+T12	Premise 2449 2533	They made sure their sons understood that this was the greatest country in the world
+T13	Premise 2535 2739	that those of us especially who were the sons and daughters of immigrants had a special responsibility to give something to the country that had opened up its arms to our parents and given so much to them
+T14	Claim 2740 2772	I believe in the American dream.
+T15	Claim 2773 2870	I'm a product of it and I want to help that dream come true for every single citizen in this land
+T16	Premise 2872 2902	with a good job and good wages
+T17	Premise 2904 2987	with good schools in every part of this country and every community in this country
+T18	Premise 2989 3121	With decent and affordable housing that our people can buy and own and live in, so that we end the shame of hopelessness in America.
+T19	Premise 3122 3184	With decent and affordable healthcare for all working families
+T20	Premise 3185 3227	Yes, it's a tough problem as Mr. Bush says
+T21	Claim 3229 3264	but itÏ€s not an insolvable problem
+T22	Claim 3266 3308	It's one that we will solve and must solve
+T23	Premise 3310 3522	with a clean and wholesome environment and with a strong America that's strong militarily and economically as we must be, an America that provides strong international leadership because we're true to our values.
+T24	Premise 3522 3673	We have an opportunity working together to build that future, to build a better America, to build a best America, because the best America doesn't hide
+T25	Claim 3675 3685	We compete
+T26	Premise 3687 3703	The best America
+T27	Claim 3705 3715	We invest.
+T28	Premise 3716 3774	The best America doesn't leave some of its citizens behind
+T29	Claim 3776 3809	We live-we bring everybody along.
+T30	Claim 3810 3848	And the best America is not behind us.
+T31	Claim 3849 3880	The best America is yet to come
+T32	Claim 2074 2151	providing we have the kind of leadership in Washington that can work with you
+T33	Claim 2006 2073	I'm more optimistic today than I was when I began about this nation
+R18	Attack Arg1:T32 Arg2:T33	
+R19	Support Arg1:T8 Arg2:T32	
+R20	Support Arg1:T9 Arg2:T32	
+R21	Attack Arg1:T9 Arg2:T10	
+R22	Support Arg1:T11 Arg2:T12	
+R23	Support Arg1:T12 Arg2:T13	
+R24	Support Arg1:T13 Arg2:T14	
+R25	Support Arg1:T15 Arg2:T14	
+R26	Support Arg1:T16 Arg2:T15	
+R27	Support Arg1:T17 Arg2:T15	
+R28	Support Arg1:T18 Arg2:T15	
+R29	Support Arg1:T19 Arg2:T15	
+R30	Attack Arg1:T15 Arg2:T20	
+R31	Support Arg1:T21 Arg2:T15	
+R32	Attack Arg1:T21 Arg2:T20	
+R33	Support Arg1:T22 Arg2:T21	
+R34	Support Arg1:T23 Arg2:T22	
+R35	Support Arg1:T23 Arg2:T25	
+R36	Support Arg1:T26 Arg2:T25	
+R37	Support Arg1:T28 Arg2:T27	
+R38	Support Arg1:T28 Arg2:T29	
+R39	Support Arg1:T30 Arg2:T31	
+R40	Support Arg1:T25 Arg2:T31	
+R41	Support Arg1:T27 Arg2:T31	
+R42	Support Arg1:T29 Arg2:T31	

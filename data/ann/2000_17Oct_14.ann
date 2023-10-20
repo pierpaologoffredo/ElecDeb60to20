@@ -1,0 +1,67 @@
+T710	Claim 479 481	No
+T711	Claim 483 504	I'm not proud of that
+T712	Claim 506 550	The death penalty is a very serious business
+T713	Claim 557 609	It's an issue that good people obviously disagree on
+T714	Claim 611 634	I take my job seriously
+T715	Claim 640 694	if you think I was proud of it, I think you misread me
+T717	Claim 890 914	I believe it saves lives
+T719	Claim 1596 1623	I'm not proud of any record
+T716	Premise 834 880	I said I did if administered fairly and justly
+T718	Premise 746 832	During the course of the campaign in 1994 I was asked do you support the death penalty
+T720	Claim 927 990	If it's administered swiftly, justly and fairly, it saves lives
+T721	Claim 1101 1141	You can't let public persuasion sway you
+T722	Premise 1151 1180	the job is to enforce the law
+T723	Claim 992 1099	One of the things that happens when you're a governor, at least oftentimes you have to make tough decisions
+T724	Claim 1186 1203	that's what I did
+T726	Claim 1625 1695	I'm proud of the fact that violent crime is down in the State of Texas
+T727	Claim 1697 1750	I'm proud of the fact that we hold people accountable
+T728	Premise 1210 1262	There have been some tough cases come across my desk
+T729	Premise 1264 1370	Some of the hardest moments since I've been the governor of the State of Texas is to deal with those cases
+T730	Claim 1839 1866	I support the death penalty
+T731	Claim 1868 2054	I think that it has to be administered not only fairly with attention to things like DNA evidence, which I think should be used in all capital cases, but also with very careful attention
+T732	Claim 2450 2503	I support the death penalty in the most heinous cases
+T733	Claim 2218 2280	If the wrong guy is put to death, then that's a double tragedy
+T734	Claim 2282 2403	Not only has an innocent person been executed, but the real perpetrator of the crime has not been held accountable for it
+T735	Premise 2409 2444	in some cases may be still at large
+T737	Claim 2604 2637	It's the only reason to be for it
+T738	Claim 2659 2725	I don't think you should support the death penalty to seek revenge
+T739	Claim 2727 2753	I don't think that's right
+T740	Claim 2755 2843	I think the reason to support the death penalty is because it saves other people's lives
+T741	Claim 2852 2877	I think it is a deterrent
+T742	Claim 2919 2948	I do believe it's a deterrent
+T743	Claim 2879 2913	I know that's a controversial view
+T1	Claim 1756 1783	I'm not proud of any record
+T2	Claim 2598 2602	I do
+R1	Attack Arg1:T712 Arg2:T711	
+R2	Support Arg1:T712 Arg2:T714	
+R3	Attack Arg1:T715 Arg2:T711	
+R4	Support Arg1:T716 Arg2:T718	
+R5	Support Arg1:T717 Arg2:T716	
+R6	Support Arg1:T716 Arg2:T720	
+R7	Support Arg1:T717 Arg2:T720	
+R8	Support Arg1:T714 Arg2:T723	
+R9	Support Arg1:T722 Arg2:T721	
+R10	Attack Arg1:T723 Arg2:T721	
+R11	Support Arg1:T724 Arg2:T722	
+R12	Support Arg1:T724 Arg2:T723	
+R13	Support Arg1:T728 Arg2:T723	
+R14	Support Arg1:T728 Arg2:T729	
+R15	Support Arg1:T729 Arg2:T723	
+R16	Attack Arg1:T726 Arg2:T719	
+R17	Support Arg1:T726 Arg2:T727	
+R18	Support Arg1:T1 Arg2:T719	
+R19	Support Arg1:T729 Arg2:T719	
+R20	Support Arg1:T731 Arg2:T730	
+T3	Premise 2074 2217	omebody confesses to the crime and somebody is waiting on death row, there has to be alertness to say wait a minute, have we got the wrong guy?
+R21	Support Arg1:T3 Arg2:T733	
+R22	Support Arg1:T735 Arg2:T734	
+R24	Support Arg1:T733 Arg2:T731	
+R26	Support Arg1:T732 Arg2:T730	
+R27	Attack Arg1:T737 Arg2:T738	
+R28	Attack Arg1:T739 Arg2:T738	
+R29	Support Arg1:T737 Arg2:T740	
+R30	Support Arg1:T741 Arg2:T740	
+R31	Support Arg1:T742 Arg2:T741	
+R32	Attack Arg1:T742 Arg2:T743	
+R33	Attack Arg1:T733 Arg2:T730	
+R23	Support Arg1:T734 Arg2:T733	

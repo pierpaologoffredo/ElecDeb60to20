@@ -1,0 +1,138 @@
+T121	Claim 344 355	I would not
+T122	Premise 357 389	I have laid out a different plan
+T123	Claim 399 434	the president's plan is not working
+T124	Premise 436 474	You see that every night on television
+T125	Premise 476 497	There's chaos in Iraq
+T126	Premise 499 630	King Abdullah of Jordan said just yesterday or the day before you can't hold elections in Iraq with the chaos that's going on today
+T127	Premise 633 816	Senator Richard Lugar, the Republican chairman of the Foreign Relations Committee, said that the handling of the reconstruction aid in Iraq by this administration has been incompetent
+T128	Premise 818 859	Those are the Republican chairman's words
+T129	Premise 862 957	Senator Hagel of Nebraska said that the handling of Iraq is beyond pitiful, beyond embarrassing
+T130	Premise 959 988	it's in the zone of dangerous
+T131	Premise 991 1081	Those are the words of two Republicans, respected, both on the Foreign Relations Committee
+T132	Claim 1141 1208	I would reach out to our allies in a way that this president hasn't
+T133	Premise 1210 1305	He pushed them away time and again, pushed them away at the U.N., pushed them away individually
+T134	Premise 1308 1408	Two weeks ago, there was a meeting of the North Atlantic Council, which is the political arm of NATO
+T135	Premise 1410 1516	They discussed the possibility of a small training unit or having a total takeover of the training in Iraq
+T136	Premise 1519 1581	Did our administration push for the total training of Iraq? No
+T137	Premise 1583 1604	Were they silent? Yes
+T138	Premise 1607 1736	Was there an effort to bring all the allies together around that? No, because they've always wanted this to be an American effort
+T139	Premise 1739 1938	You know, they even had the Defense Department issue a memorandum saying, "Don't bother applying for assistance or for being part of the reconstruction if you weren't part of our original coalition."
+T140	Premise 1945 2041	that's not a good way to build support and reduce the risk for our troops and make America safer
+T141	Claim 2044 2093	I'm going to get the training done for our troops
+T142	Claim 2095 2146	I'm going to get the training of Iraqis done faster
+T143	Claim 2152 2197	I'm going to get our allies back to the table
+T144	Claim 2822 2847	we need to stand with him
+T145	Claim 2882 2900	it sounds familiar
+T146	Premise 2910 2935	it's called the Bush plan
+T147	Premise 2850 2880	My opponent says he has a plan
+T148	Claim 2937 2976	We're going to train troops, and we are
+T149	Claim 2978 3027	We'll have 125,000 trained by the end of December
+T150	Premise 2207 2281	Two days ago in the Oval Office, I met with the finance minister from Iraq
+T152	Claim 2306 2394	he talked about how optimistic he was and the country was about heading toward elections
+T153	Premise 2396 2451	Think about it: They're going from tyranny to elections
+T154	Premise 2454 2528	He talked about the reconstruction efforts that are beginning to take hold
+T155	Premise 2530 2582	He talked about the fact that Iraqis love to be free
+T157	Premise 2740 2816	this is guy a who, along with others, has taken great risk for great freedom
+T158	Premise 3029 3060	We're spending about $7 billion
+T159	Claim 3497 3526	I know how these people think
+T160	Premise 3528 3557	I meet with them all the time
+T161	Premise 3559 3592	I talk to Tony Blair all the time
+T162	Premise 3594 3621	I talk to Silvio Berlusconi
+T163	Claim 3623 3706	They're not going to follow an American president who says follow me into a mistake
+T164	Claim 3708 3727	Our plan is working
+T165	Claim 3729 3758	We're going to make elections
+T166	Claim 3764 3788	Iraq is going to be free
+T167	Claim 3794 3827	America will be better off for it
+T168	Claim 3363 3494	Nobody is going to follow somebody who doesn't believe we can succeed and with somebody who says that war where we are is a mistake
+T169	Premise 3063 3173	He talks about a grand idea: Let's have a summit; we're going to solve the problem in Iraq by holding a summit
+T170	Premise 3180 3309	what is he going to say to those people that show up at the summit? Join me in the wrong war at the wrong time at the wrong place
+T171	Premise 3311 3360	Risk your troops in a war you've called a mistake
+T172	Claim 4272 4290	we have to succeed
+T173	Claim 4315 4337	I have been consistent
+T174	Premise 4292 4313	I've always said that
+T176	Claim 4368 4405	I have a better plan to help us do it
+T177	Claim 3922 3971	the right war was Osama bin Laden and Afghanistan
+T178	Claim 3973 3997	That was the right place
+T179	Claim 4003 4031	the right time was Tora Bora
+T180	Premise 4038 4074	we had him cornered in the mountains
+T181	Claim 4082 4156	everyone in the world knows that there were no weapons of mass destruction
+T182	Claim 4158 4222	That was the reason Congress gave him the authority to use force
+T183	Premise 4224 4265	not after excuse to get rid of the regime
+T184	Claim 4429 4489	we didn't find out he didn't have weapons until we got there
+T185	Premise 4495 4574	my opponent thought he had weapons and told everybody he thought he had weapons
+T186	Claim 4590 4679	it's a fundamental misunderstanding to say that the war on terror is only Osama bin Laden
+T187	Claim 4681 4796	The war on terror is to make sure that these terrorist organizations do not end up with weapons of mass destruction
+T188	Claim 4798 4836	That's what the war on terror is about
+T189	Claim 4850 4885	we're going to find Osama bin Laden
+T190	Premise 4887 4925	We've already 75 percent of his people
+T191	Premise 4931 4956	we're on the hunt for him
+T192	Claim 4963 5015	this is a global conflict that requires firm resolve
+T1	Claim 4344 4362	we have to succeed
+R1	Attack Arg1:T122 Arg2:T123	
+R2	Support Arg1:T124 Arg2:T125	
+R3	Support Arg1:T125 Arg2:T126	
+R4	Support Arg1:T126 Arg2:T122	
+R5	Attack Arg1:T126 Arg2:T123	
+R6	Support Arg1:T128 Arg2:T127	
+R7	Support Arg1:T130 Arg2:T129	
+R8	Support Arg1:T129 Arg2:T127	
+R9	Attack Arg1:T127 Arg2:T123	
+R10	Support Arg1:T131 Arg2:T129	
+T2	Claim 1084 1140	Now, I have to tell you, I would do something different.
+R11	Support Arg1:T122 Arg2:T2	
+R12	Support Arg1:T132 Arg2:T2	
+R13	Attack Arg1:T132 Arg2:T133	
+R14	Support Arg1:T134 Arg2:T135	
+R15	Attack Arg1:T135 Arg2:T136	
+R16	Attack Arg1:T137 Arg2:T138	
+R17	Support Arg1:T136 Arg2:T138	
+R18	Attack Arg1:T137 Arg2:T136	
+R19	Attack Arg1:T132 Arg2:T138	
+R20	Support Arg1:T139 Arg2:T140	
+R21	Attack Arg1:T132 Arg2:T140	
+R22	Support Arg1:T141 Arg2:T142	
+R23	Support Arg1:T142 Arg2:T143	
+R24	Support Arg1:T143 Arg2:T132	
+R25	Attack Arg1:T143 Arg2:T138	
+R26	Attack Arg1:T142 Arg2:T136	
+R27	Support Arg1:T150 Arg2:T152	
+R28	Support Arg1:T153 Arg2:T154	
+R29	Support Arg1:T154 Arg2:T152	
+R30	Support Arg1:T155 Arg2:T152	
+T3	Premise 2593 2732	he was optimistic when he came here, then he turned on the TV and listened to the political rhetoric and all of a sudden he was pessimistic
+R31	Support Arg1:T157 Arg2:T144	
+R32	Attack Arg1:T152 Arg2:T3	
+R33	Support Arg1:T147 Arg2:T145	
+R34	Support Arg1:T145 Arg2:T146	
+R35	Support Arg1:T149 Arg2:T148	
+R36	Support Arg1:T158 Arg2:T148	
+R37	Support Arg1:T169 Arg2:T170	
+R38	Attack Arg1:T168 Arg2:T171	
+R39	Attack Arg1:T168 Arg2:T170	
+R40	Support Arg1:T160 Arg2:T159	
+R41	Support Arg1:T161 Arg2:T159	
+R42	Support Arg1:T162 Arg2:T159	
+R43	Support Arg1:T159 Arg2:T163	
+R44	Support Arg1:T168 Arg2:T163	
+R45	Attack Arg1:T163 Arg2:T171	
+R46	Support Arg1:T165 Arg2:T164	
+R47	Support Arg1:T166 Arg2:T164	
+R48	Support Arg1:T164 Arg2:T167	
+R49	Support Arg1:T178 Arg2:T177	
+R50	Support Arg1:T180 Arg2:T179	
+R51	Support Arg1:T179 Arg2:T177	
+R52	Support Arg1:T181 Arg2:T182	
+R53	Attack Arg1:T182 Arg2:T183	
+R54	Support Arg1:T174 Arg2:T173	
+R55	Support Arg1:T174 Arg2:T172	
+R56	Support Arg1:T172 Arg2:T1	
+R57	Support Arg1:T1 Arg2:T176	
+R58	Attack Arg1:T184 Arg2:T185	
+R59	Attack Arg1:T185 Arg2:T181	
+R60	Attack Arg1:T184 Arg2:T181	
+R61	Attack Arg1:T186 Arg2:T177	
+R62	Support Arg1:T186 Arg2:T187	
+R63	Support Arg1:T187 Arg2:T188	
+R64	Support Arg1:T190 Arg2:T189	
+R65	Support Arg1:T191 Arg2:T189	
+R66	Support Arg1:T188 Arg2:T192	

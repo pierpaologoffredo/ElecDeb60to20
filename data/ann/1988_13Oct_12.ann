@@ -1,0 +1,30 @@
+T1	Claim 655 743	I would do is appoint people to the Federal Bench that will not legislate from the Bench
+T2	Claim 745 780	who will interpret the Constitution
+T3	Claim 1113 1145	I won't support judges like that
+T4	Premise 914 1112	They don't like the use of the word, but may I remind his strong supporters that only last year in the primary, to capture that Democratic nomination, he said, "I am a progressive liberal Democrat."
+T5	Claim 782 912	I do not want to see us go to again and I'm using this word advisedly a liberal majority that is going to legislate from the Bench
+R1	Support Arg1:T5 Arg2:T1	
+R2	Support Arg1:T2 Arg2:T1	
+R3	Support Arg1:T4 Arg2:T3	
+T6	Claim 1427 1442	I supported him
+T7	Claim 1593 1688	that is a very good reason for voting for Mike Dukakis and Lloyd Bentsen on the 8th of November
+T8	Premise 1464 1561	If the Vice President of the United States thinks that Robert Bork was an outstanding appointment
+R4	Support Arg1:T8 Arg2:T7	
+T9	Premise 1725 1781	I think the Vice President supported the Bork nomination
+R5	Support Arg1:T9 Arg2:T7	
+T10	Premise 1793 1829	Mr. Bush has never appointed a judge
+T11	Premise 1831 1854	I've appointed over 130
+T12	Claim 1859 1874	I have a record
+R6	Support Arg1:T11 Arg2:T12	
+R7	Support Arg1:T10 Arg2:T12	
+R8	Support Arg1:T12 Arg2:T7	
+T13	Premise 1922 1981	I don't ask people whether they're Republicans or Democrats
+T14	Premise 1983 2009	I've appointed prosecutors
+T15	Premise 2011 2035	I've appointed defenders
+T16	Premise 2037 2130	I don't appoint people I think are liberal or people who think - who I think are conservative
+T17	Premise 2132 2195	I appoint people of independence and integrity and intelligence
+T18	Premise 2197 2237	people who will be a credit to the Bench
+T19	Claim 2243 2345	those are the standards that I will use in nominating people to the Supreme Court of the United States
+T20	Premise 2347 2378	These appointments are for life
+T21	Premise 2380 2411	These appointments are for life
+R9	Equivalent Arg1:T20 Arg2:T21	

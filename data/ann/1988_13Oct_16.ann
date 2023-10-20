@@ -1,0 +1,73 @@
+T1	Claim 679 726	I think we ought to be looking at modernization
+T2	Claim 728 798	I think we ought to be exploring less expensive ways to get it on land
+T3	Claim 804 893	we ought to make sure that we have an effective and strong and credible nuclear deterrent
+T4	Claim 899 981	we also need well-equipped and well-trained and well-supported conventional forces
+T5	Premise 987 1285	every defense expert I know, including people in the Pentagon itself, will tell you that given the level of defense spending and the level of defense appropriations which the Congress has now approved and the president has signed, there's no way that you can do all of these things and do them well
+T6	Claim 1298 1393	tough choices will be required, choices I am prepared to make, Mr. Bush is not prepared to make
+T7	Claim 1614 1745	I would challenge Mr. Gorbachev to join with us in limiting in eliminating regional conflict in the Middle East, in Central America
+T8	Premise 1747 1954	Let's get him working on Syria, their client state, and see if we can't get them to join Israel and other Arab nations, if at all possible, and Arab leaders, in finally bringing peace to that troubled region
+T9	Claim 1960 2033	I think that's one reason why we need fresh leadership in the White House
+T10	Premise 2099 2227	Let's go to work and end this fiasco in Central America, a failed policy which has actually increased Cuban and Soviet influence
+T11	Premise 2229 2301	The democratic leaders of Central and Latin America want to work with us
+T12	Premise 2303 2321	I've met with them
+T13	Premise 2323 2334	I know them
+T14	Premise 2336 2412	I've spent time in South America-speak the language, so does Senator Bentsen
+T15	Premise 2414 2486	We want to work with them and build a new relationship, and they with us
+T16	Premise 2492 2571	not a one of those key democratic leaders support our policy in Central America
+T17	Claim 2577 2604	we've got to work with them
+T18	Premise 2605 2710	if we are going to create an environment for human rights and democracy for the people of this hemisphere
+T19	Premise 2716 2872	go to work on our single most important problem, and that is the avalanche of drugs that is poring into our country and virtually destroying those countries
+T20	Claim 2874 2974	Those are the kinds of priorities for national security and for foreign policy that I want to pursue
+T21	Claim 2975 3081	Mr. Bush and I have major differences on these issues and I hope very much to be president and pursue them
+T22	Premise 3136 3219	In terms of regional tensions, we have now gotten the attention of the Soviet Union
+T23	Premise 3263 3396	they see us now as unwilling to make the very kinds of unilateral cuts that have been called for and to go for the discredited freeze
+T24	Claim 3398 3461	My opponent had trouble, criticized us, on our policy in Angola
+T25	Premise 3463 3577	It now looks, because of steady negotiation, that we may have an agreement that will remove the Cubans from Angola
+T26	Premise 3579 3624	We see the Russians coming out of Afghanistan
+T27	Premise 3626 3799	That wouldn't have stopped if we hadn't been willing wouldn't have even started, the Soviets coming out, if we hadn't even been willing to support the freedom fighters there
+T28	Claim 3805 3859	the policy in Central America, regrettably, has failed
+T29	Premise 3868 3951	the Congress has been unwilling to support those who have been fighting for freedom
+T30	Premise 3953 4019	Those Sandinistas came in and betrayed the trust of the revolution
+T31	Premise 4021 4144	they said it was about democracy, and they have done nothing other than solidify their Marxist domination over that country
+T32	Claim 4868 4915	This is another example of misplaced priorities
+T33	Premise 4917 5190	An administration which wants to billions on weapons systems that we don't need and can't afford, and now confronts us with a very serious problem, and plants that are supposed to be producing tritium and plutonium and providing the necessary materials for existing weapons
+T34	Premise 5232 5325	we may find ourselves unilaterally, if I may use that term, dismantling some of these weapons
+T35	Premise 5489 5599	I don't know what the latest cost estimates are, but it's going to be in the range of 25, 50, 75, $100 billion
+T36	Claim 5700 5807	I'm somebody who believes very strongly in taking care of the fundamentals first before you start new stuff
+T37	Claim 5813 5888	that's something which will be a priority of ours in the new administration
+T38	Premise 5897 5992	without it, we cannot have the effective and strong and credible nuclear deterrent we must have
+T39	Claim 6271 6331	Will he join me in suggesting that we may need another plant
+T40	Premise 6333 6440	Maybe in Idaho, to take care of the requirements, nuclear material requirements, for our Defense Department
+T41	Claim 6584 6636	I believe that we must use clean, safe nuclear power
+T42	Claim 6638 6740	I believe that the more dependent we become on foreign oil, the less our national security is enhanced
+T43	Claim 6757 6955	I've made some proposals to strengthen the domestic oil industry by more incentive going in to look for, and find, and produce oil; made some incentives in terms of secondary and tertiary production
+T44	Claim 6961 7055	we're going to have to use more gas, more coal and more safe nuclear power for our energy base
+R1	Attack Arg1:T5 Arg2:T4	
+R2	Attack Arg1:T5 Arg2:T3	
+R3	Attack Arg1:T5 Arg2:T1	
+R4	Attack Arg1:T5 Arg2:T2	
+R5	Support Arg1:T5 Arg2:T6	
+T45	Claim 1408 1449	I think we can go far beyond this as well
+T46	Premise 1459 1612	we have opportunities now step-by-step to bring down the level of strategic weapons, get a test ban treaty, negotiate those conventional force reductions
+R6	Support Arg1:T46 Arg2:T45	
+R8	Support Arg1:T8 Arg2:T7	
+R7	Support Arg1:T7 Arg2:T9	
+T47	Premise 2034 2097	that can make progress now in bringing peace to the Middle East
+R9	Support Arg1:T47 Arg2:T9	
+R10	Support Arg1:T10 Arg2:T9	
+R11	Support Arg1:T11 Arg2:T10	
+R12	Support Arg1:T18 Arg2:T17	
+R13	Support Arg1:T19 Arg2:T17	
+R14	Support Arg1:T17 Arg2:T20	
+R15	Attack Arg1:T25 Arg2:T24	
+R16	Support Arg1:T29 Arg2:T28	
+R17	Support Arg1:T30 Arg2:T28	
+R18	Support Arg1:T31 Arg2:T28	
+R19	Support Arg1:T33 Arg2:T32	
+R20	Support Arg1:T34 Arg2:T32	
+R21	Support Arg1:T35 Arg2:T32	
+R22	Support Arg1:T38 Arg2:T37	
+R23	Support Arg1:T37 Arg2:T36	
+R24	Support Arg1:T42 Arg2:T43	
+R25	Support Arg1:T44 Arg2:T43	
+R26	Support Arg1:T41 Arg2:T43	

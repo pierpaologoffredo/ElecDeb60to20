@@ -1,0 +1,73 @@
+T420	Premise -1 84; -1 84	the significance of prestige is because we're so identified with the cause of freedom
+T421	Premise 687 709	if we are on the mount
+T422	Premise 711 727	if we are rising
+T423	Premise 729 758	if our influence is spreading
+T424	Premise 760 788	if our prestige is spreading
+T426	Claim 1005 1047	they'll be persuaded to follow our example
+T427	Claim 1049 1132	There have been several indications that our prestige is not as high as it once was
+T428	Premise 1318 1436	He said that many of these countries equate space developments with scientific productivity and scientific advancement
+T429	Premise 1453 1584	he said, many of these countries now feel that the Soviet Union, which was once so backward, is now on a par with the United States
+T430	Claim 1596 1656	the economic growth of the Soviet Union is greater than ours
+T431	Premise 1658 1728	Mr. Dulles has suggested it's from two to three times as great as ours
+T432	Premise 1730 1873	This has a great effect on the s- underdeveloped world, which faces problems of low income and high population density and inadequate resources
+T433	Premise 1882 2029	a Gallup Poll taken in February asked people in ten countries which country they thought would be first in 1970, both scientifically and militarily
+T434	Premise 2035 2124	a majority in every country except Greece, felt that it would be the Soviet Union by l970
+T437	Premise 2527 2599	More countries voted against us in Asia on this issue than voted with us
+T438	Premise 2601 2690	On the neutralists' resolution, which we were so much opposed to, the same thing happened
+T439	Claim 3182 3221	I would say our prestige is not so high
+T440	Premise 3223 3274	No longer do we give the image of being on the rise
+T441	Premise 3276 3317	No longer do we give an image of vitality
+T442	Premise 3145 3177	Laos is moving in that direction
+T445	Claim 3392 3535	Senator's - Kennedy's statement that he's just made is not going to help our Gallup Polls abroad and it isn't going to help our prestige either
+T447	Premise 3537 3577	Let's look at the other side of the coin
+T448	Premise 3579 3614	Let's look at the vote on the Congo
+T449	Premise 3616 3672	the vote was seventy to nothing against the Soviet Union
+T450	Premise 3674 3748	Let's look at the situation with regard to economic growth as it really is
+T451	Premise 3750 3807	We find that the Soviet Union is a very primitive economy
+T452	Claim 3809 3843	Its growth rate is not what counts
+T455	Premise 3968 3997	we have confidence in America
+T456	Premise 4002 4045	don't run her down in order to build her up
+T457	Premise 4155 4250	in this whole matter of prestige, in the final analysis, its whether you stand for what's right
+T459	Claim 4349 4700	I can think of nothing that will be a greater blow to the prestige of the United States among the free nations in Asia than for us to take Senator Kennedy's advan- advice to go - go against what a majority of the members of the Senate, both Democrat and Republican, did - said in 1955, and to say in advance we will surrender an area to the Communists
+T460	Claim 4718 4877	if the United States is going to maintain its strength and its prestige, we must not only be strong militarily and economically, we must be firm diplomatically
+T461	Premise 4985 5038	the way to win is not to retreat and not to surrender
+T453	Claim 3845 3917	it's whether it is catching up with us and it is not catching up with us
+R4	Support Arg1:T424 Arg2:T426
+R5	Support Arg1:T423 Arg2:T426
+R6	Support Arg1:T422 Arg2:T426
+R7	Support Arg1:T421 Arg2:T426
+R8	Support Arg1:T428 Arg2:T427
+R9	Support Arg1:T429 Arg2:T427
+R11	Support Arg1:T430 Arg2:T427
+R15	Support Arg1:T433 Arg2:T434
+T1	Premise 2132 2521	in the votes at the U.N., particularly the vote dealing with Red China last Saturday, we received the support on the position that we had taken of only two African countries - one, Liberia, which had been tied to us for more than a century, and the other, Union of South Africa, which is not a popular country in Africa. Every other ca- African country either abstained or voted against us
+R17	Support Arg1:T1 Arg2:T427
+R18	Support Arg1:T437 Arg2:T427
+R21	Support Arg1:T438 Arg2:T427
+T2	Claim 2890 2916	There are many indications
+R22	Equivalent Arg1:T2 Arg2:T427
+T3	Premise 2918 3115	Guinea and Ghana, two independent countries within the last three years - Guinea in fifty-seven, Ghana within the last eighteen months - both now are supporting the Soviet foreign policy at the U.N
+R23	Support Arg1:T3 Arg2:T2
+R24	Support Arg1:T442 Arg2:T2
+R25	Support Arg1:T2 Arg2:T439
+R27	Support Arg1:T440 Arg2:T439
+R29	Support Arg1:T441 Arg2:T439
+R32	Attack Arg1:T445 Arg2:T433
+R34	Support Arg1:T447 Arg2:T448
+R35	Support Arg1:T448 Arg2:T449
+R36	Support Arg1:T450 Arg2:T451
+R37	Attack Arg1:T449 Arg2:T1
+R38	Support Arg1:T451 Arg2:T452
+R39	Support Arg1:T453 Arg2:T452
+R43	Support Arg1:T455 Arg2:T456
+R44	Support Arg1:T456 Arg2:T457
+R45	Attack Arg1:T456 Arg2:T441
+R46	Attack Arg1:T456 Arg2:T440
+R47	Attack Arg1:T456 Arg2:T439
+R48	Support Arg1:T457 Arg2:T459
+R49	Support Arg1:T459 Arg2:T460
+R50	Support Arg1:T461 Arg2:T460
+R1	Support Arg1:T432 Arg2:T427	
+R3	Support Arg1:T431 Arg2:T430	
+R2	Support Arg1:T434 Arg2:T432	
+R10	Attack Arg1:T452 Arg2:T430	

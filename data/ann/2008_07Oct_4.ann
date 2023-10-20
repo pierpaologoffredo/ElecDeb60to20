@@ -1,0 +1,91 @@
+T362	Claim 818 852	I think we've got to do it quickly
+T363	Claim 770 813	we're going to have to take on entitlements
+T364	Premise 854 893	We're going to have a lot of work to do
+T365	Claim 898 963	I can't guarantee that we're going to do it in the next two years
+T366	Claim 1023 1164	I think it's important to understand, we're not going to solve Social Security and Medicare unless we understand the rest of our tax policies
+T367	Claim 1196 1256	I think the "Straight Talk Express" lost a wheel on that one
+T368	Premise 1325 1421	we're not going to be able to deal with entitlements unless we understand the revenues coming in
+T369	Claim 1423 1490	I want to provide a tax cut for 95 percent of Americans, 95 percent
+T370	Premise 1493 1604	If you make less than a quarter of a million dollars a year, you will not see a single dime of your taxes go up
+T371	Premise 1606 1666	If you make $200,000 a year or less, your taxes will go down
+T372	Premise 1719 1788	Only a few percent of small businesses make more than $250,000 a year
+T373	Claim 1793 1864	the vast majority of small businesses would get a tax cut under my plan
+T374	Claim 1871 1961	we provide a 50 percent tax credit so that they can buy health insurance for their workers
+T375	Premise 1971 2079	there are an awful lot of small businesses that I meet across America that want to do right by their workers
+T376	Premise 2084 2109	they just can't afford it
+T377	Premise 2111 2203	Some small business owners, a lot of them, can't even afford health insurance for themselves
+T378	Claim 2499 2515	That is not fair
+T379	Premise 2521 2536	it doesn't work
+T380	Claim 2224 2275	Senator McCain wants to give a $300 billion tax cut
+T381	Premise 2277 2323	$200 billion of it to the largest corporations
+T382	Premise 2356 2420	a hundred billion of it going to people like CEOs on Wall Street
+T383	Claim 2422 2497	He wants to give average Fortune 500 CEO an additional $700,000 in tax cuts
+T384	Claim 2552 2626	if we get our tax policies right so that they're good for the middle class
+T385	Claim 2628 2757	if we reverse the policies of the last eight years that got us into this fix in the first place and that Senator McCain supported
+T386	Claim 2764 2848	we are going to be in a position to deal with Social Security and deal with Medicare
+T387	Premise 2858 2917	we will have a health care plan that actually works for you
+T388	Premise 2919 2964	reduces spending and costs over the long term
+T389	Premise 2970 3048	Social Security that is stable and solvent for all Americans and not just some
+T390	Premise 3183 3224	it's not that hard to fix Social Security
+T391	Claim 3446 3493	We've got to sit down together across the table
+T392	Premise 3371 3400	We know what the problems are
+T393	Claim 3336 3369	Social Security is not that tough
+T394	Premise 3418 3444	we know what the fixes are
+T395	Claim 3898 3941	Medicare, it's going to be a little tougher
+T396	Premise 3734 3808	Senator Obama has never taken on his party leaders on a single major issue
+T397	Claim 3943 3976	It's going to be a little tougher
+T398	Premise 3985 4038	we're talking about very complex and difficult issues
+T399	Claim 4053 4106	what we have to do with Medicare is have a commission
+T400	Claim 4108 4187	have the smartest people in America come together, come up with recommendations
+T401	Claim 4193 4243	then, like the base-closing commission idea we had
+T402	Claim 4245 4289	then we should have Congress vote up or down
+T403	Claim 4600 4682	Senator Obama has voted 94 times to either increase your taxes or against tax cuts
+T404	Premise 4704 4805	When he ran for the United States Senate from Illinois, he said he would have a middle-income tax cut
+T405	Premise 4816 4884	he came to the Senate and never once proposed legislation to do that
+T406	Claim 4916 4940	I've fought higher taxes
+T407	Claim 4942 4971	I have fought excess spending
+T408	Claim 4973 5007	I have fought to reform government
+T409	Claim 5109 5142	we'll get our economy going again
+R1	Support Arg1:T362 Arg2:T363	
+R2	Support Arg1:T364 Arg2:T365	
+R3	Support Arg1:T368 Arg2:T366	
+R4	Support Arg1:T370 Arg2:T369	
+R5	Support Arg1:T371 Arg2:T370	
+R6	Support Arg1:T372 Arg2:T373	
+R7	Support Arg1:T375 Arg2:T374	
+R8	Attack Arg1:T376 Arg2:T375	
+R9	Support Arg1:T377 Arg2:T374	
+R10	Support Arg1:T381 Arg2:T380	
+R11	Support Arg1:T382 Arg2:T380	
+R12	Attack Arg1:T378 Arg2:T383	
+R13	Attack Arg1:T379 Arg2:T383	
+R15	Support Arg1:T374 Arg2:T366	
+R16	Support Arg1:T384 Arg2:T386	
+R17	Support Arg1:T385 Arg2:T386	
+R18	Support Arg1:T387 Arg2:T386	
+R19	Support Arg1:T388 Arg2:T387	
+R20	Support Arg1:T389 Arg2:T386	
+R21	Support Arg1:T390 Arg2:T393	
+R22	Support Arg1:T394 Arg2:T392	
+R23	Support Arg1:T392 Arg2:T393	
+*	Equivalent T397 T395
+R24	Support Arg1:T398 Arg2:T395	
+R25	Support Arg1:T400 Arg2:T399	
+R26	Support Arg1:T401 Arg2:T402	
+R27	Support Arg1:T402 Arg2:T399	
+R28	Support Arg1:T408 Arg2:T409	
+R29	Support Arg1:T407 Arg2:T409	
+R30	Support Arg1:T406 Arg2:T409	
+R31	Support Arg1:T369 Arg2:T366	
+R14	Support Arg1:T373 Arg2:T369	
+R32	Support Arg1:T370 Arg2:T373	
+R33	Attack Arg1:T379 Arg2:T380	
+R34	Attack Arg1:T378 Arg2:T382	
+T1	Premise 3519 3661	I saw it done with our -- our wonderful Ronald Reagan, a conservative from California, and the liberal Democrat Tip O'Neill from Massachusetts
+T2	Premise 3495 3516	It's been done before
+R36	Support Arg1:T1 Arg2:T2	
+R35	Support Arg1:T2 Arg2:T391	
+R37	Support Arg1:T391 Arg2:T393	
+R38	Attack Arg1:T1 Arg2:T396	
+R39	Attack Arg1:T403 Arg2:T404	
+R40	Attack Arg1:T403 Arg2:T405	

@@ -1,0 +1,68 @@
+T1	Claim 507 533	I'd have confidence in him
+T2	Premise 539 562	I made a good selection
+T3	Premise 568 657	I've never seen such a pounding, an unfair pounding, on a young Senator in my entire life
+T4	Premise 663 775	I've never seen a presidential campaign where the presidential nominee runs against my vice presidential nominee
+T5	Premise 777 798	never seen one before
+T6	Premise 831 935	Lloyd Bentsen jumped on Dan Quayle, when Dan Quayle said, he's had roughly the same amount of experience
+T7	Premise 937 969	He had two terms in the Congress
+T8	Premise 971 1026	He had two terms in the Senate, serving his second term
+T9	Premise 1028 1081	He founded authored, the job training partnership act
+T10	Premise 1083 1210	It says to American working men and women that are thrown out of work for no fault of their own that they're going to have jobs
+T11	Premise 1212 1251	We're moving into a new competitive age
+T12	Claim 1257 1283	we need that kind of thing
+T13	Claim 1285 1341	He, unlike my opponent, is an expert in national defense
+T14	Premise 1343 1401	helped amend the INF treaty so we got a good, sound treaty
+T15	Premise 1403 1458	when these people over here were talking about a freeze
+T16	Claim 1460 1518	If we'd listened to them, we would never have had a treaty
+T17	Claim 1527 1557	I have great confidence in him
+T18	Claim 1563 1582	it's turning around
+T19	Premise 1594 1622	the American people are fair
+T20	Premise 1624 1707	They don't like it when there's an unfair pounding and kind of hooting about people
+T21	Premise 1709 1751	They want to judge it on the record itself
+T22	Claim 1760 1782	I'm proud of my choice
+T23	Claim 1798 1837	I don't think age is the only criterion
+T24	Premise 1843 2031	I'll tell you something, I'm proud that people who are 30 years old and 40 years old now have someone in their generation that is going to be vice president of the United States of America
+T25	Claim 2033 2056	I made a good selection
+T26	Premise 2058 2091	The American people are seeing it
+T27	Claim 2097 2112	I'm proud of it
+T28	Claim 2139 2158	he could do the job
+T29	Premise 2223 2308	this was the first presidential decision that we as nominees were called upon to make
+T30	Claim 2314 2348	that's why people are so concerned
+T31	Premise 2358 2444	it was an opportunity for us to demonstrate what we were looking for in a running mate
+T32	Premise 2462 2525	it was the first national security decision that we had to make
+T33	Premise 2577 2691	Three times since World War II, the Vice President has had to suddenly become the President and commander in chief
+T34	Claim 2693 2715	I picked Lloyd Bentsen
+T35	Claim 2725 2779	I thought he was the best qualified person for the job
+T36	Premise 2806 2917	Mr. Bush picked Dan Quayle, and before he did it, he said, watch my choice for vice president, it will tell all
+T37	Claim 2922 2933	it sure did
+T38	Claim 2935 2946	It sure did
+R1	Equivalent Arg1:T37 Arg2:T38	
+R2	Support Arg1:T2 Arg2:T1	
+R3	Attack Arg1:T7 Arg2:T6	
+R4	Attack Arg1:T8 Arg2:T6	
+R5	Support Arg1:T11 Arg2:T12	
+R6	Support Arg1:T10 Arg2:T12	
+R7	Attack Arg1:T9 Arg2:T6	
+R8	Support Arg1:T14 Arg2:T13	
+R9	Support Arg1:T15 Arg2:T16	
+R10	Support Arg1:T16 Arg2:T13	
+R11	Support Arg1:T13 Arg2:T17	
+R12	Equivalent Arg1:T1 Arg2:T17	
+R13	Support Arg1:T19 Arg2:T18	
+R14	Support Arg1:T20 Arg2:T19	
+R15	Support Arg1:T21 Arg2:T19	
+R16	Support Arg1:T17 Arg2:T22	
+R17	Support Arg1:T23 Arg2:T22	
+R18	Support Arg1:T24 Arg2:T23	
+R20	Equivalent Arg1:T27 Arg2:T22	
+R19	Support Arg1:T25 Arg2:T27	
+R21	Support Arg1:T26 Arg2:T25	
+R22	Support Arg1:T28 Arg2:T27	
+R23	Attack Arg1:T30 Arg2:T3	
+R24	Support Arg1:T29 Arg2:T30	
+R25	Support Arg1:T31 Arg2:T30	
+R26	Support Arg1:T32 Arg2:T30	
+R27	Support Arg1:T33 Arg2:T35	
+R28	Support Arg1:T36 Arg2:T37	
+R29	Attack Arg1:T30 Arg2:T4	
+R30	Equivalent Arg1:T5 Arg2:T4	

@@ -1,0 +1,102 @@
+T1	Claim 2559 2669	you've been bombarded with advertisements suggesting that I've changed a position on this or that or the other
+T2	Premise 2405 2534	the president didn't find weapons of mass destruction in Iraq, so he's really turned his campaign into a weapon of mass deception
+T3	Premise 2694 2754	they try to say I've changed position on are the Patriot Act
+T4	Claim 2756 2765	I haven't
+T5	Claim 2767 2779	I support it
+T6	Claim 3425 3450	I haven't changed my mind
+T7	Claim 3452 3478	I'm going to fully fund it
+T8	Claim 3710 3791	I'm going to close the loopholes that actually encourage companies to go overseas
+T9	Premise 3793 3830	The president wants to keep them open
+T10	Claim 3832 3849	I think I'm right
+T11	Claim 3851 3869	I think he's wrong
+T12	Claim 3872 3903	I'm going to give you a tax cut
+T13	Claim 4078 4098	I think that's wrong
+T14	Claim 4100 4122	That's not wishy-washy
+T15	Claim 4128 4161	that's what I'm fighting for, you
+T16	Premise 3905 4076	The president gave the top 1 percent of income-earners in America, got $89 billion last year, more than the 80 percent of people who earn $100,000 or less all put together
+T17	Premise 2955 2979	No Child Left Behind Act
+T18	Claim 2981 2995	I voted for it
+T19	Premise 2781 2835	I just don't like the way John Ashcroft has applied it
+T20	Claim 2841 2875	we're going to change a few things
+T21	Premise 2877 2952	The chairman of the Republican Party thinks we ought to change a few things
+T23	Claim 3011 3030	I support the goals
+T24	Premise 3037 3084	the president has underfunded it by $28 billion
+T25	Premise 3087 3140	Right here in St. Louis, you've laid off 350 teachers
+T26	Premise 3142 3311	You're 150 -- excuse me, I think it's a little more, about $100 million shy of what you ought to be under the No Child Left Behind Act to help your education system here
+T27	Premise 3317 3338	I complain about that
+T28	Premise 3340 3382	I've argued that we should fully funded it
+T29	Premise 3384 3423	The president says I've changed my mind
+T30	Premise 3517 3593	the president has presided over an economy where we've lost 1.6 million jobs
+T31	Premise 3595 3639	The first president in 72 years to lose jobs
+T32	Claim 3642 3682	I have a plan to put people back to work
+T33	Claim 3684 3707	That's not wishy- washy
+T34	Claim 4332 4420	I can see why people at your workplace think he changes positions a lot, because he does
+T35	Premise 4422 4509	He said he voted for the $87 billion, and voted against it right before he voted for it
+T36	Premise 4515 4554	that sends a confusing signal to people
+T37	Premise 4557 4679	He said he thought Saddam Hussein was a grave threat, and now he said it was a mistake to remove Saddam Hussein from power
+T38	Claim 4686 4766	I can see why people think that he changes position quite often, because he does
+T39	Premise 4779 4849	for a while he was a strong supporter of getting rid of Saddam Hussein
+T40	Premise 4851 4997	He saw the wisdom -- until the Democrat primary came along and Howard Dean, the anti-war candidate, began to gain on him, and he changed positions
+T41	Claim 5000 5129	I don't see how you can lead this country in a time of war, in a time of uncertainty, if you change your mind because of politics
+T42	Premise 5132 5162	He just brought up the tax cut
+T43	Premise 5164 5217	You remember we increased that child credit by $1,000
+T44	Premise 5219 5247	reduced the marriage penalty
+T45	Premise 5249 5312	created a 10 percent tax bracket for the lower-income Americans
+T46	Premise 5314 5346	That's right at the middle class
+T47	Premise 5349 5368	He voted against it
+T48	Premise 5374 5423	yet he tells you he's for a middle- class tax cut
+T49	Claim 5433 5486	you've got to be consistent when you're the president
+T50	Premise 5488 5514	There's a lot of pressures
+T51	Claim 5520 5556	you've got to be firm and consistent
+T22	Claim 2997 3009	I support it
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T5 Arg2:T4	
+R3	Attack Arg1:T4 Arg2:T3	
+R4	Attack Arg1:T4 Arg2:T19	
+R6	Support Arg1:T18 Arg2:T22	
+R5	Attack Arg1:T20 Arg2:T19	
+R7	Support Arg1:T21 Arg2:T20	
+R8	Support Arg1:T17 Arg2:T18	
+R9	Support Arg1:T22 Arg2:T23	
+R10	Attack Arg1:T23 Arg2:T24	
+R11	Support Arg1:T25 Arg2:T24	
+R12	Attack Arg1:T27 Arg2:T26	
+R13	Attack Arg1:T23 Arg2:T26	
+R14	Attack Arg1:T28 Arg2:T29	
+R15	Support Arg1:T28 Arg2:T23	
+R16	Attack Arg1:T6 Arg2:T29	
+R17	Support Arg1:T6 Arg2:T23	
+R18	Support Arg1:T6 Arg2:T7	
+R19	Support Arg1:T28 Arg2:T7	
+R20	Support Arg1:T31 Arg2:T30	
+R21	Attack Arg1:T32 Arg2:T30	
+R22	Attack Arg1:T32 Arg2:T31	
+R23	Support Arg1:T8 Arg2:T33	
+R24	Support Arg1:T32 Arg2:T33	
+R25	Attack Arg1:T33 Arg2:T9	
+R26	Support Arg1:T10 Arg2:T33	
+R27	Support Arg1:T10 Arg2:T11	
+R28	Attack Arg1:T12 Arg2:T16	
+R29	Attack Arg1:T13 Arg2:T16	
+R30	Support Arg1:T15 Arg2:T14	
+R31	Support Arg1:T13 Arg2:T14	
+R32	Support Arg1:T33 Arg2:T14	
+R33	Attack Arg1:T34 Arg2:T33	
+R34	Support Arg1:T36 Arg2:T35	
+R35	Support Arg1:T35 Arg2:T34	
+R36	Support Arg1:T36 Arg2:T38	
+R37	Support Arg1:T37 Arg2:T38	
+R38	Support Arg1:T34 Arg2:T38	
+R39	Support Arg1:T38 Arg2:T41	
+R40	Attack Arg1:T40 Arg2:T39	
+R41	Attack Arg1:T41 Arg2:T40	
+R42	Support Arg1:T42 Arg2:T43	
+R43	Support Arg1:T43 Arg2:T44	
+R44	Support Arg1:T44 Arg2:T45	
+R45	Support Arg1:T45 Arg2:T46	
+R46	Attack Arg1:T46 Arg2:T47	
+R47	Attack Arg1:T46 Arg2:T48	
+R48	Support Arg1:T41 Arg2:T49	
+R49	Attack Arg1:T49 Arg2:T47	
+R50	Support Arg1:T50 Arg2:T51	
+R51	Support Arg1:T51 Arg2:T49	

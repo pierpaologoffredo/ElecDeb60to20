@@ -1,0 +1,103 @@
+T1	Premise 799 844	I have been in politics for twenty-five years
+T2	Premise 856 883	I've won a lot of elections
+T3	Premise 885 900	I've lost a few
+T4	Premise 915 944	and learned from those losses
+T5	Premise 946 1008	I won the Democratic nomination in fifty-one separate contests
+T6	Claim 1010 1046	I think I'm a reasonably likable guy
+T7	Premise 1079 1097	I'm serious though
+T8	Premise 1098 1214	I think I'm a little more lovable these days than I used to be back in my youth when I began in my state legislature
+T9	Premise 1220 1242	I'm also a serious guy
+T10	Premise 1244 1312	I think the presidency of the United States is a very serious office
+T11	Premise 1318 1379	I think we have to address these issues in a very serious way
+T12	Claim 1568 1653	I also think it's important to be somebody who is willing to make those tough choices
+T13	Premise 1660 1752	we have just heard two or three times from the vice president: he's not going to raise taxes
+T14	Premise 1754 1868	I repeat, within days after you made that pledge, you broke it; you said, well, maybe as a last resort we'll do it
+T15	Premise 1874 1959	you supported legislation this year that's involved tax increases not once, but twice
+T16	Claim 1964 1991	that pledge isn't realistic
+T17	Premise 1997 2032	I think the vice president knows it
+T18	Premise 2034 2076	I think the people of this country know it
+T19	Claim 2078 2200	The fact of the matter is that the next president of the United States is going to have to go to the White House seriously
+T20	Claim 2202 2257	he is going to have to work with the Congress seriously
+T21	Claim 2258 2413	he can't turn to the Congress and blame them for the fact that we don't have a balanced budget and that we have billions and billions of dollars in red ink
+R1	Support Arg1:T20 Arg2:T19	
+R2	Support Arg1:T21 Arg2:T20	
+T22	Claim 2419 2462	I am going to be a president who is serious
+T23	Claim 2743 2858	I think we know what they are: a good strong future, a future in which there is opportunity for all of our citizens
+T24	Premise 2524 2737	more than that, to do the kind of job that I'm elected to do, will do it with as much good humor as I can, but at the same time will do it in a way which will achieve the goals we want for ourselves and our people
+T25	Claim 2908 3003	I don't think it's a question of whether people like you or not to make you an effective leader
+T26	Claim 3005 3075	I think it's whether you share the broad dreams of the American people
+T27	Claim 3077 3245	whether you have confidence in the people's ability to get things done or whether you think it all should be turned over, as many of the liberals do, to Washington, D.C
+T28	Claim 3256 3320	I think it's a question of values, not likability or loveability
+T29	Claim 3322 3473	it's a question in foreign affairs in experience, knowing world leaders, knowing how to build on a superb record of this administration in arms control
+T30	Premise 3483 3514	you'd know exactly how to begin
+T31	Premise 3516 3633	You have to learn from experience that making unilateral cuts in defense system is not the way that you enhance peace
+T32	Premise 3635 3835	You've got to understand that it is only the United States that can stand for freedom and democracy around the world and we can't turn it over to the United Nations or other multilateral organizations
+T33	Claim 3953 4104	I think I'd be a better President now for having had to travel to these communities and understand the family values and the importance of neighborhood
+T34	Claim 4728 4770	I think my dad would be pretty proud of me
+T35	Claim 4780 4814	I think we've come a long long way
+T36	Premise 4819 4931	I think, you know three months ago, I remember some of the great publications in this country had written me off
+T37	Premise 4937 5038	what I've had to do is define, not just my position, but to define his and I hope I've done it fairly
+T38	Premise 5055 5185	I've had to do that is that he ran on the left in the Democratic primary, ran firmly and ran with conviction and ran on his record
+T39	Premise 5191 5314	then at that Democratic convention, they made a determination and they said there, ideology doesn't matter, just competence
+T40	Premise 5320 5354	in the process the negatives began
+T41	Premise 5404 5549	Thank God I was up in the with Jimmy Baker camping out and I didn't have to hear all the personal attacks on me out of that Democratic convention
+T42	Premise 5356 5402	It wasn't me that was there at that convention
+T43	Premise 5555 5668	I'm not the one that compared the President of the United States rotting from like a dead fish from the head down
+T44	Premise 5670 5686	I didn't do that
+T45	Claim 5692 5915	I have defined the issues and I am not going to let Governor Dukakis go through this election without explaining some of these very liberal position he's the one a liberal, traditional liberal a progressive liberal Democrat
+T46	Premise 5917 6002	He's the one that brought up, to garner primary votes, the whole question of the ACLU
+T47	Claim 6008 6072	I have enormous difference with the ACLU on their politic agenda
+T48	Premise 6074 6143	Not on their defending some minority opinion on the right or the left
+T49	Claim 6145 6159	I support that
+T50	Claim 6165 6289	what I don't like is this left wing political agenda and therefore I have to help define that and if he's unwilling to do it
+T51	Claim 6291 6349	if he says ideology doesn't matter, I don't agree with him
+T52	Premise 6491 6569	I guess the Vice President two or three times, said I was coming from the left
+T53	Premise 6571 6652	In 1980, President Reagan called you a liberal for voting for Federal gun control
+T54	Premise 6658 6713	this is something Republicans have used for a long time
+T55	Premise 6715 6786	They tried it with Franklin Roosevelt and Harry Truman and John Kennedy
+T56	Claim 6788 6803	It's not labels
+T57	Claim 6805 6831	It's our vision of America
+T58	Claim 6837 6891	we have two fundamentally different visions of America
+T59	Premise 6893 7047	The Vice President is complacent, thinks we ought to stick with the status quo, doesn't think we ought to move ahead, thinking things are okay as they are
+T60	Claim 7049 7056	I don't
+T61	Claim 7058 7089	I think this is a great country
+T62	Premise 7099 7185	we've always wanted to do better, to make our country better, to make our lives better
+T63	Premise 7187 7265	We've always been a nation which was ambitious for America and we move forward
+T64	Claim 7271 7304	that's the kind of America I want
+T65	Claim 7306 7353	That's the kind of leadership I want to provide
+T66	Claim 7359 7398	I don't think these labels mean a thing
+R3	Support Arg1:T10 Arg2:T12	
+R4	Support Arg1:T9 Arg2:T12	
+R5	Support Arg1:T11 Arg2:T12	
+R6	Equivalent Arg1:T7 Arg2:T9	
+R7	Support Arg1:T15 Arg2:T16	
+R8	Support Arg1:T14 Arg2:T16	
+R9	Attack Arg1:T14 Arg2:T13	
+R10	Support Arg1:T17 Arg2:T16	
+R11	Support Arg1:T18 Arg2:T16	
+R12	Support Arg1:T22 Arg2:T19	
+R13	Support Arg1:T24 Arg2:T23	
+R14	Support Arg1:T30 Arg2:T29	
+R15	Support Arg1:T31 Arg2:T30	
+R16	Support Arg1:T32 Arg2:T30	
+R17	Support Arg1:T29 Arg2:T33	
+R18	Support Arg1:T28 Arg2:T33	
+R19	Support Arg1:T27 Arg2:T33	
+R20	Support Arg1:T26 Arg2:T33	
+R21	Support Arg1:T25 Arg2:T33	
+R22	Support Arg1:T35 Arg2:T34	
+R23	Support Arg1:T50 Arg2:T51	
+R25	Support Arg1:T48 Arg2:T49	
+R24	Attack Arg1:T49 Arg2:T47	
+R26	Support Arg1:T47 Arg2:T50	
+R27	Support Arg1:T45 Arg2:T51	
+R28	Support Arg1:T46 Arg2:T45	
+R29	Support Arg1:T53 Arg2:T54	
+R30	Support Arg1:T52 Arg2:T54	
+R31	Support Arg1:T55 Arg2:T54	
+R32	Support Arg1:T56 Arg2:T57	
+R33	Support Arg1:T57 Arg2:T58	
+R35	Attack Arg1:T60 Arg2:T59	
+R34	Support Arg1:T60 Arg2:T58	
+R36	Support Arg1:T62 Arg2:T61	
+R37	Support Arg1:T63 Arg2:T61	

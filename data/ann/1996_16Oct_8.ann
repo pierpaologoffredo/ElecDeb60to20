@@ -1,0 +1,90 @@
+T317	Claim 236 262	we've taken the first step
+T318	Premise 264 283	Took it three steps
+T319	Claim 285 330	twice we sent welfare reform to the president
+T320	Claim 335 347	he vetoed it
+T321	Premise 349 462	On the third time we sent welfare reform to the president he signed it but announced he would change it next year
+T322	Premise 468 583	the vice president said they were going to do something else through the line item veto which I've never understood
+T323	Claim 621 687	What we need to do is make certain we try to return people to work
+T324	Premise 693 865	I'm standing here as someone who, a long time ago as the county attorney in Russell, Kansas, one of our jobs every month was go through all the welfare checks and sign them
+T325	Premise 871 913	three of those checks were my grandparents
+T326	Premise 919 972	I know what it's like to have to look welfare head-on
+T327	Claim 1379 1530	We provided more money for daycare in the bill that passed the senate, was vetoed, then it came back and the president signed pretty much the same bill
+T328	Claim 1182 1270	if you want to get off Medicare, get back in the mainstream, we're going to provide jobs
+T329	Claim 1272 1317	We're going to say you have a five-year limit
+T330	Premise 1319 1340	You can be on welfare
+T331	Premise 1342 1377	You got two years to look for a job
+T332	Claim 1058 1141	You're not going to go without food and you're not going to go without medical care
+T333	Premise 984 1018	some people are going to need help
+T334	Claim 1564 1638	I don't think we ought to be giving welfare payments to illegal immigrants
+T335	Premise 1640 1704	It puts a heavy burden on a state like -- except for emergencies
+T336	Premise 1706 1756	It puts a heavy burden on a states like California
+T337	Premise 1758 1812	It costs California taxpayers 3 billion dollars a year
+T338	Claim 1892 1984	It's illegal right now and has been for years for illegal immigrants to get welfare benefits
+T339	Premise 1997 2061	that this is one of the most important issues in the world to me
+T340	Premise 2063 2106	I started working on welfare reform in 1980
+T341	Premise 2115 2255	I was sick of seeing people trapped in a system that was increasingly isolating them and making their kids more vulnerable to get in trouble
+T342	Premise 2260 2321	I've been working on it when I was a governor for a long time
+T343	Claim 2323 2458	When I became president I used the authority I had in this law to get out from certain federal rules to help states move people to work
+T344	Premise 2460 2509	We reduced the welfare rolls by 2 million already
+T345	Claim 2516 2666	I've got a plan with this new welfare reform law to work with the private sector, to give employees specific tax incentives to hire people off welfare
+T346	Claim 2672 2808	to do some other things which will create more jobs in the private sector, at least a million, and move more people from welfare to work
+T347	Premise 2922 3125	I still remember a woman that I met ten years ago who said she wanted to get off welfare so her kids could tell, give an answer when they say, "What does your mother do for a job?" I met that woman again
+T348	Premise 3127 3146	She's got four kids
+T349	Premise 3148 3199	One's got a good job, one's studying to be a doctor
+T350	Premise 3201 3265	One's in technical school, one's an honor student in high school
+T351	Claim 3267 3376	I want to make more people like that woman, Lily Harden, so I've got a plan to do it, and it's just beginning
+T352	Claim 3437 3471	We've got a great economic package
+T353	Premise 3508 3532	Across-the-board tax cut
+T354	Claim 3534 3547	Child credits
+T355	Premise 3549 3572	$500 per child under 18
+T356	Claim 3574 3603	Reduce the capital gains rate
+T357	Claim 3605 3669	Create more jobs and opportunities for people on and off welfare
+T358	Premise 3671 3695	We have other provisions
+T359	Claim 3697 3712	Less litigation
+T360	Premise 3714 3764	The trial lawyers, big supporters of the president
+T361	Claim 3766 3901	The trial lawyers, of course they like lawsuits, so every time they have a bill that they want vetoed, the president vetoes it for them
+T362	Claim 3903 4030	We've got to understand in America that we've got to have growth, create more jobs and more opportunities in the private sector
+T363	Premise 4032 4091	The president takes credit for all these people off welfare
+T364	Premise 4093 4115	The governors did that
+T365	Claim 4193 4230	They're created in the private sector
+T366	Premise 4157 4191	the government doesn't create jobs
+T367	Premise 4117 4151	Federal government doesn't do that
+R1	Support Arg1:T319 Arg2:T320	
+R2	Support Arg1:T318 Arg2:T319	
+R3	Support Arg1:T325 Arg2:T324	
+R4	Support Arg1:T324 Arg2:T326	
+R5	Support Arg1:T333 Arg2:T332	
+R6	Support Arg1:T330 Arg2:T329	
+R7	Support Arg1:T331 Arg2:T329	
+R8	Support Arg1:T328 Arg2:T329	
+R9	Support Arg1:T321 Arg2:T323	
+R10	Support Arg1:T322 Arg2:T323	
+R11	Support Arg1:T320 Arg2:T323	
+R12	Support Arg1:T335 Arg2:T334	
+R13	Support Arg1:T336 Arg2:T334	
+R14	Support Arg1:T337 Arg2:T334	
+R15	Attack Arg1:T338 Arg2:T334	
+R16	Support Arg1:T339 Arg2:T338	
+R17	Support Arg1:T341 Arg2:T340	
+R18	Support Arg1:T342 Arg2:T343	
+R19	Support Arg1:T340 Arg2:T343	
+R20	Support Arg1:T344 Arg2:T343	
+R21	Support Arg1:T348 Arg2:T347	
+R22	Support Arg1:T349 Arg2:T348	
+R23	Support Arg1:T350 Arg2:T348	
+R24	Support Arg1:T347 Arg2:T351	
+R25	Support Arg1:T346 Arg2:T351	
+R26	Support Arg1:T345 Arg2:T351	
+R27	Support Arg1:T353 Arg2:T352	
+R28	Support Arg1:T354 Arg2:T352	
+R29	Support Arg1:T355 Arg2:T352	
+R30	Support Arg1:T356 Arg2:T352	
+R31	Support Arg1:T357 Arg2:T352	
+R32	Support Arg1:T358 Arg2:T352	
+R33	Support Arg1:T359 Arg2:T352	
+R34	Support Arg1:T360 Arg2:T361	
+R35	Support Arg1:T361 Arg2:T362	
+R36	Attack Arg1:T363 Arg2:T343	
+R37	Support Arg1:T364 Arg2:T367	
+R38	Support Arg1:T366 Arg2:T367	
+R39	Support Arg1:T367 Arg2:T365	

@@ -1,0 +1,70 @@
+T1	Claim 593 727	I don't think that in the winter of sixty-one under present economic conditions, it uh - a - uh - tax uh - increase would be desirable
+T2	Premise 738 762	it would be deflationary
+T3	Premise 764 797	it would cause great unemployment
+T4	Premise 799 844	it would cause a real slowdown in our economy
+T5	Premise 846 930	If it ever becomes necessary, and is wise economically and essential to our security
+T6	Claim 932 1043	I would have no hesitancy in suggesting a tax increase or any other policy which would defend the United States
+T7	Premise 1045 1161	I have talked in every speech about the fact that these are going to be very difficult times in the nineteen-sixties
+T8	Premise 1171 1231	we're going to have to meet our responsibilities as citizens
+T9	Premise 1233 1266	I'm talking about a national mood
+T10	Premise 1268 1408	I'm talking about our willingness to bear any burdens in order to maintain our own freedom and in order to meet our freedom around the globe
+T11	Premise 1410 1456	We don't know what the future's going to bring
+T12	Claim 1625 1785	many of the programs that I'm talking about - economic growth, care for the aged, development of our natural resources - build the strength of the United States
+T13	Premise 1787 1897	That's how the United States began to prepare for its great actions in World War II and in the post-war period
+T14	Claim 2046 2072	this country's on the move
+T15	Premise 1899 1920	If we're moving ahead
+T16	Premise 1922 1957	if we're providing a viable economy
+T17	Premise 1959 2039	if our people have sufficient resources so that they can consume what we produce
+T18	Claim 2079 2093	we're stronger
+T19	Claim 2100 2136	we set a better example to the world
+T20	Claim 2141 2285	we have the problem of not only building our own uh - military strength and extending uh - our policies abroad, we have to do a job here at home
+T21	Claim 2290 2400	I believe that the policies that I recommend came under the general heading of strengthening the United States
+T22	Premise 2402 2458	We're using our steel capacity fifty-five per cent today
+T23	Premise 2460 2575	We're not able to consume what we're able to produce at a time when the Soviet Union is making great economic gains
+T24	Claim 2774 2875	I'm confident we can do a far better job of mobilizing our economy and resources in the United States
+T25	Claim 2934 3005	I will do my best to carry the United States through a difficult period
+T26	Premise 3011 3090	I would not want people to elect me because I promised them the easy, soft life
+T27	Claim 3092 3126	I think it's going to be difficult
+T28	Claim 3132 3193	I'm confident that this country can meet its responsibilities
+T29	Claim 3236 3367	I think we should be no - under no illusions whatever about what the responsibilities of the American people will be in the sixties
+T30	Premise 3369 3528	Our expenditures for defense, our expenditures for mutual security, our expenditures for economic assistance and technical assistance are not going to get less
+T31	Claim 3530 3578	In my opinion they're going to be de- be greater
+T32	Claim 3580 3631	I think it may be necessary that we have more taxes
+T33	Claim 3709 3873	I would have no hesitation to ask the American people to pay the taxes even in l961 - if necessary - to maintain a sound economy and also to maintain a sound dollar
+T34	Premise 3883 3999	when you do not tax, and tax enough to pay for your outgo, you pay it many times over in higher prices and inflation
+T35	Claim 4005 4030	I simply will not do that
+T36	Premise 4321 4386	The platform suggests that it can be done through economic growth
+T37	Claim 4438 4475	it isn't going to be working that way
+T38	Premise 4477 4549	You can't add billions of dollars to our expenditures and not pay for it
+T39	Premise 4562 4644	it isn't paid for by my money, it isn't paid for by his, but by the people's money
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T1	
+R3	Support Arg1:T4 Arg2:T1	
+R4	Support Arg1:T5 Arg2:T6	
+R5	Support Arg1:T1 Arg2:T6	
+T40	Premise 1462 1618	I would not want anyone to elect me uh - president of the United States - or vote for me - under the expectation that life would be easier if I were elected
+R6	Attack Arg1:T40 Arg2:T12	
+R7	Support Arg1:T13 Arg2:T12	
+R8	Support Arg1:T17 Arg2:T14	
+R9	Support Arg1:T16 Arg2:T14	
+R10	Support Arg1:T15 Arg2:T14	
+R11	Equivalent Arg1:T14 Arg2:T18	
+R12	Support Arg1:T18 Arg2:T19	
+R13	Support Arg1:T20 Arg2:T21	
+R14	Support Arg1:T22 Arg2:T23	
+R15	Equivalent Arg1:T26 Arg2:T40	
+R16	Attack Arg1:T26 Arg2:T25	
+R17	Attack Arg1:T27 Arg2:T28	
+R18	Support Arg1:T24 Arg2:T25	
+R19	Attack Arg1:T29 Arg2:T28	
+R20	Support Arg1:T30 Arg2:T31	
+R21	Support Arg1:T31 Arg2:T32	
+R22	Support Arg1:T32 Arg2:T33	
+R23	Support Arg1:T34 Arg2:T33	
+R24	Support Arg1:T35 Arg2:T33	
+T41	Claim 4032 4319	I think I should also add that as far as Senator Kennedy's proposals are concerned, if he intends to carry out his platform - the one adopted in Los Angeles - it is just impossible for him to make good on those promises without raising taxes or without having a rise in t- prices or both
+R25	Attack Arg1:T41 Arg2:T1	
+R26	Attack Arg1:T36 Arg2:T37	
+R27	Equivalent Arg1:T37 Arg2:T41	
+R28	Support Arg1:T38 Arg2:T37	
+R29	Support Arg1:T39 Arg2:T37	

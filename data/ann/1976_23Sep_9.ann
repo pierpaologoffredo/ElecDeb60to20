@@ -1,0 +1,95 @@
+T417	Claim 413 496	you can't really raise sufficient revenue to provide an overall tax cut of any size
+T418	Premise 242 411	unless you're willing to do such things as reduce the itemized deductions for charitable contributions or home mortgage payments, or interest, or taxes, or capital gains
+T419	Claim 583 630	we have uh such a grossly unbalanced tax system
+T420	Premise 679 785	of all the tax - benefits now, 25 percent of 'em go to the 1 percent of the richest people in this country
+T421	Premise 787 901	Over 50 percent - 53 to be exact - percent of the tax benefits go to the 14 percent richest people in this country
+T422	Premise 907 1007	we've had a 50 percent increase in payroll deductions since Mr. Nixon went in office eight years ago
+T423	Claim 1229 1253	That's got to be changed
+T424	Premise 1009 1227	Mr. Ford has - has advocated since he's been in office over $5 billion in reductions for corporations, special interest groups, and the very, very wealthy who derive their income - not from labor - but from investments
+T425	Claim 1255 1284	A few things that can be done
+T426	Claim 1559 1603	the average American pays the taxes for them
+T427	Premise 1526 1557	When they don't pay their taxes
+T428	Premise 1286 1524	we have now a deferral system so that the multinational corporations who invest overseas - if they make a million dollars in profits overseas - they don't have to pay any of their taxes unless they bring their money back into this country
+T429	Claim 1624 1652	it robs this country of jobs
+T430	Premise 1662 1896	instead of coming back with that million dollars and creating a shoe factory, say in New Hampshire or Vermont, if the company takes the money down to Italy and - and builds a shoe factory, they don't have to pay any taxes on the money
+T433	Premise 1898 2010	Another thing is a system called DISC which was originally designed, proposed by Mr. Nixon, to encourage exports
+T434	Premise 2012 2149	This permits a company to create uh - a dummy corporation, to export their products, and then not to pay the full amount of taxes on them
+T435	Premise 2151 2212	This costs our uh - government about uh - $1.4 billion a year
+T436	Claim 3118 3388	these special kinds of programs have - have robbed the average taxpayer and have benefited those who are powerful, and who can employ lobbyists, and who can have their CPAs and their lawyers to help them benefit from the roughly uh - eight thousand pages of the tax code
+T437	Claim 3390 3432	The average uh American person can't do it
+T438	Premise 3434 3502	You can't hire a lobbyist uh out of unemployment compensation checks
+T439	Premise 2314 2475	Another one that's uh - that's very important is the uh - is the business deductions, uh - jet airplanes, uh - first class travel, the fifty-dollar martini lunch
+T440	Premise 2477 2586	The average working person can't - uh - can't take advantage of that, but the - the wealthier people - uh can
+T441	Premise 2593 2907	another system is where uhh - a dentist can invest money in say, raising cattle and uh - can put in a hundred thousand dollars of his own money, borrow nine hundred thousand dollars - nine hundred mi- thousand dollars - that makes a million - and mark off a great amount of uh - of loss uh - through that procedure
+T442	Premise 2914 3004	there was one example, for instance, where uh - somebody uh - produced pornographic movies
+T443	Premise 3006 3110	They put in $30 thousand of their own money and got a hundred and twenty thousand dollars in tax savings
+T444	Claim 4193 4249	No, I wouldn't do away with all - uh business deductions
+T445	Claim 4251 4299	I think that would be a - a very serious mistake
+T446	Claim 4372 4406	you could lower taxes for everyone
+T447	Premise 4315 4370	if you could just do away with the ones that are unfair
+T448	Claim 4408 4551	I would never do anything that would increase the taxes for those who work for a living, or who are presently required to list all their income
+T449	Claim 4553 4618	What I wanna do is not to raise taxes, but to eliminate loopholes
+T450	Claim 5053 5101	I think this is the very best way to approach it
+T451	Premise 4637 4861	the point of my first statistics that I gave you - that - that the present tax benefits that have been carved out over a long period of years - fifty years - by sharp tax lawyers and by lobbyists have benefited just the rich
+T452	Premise 4863 5047	These programs that I described to you earlier - the tax deferrals for overseas, the DISC, and the tax shelters, uh - they only apply to people in the $50 thousand-a-year bracket or up
+T453	Claim 5111 5175	make sure that everybody pays taxes on the income that they earn
+T454	Claim 5180 5312	make sure that you take whatever savings there is from the higher income levels and give it to the lower- and middle-income families
+T455	Claim 5346 5482	Governor Carter's answer tonight does not coincide with the answer that he gave in an interview to the Associated Press a week or so ago
+T456	Premise 5484 5626	In that interview uh - Governor Carter indicated that uh - he would raise the taxes on those in the medium or middle-income brackets or higher
+T457	Premise 5632 5879	if you uh - take the medium or middle-income taxpayer - that's about $14 thousand per person - uh - Governor Carter has indicated, publicly, in an interview that he would increase the taxes on about 50 percent of the working people of this country
+T458	Claim 5881 6074	I think uh - the way to get tax equity in this country is to give tax relief to the middle-income people who have an income from roughly $8 thousand up to twenty-five or thirty thousand dollars
+T459	Claim 6076 6104	They have been short-changed
+T460	Premise 6108 6185	we have taken ten million taxpayers off the tax rolls in the last eight years
+T461	Premise 6194 6280	we have uh - added to the minimum tax uh - provision to make all people pay more taxes
+T462	Claim 6282 6371	I believe in tax equity for the middle-income taxpayer, increasing the personal exemption
+T463	Premise 6373 6457	Mr. Carter wants to increase taxes for roughly half of the taxpayers of this country
+T464	Claim 6464 6544	the Governor has also played a little fast and loose with the facts about vetoes
+T465	Premise 6546 6632	The records show that President Roosevelt vetoed an average of fifty-five bills a year
+T466	Premise 6634 6729	President Truman vetoed on the average, while he was president, about thirty-eight bills a year
+T467	Premise 6731 6848	I understand that Governor Carter, when he was Governor of Georgia, vetoed between thirty-five and forty bills a year
+T468	Premise 6850 6887	My average in two years is twenty-six
+T469	Claim 6893 6946	in the process of that we have saved uhh - $9 billion
+R1	Support Arg1:T420 Arg2:T419	
+R2	Support Arg1:T421 Arg2:T419	
+R3	Support Arg1:T422 Arg2:T419	
+R4	Support Arg1:T427 Arg2:T426	
+R5	Support Arg1:T419 Arg2:T423	
+R7	Support Arg1:T428 Arg2:T425	
+R8	Support Arg1:T430 Arg2:T429	
+T1	Premise 2218 2312	when those rich corporations don't pay that tax, the average American taxpayer pays it for 'em
+R9	Support Arg1:T440 Arg2:T439	
+R10	Support Arg1:T437 Arg2:T436	
+R11	Support Arg1:T438 Arg2:T437	
+R12	Support Arg1:T1 Arg2:T435	
+R13	Support Arg1:T425 Arg2:T423	
+R14	Support Arg1:T434 Arg2:T433	
+R15	Support Arg1:T435 Arg2:T434	
+R16	Support Arg1:T433 Arg2:T425	
+R6	Support Arg1:T426 Arg2:T423	
+R17	Support Arg1:T429 Arg2:T423	
+R18	Support Arg1:T443 Arg2:T442	
+R19	Support Arg1:T442 Arg2:T436	
+R20	Support Arg1:T441 Arg2:T436	
+R21	Support Arg1:T439 Arg2:T436	
+R22	Support Arg1:T445 Arg2:T444	
+R23	Support Arg1:T447 Arg2:T446	
+R24	Support Arg1:T449 Arg2:T448	
+R26	Support Arg1:T451 Arg2:T449	
+R27	Support Arg1:T452 Arg2:T451	
+R28	Support Arg1:T453 Arg2:T450	
+R29	Support Arg1:T454 Arg2:T450	
+R30	Support Arg1:T450 Arg2:T449	
+R31	Support Arg1:T456 Arg2:T455	
+R32	Attack Arg1:T455 Arg2:T449	
+R33	Support Arg1:T457 Arg2:T456	
+R34	Support Arg1:T460 Arg2:T459	
+R35	Support Arg1:T461 Arg2:T459	
+R36	Support Arg1:T459 Arg2:T458	
+R37	Support Arg1:T465 Arg2:T464	
+R38	Support Arg1:T466 Arg2:T464	
+R39	Support Arg1:T467 Arg2:T464	
+R40	Support Arg1:T468 Arg2:T464	
+R41	Support Arg1:T458 Arg2:T462	
+R42	Support Arg1:T456 Arg2:T463	
+R43	Support Arg1:T446 Arg2:T445	
+R44	Support Arg1:T448 Arg2:T445	

@@ -1,0 +1,64 @@
+T811	Claim 560 624	I think we have to go to work on the problem of Third World debt
+T812	Claim 1229 1286	I think it's going to require good, solid credit policies
+T813	Claim 2450 2601	in the sense that we can work to help Mexico rebuild and expand and deal with these very serious economic problems we help our farmers at the same time
+T814	Premise 2364 2445	As a matter of fact, Mexico, itself, is one of our biggest agricultural customers
+T815	Claim 2083 2361	I don't think there's anything mutually exclusive or contradictory about building a strong farm economy in this country and assisting our family farms and providing a good strong future for rural communities and for rural America and at the same time working on Third World debt
+T816	Claim 629 784	we've got to assist those Third World countries in dealing with this massive debt which they currently-which they have incurred and which is burdening them
+T817	Claim 795 939	if we don't do something about it and assist them along with other nations around the world, we'll destroy their economies, destroy their future
+T818	Claim 945 1016	at the same time will destroy markets that are important to our farmers
+T820	Premise 1292 1433	thanks to the Congress we now have an agricultural credit bill which is helping and improving the situation with at least some of our farmers
+T821	Claim 1436 1579	I think it's going to require a combination of supply management and reasonable price supports to make sure that our farmers get a decent price
+T822	Claim 1584 1834	I think it also is going to require an administration that understand that there are tremendous opportunities out there for the development of new uses for agricultural products, new uses which can help us to clean up our environment at the same time
+T823	Claim 1963 2076	I mean, there are enormous opportunities out there to expand markets and to build a strong future for our farmers
+T824	Premise 1836 1961	Bio-degradable plastics-plastic-gasohol, which the Vice President has been involved in, road de-icers made from corn products
+T825	Claim 2692 2781	I support the farm bill, the 1985 farm bill and spending is moving in the right direction
+T826	Claim 2640 2690	I oppose supply management and production controls
+T827	Claim 2783 2897	I want to expand our markets abroad and that's why I've called for that first economic summit to be on agriculture
+T828	Claim 2899 3042	I will not go back to the way the Democrats did it and used food as a political weapon and throw a grain embargo on the farmers in this country
+T829	Claim 3792 3830	Let's try to expand our markets abroad
+T830	Claim 3652 3733	let's not go back to that-what they call supply management and production control
+T831	Premise 3735 3790	that'll simply price us out of the international market
+T832	Claim 3545 3564	I would oppose that
+T833	Claim 3570 3646	I think were on the right track in agriculture and I am very very encouraged
+T834	Claim 3497 3543	I don't want to see the banks let off the hook
+T835	Claim 3385 3472	I want to see market economies spring up all around the world and to the degree they do
+T836	Claim 3474 3491	we are succeeding
+T837	Claim 3330 3383	In terms of the Third World, I support the Baker plan
+T838	Claim 3044 3077	I want to see rural redevelopment
+T839	Claim 3082 3201	I have been out front in favor of alternate sources of energy and one of them is gasohol and comes from using your corn
+T840	Claim 3206 3277	I think we can do better in terms of biodegradable for a lot of product
+T841	Claim 3282 3327	I'm optimistic about the agricultural economy
+R1	Support Arg1:T811 Arg2:T816	
+R2	Support Arg1:T816 Arg2:T817	
+R3	Support Arg1:T817 Arg2:T818	
+R4	Support Arg1:T820 Arg2:T812	
+T1	Claim 1022 1127	I also believe we need an agricultural policy which doesn't cost us 15 to 20 to 25 billion dollars a year
+T2	Claim 1133 1227	it's been costing us over the course of the past three or four years under this administration
+R5	Support Arg1:T818 Arg2:T1	
+R6	Attack Arg1:T1 Arg2:T2	
+R7	Support Arg1:T812 Arg2:T1	
+R8	Support Arg1:T821 Arg2:T822	
+R9	Support Arg1:T812 Arg2:T822	
+R10	Support Arg1:T824 Arg2:T822	
+R11	Support Arg1:T823 Arg2:T822	
+R12	Support Arg1:T823 Arg2:T815	
+R13	Support Arg1:T814 Arg2:T815	
+R14	Support Arg1:T813 Arg2:T815	
+R15	Support Arg1:T814 Arg2:T813	
+R16	Attack Arg1:T826 Arg2:T821	
+R17	Attack Arg1:T825 Arg2:T826	
+R18	Attack Arg1:T827 Arg2:T828	
+R19	Attack Arg1:T826 Arg2:T828	
+R20	Support Arg1:T838 Arg2:T839	
+R21	Support Arg1:T839 Arg2:T840	
+R22	Support Arg1:T840 Arg2:T841	
+R23	Support Arg1:T841 Arg2:T827	
+R24	Support Arg1:T835 Arg2:T837	
+R25	Support Arg1:T836 Arg2:T835	
+R26	Attack Arg1:T832 Arg2:T834	
+R27	Support Arg1:T841 Arg2:T833	
+R28	Support Arg1:T830 Arg2:T826	
+R29	Attack Arg1:T830 Arg2:T821	
+R30	Support Arg1:T831 Arg2:T830	
+R31	Support Arg1:T829 Arg2:T827	
+R32	Attack Arg1:T829 Arg2:T830	

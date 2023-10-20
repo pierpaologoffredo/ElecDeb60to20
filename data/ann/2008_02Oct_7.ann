@@ -1,0 +1,36 @@
+T298	Claim 237 258	Absolutely positively
+T299	Claim 266 439	in an Obama-Biden administration, there will be absolutely no distinction from a constitutional standpoint or a legal standpoint between a same-sex and a heterosexual couple
+T300	Claim 440 657	The fact of the matter is that under the Constitution we should be granted -- same-sex couples should be able to have visitation rights in the hospitals, joint ownership of property, life insurance policies, et cetera
+T301	Claim 659 675	That's only fair
+T302	Premise 677 713	It's what the Constitution calls for
+T303	Claim 719 738	so we do support it
+T304	Claim 740 1007	We do support making sure that committed couples in a same-sex marriage are guaranteed the same constitutional benefits as it relates to their property rights, their rights of visitation, their rights to insurance, their rights of ownership as heterosexual couples do
+T305	Claim 1116 1236	not if it goes closer and closer towards redefining the traditional definition of marriage between one man and one woman
+T306	Claim 1242 1295	unfortunately that's sometimes where those steps lead
+T307	Claim 1324 1546	if there's any kind of suggestion at all from my answer that I would be anything but tolerant of adults in America choosing their partners, choosing relationships that they deem best for themselves, you know, I am tolerant
+T308	Premise 1551 1748	I have a very diverse family and group of friends and even within that group you would see some who may not agree with me on this issue, some very dear friends who don't agree with me on this issue
+T309	Claim 1750 1955	But in that tolerance also, no one would ever propose, not in a McCain-Palin administration, to do anything to prohibit, say, visitations in a hospital or contracts being signed, negotiated between parties
+T310	Claim 2000 2165	I don't support defining marriage as anything but between one man and one woman, and I think through nuances we can go round and round about what that actually means
+T311	Claim 2171 2292	I'm being as straight up with Americans as I can in my non- support for anything but a traditional definition of marriage
+T312	Claim 2339 2366	Do you support gay marriage
+T313	Claim 2376 2378	No
+T314	Claim 2380 2461	Barack Obama nor I support redefining from a civil side what constitutes marriage
+T315	Claim 2463 2485	We do not support that
+T316	Premise 2487 2632	That is basically the decision to be able to be able to be left to faiths and people who practice their faiths the determination what you call it
+T317	Claim 2664 2873	I'm glad to hear the governor, I take her at her word, obviously, that she think there should be no civil rights distinction, none whatsoever, between a committed gay couple and a committed heterosexual couple
+T318	Claim 2875 2928	If that's the case, we really don't have a difference
+T319	Claim 2971 3086	Your question to him was whether he supported gay marriage and my answer is the same as his and it is that I do not
+R1	Support Arg1:T299 Arg2:T300	
+R2	Support Arg1:T300 Arg2:T301	
+R3	Support Arg1:T302 Arg2:T301	
+R4	Support Arg1:T301 Arg2:T303	
+R5	Support Arg1:T303 Arg2:T304	
+R6	Attack Arg1:T305 Arg2:T304	
+R7	Support Arg1:T306 Arg2:T305	
+R8	Support Arg1:T308 Arg2:T307	
+R9	Support Arg1:T309 Arg2:T307	
+R10	Attack Arg1:T310 Arg2:T307	
+R11	Support Arg1:T311 Arg2:T310	
+R12	Support Arg1:T315 Arg2:T314	
+R13	Support Arg1:T316 Arg2:T314	
+R14	Support Arg1:T318 Arg2:T317	

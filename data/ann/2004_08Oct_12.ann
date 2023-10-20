@@ -1,0 +1,73 @@
+T828	Claim 559 614	I really don't think your rights are being watered down
+T829	Premise 637 676	I wouldn't support it if I thought that
+T830	Claim 926 949	I really don't think so
+T831	Premise 679 762	Every action being taken against terrorists requires court order, requires scrutiny
+T832	Premise 786 920	the tools now given to the terrorist fighters are the same tools that we've been using against drug dealers and white-collar criminals
+T833	Claim 1101 1129	The Patriot Act is necessary
+T834	Premise 1152 1196	parts of the FBI couldn't talk to each other
+T835	Premise 1198 1315	The intelligence-gathering and the law-enforcement arms of the FBI just couldn't share intelligence under the old law
+T836	Premise 1321 1347	that didn't make any sense
+T837	Premise 1350 1476	Our law enforcement must have every tool necessary to find and disrupt terrorists at home and abroad before they hurt us again
+T838	Premise 1478 1513	That's the task of the 21st century
+T839	Claim 1524 1581	I don't think the Patriot Act abridges your rights at all
+T840	Claim 1595 1609	it's necessary
+T841	Premise 1611 1717	I can remember being in upstate New York talking to FBI agents that helped bust a Lackawanna cell up there
+T842	Premise 1723 1895	they told me they could not have performed their duty, the duty we all expect of them, if they did not have the ability to communicate with each other under the Patriot Act
+T843	Premise 1951 2077	Former Governor Racicot, as chairman of the Republican Party, said he thought that the Patriot Act has to be changed and fixed
+T844	Premise 2079 2244	Congressman Jim Sensenbrenner, he is the chairman of the House Judiciary Committee, said over his dead body before it gets renewed without being thoroughly rechecked
+T845	Claim 2247 2341	A whole bunch of folks in America are concerned about the way the Patriot Act has been applied
+T846	Premise 2352 2477	the inspector general of the Justice Department found that John Ashcroft had twice applied it in ways that were inappropriate
+T847	Claim 2480 2512	People's rights have been abused
+T848	Premise 2515 2599	I met a man who spent eight months in prison, wasn't even allowed to call his lawyer
+T849	Premise 2626 2705	finally, Senator Dick Durbin of Illinois intervened and was able to get him out
+T850	Premise 2770 2822	They've got sneak-and-peek searches that are allowed
+T851	Premise 2824 2961	They've got people allowed to go into churches now and political meetings without any showing of potential criminal activity or otherwise
+T852	Claim 3234 3262	I believe in the Patriot Act
+T853	Claim 3210 3232	that's not a flip-flop
+T854	Premise 2969 2996	I voted for the Patriot Act
+T855	Premise 2998 3045	Ninety-nine United States senators voted for it
+T856	Premise 3051 3203	the president's been very busy running around the country using what I just described to you as a reason to say I'm wishy-washy, that I'm a flip-flopper
+T857	Claim 3264 3324	We need the things in it that coordinate the FBI and the CIA
+T858	Claim 3326 3361	We need to be stronger on terrorism
+T859	Claim 3377 3525	what we also need to do as Americans is never let the terrorists change the Constitution of the United States in a way that disadvantages our rights
+R1	Attack Arg1:T828 Arg2:T829	
+R2	Support Arg1:T831 Arg2:T832	
+R3	Support Arg1:T830 Arg2:T828	
+R4	Attack Arg1:T830 Arg2:T832	
+T1	Premise 951 978	I hope you don't think that
+T2	Claim 993 1099	because I think whoever is the president must guard your liberties, must not erode your rights in America.
+R5	Attack Arg1:T830 Arg2:T1	
+R6	Support Arg1:T1 Arg2:T2	
+R7	Support Arg1:T2 Arg2:T833	
+R8	Support Arg1:T835 Arg2:T834	
+R9	Support Arg1:T834 Arg2:T833	
+R10	Attack Arg1:T836 Arg2:T834	
+R11	Support Arg1:T828 Arg2:T839	
+R12	Support Arg1:T838 Arg2:T837	
+R13	Support Arg1:T840 Arg2:T837	
+R14	Support Arg1:T840 Arg2:T839	
+R15	Support Arg1:T833 Arg2:T839	
+R16	Support Arg1:T839 Arg2:T2	
+R17	Support Arg1:T841 Arg2:T842	
+R18	Support Arg1:T842 Arg2:T833	
+R19	Support Arg1:T842 Arg2:T839	
+R20	Attack Arg1:T843 Arg2:T839	
+R21	Attack Arg1:T844 Arg2:T839	
+R22	Attack Arg1:T845 Arg2:T839	
+R23	Support Arg1:T843 Arg2:T845	
+R24	Support Arg1:T844 Arg2:T845	
+R25	Support Arg1:T846 Arg2:T845	
+R26	Attack Arg1:T846 Arg2:T839	
+R27	Attack Arg1:T847 Arg2:T839	
+R28	Support Arg1:T849 Arg2:T848	
+R29	Support Arg1:T848 Arg2:T847	
+R30	Support Arg1:T847 Arg2:T845	
+R31	Support Arg1:T850 Arg2:T847	
+R32	Support Arg1:T851 Arg2:T847	
+R33	Support Arg1:T855 Arg2:T854	
+R34	Attack Arg1:T853 Arg2:T856	
+R35	Support Arg1:T853 Arg2:T852	
+R36	Support Arg1:T854 Arg2:T852	
+R37	Support Arg1:T857 Arg2:T852	
+R38	Support Arg1:T858 Arg2:T852	
+R39	Attack Arg1:T852 Arg2:T859	

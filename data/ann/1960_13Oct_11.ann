@@ -1,0 +1,95 @@
+T347	Premise 738 871	there are about a hundred and four commodities that have some kind of depletion allowance - different kind of minerals, including oil
+T348	Claim 873 973	I believe all of those should be gone over in detail to make sure that no one is getting a tax break
+T349	Claim 975 1053	to make sure that no one is getting away from paying the taxes he ought to pay
+T350	Premise 1055 1072	That includes oil
+T351	Premise 1074 1107	it includes all kinds of minerals
+T352	Premise 1109 1160	it includes everything within the range of taxation
+T353	Premise 1162 1204	We want to be sure it's fair and equitable
+T354	Premise 1206 1228	It includes oil abroad
+T355	Premise 1230 1309	Perhaps that oil abroad should be treated differently than the oil here at home
+T356	Premise 1315 1359	the oil industry recently has had hard times
+T357	Premise 1361 1403	Particularly some of the smaller producers
+T358	Premise 1405 1453	They're moving about eight or nine days in Texas
+T359	Claim 1459 1565	I can assure you that if I'm elected president, the whole spectrum of taxes will be gone through carefully
+T360	Premise 1571 1669	if there is any inequities in oil or any other commodity, then I would vote to close that loophole
+T361	Premise 1671 1755	I have voted in the past to reduce the depletion allowance for the largest producers
+T362	Premise 1757 1849	for those from five million dollars down, to maintain it at twenty-seven and a half per cent
+T363	Claim 1851 1951	I believe we should study this and other allowances; tax expense, dividend expenses and all the rest
+T365	Premise 2010 2076	how we can provide the revenues needed to move our country forward
+T366	Claim 2115 2179	Senator Kennedy's position and mine completely different on this
+T367	Claim 2181 2220	I favor the present depletion allowance
+T368	Claim 2222 2232	I favor it
+T369	Premise 2233 2281	not because I want to make a lot of oil men rich
+T370	Premise 2295 2322	I want to make America rich
+T371	Premise 2370 2467	this is the stimulation, the incentive for companies to go out and explore for oil, to develop it
+T372	Claim 2469 2621	If we didn't have a depletion allowance of certainly, I believe, the present amount, we would have our oil exploration cut substantially in this country
+T373	Claim 2669 2708	it is exactly opposite to the Senator's
+T375	Claim 3005 3046	he would be doing exactly the wrong thing
+T376	Premise 3065 3178	He suggests that there are a number of other items in this whole depletion field that could be taken into account
+T377	Premise 3180 3304	He also said a moment ago that we would get more money to finance his programs by revising the tax laws, including depletion
+T378	Premise 3376 3477	the oil depletion allowance is one that provides eighty percent of all of those involved in depletion
+T379	Claim 3482 3616	you're not going to get much from revenue insofar as depletion allowances are concerned, unless you move in the area that he indicated
+T380	Claim 3622 3633	I oppose it
+T383	Premise 3701 3752	I want us to have more oil exploration and not less
+T374	Premise 2745 2842	if America is going to have the growth that he talks about and that I talk about and that we want
+T471	Premise 2844 2902	the thing to do is not to discourage individual enterprise
+T472	Premise 2904 2973	not to discourage people to go out and discover more oil and minerals
+T473	Premise 2979 2996	to encourage them
+T1	Claim 3635 3646	I oppose it
+T2	Claim 3681 3692	I oppose it
+R1	Support Arg1:T348 Arg2:T349	
+R2	Support Arg1:T347 Arg2:T348	
+R7	Support Arg1:T348 Arg2:T352	
+R10	Support Arg1:T353 Arg2:T349	
+R14	Support Arg1:T352 Arg2:T354	
+R17	Support Arg1:T354 Arg2:T355	
+R18	Attack Arg1:T355 Arg2:T352	
+R19	Support Arg1:T348 Arg2:T359	
+R20	Support Arg1:T349 Arg2:T359	
+R21	Support Arg1:T352 Arg2:T359	
+R15	Support Arg1:T358 Arg2:T357	
+R16	Support Arg1:T357 Arg2:T356	
+R22	Support Arg1:T356 Arg2:T355	
+R23	Support Arg1:T360 Arg2:T359	
+R26	Support Arg1:T362 Arg2:T361	
+R29	Support Arg1:T361 Arg2:T359	
+R30	Support Arg1:T362 Arg2:T363	
+R32	Support Arg1:T367 Arg2:T366	
+R33	Equivalent Arg1:T368 Arg2:T367	
+R34	Support Arg1:T370 Arg2:T368	
+R36	Attack Arg1:T369 Arg2:T368	
+R37	Support Arg1:T369 Arg2:T367	
+R40	Support Arg1:T371 Arg2:T367	
+R41	Support Arg1:T372 Arg2:T367	
+R42	Support Arg1:T372 Arg2:T368	
+R43	Attack Arg1:T372 Arg2:T361	
+R44	Equivalent Arg1:T373 Arg2:T366	
+R46	Support Arg1:T471 Arg2:T472	
+R47	Support Arg1:T472 Arg2:T473	
+R48	Support Arg1:T473 Arg2:T375	
+R49	Support Arg1:T375 Arg2:T373	
+R53	Support Arg1:T375 Arg2:T366	
+R54	Support Arg1:T376 Arg2:T377	
+R55	Support Arg1:T377 Arg2:T378	
+R56	Support Arg1:T378 Arg2:T379	
+R57	Support Arg1:T383 Arg2:T2	
+R58	Support Arg1:T383 Arg2:T1	
+R59	Support Arg1:T383 Arg2:T380	
+R60	Equivalent Arg1:T2 Arg2:T1	
+R61	Equivalent Arg1:T2 Arg2:T380	
+R62	Equivalent Arg1:T1 Arg2:T380	
+R63	Equivalent Arg1:T1 Arg2:T2	
+R64	Equivalent Arg1:T380 Arg2:T1	
+R65	Equivalent Arg1:T380 Arg2:T2	
+R66	Support Arg1:T377 Arg2:T379	
+R67	Attack Arg1:T380 Arg2:T379	
+R68	Attack Arg1:T1 Arg2:T379	
+R69	Attack Arg1:T2 Arg2:T379	
+R71	Support Arg1:T473 Arg2:T371	
+R3	Support Arg1:T351 Arg2:T352	
+R4	Support Arg1:T350 Arg2:T352	
+T3	Premise 1957 2008	make a determination of how we can stimulate growth
+R5	Support Arg1:T3 Arg2:T363	
+R6	Support Arg1:T365 Arg2:T363	
+R8	Support Arg1:T371 Arg2:T368	
+R9	Support Arg1:T374 Arg2:T471	

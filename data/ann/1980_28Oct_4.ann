@@ -1,0 +1,77 @@
+T216	Claim 909 971	we committed ourselves to take strong action against terrorism
+T217	Claim 720 799	one of the blights on this world is the threat and the activities of terrorists
+T218	Premise 973 1034	Airplane hijacking was one of the elements of that commitment
+T219	Claim 1515 1605	In countries like Libya or Iraq, we have even alienated some of our closest trade partners
+T220	Premise 1614 1721	we have insisted upon the control of the spread of nuclear weapons to those potentially terrorist countries
+T221	Premise 1059 1254	we have seen in recent years - in recent months - additional acts of violence against Jews in France and, of course, against those who live in Israel, by the PLO and other terrorist organizations
+T222	Claim 1268 1402	the most serious terrorist threat is if one of those radical nations, who believe in terrorism as a policy, should have atomic weapons
+T223	Premise 1409 1513	I and all my predecessors have had a deep commitment to controlling the proliferation of nuclear weapons
+T224	Premise 2007 2065	This ultimate terrorist threat is the most fearsome of all
+T225	Claim 2071 2161	it's part of a pattern where our country must stand firm to control terrorism of all kinds
+T226	Claim 1723 1807	When Governor Reagan has been asked about that, he makes the very disturbing comment
+T227	Premise 1813 1904	non-proliferation, or the control of the spread of nuclear weapons, is none of our business
+T228	Premise 1910 2005	recently when he was asked specifically about Iraq, he said there is nothing we can do about it
+T229	Claim 2662 2730	We will maintain our position of neutrality in the Iran and Iraq war
+T230	Premise 2732 2828	We have no plans to sell additional materiel or goods to Iran, that might be of a warlike nature
+T231	Claim 3180 3238	That's been a consistent policy, one I intend to carry out
+T232	Premise 2830 3178	When I made my decision to stop all trade with Iran as a result of the taking of our hostages, I announced then, and have consistently maintained since then, that if the hostages are released safely, we would make delivery on those items which Iran owns - which they have bought and paid for - also, that the frozen Iranian assets would be released
+T233	Claim 4341 4487	I think that anyone that's seeking this position, as well as other people, probably, have thought to themselves, what about this, what about that?
+T234	Premise 4488 4655	These are just ideas of what I would think of if I were in that position and had access to the information, and which I would know all the options that were open to me
+T235	Claim 4060 4138	I have been accused lately of having a secret plan with regard to the hostages
+T236	Premise 4145 4313	this comes from an answer that I've made at least 50 times during this campaign to the press, when I am asked have you any ideas of what you would do if you were there?
+T237	Premise 4657 4691	I have never answered the question
+T238	Claim 5086 5122	Your question is difficult to answer
+T239	Premise 5133 5353	in the situation right now, no one wants to say anything that would inadvertently delay, in any way, the return of those hostages if there if there is a chance that they're coming home soon, or that might cause them harm
+T240	Claim -1 343; -1 343	What I do think should be done, once they are safely here with their families, and that tragedy is over - then, I think, it is time for us to have a complete investigation as to the diplomatic efforts that were made in the beginning, why they have been there so long, and when they came home, what did we have to do in order to bring that about
+T241	Claim 5808 5871	I would suggest that Congress should hold such an investigation
+T242	Premise 4788 4927	I would be fearful that I might say something that was presently under way or in negotiations, and thus expose it and endanger the hostages
+T243	Claim 4944 5084	I think some of my ideas might require quiet diplomacy where you don't say in advance, or say to anyone, what it is you're thinking of doing
+T244	Claim 6940 6965	we've been guilty of that
+T245	Premise 6975 7275	someone didn't meet exactly our standards of human rights, even though they were an ally of ours, instead of trying patiently to persuade them to change their ways, we have, in a number of instances, aided a revolutionary overthrow which results in complete totalitarianism, instead, for those people
+T246	Claim 7277 7329	I think that this is a kind of a hypocritical policy
+T247	Premise 7336 7472	at the same time, we're maintaining a detente with the one nation in the world where there are no human rights at all - the Soviet Union
+T248	Claim 7479 7567	there was a second phase in the Iranian affair in which we had something to do with that
+T249	Premise 7583 7645	we had adequate warning that there was a threat to our embassy
+T250	Premise 7651 7804	we could have done what other embassies did - either strengthen our security there, or remove our personnel before the kidnap and the takeover took place
+T251	Claim 8809 8848	we will continue with these commitments
+T252	Claim 8229 8467	we all committed ourselves, as have all my predecessors in the Oval Office not to permit the spread of nuclear weapons to a terrorist nation, or to any other nation that does not presently have those weapons or capabilities for explosives
+T253	Claim 8476 8574	not to make any sales of materiel or weapons to a nation which is involved in terrorist activities
+T254	Claim 8589 8739	not to deal with the PLO until and unless the PLO recognizes Israel's right to exist and recognizes UN Resolution 242 as a basis for Middle East peace
+T255	Claim 8069 8217	to stop all air flights - commercial air flights - to any nation involved in terrorism or the hijacking of air planes, or the harboring of hijackers
+T256	Claim 8930 8994	I have no quarrel whatsoever with the things that have been done
+T257	Premise 9014 9131	it is high time that the civilized countries of the world made it plain that there is no room worldwide for terrorism
+T258	Claim 9133 9189	there will be no negotiation with terrorists of any kind
+T259	Claim 9291 9471	I have never made the statement that he suggested about nuclear proliferation and nuclear proliferation, or the trying to halt it, would be a major part of a foreign policy of mine
+R1	Support Arg1:T217 Arg2:T216	
+R2	Support Arg1:T218 Arg2:T216	
+R3	Support Arg1:T221 Arg2:T217	
+R4	Support Arg1:T222 Arg2:T217	
+R5	Support Arg1:T222 Arg2:T223	
+R6	Support Arg1:T220 Arg2:T219	
+R7	Support Arg1:T227 Arg2:T226	
+R8	Support Arg1:T228 Arg2:T226	
+R9	Support Arg1:T224 Arg2:T225	
+R10	Support Arg1:T230 Arg2:T229	
+R11	Support Arg1:T232 Arg2:T231	
+R12	Support Arg1:T231 Arg2:T229	
+R13	Support Arg1:T236 Arg2:T235	
+R14	Support Arg1:T233 Arg2:T235	
+R15	Support Arg1:T234 Arg2:T233	
+R16	Support Arg1:T242 Arg2:T237	
+R17	Support Arg1:T237 Arg2:T243	
+R18	Support Arg1:T238 Arg2:T243	
+R19	Support Arg1:T239 Arg2:T238	
+R20	Support Arg1:T249 Arg2:T248	
+R21	Support Arg1:T250 Arg2:T248	
+T1	Claim 8741 8803	These are a few of the things to which our nation is committed
+R22	Support Arg1:T255 Arg2:T1	
+R23	Support Arg1:T252 Arg2:T1	
+R24	Support Arg1:T253 Arg2:T1	
+R25	Support Arg1:T254 Arg2:T1	
+R26	Support Arg1:T257 Arg2:T256	
+R27	Support Arg1:T256 Arg2:T258	
+R28	Attack Arg1:T259 Arg2:T226	
+R29	Support Arg1:T258 Arg2:T253	
+R30	Support Arg1:T247 Arg2:T246	
+R31	Support Arg1:T245 Arg2:T246	
+R32	Support Arg1:T246 Arg2:T244	

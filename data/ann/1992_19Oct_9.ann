@@ -1,0 +1,94 @@
+T696	Claim 390 463	the answer to why the drop, I think, has been the economy in the doldrums
+T697	Claim 469 477	I'll win
+T698	Claim 481 557	I think I have the best plan of the 3 of us up here to do something about it
+T699	Claim 559 592	Mine does not grow the government
+T700	Claim 594 636	it does not invest, have government invest
+T701	Claim 646 707	we need to do better in terms of stimulating private business
+T702	Claim 709 759	We got a big philosophical difference here tonight
+T703	Premise 768 843	one who thinks the government can do all these things through tax and spend
+T704	Premise 849 892	one who thinks it ought to go the other way
+T705	Claim 902 946	I believe the answer is, I'm going to win it
+T706	Premise 955 1009	I'm getting into focus my agenda for America's renewal
+T707	Claim 1020 1082	I think that Governor Clinton's had pretty much of a free ride
+T708	Premise 1263 1316	They're almost at the bottom on every single category
+T709	Premise 1204 1261	he's an incumbent, and we've got to look at all the facts
+T710	Premise 1318 1357	We can't do that to the American people
+T711	Claim 1459 1588	I do think there's a pattern by Governor Clinton of saying one thing to please one group, and then trying to please another group
+T712	Claim 1594 1677	I think that pattern is a dangerous thing to suggest would work for the Oval Office
+T713	Claim 1679 1725	It doesn't work that way when you're president
+T714	Premise 1727 1765	 Truman is right. The buck stops there
+T715	Premise 1771 1838	you have to make decisions even when it's against your own interest
+T716	Claim 1844 1858	I've done that
+T717	Claim 1860 1993	It's against my political interest to say go ahead and go along with the tax increase, but I did what I thought was right at the time
+T718	Claim 1998 2061	I think people are going to be looking for trust and experience
+T719	Premise 2106 2245	I think if there's a crisis, people are going to say, well, George Bush has taken us through some tough crises, and we trust him to do that
+T720	Claim 2255 2301	I'll make the appeal on a wide array of issues
+T721	Claim 2308 2340	I got a philosophical difference
+T722	Claim 2373 2411	I don't think we're a declining nation
+T723	Claim 2413 2454	The whole world has had economic problems
+T724	Claim 2456 2515	We're doing better than a lot of the countries in the world
+T725	Claim 2521 2632	we're going to lead the way out of this economic recession across this world and economic slowdown here at home
+T726	Claim 2685 2701	I think I'll win
+T727	Claim 2996 3021	we may have bank failures
+T728	Claim 3084 3136	we are still evading the issue of the Glaspie papers
+T729	Claim 3176 3253	we still could have enterprise zones, according to both parties, but we don't
+T730	Claim 3258 3289	I am still focussed on gridlock
+T731	Claim 3340 3642	isn't it a paradox that we have the highest productivity in our workforce in the industrialized world and at the same time have the largest trade deficit, and at the same time rank behind 9 other nations in what we pay our most productive people in the world, and we're losing whole industries overseas
+T732	Claim 3684 3754	the government is breaking business's legs with these trade agreements
+T733	Claim 3756 3818	They're breaking business's legs in a number of different ways
+T734	Claim 3820 3950	We have an adversarial relationship that's destroying jobs and sending them overseas while we have the finest workers in the world
+T735	Premise 3966 4062	a factory worker has nothing to do with anything except putting it together on the factory floor
+T736	Claim 4064 4205	It's our obligation to make sure that we give him the finest products in the world to put together and we don't break his legs in the process
+T737	Claim 4257 4327	I really can't believe Mr. Bush is still trying to make trust an issue
+T738	Premise 4328 4579	after "read my lips" and 15 million new jobs and embracing what he called voodoo economics and embracing an export enhancement program for farmers he threatened to veto and going all around the country giving out money in programs that he once opposed
+T739	Premise 4585 4722	the main thing is he still didn't get it, from what he said the other night to that fine woman on our program, the 209 people in Richmond
+T740	Claim 4827 4859	I don't think he'll be reelected
+T741	Claim 4868 4903	trickle down economics is a failure
+T742	Claim 4908 4932	he's offering more of it
+T743	Claim 4938 4988	what he's saying about my program is just not true
+T744	Premise 4990 5035	Look at the Republicans that have endorsed me
+T745	Premise 5037 5080	High tech executives in Northern California
+T746	Premise 5082 5198	Look at the 24 generals and admirals, retired, that have endorsed me, including the deputy commander of Desert Storm
+T747	Premise 5200 5290	Look at Sarah Brady, Jim Brady's wife, President Reagan's press secretary, who endorsed me
+T748	Premise 5299 5364	he knuckled under to the NRA and wouldn't fight for the Brady Bil
+T749	Claim 5368 5424	We've got a broad-based coalition that goes beyond party
+T750	Claim 5433 5523	I am going to change this country and make it better, with the help of the American people
+R1	Support Arg1:T698 Arg2:T697	
+R2	Support Arg1:T699 Arg2:T698	
+R3	Support Arg1:T700 Arg2:T698	
+R4	Support Arg1:T701 Arg2:T700	
+R5	Support Arg1:T703 Arg2:T702	
+R6	Support Arg1:T704 Arg2:T702	
+R7	Support Arg1:T706 Arg2:T705	
+R8	Equivalent Arg1:T705 Arg2:T697	
+R9	Support Arg1:T711 Arg2:T712	
+R10	Support Arg1:T712 Arg2:T713	
+R11	Support Arg1:T714 Arg2:T713	
+R12	Support Arg1:T715 Arg2:T713	
+R13	Support Arg1:T715 Arg2:T716	
+R14	Support Arg1:T717 Arg2:T716	
+R15	Support Arg1:T718 Arg2:T716	
+R16	Support Arg1:T719 Arg2:T718	
+R17	Equivalent Arg1:T721 Arg2:T702	
+R18	Support Arg1:T724 Arg2:T722	
+R19	Support Arg1:T724 Arg2:T725	
+R20	Support Arg1:T720 Arg2:T697	
+R21	Support Arg1:T718 Arg2:T697	
+R22	Equivalent Arg1:T726 Arg2:T697	
+R23	Support Arg1:T731 Arg2:T732	
+R24	Support Arg1:T733 Arg2:T732	
+R25	Support Arg1:T734 Arg2:T731	
+R26	Support Arg1:T735 Arg2:T734	
+R27	Support Arg1:T738 Arg2:T737	
+R28	Attack Arg1:T737 Arg2:T718	
+R29	Support Arg1:T739 Arg2:T737	
+R30	Support Arg1:T741 Arg2:T740	
+R31	Attack Arg1:T740 Arg2:T697	
+R32	Support Arg1:T742 Arg2:T740	
+R33	Support Arg1:T743 Arg2:T740	
+R34	Support Arg1:T744 Arg2:T743	
+R35	Support Arg1:T745 Arg2:T744	
+R36	Support Arg1:T746 Arg2:T744	
+R37	Support Arg1:T747 Arg2:T744	
+R38	Support Arg1:T748 Arg2:T747	
+R39	Support Arg1:T750 Arg2:T749	

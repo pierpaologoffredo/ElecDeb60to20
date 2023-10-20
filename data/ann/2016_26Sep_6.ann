@@ -1,0 +1,70 @@
+T965	Claim 279 307	She doesn't have the stamina
+T966	Claim 252 277	She doesn't have the look
+T973	Claim 350 391	I don't believe she does have the stamina
+T974	Claim 309 344	I said she doesn't have the stamina
+T975	Claim 393 453	To be president of this country, you need tremendous stamina
+T976	Claim 461 527	The quote was, "I just don't think she has the presidential look."
+T977	Claim 1008 1052	I don't believe that Hillary has the stamina
+T978	Claim 1098 1371	as soon as he travels to 112 countries and negotiates a peace deal, a cease-fire, a release of dissidents, an opening of new opportunities in nations around the world, or even spends 11 hours testifying in front of a congressional committee, he can talk to me about stamina
+T979	Claim 943 1002	You have so many different things you have to be able to do
+T980	Claim 633 681	You have to be able to negotiate our trade deals
+T981	Premise 900 935	All you have to do is speak to them
+T982	Premise 821 898	with all of the money they have, we're defending them, and they're not paying
+T983	Premise 787 815	we're defending Saudi Arabia
+T984	Premise 683 760	You have to be able to negotiate, that's right, with Japan, with Saudi Arabia
+T985	Claim 1463 1482	it's bad experience
+T986	Premise 1435 1457	Hillary has experience
+T987	Premise 1484 1530	We have made so many bad deals during the last
+T988	Premise 1534 1554	she's got experience
+T989	Claim 1584 1608	it's bad, bad experience
+T990	Claim 1767 1800	you almost can't name a good deal
+T991	Premise 1610 1702	Whether it's the Iran deal that you're so in love with, where we gave them $150 billion back
+T992	Premise 1704 1730	whether it's the Iran deal
+T994	Premise 1811 1831	She's got experience
+T995	Claim 1862 1941	this country can't afford to have another four years of that kind of experience
+T996	Claim 2318 2335	I never said that
+T997	Claim 2423 2440	I didn't say that
+T998	Premise 2125 2165	he tried to switch from looks to stamina
+T999	Premise 2171 2226	this is a man who has called women pigs, slobs and dogs
+T1000	Premise 2232 2295	someone who has said pregnancy is an inconvenience to employers
+T1002	Claim 2455 2524	one of the worst things he said was about a woman in a beauty contest
+T1003	Premise 2632 2694	Then he called her "Miss Housekeeping," because she was Latina
+T1004	Premise 2526 2591	He loves beauty contests, supporting them and hanging around them
+T1005	Premise 2597 2631	he called this woman "Miss Piggy."
+T1006	Premise 2696 2718	Donald, she has a name
+T1007	Premise 2786 2812	Her name is Alicia Machado
+T1009	Claim 3642 3742	she spent hundreds of millions of dollars on negative ads on me, many of which are absolutely untrue
+T1010	Premise 3744 3758	They're untrue
+T1011	Premise 3764 3790	they're misrepresentations
+T1012	Claim 3844 3864	I don't deserve that
+T1013	Premise 3122 3171	Hillary is hitting me with tremendous commercials
+T1014	Premise 3173 3207	Some of it's said in entertainment
+T1015	Premise 3869 3916	it's certainly not a nice thing that she's done
+T1016	Premise 3918 3950	It's hundreds of millions of ads
+R1	Support Arg1:T965 Arg2:T966	
+*	Equivalent T974 T965
+R2	Support Arg1:T973 Arg2:T966	
+R3	Support Arg1:T975 Arg2:T966	
+R4	Support Arg1:T984 Arg2:T980	
+*	Equivalent T977 T973
+R5	Support Arg1:T982 Arg2:T977	
+R6	Support Arg1:T981 Arg2:T977	
+R7	Attack Arg1:T978 Arg2:T973	
+*	Equivalent T988 T986 T994
+R8	Support Arg1:T987 Arg2:T989	
+*	Equivalent T989 T985
+R9	Support Arg1:T990 Arg2:T989	
+R10	Support Arg1:T991 Arg2:T987	
+*	Equivalent T997 T996
+R11	Support Arg1:T1005 Arg2:T1002	
+R12	Support Arg1:T1003 Arg2:T1002	
+R13	Support Arg1:T1007 Arg2:T1006	
+R14	Support Arg1:T1010 Arg2:T1009	
+R15	Support Arg1:T1011 Arg2:T1012	
+R16	Support Arg1:T1015 Arg2:T1012	
+R17	Support Arg1:T1016 Arg2:T1009	
+T1	Claim 3952 4043	And the only gratifying thing is, I saw the polls come in today, and with all of that money
+T2	Premise 4102 4191	$200 million is spent, and I'm either winning or tied, and I've spent practically nothing
+R18	Support Arg1:T2 Arg2:T1	
+R19	Attack Arg1:T996 Arg2:T1000	
+R20	Support Arg1:T1006 Arg2:T1002	

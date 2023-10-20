@@ -1,0 +1,30 @@
+T1	Claim 731 761	We've got to change the system
+T2	Premise 704 729	we just have a bad system
+R1	Support Arg1:T2 Arg2:T1	
+T3	Premise 763 851	It's time to do it because we have run up so much debt that time is no longer our friend
+R2	Support Arg1:T3 Arg2:T1	
+T4	Claim 1294 1402	They told you at the tax and budget summit that if you agreed to a tax increase, we could balance the budget
+T5	Premise 1404 1510	They didn't tell you that that same year they increased spending $1.83 for every dollar we increased taxes
+R3	Attack Arg1:T5 Arg2:T4	
+T6	Premise 4030 4145	He was President for 3 years before he proposed a health care plan that still hasn't been sent to Congress in total
+T7	Premise 4147 4178	3 years before an economic plan
+T8	Premise 4184 4328	he still didn't say tonight that that tax bill he vetoed raised taxes only on the rich and gave the rest of you a break, but he vetoed it anyway
+T9	Claim 4330 4353	I offer a new direction
+T10	Claim 4355 4460	Invest in American jobs, American education, control health care costs, bring this country together again
+T11	Premise 4704 4781	In the Oval Office, you can't predict what kind of crisis is going to come up
+T12	Premise 5324 5389	The United States came together as we haven't in many, many years
+T13	Premise 5287 5322	We had to stand up against a tyrant
+T14	Premise 5391 5423	We kicked this man out of Kuwait
+T15	Premise 5255 5285	Take a look at the Middle East
+T16	Premise 5200 5253	Poland, Hungary, Czechoslovakia, the Baltics are free
+T17	Premise 5126 5198	The Soviet Union is no more, and we're working with a democratic country
+T18	Premise 5104 5124	The cold war is over
+T19	Premise 5425 5564	In the process, as a result of that will and that decision and that toughness, we now have ancient enemies talking peace in the Middle East
+T20	Claim 5605 5712	I think the biggest dividend of making these tough calls is the fact that we are less afraid of nuclear war
+R4	Support Arg1:T19 Arg2:T20	
+R5	Support Arg1:T14 Arg2:T20	
+R6	Support Arg1:T12 Arg2:T20	
+R7	Support Arg1:T13 Arg2:T12	
+R8	Support Arg1:T15 Arg2:T13	
+T21	Premise 5714 5817	Every parent out there has much less worry that their kids are going to be faced with nuclear holocaust
+R9	Support Arg1:T21 Arg2:T20	

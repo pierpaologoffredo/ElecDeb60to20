@@ -1,0 +1,48 @@
+T1	Claim 559 614	America has a lot of families that are in trouble today
+T2	Claim 240 330	A family involves at least one parent, whether natural or adoptive or foster, and children
+T4	Premise 453 489	a place where people turn for refuge
+T5	Premise 495 557	where they know they're the most important people in the world
+T6	Premise 706 780	I was born to a widowed mother who gave me family values, and grandparents
+T7	Premise 782 834	I've seen the family values of my people in Arkansas
+T8	Premise 836 1068	I've seen the family values of all these people in America who are out there killing themselves working harder for less in a country that's had the worst economic years in 50 years and the first decline in industrial production ever
+T28	Claim 681 704	I know a lot about that
+R15	Support Arg1:T6 Arg2:T28
+R16	Support Arg1:T7 Arg2:T28
+R17	Support Arg1:T28 Arg2:T1
+T3	Claim 1070 1158	I think the President owes it to family values to show that he values America's families
+T9	Premise 1160 1473	Whether they're people on welfare, you're trying to move from welfare to work; the working poor, whom I think deserve a tax break to lift them above poverty if they've got a child in the house and working 40 hours a week; working families, who deserve a fair tax system and the opportunity for constant retraining
+R1	Support Arg1:T9 Arg2:T3
+T10	Premise 1475 1504	They deserve a strong economy
+T11	Claim 1506 1557	I think they deserve a family and medical leave act
+R2	Support Arg1:T8 Arg2:T3	
+R3	Support Arg1:T10 Arg2:T3	
+R4	Support Arg1:T11 Arg2:T3	
+T12	Premise 1559 1608	Seventy-two other nations have been able to do it
+R5	Support Arg1:T12 Arg2:T11	
+T13	Premise 1610 1744	Mr. Bush vetoed it twice because he says we can't do something 72 other countries do, even though there was a small business exemption
+R6	Attack Arg1:T12 Arg2:T13	
+T15	Claim 2378 2417	I do think we need to strengthen family
+T14	Premise 2103 2373	I would say that one meeting that made a profound impression on me was when the mayors of the big cities, including the mayor of Los Angeles, a Democrat, came to see me, and they unanimously said the decline in urban America stems from the decline in the American family
+R7	Support Arg1:T14 Arg2:T15	
+T16	Claim 2543 2692	I believe that discipline and respect for the law, all of these things, should be taught to children, not in our schools but families have to do that
+T17	Premise 2694 2750	I'm appalled at the high, outrageous numbers of divorces
+R8	Support Arg1:T17 Arg2:T16	
+R9	Support Arg1:T16 Arg2:T15	
+T18	Premise 2752 2777	It's happened in families
+T19	Premise 2779 2800	it's happened in ours
+R10	Support Arg1:T18 Arg2:T17	
+R11	Support Arg1:T19 Arg2:T17	
+T20	Premise 2806 2826	it's gotten too much
+T21	Claim 2832 2913	I just think that we ought to do everything we can to respect the American family
+R12	Support Arg1:T20 Arg2:T21	
+R13	Support Arg1:T21 Arg2:T15	
+T22	Premise 2974 3065	One way to do it is to get these deadbeat fathers to pay their obligations to these mothers
+T23	Claim 3067 3112	That will help strengthen the American family
+R14	Support Arg1:T22 Arg2:T23	
+T24	Premise 3118 3207	there's a whole bunch of other things that I can't click off in this short period of time
+R18	Support Arg1:T24 Arg2:T23	
+T25	Premise 2915 2972	It can be a single-parent family. Those mothers need help
+R19	Support Arg1:T25 Arg2:T23	
+T26	Claim 4030 4110	We will not be a great country unless we have a strong family unit in every home
+T27	Premise 4116 4377	I think you can use the White House as a bully pulpit to stress the importance of these little children, particularly in their young and formative years, to mold these little precious pieces of clay so that they, too, can live rich, full lives when they're grow
+R20	Support Arg1:T27 Arg2:T26	

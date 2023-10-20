@@ -1,0 +1,74 @@
+T26	Claim 786 931	in the event that such an attack occurred and in the event the attack was a prelude to an attack on Formosa - which would be the indication today
+T27	Premise 940 1035	the Chinese Communists say over and over again that their objective is not the offshore islands
+T28	Premise 1042 1175	they consider them only steppingstones to taking Formosa - in the event that their attack then were a prelude to an attack on Formosa
+T29	Claim 1177 1334	there isn't any question but that the United States would then again, as in the case of Berlin, honor our treaty obligations and stand by our ally of Formosa
+T30	Claim 1340 1443	to indicate in advance how we would respond, to indicate the nature of this response would be incorrect
+T31	Claim 1445 1480	it would certainly be inappropriate
+T32	Claim 1482 1540	it would not be in the best interests of the United States
+T33	Premise 1586 1789	to do what Senator Kennedy has suggested - to suggest that we will surrender these islands or force our Chinese Nationalist allies to surrender them in advance - is not something that would lead to peace
+T35	Premise 1847 1892	This is the history of dealing with dictators
+T36	Premise 1894 1960	This is something that Senator Kennedy and all Americans must know
+T37	Premise 1962 1987	We tried this with Hitler
+T38	Claim 1989 2003	It didn't work
+T39	Claim 2198 2235	They don't want just Quemoy and Matsu
+T40	Claim 2237 2265	they don't want just Formosa
+T41	Claim 2267 2286	they want the world
+T42	Claim 2308 2451	if you surrender or indicate in advance that you're not going to defend any part of the free world, and you figure that's going to satisfy them
+T45	Claim 3678 3731	I believe we must meet our commitment to uh - Formosa
+T46	Claim 3733 3771	I support it and the Pescadores Island
+T47	Claim 3773 3810	That is the present American position
+T48	Premise 3118 3254	the United States now has a treaty - which I voted for in the United States Senate in 1955 - to defend Formosa and the Pescadores Island
+T51	Premise 3812 3857	The treaty does not include these two islands
+T53	Claim 3973 4181	if Formosa is attacked or the Pescadores, or if there's any military action in any area which indicates an attack on Formosa and the Pescadores, then of course the United States is at war to defend its treaty
+T54	Claim 4883 4906	This is a serious issue
+T55	Claim 4912 4986	I think we ought to understand completely if we disagree, and if so, where
+T56	Premise 4598 4682	The President of the United States has indicated they are not within the treaty area
+T57	Premise 4684 4761	They were not within the treaty area when the treaty was passed in fifty-five
+T58	Premise 4471 4596	Admiral Yarnell, the commander of the Asiatic fleet, has said that these islands are not worth the bones of a single American
+T59	Premise 4204 4469	Mr. Nixon wants to do is commit us - as I understand him, so that we can be clear if there's a disagreement - he wants us to be committed to the defense of these islands merely as the defense of these islands as free territory, not as part of the defense of Formosa
+T60	Premise 4763 4881	We have attempted to persuade Chiang Kai-shek as late as January of 1959 to reduce the number of troops he has on them
+T463	Claim 2453 2476	it doesn't satisfy them
+T464	Premise 3384 3653	the chairman of the Senate Foreign Relations Committee, wrote to the President, he received back on the second of October, 1958 - "neither you nor any other American need feel the U.S. will be involved in military hostilities merely in the defense of Quemoy and Matsu."
+R1	Support Arg1:T27 Arg2:T28	
+R2	Support Arg1:T28 Arg2:T29	
+R4	Support Arg1:T32 Arg2:T30	
+R6	Equivalent Arg1:T31 Arg2:T30	
+R7	Attack Arg1:T32 Arg2:T33	
+R9	Support Arg1:T40 Arg2:T41	
+R10	Support Arg1:T39 Arg2:T41	
+R12	Support Arg1:T37 Arg2:T38	
+R13	Support Arg1:T35 Arg2:T37	
+R18	Support Arg1:T48 Arg2:T45	
+R19	Support Arg1:T48 Arg2:T46	
+R24	Support Arg1:T45 Arg2:T53	
+R25	Support Arg1:T46 Arg2:T53	
+R27	Attack Arg1:T51 Arg2:T48	
+R28	Support Arg1:T51 Arg2:T56	
+R29	Support Arg1:T56 Arg2:T57	
+R30	Support Arg1:T58 Arg2:T56	
+R31	Support Arg1:T57 Arg2:T54	
+R32	Support Arg1:T54 Arg2:T55	
+R33	Support Arg1:T60 Arg2:T54	
+T1	Claim 1791 1845	it is something that would lead, in my opinion, to war
+T2	Premise 2005 2155	He wanted first uh - we know, Austria, and then he went on to the Sudetenland and then Danzig, and each time it was thought this is all that he wanted
+T3	Claim 2831 3037	I say that those of us who stand against surrender of territory - this or any others - in the face of blackmail, in the s- face of force by the Communists are standing for the course that will lead to peace
+T4	Claim 574 767	it would be completely irresponsible for a candidate for the presidency, or for a president himself, to indicate the course of action and the weapons he would use in the event of such an attack
+R35	Support Arg1:T33 Arg2:T1	
+T5	Claim 2478 2506	It only whets their appetite
+R37	Equivalent Arg1:T30 Arg2:T4	
+R41	Support Arg1:T2 Arg2:T463	
+T6	Claim 3888 3956	the United States should go to war if these two islands are attacked
+R43	Equivalent Arg1:T6 Arg2:T29	
+R3	Support Arg1:T38 Arg2:T41	
+R5	Support Arg1:T41 Arg2:T463	
+R8	Attack Arg1:T463 Arg2:T42	
+R11	Support Arg1:T5 Arg2:T463	
+R14	Support Arg1:T463 Arg2:T3	
+R15	Support Arg1:T1 Arg2:T3	
+T7	Premise 3256 3358	The islands which Mr. Nixon is discussing are five or four miles, respectively, off the coast of China
+R16	Attack Arg1:T7 Arg2:T29	
+R17	Support Arg1:T7 Arg2:T51	
+R22	Support Arg1:T464 Arg2:T51	
+R20	Support Arg1:T47 Arg2:T6	
+R21	Equivalent Arg1:T53 Arg2:T6	
+R23	Attack Arg1:T55 Arg2:T59	

@@ -1,0 +1,74 @@
+T1	Claim 2278 2330	You should know as much as possible about each of us
+T2	Claim 2373 2468	There's been millions and millions of dollars of negative advertising spent distorting my views
+T3	Claim 2981 3084	Whether it's two parents working because one has to pay the taxes and one has to provide for the family
+T4	Claim 3086 3154	whether it's a single parent who just barely pays the pressing bills
+T5	Claim 3158 3243	whether you're worried about an education for your children going to the best schools
+T6	Claim 3248 3332	whether you're worried about safe playgrounds, drug-free schools, crime-free schools
+T7	Premise 3334 3373	This is what this election is all about
+T8	Claim 2592 2674	I should understand that the question on your mind is do I understand your problem
+T9	Claim 2676 2718	Would I understand it if it occurred to me
+T10	Claim 2724 2764	I might just say I'm from a large family
+T11	Premise 2766 2789	I got lots of relatives
+T12	Premise 2794 2852	they're good, average, middle-class, hardworking Americans
+T13	Premise 2332 2371	Sometimes the views have been distorted
+T14	Premise 2095 2176	In 20 days, you will help decide who will lead this country into the next century
+T15	Premise 2214 2276	you must ask yourself, do you know enough about the candidates
+T16	Claim 3389 3534	tonight when we conclude this debate you will have a better understanding and the viewing and listening audience will have a better understanding
+T17	Claim 2854 2886	They live all across the country
+T18	Premise 2888 2915	They're not all Republicans
+T19	Premise 2917 2934	Maybe all but one
+T20	Claim 2940 2979	in any event, I understand the problems
+T21	Claim 3856 3932	I will do my best to make this a discussion of ideas and issues, not insults
+T22	Claim 3934 3984	What really matters is what happens to your future
+T23	Claim 3989 4095	what happens to our country as we stand on the brink of a new century, a time of extraordinary possibility
+T24	Claim 4897 4967	I think what really matters is what we can do to build strong families
+T25	Claim 4359 4411	Compared to four years ago, we're clearly better off
+T26	Premise 4172 4254	Do what creates opportunity for all, what reinforces responsibility from all of us
+T27	Premise 4260 4357	what will help us build a community where everybody's got a role to play and a place at the table
+T28	Premise 4413 4455	We've got ten and a half million more jobs
+T29	Premise 4457 4497	the deficit's been reduced by 60 percent
+T30	Premise 4499 4548	Incomes are rising for the first time in a decade
+T31	Premise 4550 4596	the crime rates, the welfare rolls are falling
+T32	Premise 4598 4647	we're putting , 100,000 more police on the street
+T33	Premise 4649 4712	60,000 felons, fugitives and stalkers have been denied handguns
+T34	Claim 4718 4753	that progress is only the beginning
+T35	Claim 4755 4895	What we really should focus on tonight is what we still have to do to help the American people make the most of this future that's out there
+T36	Claim 4969 5006	Strong families need a strong economy
+T37	Claim 5025 5138	we have to go on and balance this budget while we protect Medicare and Medicaid and education and the environment
+T38	Claim 5140 5256	We should give a tax cut, targeted to child rearing and education, to buying a first home and paying for health care
+T39	Claim 5258 5333	We ought to help protect our kids from drugs and guns and gangs and tobacco
+T40	Claim 5335 5394	We ought to help move a million people from welfare to work
+T41	Claim 5399 5572	we ought to create the finest education system in the world where every 18-year-old can go on to college and all of our younger children have great educational opportunities
+T42	Premise 5574 5641	If we do those things, we can build that bridge to the 21st century
+R1	Support Arg1:T14 Arg2:T1	
+R2	Support Arg1:T15 Arg2:T1	
+R3	Support Arg1:T13 Arg2:T2	
+R4	Support Arg1:T11 Arg2:T10	
+R5	Support Arg1:T12 Arg2:T10	
+R7	Support Arg1:T17 Arg2:T10	
+R8	Support Arg1:T18 Arg2:T10	
+R9	Support Arg1:T19 Arg2:T10	
+R6	Support Arg1:T10 Arg2:T20	
+R10	Support Arg1:T3 Arg2:T20	
+R11	Support Arg1:T4 Arg2:T20	
+R12	Support Arg1:T5 Arg2:T20	
+R13	Support Arg1:T6 Arg2:T20	
+R14	Support Arg1:T7 Arg2:T20	
+R15	Support Arg1:T1 Arg2:T16	
+R16	Support Arg1:T26 Arg2:T22	
+R17	Support Arg1:T27 Arg2:T26	
+R18	Support Arg1:T28 Arg2:T25	
+R19	Support Arg1:T29 Arg2:T25	
+R20	Support Arg1:T30 Arg2:T25	
+R21	Support Arg1:T31 Arg2:T25	
+R22	Support Arg1:T32 Arg2:T25	
+R23	Support Arg1:T33 Arg2:T25	
+R24	Support Arg1:T25 Arg2:T34	
+R25	Support Arg1:T24 Arg2:T35	
+R26	Support Arg1:T36 Arg2:T24	
+R27	Support Arg1:T37 Arg2:T35	
+R28	Support Arg1:T38 Arg2:T35	
+R29	Support Arg1:T39 Arg2:T35	
+R30	Support Arg1:T40 Arg2:T35	
+R31	Support Arg1:T41 Arg2:T35	
+R32	Support Arg1:T42 Arg2:T35	

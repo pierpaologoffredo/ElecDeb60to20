@@ -1,0 +1,87 @@
+T1	Claim 568 694	The bills that I vetoed, the one for an additional $6 billion, was not a bill that would have solved our unemployment problems
+T2	Premise 696 804	Even the proponents of it admitted that no more than four hundred thousand jobs would be uh - made available
+T3	Premise 806 945	Our analysis indicates that something in the magnitude of about one hundred fifty to two hundred thousand jobs would uh - be made available
+T4	Premise 947 1010	Each one of those jobs would've cost the taxpayers $25 thousand
+T5	Premise 1012 1066	In addition, the jobs would not be available right now
+T6	Premise 1068 1134	They would not have materialized for about nine to eighteen months
+T7	Claim 1136 1236	The immediate problem we have is to stimulate our economy now so that we can get rid of unemployment
+T8	Claim 1238 1331	What we have done is to hold the lid on spending in an effort to reduce the rate of inflation
+T9	Claim 1337 1439	we have proven, I think very conclusively, that you can reduce the rate of inflation and increase jobs
+T10	Premise 1441 1535	For example, as I have said, we have added some four million jobs in the last seventeen months
+T11	Premise 1537 1652	We have now employed eighty-eight million people in America, the largest number in the history of the United States
+T12	Premise 1654 1715	We've added five hundred thousand jobs in the last two months
+T13	Premise 1717 1762	Inflation is the quickest way to destroy jobs
+T14	Claim 1768 1933	by holding the lid on federal spending we have been able to do an- a good job, an affirmative job in inflation and as a result have added to the jobs in this country
+T15	Claim 1935 2183	I think it's uh - also appropriate to point out that through our tax policies we have stimulated uhh - added employment throughout the country, the investment tax credit, the tax incentives for expansion and modernization of our industrial capacity
+T16	Claim 2185 2415	It's my - my opinion that the private sector, where five out of six jobs are, where you have permanent jobs, with the opportunity for advancement, is a better place than make-work jobs under the program recommended by the Congress
+T17	Premise 2951 3001	that bill has not yet come down to the Oval Office
+T18	Claim 3006 3063	I am not in a position to make any judgment on it tonight
+T19	Premise 3069 3131	that is an extra $4 billion that would uh - add to the deficit
+T20	Premise 3132 3177	which would add to the inflationary pressures
+T21	Premise 3179 3276	which would help to destroy jobs in the private sector - not make jobs, where the jobs really are
+T22	Claim 3278 3387	These make-work, temporary jobs - dead end as they are - are not the kind of jobs that we want for our people
+T23	Premise 3389 3511	I think it's interesting to point out that uh - in the uh - two years that I've been president I've vetoed fifty-six bills
+T24	Premise 3513 3553	Congress has sustained forty-two vetoes.
+T25	Claim 3567 3620	we have saved over $9 billion in federal expenditures
+T26	Premise 3626 3774	the Congress by overriding the bills that I did veto, the Congress has added some $13 billion to the federal expenditures and to the federal deficit
+T27	Claim 4020 4046	he can't have it both ways
+T28	Premise 3780 3867	Governor Carter complains about the deficits that uh - uh - this administration has had
+T29	Premise 3877 4014	he condemns the vetoes that I have made that has - that have saved the taxpayer $9 billion and could have saved an additional $13 billion
+T30	Claim 4063 4145	it seems to me that we should hold the lid, as we have, to the best of our ability
+T31	Claim 4149 4255	we can stimulate the private economy and get the jobs where the jobs are - five out of six in this economy
+T32	Premise 4298 4579	Mr. Ford doesn't seem to put into perspective the fact that when - when uh five hundred thousand more people are out of work than there were three months ago, while we have two and a half million more people out of work than were when he took office, that this touches human beings
+T33	Premise 4581 4848	I was in uh - a city in uh - Pennsylvania not too long ago, near here, and uh - there were about four or five thousand people in the audience - it was on a - on a train trip. And I said, "How many uh - adults here are out of work?" About a thousand raised their hands
+T34	Premise 4850 4957	Mr. Ford uh - actually has fewer people now in the private sector in non-farm jobs than when he took office
+T35	Premise 4998 5073	Seven point nine percent unemployment is a terrible tragedy in this country
+T36	Premise 5152 5288	We've got the highest inflation we've had in twenty-five years right now, except under this administration, and that was fifty years ago
+T37	Premise 5294 5408	we've got uh - the highest unemployment we've had uh - under Mr. Ford's administration, since the Great Depression
+T38	Claim 5410 5577	This affects human beings, and - and his insensitivity in providing those people a chance to work has made this a welfare administration, and not a work administration
+T39	Premise 5579 5621	He hasn't saved $9 billion with his vetoes
+T40	Premise 5623 5673	There's only been uh - a net savings of $4 billion
+T41	Premise 5679 5805	the cost in unemployment compensation, welfare compensation, and lost revenues has increased $23 billion in the last two years
+T42	Claim 5807 5880	This is a - a typical attitude that really causes havoc in people's lives
+T43	Claim 5891 6041	it's covered over by saying that our country has naturally got a 6 percent unemployment rate, or 7 percent unemployment rate and a 6 percent inflation
+T44	Claim 6043 6058	It's a travesty
+T45	Claim 6060 6089	It shows a lack of leadership
+T46	Premise 6095 6178	we've never had a president since the War between the States that vetoed more bills
+T47	Premise 6180 6248	Mr. Ford has vetoed four times as many bills as Mr. Nixon - per year
+T48	Premise 6254 6288	eleven of 'em have been overridden
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T1	
+R3	Support Arg1:T4 Arg2:T1	
+R4	Support Arg1:T5 Arg2:T1	
+R5	Support Arg1:T6 Arg2:T5	
+R6	Support Arg1:T8 Arg2:T7	
+R7	Support Arg1:T9 Arg2:T7	
+R8	Support Arg1:T10 Arg2:T9	
+R9	Support Arg1:T11 Arg2:T10	
+R10	Support Arg1:T12 Arg2:T10	
+R11	Support Arg1:T13 Arg2:T14	
+T49	Premise 2231 2261	where five out of six jobs are
+T50	Premise 2263 2292	where you have permanent jobs
+R12	Support Arg1:T50 Arg2:T16	
+R13	Support Arg1:T49 Arg2:T16	
+R14	Support Arg1:T17 Arg2:T18	
+R15	Support Arg1:T21 Arg2:T22	
+R16	Support Arg1:T19 Arg2:T22	
+R17	Support Arg1:T20 Arg2:T22	
+R18	Attack Arg1:T29 Arg2:T28	
+R19	Attack Arg1:T27 Arg2:T28	
+R20	Support Arg1:T30 Arg2:T31	
+R21	Attack Arg1:T32 Arg2:T22	
+R22	Support Arg1:T33 Arg2:T32	
+R23	Attack Arg1:T34 Arg2:T10	
+R24	Support Arg1:T35 Arg2:T34	
+T51	Premise 5075 5136	He says he's learned how to match unemployment with inflation
+R25	Support Arg1:T36 Arg2:T38	
+R26	Support Arg1:T37 Arg2:T38	
+R27	Support Arg1:T51 Arg2:T38	
+R28	Attack Arg1:T39 Arg2:T25	
+R29	Support Arg1:T40 Arg2:T39	
+R30	Support Arg1:T41 Arg2:T42	
+R31	Support Arg1:T43 Arg2:T42	
+R32	Support Arg1:T42 Arg2:T44	
+R33	Support Arg1:T44 Arg2:T45	
+R34	Support Arg1:T46 Arg2:T45	
+R35	Support Arg1:T47 Arg2:T45	
+R36	Support Arg1:T48 Arg2:T45	

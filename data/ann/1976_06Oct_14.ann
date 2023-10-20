@@ -1,0 +1,29 @@
+T492	Claim 528 732	If they do give us a bona fide, complete uh - accounting of the eight hundred MIA's, then I believe that the United States should begin negotiations for the uh - admission of Vietnam to the United Nations
+T493	Claim 734 798	But not until they have given us the full accounting of our MIAs
+T494	Claim 838 1167	One of the uh - most embarrassing uh - failures of the Ford administration, and one that touches specifically on human rights, is his refusal to appoint a presidential commission to go to Vietnam, to go to Laos, to go to Cambodia and try to trade for the release of information about those who are missing in action in those wars
+T495	Claim 1217 1241	Mr. Ford has not done it
+T496	Premise 1243 1336	We've had several fragmentary efforts by members of the Congress and by - by private citizens
+T497	Premise 1338 1460	Several months ago the Vietnam government said, "We are ready to sit down and negotiate for release of information on MIAs
+T498	Claim 1470 1496	Mr. Ford has not responded
+T499	Claim 1498 1624	I would never normalize relationships with Vietnam, nor permit them to join the United Nations until they've taken this action
+T500	Claim 1630 1647	that's not enough
+T501	Premise 1649 1861	We need to have an active and aggressive action on the part of the president, the leader of his country, to seek out every possible way to get that information which has kept the MIA families in despair and doubt
+T502	Claim 1867 1896	Mr. Ford has just not done it
+T491	Claim 448 526	I will never uh - go along with the admission of Vietnam to the United Nations
+T1	Claim 1169 1208	This is what the families of MIAs want.
+R1	Support Arg1:T492 Arg2:T491	
+R2	Support Arg1:T492 Arg2:T493	
+R3	Support Arg1:T493 Arg2:T491	
+R4	Support Arg1:T494 Arg2:T1	
+R5	Attack Arg1:T1 Arg2:T495	
+R6	Support Arg1:T496 Arg2:T1	
+R7	Support Arg1:T497 Arg2:T1	
+R8	Attack Arg1:T1 Arg2:T498	
+R9	Support Arg1:T501 Arg2:T1	
+R10	Attack Arg1:T501 Arg2:T502	
+R11	Attack Arg1:T1 Arg2:T502	
+R12	Support Arg1:T498 Arg2:T502	
+R13	Support Arg1:T495 Arg2:T502	
+R14	Support Arg1:T499 Arg2:T492	
+R15	Support Arg1:T501 Arg2:T500	
+R16	Attack Arg1:T500 Arg2:T499	

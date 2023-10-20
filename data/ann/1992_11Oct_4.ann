@@ -1,0 +1,118 @@
+T169	Claim 681 763	If you look at the cost of not keeping the peace in Europe, it would be exorbitant
+T170	Premise 644 679	for 40-some years we kept the peace
+T171	Premise 765 844	We have reduced the number of troops that are deployed and going to be deployed
+T172	Premise 846 873	I have cut defense spending
+T173	Claim 890 906	we could do that
+T174	Claim 968 997	We never would have got there
+T175	Claim 1043 1072	we never would have got there
+T176	Claim 1138 1224	I think it is important that the US stay in Europe and continue to guarantee the peace
+T177	Claim 1226 1252	We simply cannot pull back
+T178	Premise 1259 1387	when anybody has a spending program they want to spend money on at home, they say, well, let's cut money out of the Defense Dept
+T179	Premise 1389 1508	I will accept and have accepted the recommendations of 2 proven leaders, General Colin Powell and Secretary Dick Cheney
+T181	Claim 1614 1707	I simply do not think we should go back to the isolation days and starting blaming foreigners
+T182	Claim 1709 1745	We are the sole remaining superpower
+T183	Claim 1751 1768	we should be that
+T184	Claim 1774 1823	we have a certain disproportionate responsibility
+T185	Claim 1925 1942	we risk the peace
+T186	Premise 1973 2040	I've seen what it is like to see a war, to see the burdens of a war
+T187	Premise 2089 2112	Because of our programs
+T188	Premise 2174 2203	let's not cut into the muscle
+T189	Premise 2353 2454	Today you've got problems in Europe, still bubbling along even though Europe's gone democracy's route
+T190	Premise 2460 2472	we are there
+T191	Claim 2478 2520	I think this insurance policy is necessary
+T192	Claim 2522 2559	I think it goes with world leadership
+T193	Claim 2565 2623	I think the levels we've come up with are just about right
+T194	Claim 2670 2742	If I'm poor and you're rich, and I can get you to defend me, that's good
+T195	Claim 2748 2798	when the tables get turned, I ought to do my share
+T196	Premise 2810 2855	we spend about $300 billion a year on defense
+T197	Premise 2857 2901	the Japanese spend around 30 billion in Asia
+T198	Premise 2903 2948	the Germans spend around 30 billion in Europe
+T199	Premise 2963 3047	Germany will spend a trillion dollars building infrastructure over the next 10 years
+T200	Claim 3049 3072	It's kind of easy to do
+T201	Claim 3143 3227	The European Community is in a position to pay a lot more than they have in the past
+T202	Claim 3257 3291	when they couldn't, we should have
+T203	Claim 3293 3323	now that they can, they should
+T204	Premise 3325 3398	We sort of seem to have a desire to try to stay over there and control it
+T205	Claim 3400 3432	They don't want us to control it
+T206	Claim 3455 3606	I think is very important for us to let them assume more and more of the burden and for us to bring that money back here and rebuild our infrastructure
+T207	Premise 3616 3676	we can only be a superpower if we are an economic superpower
+T208	Premise 3682 3760	we can only be an economic superpower if we have a growing, expanding job base
+T209	Claim 3948 3994	We certainly must maintain an engagement there
+T210	Claim 3828 3876	I agree with the general statement Mr. Bush made
+T211	Claim 3878 3946	I disagree that we need 150,000 troops to fulfill our role in Europe
+T212	Premise 3996 4029	There are certainly dangers there
+T214	Premise 4316 4376	Many of the military experts whom I consulted on this agreed
+T215	Claim 4378 4531	We're going to have to spend more money in the future on military technology and on greater mobility, greater airlift, greater sealift, the B-22 airplane
+T216	Claim 4533 4592	We're going to have to do some things that are quite costly
+T217	Claim 4598 4682	I simply don't believe we can afford nor do we need to keep 150,000 troops in Europe
+T218	Premise 4683 4828	given how much the Red Army, now under the control of Russia, has been cut, the arms control agreement concluded between Mr. Bush and Mr. Yeltsin
+T219	Claim 4858 4894	I don't think we need 150,000 troops
+T220	Premise 5019 5071	it would be paid for by raising taxes on the wealthy
+T580	Premise 910 966	because of our fantastic success in winning the Cold War
+T581	Premise 998 1041	if we had gone for the nuclear freeze crowd
+T582	Premise 1073 1136	if we had listened to those that wanted to cut defense spending
+T583	Premise 1880 1905	if we make imprudent cuts
+T584	Premise 1907 1923	if we go too far
+T585	Claim 1948 1971	I don't want to do that
+T586	Claim 2046 2087	I don't want to see us make reckless cuts
+T587	Claim 2113 2168	we have been able to significantly cut defense spending
+T588	Premise 2209 2351	let's not cut down our insurance policy, which is participation of American forces in NATO, the greatest peace- keeping organization ever made
+T589	Premise 3073 3141	if you only have to pick up a $30-billion tab to defend your country
+T590	Premise 4031 4125	there are certainly other trouble spots in the world which are closer to Europe than to the US
+T591	Claim 4978 5010	he vetoed a middle class tax cut
+T592	Claim 5076 5107	vetoed an investment tax credit
+T180	Claim 1510 1605	They feel that the levels we're operating at and the reductions that I have proposed are proper
+T213	Premise 4131 4314	2 former defense secretaries recently issued a report saying that 100,000 or slightly fewer troops would be enough, including President Reagan's former defense secretary, Mr. Carlucci
+T1	Premise 5108 5148	paid for by raising taxes on the wealthy
+R2	Support Arg1:T580 Arg2:T173	
+R4	Support Arg1:T581 Arg2:T174	
+R5	Support Arg1:T582 Arg2:T175	
+R6	Equivalent Arg1:T175 Arg2:T174	
+R8	Support Arg1:T177 Arg2:T176	
+R9	Support Arg1:T179 Arg2:T180	
+R13	Support Arg1:T584 Arg2:T185	
+R14	Support Arg1:T583 Arg2:T185	
+R15	Support Arg1:T185 Arg2:T585	
+R16	Support Arg1:T186 Arg2:T586	
+R17	Support Arg1:T187 Arg2:T587	
+R19	Support Arg1:T188 Arg2:T588	
+R20	Support Arg1:T588 Arg2:T191	
+R21	Support Arg1:T192 Arg2:T191	
+R22	Support Arg1:T193 Arg2:T191	
+R23	Support Arg1:T589 Arg2:T200	
+R24	Support Arg1:T200 Arg2:T199	
+R25	Equivalent Arg1:T589 Arg2:T198	
+R26	Support Arg1:T201 Arg2:T195	
+R27	Support Arg1:T200 Arg2:T201	
+R29	Support Arg1:T203 Arg2:T195	
+R31	Support Arg1:T207 Arg2:T206	
+R32	Support Arg1:T208 Arg2:T206	
+R33	Support Arg1:T205 Arg2:T206	
+R35	Support Arg1:T210 Arg2:T176	
+R34	Attack Arg1:T211 Arg2:T586	
+R36	Support Arg1:T209 Arg2:T210	
+R37	Support Arg1:T214 Arg2:T213	
+R38	Support Arg1:T215 Arg2:T216	
+R39	Support Arg1:T213 Arg2:T217	
+R40	Support Arg1:T218 Arg2:T217	
+R41	Support Arg1:T219 Arg2:T217	
+R42	Equivalent Arg1:T219 Arg2:T211	
+R43	Support Arg1:T220 Arg2:T591	
+R44	Support Arg1:T1 Arg2:T592	
+R1	Support Arg1:T170 Arg2:T169	
+R3	Support Arg1:T173 Arg2:T174	
+R7	Support Arg1:T174 Arg2:T176	
+R18	Support Arg1:T175 Arg2:T176	
+R10	Attack Arg1:T181 Arg2:T178	
+R11	Support Arg1:T184 Arg2:T182	
+R12	Support Arg1:T183 Arg2:T182	
+R45	Support Arg1:T182 Arg2:T181	
+R46	Support Arg1:T190 Arg2:T191	
+R47	Support Arg1:T189 Arg2:T191	
+R28	Attack Arg1:T195 Arg2:T194	
+R50	Support Arg1:T198 Arg2:T195	
+R51	Support Arg1:T199 Arg2:T198	
+R48	Attack Arg1:T203 Arg2:T202	
+R30	Support Arg1:T212 Arg2:T209	
+R49	Support Arg1:T590 Arg2:T209	
+R52	Support Arg1:T216 Arg2:T217	

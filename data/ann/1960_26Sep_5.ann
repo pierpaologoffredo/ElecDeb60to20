@@ -1,0 +1,54 @@
+T192	Claim 107 179	the question of executive leadership is a very important campaign issue,
+T194	Claim 415 510	you've had more governmental executive decision-making uh - experience than uh - your opponent.
+T195	Claim 1184 1348	I think it would be improper for the President of the United States to disclose uh - the instances in which members of his official family had made recommendations,
+T196	Premise 1352 1394	I have made them through the years to him,
+T197	Premise 1492 1614	he is entitled to get what advice he wants from his cabinet and from his other advisers without disclosing that to anybody
+T198	Claim 2405 2475	I can only say that my experience is there for the people to consider;
+T199	Premise 1687 1749	Through the years I have sat in the National Security Council.
+T200	Premise 1750 1777	I have been in the cabinet.
+T201	Premise 1778 1818	I have met with the legislative leaders.
+T202	Premise 1819 1938	I have met with the President when he made the great decisions with regard to Lebanon, Quemoy and Matsu, other matters.
+T203	Premise 1939 1977	The President has asked for my advice.
+T204	Premise 1978 1994	I have given it.
+T205	Premise 1995 2030	Sometimes my advice has been taken.
+T206	Premise 2031 2052	Sometimes it has not.
+T207	Claim 2476 2530	Senator Kennedy's is there for the people to consider.
+T208	Premise 2637 2675	Mine has been in the executive branch.
+T209	Premise 2676 2715	His has been in the legislative branch.
+T210	Claim 2805 2876	I think both he and I are going to abide by whatever the people decide.
+T211	Premise 2733 2800	the people now have the opportunity to evaluate his as against mine
+T212	Premise 2935 2964	the question is of experience
+T213	Premise 2969 3030	the question also is uh - what our judgment is of the future,
+T214	Premise 3035 3076	what our goals are for the United States,
+T215	Premise 3081 3127	what ability we have to implement those goals.
+T216	Claim 3338 3380	There's no certain road to the presidency.
+T217	Premise 3493 3540	I have been in the Congress for fourteen years.
+T218	Premise 3541 3582	I have voted in the last uh - eight years
+T219	Premise 3592 3685	the Vice President was uh - presiding over the Senate and meeting his other responsibilities.
+T220	Premise 3686 3876	I have met met uh - decisions over eight hundred times on matters which affect not only the domestic security of the United States, but as a member of the Senate Foreign Relations Committee.
+T221	Claim 3381 3492	There are no guarantees that uh - if you take uh - one road or another that you will be a successful president.
+R1	Equivalent Arg1:T204 Arg2:T196	
+R2	Support Arg1:T221 Arg2:T216	
+T1	Premise 2053 2096	I do not say that I have made the decisions
+T2	Premise 2102 2230	I would say that no president should ever allow anybody else to make the major decisions, The president only makes the decisions
+T3	Premise 2232 2295	All that his advisers do is to give counsel when he asks for it
+R4	Attack Arg1:T1 Arg2:T198	
+R5	Support Arg1:T2 Arg2:T198	
+R6	Support Arg1:T3 Arg2:T198	
+R7	Attack Arg1:T206 Arg2:T198	
+R8	Support Arg1:T205 Arg2:T198	
+R9	Support Arg1:T199 Arg2:T198	
+R10	Support Arg1:T200 Arg2:T198	
+R11	Support Arg1:T201 Arg2:T198	
+R12	Support Arg1:T202 Arg2:T198	
+R13	Support Arg1:T203 Arg2:T198	
+T4	Premise 2550 2590	we came to the Congress in the same year
+R14	Support Arg1:T4 Arg2:T207	
+T5	Claim 2592 2635	His experience has been different from mine
+R15	Support Arg1:T5 Arg2:T207	
+R17	Support Arg1:T209 Arg2:T5	
+R3	Support Arg1:T208 Arg2:T5	
+R16	Attack Arg1:T217 Arg2:T207	
+R18	Attack Arg1:T218 Arg2:T207	
+R19	Attack Arg1:T219 Arg2:T207	
+R20	Attack Arg1:T220 Arg2:T207	

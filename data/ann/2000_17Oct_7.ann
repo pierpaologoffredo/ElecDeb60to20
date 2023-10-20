@@ -1,0 +1,84 @@
+T372	Claim 2563 2596	I propose more than twice as much
+T373	Claim 2605 2624	I think it's needed
+T374	Premise 2528 2561	The governor proposes $45 billion
+T375	Claim 2451 2526	in my budget for the next ten years I propose $100 billion for this purpose
+T376	Claim 2342 2404	I argued that we should reverse that trend and take it back up
+T377	Claim 1905 1936	I think that would be a mistake
+T378	Claim 1946 2092	I think one of the ways we've been able to be so successful in Kosovo and Bosnia and Haiti and in other places is by having the technological edge
+T379	Claim 1773 1840	I also support modernization of our strategic and tactical weaponry
+T380	Claim 1746 1771	I support another one now
+T381	Claim 1687 1740	I have supported the largest pay raise in many a year
+T382	Claim 1168 1282	The United States has to be strong in order to make sure that we can help promote peace and security and stability
+T383	Claim 1140 1166	It's a difficult situation
+T384	Claim 1093 1138	our country's team over there did a great job
+T385	Premise 885 1072	I suspended campaigning for two days, or parts of two days, to go back and participate in the meetings that charted the President's summit meeting that he just returned from earlier today
+T386	Premise 1288 1326	that means keeping our military strong
+T387	Claim 1388 1681	we need to continue improving readiness and making sure that our military personnel are adequately paid and that the combination of their pay and their benefits and their retirement as veterans is comparable to the stiff competition that's coming in this strong economy from the private sector
+T388	Premise 1842 1903	The governor has proposed skipping a generation of technology
+T389	Premise 2104 2213	we won that conflict in Kosovo without losing a single human life in combat, a single American life in combat
+T390	Premise 2255 2340	before I got my current job were on the decline, the number of divisions were reduced
+T391	Claim 2410 2444	I'm happy to tell you that we have
+T392	Claim 2730 2813	I readily admit I'm not going to grow the size of the federal government like he is
+T393	Claim 2845 2941	It must be in the national interests, must be in our vital interests whether we ever send troops
+T394	Claim 2943 2968	The mission must be clear
+T395	Claim 2970 3010	Soldiers must understand why we're going
+T396	Claim 3012 3083	The force must be strong enough so that the mission can be accomplished
+T397	Claim 3089 3131	the exit strategy needs to be well-defined
+T398	Claim 3194 3239	I think the mission has somewhat become fuzzy
+T399	Premise 3133 3187	I'm concerned that we're overdeployed around the world
+T400	Claim 3295 3390	the mission of the United States military will be to be prepared and ready to fight and win war
+T401	Claim 3406 3451	prevent war from happening in the first place
+T402	Claim 3602 3694	I want to make sure the equipment for our military is the best it can possibly be, of course
+T403	Premise 3534 3600	The Vice President mentioned my view of long-term for the military
+T404	Claim 3726 3897	we have an opportunity to use our research and development capacities, the great technology of the United States, to make our military lighter, harder to find, more lethal
+T405	Claim 4147 4172	This is a peaceful nation
+T407	Claim 3899 3921	We have an opportunity
+T406	Premise 3931 4145	if you think about it, if we're smart and have got a strategic vision and a leader who understands strategic planning, to make sure that we change the terms of the battlefield of the future so we can keep the peace
+T408	Claim 4178 4204	I intend to keep the peace
+T409	Claim 4239 4303	spending money without a strategic plan can oftentimes be wasted
+T410	Premise 4206 4233	Spending money is one thing
+T411	Claim 4386 4567	we are making sure we're not spending our money on political projects, but on projects to make sure our soldiers are well-paid, well-housed, and have the best equipment in the world
+T412	Premise 4305 4382	First thing I'm going to do is ask the Secretary of Defense to develop a plan
+T1	Premise 792 859	for the last eight years I've been on the National Security Council
+R1	Support Arg1:T1 Arg2:T385	
+R2	Support Arg1:T385 Arg2:T384	
+R3	Attack Arg1:T382 Arg2:T383	
+R4	Support Arg1:T386 Arg2:T382	
+R5	Support Arg1:T387 Arg2:T386	
+R6	Support Arg1:T381 Arg2:T380	
+R7	Support Arg1:T380 Arg2:T386	
+R8	Support Arg1:T379 Arg2:T386	
+R9	Attack Arg1:T379 Arg2:T388	
+R10	Attack Arg1:T377 Arg2:T388	
+R11	Support Arg1:T378 Arg2:T377	
+R12	Support Arg1:T378 Arg2:T379	
+R13	Support Arg1:T389 Arg2:T378	
+R14	Attack Arg1:T389 Arg2:T388	
+R15	Attack Arg1:T376 Arg2:T390	
+R16	Support Arg1:T391 Arg2:T376	
+R17	Attack Arg1:T375 Arg2:T374	
+R18	Attack Arg1:T372 Arg2:T374	
+R19	Support Arg1:T373 Arg2:T372	
+R20	Support Arg1:T372 Arg2:T375	
+R21	Support Arg1:T375 Arg2:T379	
+T2	Premise 2673 2728	If this were a spending contest, I would come in second
+R22	Support Arg1:T2 Arg2:T392	
+R23	Support Arg1:T393 Arg2:T394	
+R24	Support Arg1:T394 Arg2:T395	
+R25	Support Arg1:T395 Arg2:T396	
+R26	Support Arg1:T396 Arg2:T397	
+R27	Attack Arg1:T399 Arg2:T397	
+R28	Attack Arg1:T399 Arg2:T393	
+R29	Attack Arg1:T398 Arg2:T394	
+R30	Support Arg1:T397 Arg2:T400	
+R31	Attack Arg1:T400 Arg2:T398	
+R32	Attack Arg1:T400 Arg2:T399	
+R33	Support Arg1:T400 Arg2:T401	
+R34	Support Arg1:T403 Arg2:T402	
+R35	Support Arg1:T402 Arg2:T404	
+R36	Support Arg1:T407 Arg2:T406	
+R37	Support Arg1:T406 Arg2:T405	
+R38	Support Arg1:T405 Arg2:T408	
+R39	Support Arg1:T401 Arg2:T408	
+R40	Attack Arg1:T409 Arg2:T410	
+R41	Support Arg1:T412 Arg2:T411	

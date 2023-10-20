@@ -1,0 +1,64 @@
+T538	Claim 692 822	I think it's part of the strength and the character of this land that he reaches out, and that he wants someone that will speak up
+T539	Claim 829 841	that I'll do
+T540	Premise 648 690	Michael Dukakis wasn't looking for a clone
+T541	Premise 2278 2345	Those are positive, plus things, and major issues facing our nation
+T542	Claim 1052 1131	I've dealt with many a president, and I don't hesitate for a minute to speak up
+T543	Premise 843 1045	I've seen many chief executives come into my office and say they're going over and tell the president of the United States off, they're going to pound the desk, and go into that office and turn to Jello
+T544	Premise 1137 1195	when you're talking about something like the death penalty
+T545	Claim 1197 1354	where Michael Dukakis and I do disagree, what you really ought to get to is what's being done against crime, and what kind of progress he's been able to make
+T546	Claim 1627 1772	he's done it in turn by the leadership that I think he will bring to the ticket when he becomes president of the United States and fighting drugs
+T547	Premise 1774 1844	He's taken it down some four percent in the high schools of that state
+T548	Premise 1846 1893	while it's gone up about the rest of the nation
+T549	Claim 1899 2046	you would seem him as president of the United States being very aggressive in this fight against crime, and having that kind of a successful result
+T550	Claim 2052 2130	that's one of the reasons I'm delighted and proud to be on the ticket with him
+T551	Premise 1356 1453	In the state of Massachusetts he has the homicide rate down to the lowest of any industrial state
+T552	Premise 1455 1503	It's substantially ahead of the national average
+T553	Premise 1505 1625	He's been able to do that with an educated program for the people of that state by adding some 1,500 new police officers
+T554	Premise 2138 2210	we have some differences, but overall we have so many things we agree on
+T555	Premise 2212 2276	This situation of a trade policy, of cutting back on the deficit
+T556	Claim 2541 2649	Michael Dukakis is the most liberal national Democrat to seek the office of presidency since George McGovern
+T557	Premise 3100 3217	the governor of Massachusetts doesn't want to answer former Secretary Jim Schlesinger on that very important question
+T558	Claim 2821 3029	That's why former Secretary of Defense and former Energy Secretary in the Carter administration, Jim Schlesinger, in an open letter to Time magazine asked Governor Dukakis, "are you viscerally anti-military?"
+T559	Premise 2739 2819	He is opposed to many defense programs that are necessary to defend this country
+T560	Premise 2663 2737	he is against the MX missile, the midgetman, cutting two aircraft carriers
+T561	Claim 4584 4635	You're going to have that choice come this election
+T562	Claim 4637 4683	Everyone can make a difference if they want to
+T566	Claim 4723 4913	I think being born and reared on the Rio Grande, to have spent part of my life seeing some of the struggles that have taken place in one of the lowest per capita incomes in the United States
+T567	Claim 4919 4991	that's one of the reasons I worked so hard to try to assist on education
+T568	Premise 5160 5334	I went down there and helped form a nonprofit organization, to buy out those loans from them, and to manage them, and do it in a way where they'd continue to make those loans
+T569	Premise 4997 5158	when I found that the bankers in that area found that they could not handle the loans because of some of the detail and the expense, couldn't make a profit on it
+T570	Claim 5336 5349	Now they have
+T571	Premise 5455 5508	it hasn't cost the taxpayers of this country one cent
+T572	Premise 5355 5449	they've educated more than 20,000 of those students, loaned out over a hundred million dollars
+T573	Claim 5510 5597	That's one of the reasons I've worked so hard to bring better health care to the people
+T574	Claim 5749 5887	why I've worked so hard on the welfare reform bill--to give them a chance to break these cycles of poverty, a chance for a step up in life
+T575	Premise 5607 5747	what I've seen in the way of poverty down there in that area, and the lack of medical attention, and trying to see that that's turned around
+T563	Claim 4553 4582	America can make a difference
+T605	Premise 4124 4146	It's very common sense
+T606	Premise 4152 4244	she says, "You can do anything you want to if you just set your mind to it, and go to work."
+R1	Attack Arg1:T542 Arg2:T543	
+R2	Support Arg1:T542 Arg2:T538	
+R3	Support Arg1:T544 Arg2:T545	
+R4	Support Arg1:T551 Arg2:T545	
+R5	Support Arg1:T552 Arg2:T551	
+R6	Support Arg1:T553 Arg2:T551	
+R7	Support Arg1:T547 Arg2:T546	
+R8	Support Arg1:T548 Arg2:T547	
+R9	Support Arg1:T546 Arg2:T549	
+R10	Support Arg1:T545 Arg2:T549	
+R11	Support Arg1:T549 Arg2:T550	
+R12	Support Arg1:T555 Arg2:T554	
+R13	Support Arg1:T541 Arg2:T554	
+R14	Support Arg1:T554 Arg2:T550	
+R15	Support Arg1:T540 Arg2:T550	
+R17	Support Arg1:T560 Arg2:T559	
+R16	Support Arg1:T559 Arg2:T556	
+R18	Support Arg1:T567 Arg2:T566	
+R19	Support Arg1:T569 Arg2:T567	
+R20	Support Arg1:T568 Arg2:T567	
+R21	Support Arg1:T572 Arg2:T570	
+R22	Support Arg1:T570 Arg2:T567	
+R23	Support Arg1:T571 Arg2:T572	
+R24	Support Arg1:T575 Arg2:T573	
+R25	Support Arg1:T573 Arg2:T574	
+R26	Support Arg1:T573 Arg2:T567	

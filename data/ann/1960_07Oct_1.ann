@@ -1,0 +1,57 @@
+T1	Claim 2148 2278	I don't agree with Senator Kennedy that Cuba is lost and certainly China was lost when this Administration came into power in 1953
+T2	Claim 2283 2353	I look at Cuba today, I believe that we are following the right course
+T3	Premise 2355 2382	a course which is difficult
+T4	Claim 2387 2674	a course which under the circumstance is the only proper one which will see that the Cuban people get a chance to realize their aspirations of progress through freedom and that they get that with our cooperation with the other organi- of the states in the Organization of American States
+T6	Claim 4311 4327	Cuba is not lost
+T7	Claim 4333 4421	I don't think this kind of defeatist talk by Senator Kennedy helps the situation one bit
+T9	Claim 4064 4140	There isn't any question but that we will defend Guantanamo if it's attacked
+T10	Claim 3997 4062	There isn't any question but that we will defend our rights there
+T12	Claim 3408 3541	Now I'm very surprised that Senator Kennedy, who is on the Foreign Relations Committee, would have made such a statement as this kind
+T13	Claim 3543 3626	As a matter of fact in his book, The Strategy for Peace, he took the right position
+T14	Claim 3207 3243	We think that's pretty good progress
+T15	Premise 3245 3406	Senator Kennedy also indicated with regard to Cuba that he thought that I had made a mistake when I was in Cuba in not calling for free elections in that country
+T16	Premise 3054 3146	There were eleven dictators in South America and in Central America when we came in, in 1953
+T17	Premise 3148 3205	Today there are only three left including the one in Cuba
+T18	Claim 4485 4566	In the first place I've never suggested that Cuba was lost except for the present
+T19	Claim 5689 5717	I hope some day it will rise
+T20	Claim 5723 5822	I don't think it will rise if we continue the same policies toward Cuba that we did in recent years
+T21	Premise 5921 6092	we've beamed not a single Voice of America program in Spanish to all of Latin America in the last eight years, except for the three months of the Hungarian uh - revolution
+T22	Claim 4970 5028	I did not criticize him for not calling for free elections
+T23	Premise 4761 4958	in his press conference in Havana in 1955, he praised the competence and stability of the bicta- bict- Batista dictatorship - that dictatorship had killed over twenty thousand Cubans in seven years
+T24	Claim 4568 4656	In my speech last night I indicated that I thought that Cuba one day again would be free
+T25	Claim 4658 4747	Where I've been critical of the Administration's policy, and where I criticized Mr. Nixon
+T26	Claim 5030 5199	What I criticized was the failure of the Administration to use its great influence to persuade the Cuban government to hold free elections, particularly in 1957 and 1958
+T27	Premise 5579 5650	we never used our influence when we could have used it most effectively
+T28	Premise 5541 5577	we never were on the side of freedom
+T29	Premise 5480 5539	Instead our aid continued to Batista, which was ineffective
+T30	Claim 5657 5687	today Cuba is lost for freedom
+R2	Support Arg1:T2 Arg2:T1	
+R4	Support Arg1:T17 Arg2:T14	
+R5	Support Arg1:T16 Arg2:T14	
+R6	Equivalent Arg1:T2 Arg2:T14	
+R7	Support Arg1:T13 Arg2:T12	
+R9	Support Arg1:T15 Arg2:T12	
+R10	Equivalent Arg1:T9 Arg2:T10	
+R11	Support Arg1:T6 Arg2:T7	
+R12	Equivalent Arg1:T6 Arg2:T14	
+R13	Equivalent Arg1:T6 Arg2:T2	
+R14	Support Arg1:T6 Arg2:T1	
+R15	Equivalent Arg1:T18 Arg2:T24	
+R18	Support Arg1:T23 Arg2:T25	
+R19	Attack Arg1:T22 Arg2:T15	
+R21	Attack Arg1:T26 Arg2:T15	
+R25	Attack Arg1:T30 Arg2:T1	
+R28	Support Arg1:T21 Arg2:T20	
+R29	Attack Arg1:T20 Arg2:T19	
+T5	Claim 4142 4305	There also isn't any question but that the free people of Cuba - the people who want to be free - are going to be supported and that they will attain their freedom
+T8	Premise 3632 3850	that position is that the United States has a treaty - a treaty with all of the Organization of American States - which prohibits us from interfering in the internal affairs of any other state and prohibits them as wel
+R16	Attack Arg1:T3 Arg2:T2	
+R1	Support Arg1:T4 Arg2:T2	
+R3	Support Arg1:T14 Arg2:T2	
+T11	Claim 3853 3941	For me to have made such a statement would been in direct uh - opposition to that treaty
+R8	Support Arg1:T11 Arg2:T13	
+R17	Support Arg1:T8 Arg2:T11	
+R20	Support Arg1:T25 Arg2:T22	
+R26	Support Arg1:T29 Arg2:T30	
+R24	Support Arg1:T28 Arg2:T30	
+R23	Support Arg1:T27 Arg2:T30	

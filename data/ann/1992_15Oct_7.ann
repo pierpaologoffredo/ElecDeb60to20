@@ -1,0 +1,59 @@
+T354	Claim 270 331	I strongly support term limits for members of the US Congress
+T355	Claim 333 394	I believe it would return the government closer to the people
+T356	Premise 396 436	the way that Ross Perot is talking about
+T357	Premise 438 496	The president's terms are limited to 2, a total of 8 years
+T358	Claim 498 563	What's wrong with limiting the terms of members of Congress to 12
+T359	Claim 565 610	Congress has gotten kind of institutionalized
+T360	Premise 612 837	For 38 years one party has controlled the House of Representatives, and the result, a sorry little post office that can't do anything right and a bank that has more overdrafts than all the Chase Bank and Citibank put together
+T361	Claim 879 969	I think you get a certain arrogance, bureaucratic arrogance, if people stay there too long
+T362	Claim 978 1014	I favor, strongly favor, term limits
+T363	Premise 1021 1043	how to get them passed
+T364	Claim 1045 1088	Send us some people that will pass the idea
+T365	Claim 1094 1110	I think you will
+T366	Claim 1112 1151	I think the American people want it now
+T367	Claim 1153 1216	Every place I go I talk about it, and I think they want it done
+T368	Claim 1228 1282	you'd have to have some amendments to the Constitution
+T369	Premise 1283 1324	because of the way the Constitution reads
+T370	Premise 1376 1398	I know they're popular
+T371	Claim 1404 1420	I'm against them
+T372	Claim 1441 1602	I believe, number one, it would pose a real problem for a lot of smaller states in the Congress who have enough trouble now making sure their interests are heard
+T373	Claim 1614 1732	I think it would increase the influence of unelected staff members in the Congress who have too much influence already
+T374	Premise 1734 1784	I want to cut the size of the congressional staffs
+T375	Claim 1790 1906	I think you're going to have too much influence there with people who were never elected, who have lots of expertise
+T376	Claim 1918 1970	if the people really have a mind to change, they can
+T377	Premise 1972 2027	You're going to have 120 to 150 new members of Congress
+T378	Claim 2073 2287	I favor strict controls on how much you can spend running for Congress, strict limits on political action committees, requirements that people running for Congress appear in open public debates like we're doing now
+T379	Claim 2595 2677	I think if we had the right kind of campaign reform, we'd get the changes you want
+T380	Premise 2795 2874	If the American people send me up to do this job, I intend to be there one term
+T381	Claim 2876 2949	I do not intend to spend one minute of one day thinking about re-election
+T382	Claim 3918 3986	I don't think there are any villains, but, boy, is the system rotten
+T383	Claim 3863 3916	They're all nice people, they're just in a bad system
+T384	Claim 3564 3609	we need to do the reforms and the term limits
+T385	Claim 3417 3449	we have got to reform government
+T386	Claim 3451 3544	If you put term limits in and don't reform government, you won't get the benefits you thought
+T387	Premise 3678 3860	good people will go serve and then go back to their homes and not become foreign lobbyists and cash in at 30,000 bucks a month and then take time off to run some president's campaign
+R1	Support Arg1:T355 Arg2:T354	
+R2	Support Arg1:T356 Arg2:T355	
+R3	Support Arg1:T357 Arg2:T358	
+R4	Support Arg1:T359 Arg2:T358	
+R5	Support Arg1:T358 Arg2:T354	
+R6	Support Arg1:T360 Arg2:T359	
+R7	Support Arg1:T361 Arg2:T354	
+R8	Equivalent Arg1:T362 Arg2:T354	
+R9	Support Arg1:T367 Arg2:T362	
+R10	Support Arg1:T366 Arg2:T362	
+R11	Attack Arg1:T371 Arg2:T370	
+R12	Support Arg1:T372 Arg2:T371	
+R13	Support Arg1:T373 Arg2:T371	
+R14	Support Arg1:T375 Arg2:T373	
+R15	Support Arg1:T377 Arg2:T376	
+R16	Attack Arg1:T371 Arg2:T362	
+T1	Premise 2289 2556	If you did that you could take away the incumbents' advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair figh
+R17	Support Arg1:T1 Arg2:T378	
+R18	Support Arg1:T379 Arg2:T378	
+T2	Claim 3546 3559	It takes both
+R20	Support Arg1:T386 Arg2:T2	
+R19	Support Arg1:T2 Arg2:T384	
+R21	Support Arg1:T385 Arg2:T386	
+R22	Support Arg1:T387 Arg2:T384	
+R23	Support Arg1:T383 Arg2:T382	

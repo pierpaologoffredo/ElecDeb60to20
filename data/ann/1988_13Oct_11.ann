@@ -1,0 +1,57 @@
+T1	Premise 591 657	you got to go back to what social security was when it was created
+T2	Premise 659 697	It wasn't created as a welfare program
+T3	Premise 699 797	It wasn't created that is it was created as a whole retirement or supplement to retirement program
+T4	Premise 799 837	It wasn't created as a welfare program
+T5	Premise 867 1145	We came into office and the Social Security Trust Fund was in great jeopardy and the President took the leadership working with the Democrats and the Republicans in Congress some tough calls were made and the Social Security Trust Fund was put back into sound, solvent condition
+T6	Claim 1192 1241	there are several there's a good political reason
+T7	Premise 1250 1375	it's just about this time of year that the Democrats start saying the Republicans are going to take away your Social Security
+T8	Premise 1417 1484	In precinct politics in Texas and I've seen it at the national leve
+T9	Claim 1487 1536	We have made the Social Security Trust Fund sound
+T10	Premise 1542 1582	it is going to be operating at surpluses
+T11	Premise 1587 1731	I don't want the liberal Democratic Congress to spend out of that Social Security Trust Fund or go and take the money out for some other purpose
+T12	Claim 1756 1817	I will not go in there and suggest changes in Social Security
+T13	Premise 1819 1916	I learned that the hard way and the Governor and I both supported slipping the COLAs for one year
+T14	Claim 2106 2162	I am going to keep that Social Security Trust Fund sound
+T15	Claim 2495 2542	I don't know which George Bush I'm listening to
+T16	Premise 2544 2630	George Bush, a few years ago, said that Social Security was basically a welfare system
+R1	Support Arg1:T16 Arg2:T15	
+R2	Attack Arg1:T16 Arg2:T2	
+R3	Attack Arg1:T15 Arg2:T2	
+T17	Premise 2660 2722	And in 1985, he flew back from the West Coast to cut that COLA
+T18	Premise 2724 2782	I voted against that at the National Governors Association
+T19	Premise 2784 2801	We won a majority
+T20	Premise 2803 2878	we didn't win the two-thirds that was necessary nor to pass that resolution
+T21	Claim 2930 2947	I've opposed that
+T22	Premise 2892 2925	everybody knew what we were doing
+T23	Premise 2949 3087	The reason that we raise concerns, not just in election years, but every year, because Republicans, once they're elected and start cutting
+T24	Premise 3089 3107	You did it in 1985
+T25	Premise 3109 3174	The Administration tried to do it repeatedly, repeatedly in 81 82
+T26	Claim 3180 3214	I'm sure you'll try to do it again
+T27	Premise 3224 3277	there's no way you can finance what you want to spend
+T28	Premise 3279 3461	There's no way you can pay for that five year, $40 billion tax cut for the rich and still buy all those weapons systems you want to buy unless you raid the Social Security Trust Fund
+R4	Support Arg1:T1 Arg2:T2	
+R5	Attack Arg1:T5 Arg2:T7	
+R6	Equivalent Arg1:T2 Arg2:T4	
+R7	Support Arg1:T8 Arg2:T9	
+R8	Support Arg1:T10 Arg2:T9	
+R9	Support Arg1:T13 Arg2:T12	
+T29	Premise 1918 1970	He supported it at the National Governors Conference
+T30	Premise 1975 2037	I supported it in breaking a tie in a major compromise package
+T31	Premise 2042 2100	we got assailed by the Democrats in the election over that
+R10	Support Arg1:T29 Arg2:T13	
+R11	Support Arg1:T30 Arg2:T13	
+T32	Premise 2375 2434	Keep the trust with the older men and women of this country
+R12	Support Arg1:T32 Arg2:T14	
+T33	Premise 2167 2225	keep our commitment to the elderly and maybe down the line
+R13	Support Arg1:T33 Arg2:T14	
+R14	Support Arg1:T17 Arg2:T15	
+R15	Attack Arg1:T18 Arg2:T29	
+R16	Support Arg1:T19 Arg2:T18	
+R17	Support Arg1:T20 Arg2:T18	
+R18	Support Arg1:T22 Arg2:T20	
+R19	Support Arg1:T18 Arg2:T21	
+R22	Support Arg1:T23 Arg2:T26	
+R21	Support Arg1:T25 Arg2:T26	
+R20	Support Arg1:T24 Arg2:T26	
+R23	Support Arg1:T27 Arg2:T26	
+R24	Support Arg1:T28 Arg2:T26	

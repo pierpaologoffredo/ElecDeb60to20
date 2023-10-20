@@ -1,0 +1,74 @@
+T3	Claim 164 246	you will raise taxes on the rich, people with incomes of $200,000 a year or higher
+T4	Claim 280 327	you will have to go lower than that, much lower
+T5	Claim 510 616	My plan says that we want to raise marginal incomes on family incomes above $200,000 from 31 to 36 percent
+T6	Claim 623 766	we want to ask foreign corporations simply to pay the same percentage of taxes on their income that American corporations play (sic) in America
+T7	Claim 773 956	we want to use that money to provide over $100 billion in tax cuts for investment in new plant and equipment, for small business, for new technologies, and for middle class tax relief
+T8	Claim 982 1050	I will not raise taxes on the middle class to pay for these programs
+T9	Premise 1052 1152	If the money does not come in there to pay for these programs, we will cut other government spending
+T10	Premise 1156 1202	we will slow down the phase-in of the programs
+T11	Claim 1204 1276	I am not gonna raise taxes on the middle class to pay for these programs
+T12	Premise 1355 1418	I cannot foresee what emergencies might develop in this country
+T13	Premise 1424 1497	the president said never, never, never would he raise taxes in New Jersey
+T14	Premise 1503 1579	within a day Marlin Fitzwater, his spokesman, said now, that's not a promise
+T15	Claim 1585 1646	I think even he has learned that you can't say "read my lips"
+T16	Premise 1655 1700	you can't know what emergencies might come up
+T17	Claim 1296 1346	I am not gonna tell you "read my lips" on anything
+T18	Claim 1727 1819	I'm not gonna raise taxes on middle class Americans to pay for the programs I've recommended
+T666	Claim 2162 2254	The person responsible for domestic economic policy in my administration will be Bill Clinto
+T667	Premise 1946 2100	He'd just said Jim Baker was going to be secretary of state and in the first debate he said no, now he's gonna be responsible for domestic economic policy
+T668	Claim 2293 2355	I won't raise taxes on the middle class to pay for my programs
+T669	Claim 2257 2287	I'm gonna make those decisions
+T671	Claim 2512 2585	He's going to do -- and he would do for the US what he's done to Arkansas
+T672	Claim 2587 2636	He would do for the US what he's done to Arkansas
+T673	Claim 2638 2680	We do not want to be the lowest of the low
+T674	Claim 2682 2712	We are not a nation in decline
+T675	Claim 2727 2749	We are a rising nation
+T676	Premise 2796 2869	He said I want to take it from the rich, raise $150 billion from the rich
+T677	Claim 2871 2967	To get it, to get $150 billion in new taxes, you got to go down to the guy that's making $36,600
+T678	Claim 3051 3093	you're going to sock it to the working man
+T679	Premise 2973 3049	if you want to pay for the rest of his plan, all the other spending programs
+T680	Claim 3099 3168	when you hear "tax the rich," Mr. and Mrs. America, watch your wallet
+T681	Claim 3170 3186	Lock your wallet
+T682	Premise 3195 3249	he's coming right after you just like Jimmy Carter did
+T683	Claim 3287 3336	you're going to end up with interest rates at 21%
+T684	Claim 3342 3395	you're going to have inflation going through the roof
+T685	Claim 3398 3427	Yes, we're having tough times
+T686	Claim 3433 3568	we do not need to go back to the failed policies of the past, when you had a Democratic president and a spendthrift Democratic Congress
+T687	Claim 3740 3782	We rank first in the country in job growth
+T688	Claim 3784 3874	we got the lowest spending, state and local, in the country, and the 2nd lowest tax burden
+T689	Claim 3880 4013	the difference between Arkansas and the US is that we're going in the right direction and this country's going in the wrong direction
+T690	Claim 4019 4057	I have to defend the honor of my state
+T691	Claim 4755 4809	What we need is people to stop talking and start doing
+T692	Claim 4817 4881	our real problem here is they both have plans that will not work
+T693	Premise 4883 4937	The Wall Street Journal said your numbers don't add up
+T694	Claim 5060 5106	we're still drifting along with a huge deficit
+T695	Premise 4974 5058	you look at all the studies the different groups have done, you go out 4, 5, 6 years
+R1	Support Arg1:T3 Arg2:T4
+R2	Support Arg1:T9 Arg2:T8
+R3	Support Arg1:T10 Arg2:T8
+R4	Support Arg1:T13 Arg2:T15
+R5	Support Arg1:T14 Arg2:T15
+R6	Support Arg1:T16 Arg2:T15
+R7	Equivalent Arg1:T11 Arg2:T18
+R8	Support Arg1:T12 Arg2:T17
+R9	Equivalent Arg1:T16 Arg2:T12
+R10	Equivalent Arg1:T666 Arg2:T669
+R11	Support Arg1:T669 Arg2:T668
+R12	Equivalent Arg1:T671 Arg2:T672
+R13	Support Arg1:T676 Arg2:T677
+R14	Support Arg1:T675 Arg2:T674
+R15	Support Arg1:T679 Arg2:T678
+R16	Support Arg1:T682 Arg2:T681
+R17	Support Arg1:T680 Arg2:T681
+R18	Support Arg1:T683 Arg2:T681
+R19	Support Arg1:T684 Arg2:T681
+R20	Support Arg1:T681 Arg2:T673
+R21	Support Arg1:T675 Arg2:T686
+R22	Support Arg1:T688 Arg2:T687
+R23	Support Arg1:T689 Arg2:T690
+R24	Support Arg1:T687 Arg2:T690
+R25	Attack Arg1:T690 Arg2:T671
+R26	Support Arg1:T693 Arg2:T692
+R27	Support Arg1:T695 Arg2:T694
+R28	Attack Arg1:T692 Arg2:T5
+R29	Support Arg1:T694 Arg2:T692

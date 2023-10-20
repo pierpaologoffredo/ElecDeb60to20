@@ -1,0 +1,63 @@
+T509	Claim 254 278	I'm not for gay marriage
+T510	Claim 280 346	I think marriage is a sacred institution between a man and a woman
+T512	Claim 808 873	I feel strongly that marriage should be between a man and a woman
+T513	Premise 352 427	I appreciated the way the administration signed the Defense of Marriage Act
+T514	Claim 574 636	I'm going to be respectful for people who may disagree with me
+T515	Premise 638 689	I've had a record of doing so in the State of Texas
+T516	Claim 691 754	I've been a person that had been called a uniter, not a divider
+T517	Premise 764 802	I accept other people's points of view
+T518	Claim 915 932	I agree with that
+T519	Premise 938 960	I did support that law
+T520	Claim 966 1034	I think that we should find a way to allow some kind of civic unions
+T521	Claim 1098 1169	I think the three of us have one view and the Governor has another view
+T522	Premise 1040 1092	I basically agree with Dick Cheney and Joe Lieberman
+T523	Claim 1464 1491	I will be a tolerant person
+T524	Premise 1493 1532	I've been a tolerant person all my life
+T525	Claim 1534 1610	I just happen to believe strongly that marriage is between a man and a woman
+T526	Claim 1734 1737	Yes
+T527	Claim 1739 1786	I don't think they ought to have special rights
+T528	Claim 1792 1834	I think they ought to have the same rights
+T529	Claim 1917 1938	I strongly support it
+T530	Premise 1849 1915	there's a law pending called the Employment Non-Discrimination Act
+T531	Premise 1940 2039	What it says is that gays and lesbians can't be fired from their job because they're gay or lesbian
+T532	Premise 2045 2086	it would be a federal law preventing that
+T533	Premise 2112 2178	it's been blocked by the opponents in the majority in the Congress
+T534	Claim 2346 2360	I have no idea
+T535	Premise 2400 2440	I don't know the particulars of this law
+T536	Claim 2730 2761	I think that's a private matter
+T537	Claim 2767 2804	I think that's the way it ought to be
+T538	Premise 2458 2547	I'm the kind of person, I don't hire or fire somebody based upon their sexual orientation
+T539	Premise 2619 2724	I don't really think it's any of my -- you know, any of my concerns what -- how you conduct your sex life
+T540	Claim 2875 2931	I support equal rights but not special rights for people
+T542	Claim 2849 2869	I'll tolerate people
+T543	Premise 3014 3068	it would be if they're given special protective status
+T544	Claim 3070 3222	That doesn't mean we shouldn't fully enforce laws and fully protect people and fully honor people, which I will do as the President of the United States
+T1	Claim 528 572	But I think marriage is a sacred institution
+T2	Claim 2810 2847	I'm going to be respectful for people
+R1	Support Arg1:T510 Arg2:T509	
+R2	Support Arg1:T513 Arg2:T510	
+R3	Support Arg1:T515 Arg2:T514	
+*	Equivalent T1 T510
+R4	Support Arg1:T517 Arg2:T516	
+R5	Support Arg1:T512 Arg2:T510	
+R6	Support Arg1:T519 Arg2:T518	
+R7	Support Arg1:T520 Arg2:T518	
+R8	Support Arg1:T522 Arg2:T520	
+R9	Support Arg1:T518 Arg2:T521	
+R10	Attack Arg1:T518 Arg2:T509	
+R11	Support Arg1:T524 Arg2:T523	
+*	Equivalent T525 T512
+R12	Support Arg1:T528 Arg2:T527	
+R13	Support Arg1:T527 Arg2:T526	
+R14	Support Arg1:T530 Arg2:T529	
+R15	Support Arg1:T531 Arg2:T529	
+R16	Support Arg1:T532 Arg2:T531	
+R17	Support Arg1:T533 Arg2:T529	
+R18	Support Arg1:T535 Arg2:T534	
+R19	Support Arg1:T538 Arg2:T534	
+R20	Support Arg1:T539 Arg2:T536	
+R21	Support Arg1:T537 Arg2:T536	
+R22	Support Arg1:T540 Arg2:T2	
+R23	Support Arg1:T542 Arg2:T2	
+*	Equivalent T540 T528
+R24	Support Arg1:T543 Arg2:T544	

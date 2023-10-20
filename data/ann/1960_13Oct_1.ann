@@ -1,0 +1,53 @@
+T2	Premise 2523 2629	we have a contractual right to be in Berlin coming out of the conversations at Potsdam and of World War II
+T3	Premise 2631 2715	That has been reinforced by direct commitments of the president of the United States
+T4	Premise 2717 2777	it's been reinforced by a number of other nations under NATO
+T1	Premise 2779 2866	I've stated on many occasions that the United States must meet its commitment on Berlin
+T5	Premise 2868 2964	It is a commitment that we have to meet if we're going to protect the security of Western Europe
+T6	Claim 2997 3062	I don't think that there is any doubt in the mind of any American
+T7	Claim 3064 3151	I hope there is not any doubt in the mind of any member of the community of West Berlin
+T8	Claim 3153 3211	I'm sure there isn't any doubt in the mind of the Russians
+T9	Claim 3213 3297	We will meet our commitments to maintain the freedom and independence of West Berlin
+T11	Premise 3386 3574	the statement that Senator Kennedy made was that - to the effect that there were trigger-happy Republicans, that my stand on Quemoy and Matsu was an indication of trigger-happy Republicans
+T13	Claim 3576 3597	I resent that comment
+T14	Claim 3599 3610	I resent it
+T15	Premise 3623 3683	it's an implication that Republicans have been trigger-happy
+T16	Claim 3700 3731	would lead this nation into war
+T17	Claim 4375 4439	there isn't any question about the necessity of defending Berlin
+T18	Premise 4441 4478	the rights of people there to be free
+T19	Claim 4484 4664	there isn't any question about what the united American people - Republicans and Democrats alike - would do in the event there were an attempt by the Communists to take over Berlin
+T20	Premise 4290 4307	We've been strong
+T21	Claim 4313 4342	we haven't been trigger-happy
+T22	Premise 4178 4196	We got rid of that
+T23	Premise 4198 4226	we've kept out of other wars
+T24	Claim 4242 4288	that doesn't indicate that we're trigger-happy
+T25	Premise 4132 4176	We had a war when we came into power in 1953
+T465	Premise 2166 2308	yesterday you used the words "trigger-happy" in referring to Vice President Richard Nixon's stand on defending the islands of Quemoy and Matsu
+R1	Support Arg1:T3 Arg2:T2	
+R2	Support Arg1:T4 Arg2:T2	
+R6	Support Arg1:T2 Arg2:T9	
+R7	Support Arg1:T1 Arg2:T9	
+R8	Support Arg1:T5 Arg2:T9	
+R11	Support Arg1:T6 Arg2:T9	
+R13	Support Arg1:T7 Arg2:T9	
+R14	Support Arg1:T8 Arg2:T9	
+R17	Equivalent Arg1:T14 Arg2:T13	
+R19	Support Arg1:T15 Arg2:T16	
+R20	Support Arg1:T23 Arg2:T24	
+R21	Support Arg1:T22 Arg2:T25	
+R22	Support Arg1:T22 Arg2:T24	
+R25	Support Arg1:T18 Arg2:T17	
+R26	Equivalent Arg1:T17 Arg2:T19	
+T10	Premise 3868 3927	There were three Democratic presidents who led us into war.
+T26	Claim 3928 4016	I do not mean by that that one party is a war party and the other party is a peace party
+T27	Claim 4022 4130	I do say that any statement to the effect that the Republican party is trigger-happy is belied by the record
+R29	Support Arg1:T10 Arg2:T27	
+R30	Support Arg1:T16 Arg2:T14	
+R3	Attack Arg1:T13 Arg2:T11	
+T12	Premise 3789 3866	I would ask him to name one Republican president who led this nation into war
+T28	Premise 3733 3787	I would remind Senator Kennedy of the past fifty years
+R4	Attack Arg1:T26 Arg2:T27	
+R5	Support Arg1:T12 Arg2:T27	
+R9	Support Arg1:T28 Arg2:T12	
+R10	Equivalent Arg1:T21 Arg2:T24	
+R15	Support Arg1:T20 Arg2:T24	
+R12	Support Arg1:T17 Arg2:T9	

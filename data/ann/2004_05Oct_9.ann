@@ -1,0 +1,21 @@
+T1	Question 87 419	But in particular, I want to talk to you about AIDS, and not about AIDS in China or Africa, but AIDS right here in this country, where black women between the ages of 25 and 44 are 13 times more likely to die of the disease than their counterparts. What should the government's role be in helping to end the growth of this epidemic?
+T2	Premise 436 593	this is a great tragedy, Gwen, when you think about the enormous cost here in the United States and around the world of the AIDS epidemic -- pandemic, really
+T3	Premise 595 672	Millions of lives lost, millions more infected and facing a very bleak future
+T4	Premise 674 881	In some parts of the world, we've got the entire, sort of, productive generation has been eliminated as a result of AIDS, all except for old folks and kids -- nobody to do the basic work that runs an economy
+T5	Claim 884 932	The president has been deeply concerned about it
+T6	Premise 934 1251	He has moved and proposed and gotten through the Congress authorization for $15 billion to help in the international effort, to be targeted in those places where we need to do everything we can, through a combination of education as well as providing the kinds of medicines that will help people control the infection
+T7	Claim 1254 1312	Here in the United States, we've made significant progress
+T8	Premise 1314 1384	I have not heard those numbers with respect to African- American women
+T9	Premise 1386 1735	I was not aware that it was -- that they're in epidemic there, because we have made progress in terms of the overall rate of AIDS infection, and I think primarily through a combination of education and public awareness as well as the development, as a result of research, of drugs that allow people to live longer lives even though they are infected
+R1	Support Arg1:T8 Arg2:T7	
+R2	Support Arg1:T9 Arg2:T7	
+R3	Support Arg1:T6 Arg2:T5	
+T10	Claim 1996 2045	John Kerry and I believe that needs to be doubled
+T11	Premise 2051 2161	I might add, on the first year of their commitment, they came up significantly short of what they had promised
+T12	Premise 2862 2951	we have 5 million Americans who've lost their health care coverage in the last four years
+T13	Premise 2953 3002	45 million Americans without health care coverage
+T14	Premise 3004 3056	We have children who don't have health care coverage
+R4	Attack Arg1:T10 Arg2:T6	
+T15	Claim 3059 3195	If kids and adults don't have access to preventative care, if they're not getting the health care that they need day after day after day
+T16	Premise 3197 3408	the possibility of not only developing AIDS and having a problem -- having a problem -- a life-threatening problem, but the problem of developing other life-threatening diseases is there every day of their lives
+R5	Support Arg1:T16 Arg2:T15	

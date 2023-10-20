@@ -1,0 +1,94 @@
+T1	Premise 1855 2093	we have a process in Washington where after you've served for a while you cash in, become a foreign lobbyist, make $30,000 a month, then take a leave, work on presidential campaigns, make sure you've got good contacts and then go back out
+T2	Claim 1775 1814	We've shipped millions of jobs overseas
+T3	Claim 1819 1846	we have a strange situation
+T4	Claim 2559 2600	We have got to stop sending jobs overseas
+T5	Claim 2100 2325	if you just want to get down to brass tacks, first thing you ought to do is get all these folks who've got these 1-way trade agreements that we've negotiated over the years and say fellas, we'll take the same deal we gave you
+T6	Claim 2331 2367	they'll gridlock right at that point
+T7	Premise 2389 2557	we've got international competitors who simply could not unload their cars off the ships if they had to comply -- you see, if it was a 2-way street, just couldn't do it
+T8	Premise 2675 2881	If you're paying $12, $13, $14 an hour for a factory worker, and you can move your factory south of the border, pay $1 an hour for labor, hire a young -- let's assume you've been in business for a long time
+T9	Claim 3852 3872	We got to cut it out
+T10	Claim 3653 3752	that is when their jobs come up from a dollar an hour to $6 an hour, and ours go down to $6 an hour
+T11	Claim 3759 3850	it's leveled again, but in the meantime you've wrecked the country with these kind of deals
+T12	Claim 3201 3328	If the people send me to Washington the first thing I'll do is study that 2000-page agreement and make sure it's a 2-way street
+T13	Claim 3153 3198	There will be a job-sucking sound going south
+T14	Premise 3028 3099	Have no environmental controls, no pollution controls and no retirement
+T15	Premise 2914 2964	Pay $1 an hour for your labor, have no health care
+T16	Claim 3105 3151	you don't care about anything but making money
+T17	Claim 4006 4083	the thing that saved us in this global economic slowdown has been our exports
+T18	Claim 4089 4134	what I'm trying to do is increase our exports
+T19	Claim 4766 4798	I believe in free and fair trade
+T20	Claim 4570 4591	That's a scare tactic
+T21	Premise 4601 4619	it's not that many
+T22	Claim 4428 4478	I want to have more of these free trade agreements
+T23	Premise 4488 4568	export jobs are increasing far faster than any jobs that may have moved overseas
+T24	Premise 4140 4271	if indeed all the jobs were going to move south because there are lower wages, there are lower wages now and they haven't done that
+T25	Premise 4280 4407	I have just negotiated with the president of Mexico the North American Free Trade Agreement -- and the prime minister of Canada
+T26	Claim 4646 4676	we want to have more jobs here
+T27	Claim 4682 4727	the way to do that is to increase our exports
+T28	Premise 4729 4755	Some believe in protection
+T29	Claim 4757 4764	I don't
+T30	Premise 4804 4834	that's the thing that saved us
+T31	Claim 4839 4922	I will keep on as president trying to get a successful conclusion to the GATT Round
+T32	Premise 4924 5021	the big Uruguay Round of trade which will really open up markets for our agriculture particularly
+T33	Premise 5251 5281	we've had tough economic times
+T34	Claim 5287 5343	it's exports that have saved us, exports that have built
+T35	Premise 5023 5109	I want to continue to work after we get this NAFTA agreement ratified this coming year
+T36	Premise 5111 5148	I want to get one with Eastern Europe
+T37	Premise 5150 5178	I want to get one with Chile
+T38	Claim 5184 5233	free and fair trade is the answer, not protection
+T39	Premise 5425 5467	I've actually been a governor for 12 years
+T40	Premise 5472 5555	I've known a lot of people who have lost their jobs because of jobs moving overseas
+T41	Premise 5561 5641	I know a lot of people whose plants have been strengthened by increasing exports
+T42	Claim 5643 5730	The trick is to expand our export base and to expand trade on terms that are fair to us
+T43	Premise 5732 5832	It is true that our exports to Mexico, for example, have gone up and our trade deficit has gone down
+T44	Premise 5834 5917	it's also true that just today a record high trade deficit was announced with Japan
+T45	Claim 6002 6086	make sure that other countries are as open to our markets as our markets are to them
+T46	Claim 6093 6182	if they're not, have measures on the books that don't take forever and a day to implement
+T47	Claim 6197 6216	change the tax code
+T48	Premise 6218 6360	There are more deductions in the tax code for shutting plants down and moving overseas than there are for modernizing plant and equipment here
+T49	Premise 6362 6391	Our competitors don't do that
+T50	Premise 6393 6481	Emphasize and subsidize modernizing plant and equipment here, not moving plants overseas
+T51	Claim 6498 6662	stop the federal government's program that now gives low-interest loans and job training funds to companies that will actually shut down and move to other countries
+T52	Claim 6668 6720	we won't do the same thing for plants that stay here
+T53	Claim 6723 6789	So more trade but on fair terms -- and favor investment in America
+R1	Support Arg1:T1 Arg2:T3	
+R2	Support Arg1:T2 Arg2:T3	
+R3	Support Arg1:T3 Arg2:T4	
+R4	Support Arg1:T14 Arg2:T16	
+R5	Support Arg1:T15 Arg2:T16	
+R6	Support Arg1:T8 Arg2:T16	
+R7	Support Arg1:T11 Arg2:T9	
+R8	Support Arg1:T7 Arg2:T6	
+T54	Premise 2968 3026	that's the most expensive single element in making the car
+R9	Support Arg1:T54 Arg2:T15	
+R10	Support Arg1:T13 Arg2:T12	
+R11	Support Arg1:T10 Arg2:T4	
+R12	Support Arg1:T23 Arg2:T22	
+R13	Support Arg1:T17 Arg2:T18	
+R14	Attack Arg1:T24 Arg2:T13	
+R15	Support Arg1:T25 Arg2:T18	
+R16	Support Arg1:T21 Arg2:T20	
+R17	Support Arg1:T26 Arg2:T22	
+R18	Support Arg1:T19 Arg2:T29	
+R19	Support Arg1:T30 Arg2:T19	
+R20	Support Arg1:T32 Arg2:T31	
+R21	Support Arg1:T29 Arg2:T31	
+R22	Support Arg1:T36 Arg2:T35	
+R23	Support Arg1:T37 Arg2:T35	
+R24	Support Arg1:T34 Arg2:T38	
+R25	Support Arg1:T39 Arg2:T40	
+R26	Support Arg1:T45 Arg2:T42	
+R27	Support Arg1:T48 Arg2:T47	
+R28	Support Arg1:T49 Arg2:T48	
+R29	Support Arg1:T50 Arg2:T47	
+R30	Support Arg1:T51 Arg2:T53	
+R31	Support Arg1:T52 Arg2:T53	
+R32	Support Arg1:T46 Arg2:T53	
+R33	Support Arg1:T42 Arg2:T53	
+R34	Support Arg1:T16 Arg2:T13	
+R35	Support Arg1:T22 Arg2:T18	
+R36	Attack Arg1:T29 Arg2:T28	
+R37	Support Arg1:T35 Arg2:T31	
+R38	Equivalent Arg1:T38 Arg2:T19	
+R39	Support Arg1:T33 Arg2:T38	
+R40	Support Arg1:T39 Arg2:T41	

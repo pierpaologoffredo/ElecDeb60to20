@@ -1,0 +1,94 @@
+T269	Claim 3258 3312	I think the choice is clear and it involves the future
+T270	Claim 2864 3070	I believe this Administration has not met its responsibilities in the last eight years, that our power relative to that of the Communists is declining, that we're facing a very hazardous time in the sixties
+T273	Claim 591 632	I've been critical of this Administration
+T274	Claim 637 672	I've been critical of the President
+T275	Claim 741 815	I believe that our power and prestige in the last eight years has declined
+T277	Premise 930 962	He feels that we're moving ahead
+T278	Claim 884 928	that's an issue between Mr. Nixon and myself
+T279	Premise 975 1037	we're not going into a recession in this country, economically
+T280	Premise 1039 1164	he feels that our power and prestige is stronger than it ever was relative to that of the Communists, that we're moving ahead
+T281	Claim 1166 1176	I disagree
+T282	Claim 1178 1423	And I believe the American people have to make the choice on November eighth between the view of whether we have to move ahead faster, whether what we're doing now is not satisfactory, whether we have to build greater strength at home and abroad
+T283	Claim 1446 1468	That's the great issue
+T284	Claim 1585 1602	that's the debate
+T285	Premise 1470 1579	President Eisenhower moves from the scene on January twentieth and the next four years are the critical years
+T286	Premise 1604 1718	That's the argument between Mr. Nixon and myself and on that issue the American people have to make their judgment
+T287	Claim 1723 1756	I think it's a important judgment
+T288	Claim 1758 1871	I think in many ways this election is more important than any since 1932, or certainly almost any in this century
+T289	Premise 1881 1948	we disagree very fundamentally on the position of the United States
+T290	Claim 1954 2060	if his view prevails then I think that's going to bring an important result to this country in the sixties
+T292	Premise 2328 2424	he thought it was important to get the vote of those who were supporting Castro in Latin America
+T295	Claim 2666 2713	they need trained leadership more than anything
+T296	Premise 2608 2661	Less than two hundred for all the countries of Africa
+T298	Premise 2785 2831	Mr. Nixon has been part of that Administration
+T299	Premise 2833 2858	He's had experience in it
+T300	Claim 3369 3449	I think Senator Kennedy should make up his mind with regard to my responsibility
+T302	Claim 3845 3864	I don't stand on it
+T303	Claim 3873 3929	it isn't something to stand on but something to build on
+T304	Premise 3709 3795	I have participated in the discussions leading to the decisions in this Administration
+T305	Premise 3797 3843	I'm proud of the record of this Administration
+T306	Claim 4056 4074	what does he offer
+T307	Premise 3931 4050	Now looking at Senator Kennedy's credentials: he is suggesting that he will move America faster and further than I will
+T308	Claim 4076 4118	He offers retreads of programs that failed
+T309	Claim 4686 4801	I say the programs and the leadership that failed then is not the program and the leadership that America needs now
+T312	Premise 4296 4417	his program in the economic field generally are the programs that were adopted and tried during the Truman Administration
+T313	Claim 4803 4873	I say that the American people don't want to go back to those policies
+T314	Claim 4879 5020	incidentally if Senator Kennedy disagrees, he should indicate where he believes those policies are different from those he's advocating today
+R3	Support Arg1:T280 Arg2:T279	
+R4	Attack Arg1:T281 Arg2:T280	
+R5	Attack Arg1:T281 Arg2:T277	
+R6	Support Arg1:T278 Arg2:T281	
+R7	Equivalent Arg1:T275 Arg2:T281	
+R8	Attack Arg1:T277 Arg2:T275	
+R9	Attack Arg1:T279 Arg2:T275	
+R10	Attack Arg1:T280 Arg2:T275	
+R11	Attack Arg1:T281 Arg2:T279	
+R12	Support Arg1:T282 Arg2:T283	
+R13	Support Arg1:T285 Arg2:T284	
+R15	Equivalent Arg1:T284 Arg2:T283	
+R17	Equivalent Arg1:T286 Arg2:T284	
+R19	Support Arg1:T282 Arg2:T288	
+R21	Support Arg1:T289 Arg2:T288	
+R22	Support Arg1:T290 Arg2:T288	
+R24	Attack Arg1:T296 Arg2:T295	
+R25	Support Arg1:T298 Arg2:T270	
+R26	Support Arg1:T299 Arg2:T270	
+R27	Equivalent Arg1:T299 Arg2:T298	
+R28	Support Arg1:T269 Arg2:T270	
+R29	Support Arg1:T303 Arg2:T302	
+R30	Support Arg1:T304 Arg2:T305	
+R31	Attack Arg1:T306 Arg2:T307	
+R32	Attack Arg1:T308 Arg2:T307	
+R33	Support Arg1:T308 Arg2:T306	
+R34	Equivalent Arg1:T313 Arg2:T309	
+R35	Attack Arg1:T309 Arg2:T308	
+R36	Attack Arg1:T313 Arg2:T308	
+R37	Support Arg1:T314 Arg2:T308	
+R38	Support Arg1:T307 Arg2:T282	
+T1	Claim 3076 3256	unless the United States begin to move here - unless we start to go ahead - I don't believe that we're going to meet our responsibility to our own people or to the cause of freedom
+T2	Claim 2062 2319	If our view prevails that we have to do more, that we have to make a greater national and international effort, that we have lost prestige in Latin America - the President of Brazil - the new incumbent running for office called on Castro during his campaign
+T3	Premise 2486 2606	We gave more scholarships to the Congo - this summer we offered them - than we've given to all of Africa the year before
+T4	Premise 2426 2484	In Africa, the United States has ignored Latin uh - Africa
+T5	Claim 2715 2783	We've been uh - having a very clear decision in the last eight years
+T6	Premise 3451 3596	In our first debate he indicated that I had not had experience or at least uh - had not participated significantly in the making of the decisions
+T7	Premise 4423 4684	when we compare the economic progress of this country in the Truman Administration with that of the Eisenhower Administration, we find that in every index there has been a tr- great deal more performance and more progress in this Administration than in that one
+T8	Premise 4170 4294	his program for example with regard to the Federal Reserve and uh - free money or loose money uh - high - low interest rates
+R20	Support Arg1:T292 Arg2:T2	
+R23	Equivalent Arg1:T273 Arg2:T274	
+R1	Support Arg1:T279 Arg2:T277	
+R2	Support Arg1:T286 Arg2:T287	
+R14	Support Arg1:T2 Arg2:T288	
+R16	Support Arg1:T3 Arg2:T5	
+R18	Support Arg1:T4 Arg2:T5	
+R39	Support Arg1:T5 Arg2:T270	
+R40	Support Arg1:T295 Arg2:T270	
+R41	Support Arg1:T1 Arg2:T269	
+R42	Attack Arg1:T300 Arg2:T298	
+R43	Support Arg1:T6 Arg2:T300	
+T9	Premise 3598 3675	I'm glad to hear tonight that he does suggest that I have had some experience
+R44	Attack Arg1:T9 Arg2:T6	
+R45	Attack Arg1:T305 Arg2:T302	
+R46	Support Arg1:T8 Arg2:T308	
+R47	Support Arg1:T312 Arg2:T308	
+R48	Attack Arg1:T7 Arg2:T270	
+R49	Support Arg1:T308 Arg2:T309	

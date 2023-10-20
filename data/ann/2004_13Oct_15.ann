@@ -1,0 +1,41 @@
+T899	Claim 1176 1202	I believe we can do better
+T900	Claim 1140 1174	I believe that we can reach higher
+T901	Claim 1205 1333	I think the greatest possibilities of our country, our dreams and our hopes, are out there just waiting for us to grab onto them
+T902	Claim 486 576	I believe I offer tested, strong leadership that can calm the waters of the troubled world
+T903	Claim 582 661	I believe that we can together do things that are within the grasp of Americans
+T904	Premise 185 220	America is being tested by division
+T905	Claim 238 271	we need to be united as a country
+T906	Premise 278 371	like Franklin Roosevelt, I don't care whether an idea is a Republican idea or a Democrat idea
+T907	Claim 373 456	I just care whether it works for America and whether it's going to make us stronger
+T908	Premise 459 484	These are dangerous times
+T909	Claim 885 948	I will never allow any country to have a veto over our security
+T910	Claim 664 690	We can lift our schools up
+T911	Claim 692 760	We can create jobs that pay more than the jobs we're losing overseas
+T912	Claim 762 803	We can have health care for all Americans
+T913	Claim 805 855	We can further the cause of equality in our nation
+T914	Claim 950 1067	Just as I fought for our country as a young man, with the same passion I will fight to defend this nation that I love
+T915	Claim 1436 1508	I ask you to allow me the privilege of leading this great nation of ours
+T916	Claim 1510 1590	of helping us to be stronger here at home and to be respected again in the world
+T917	Claim 1609 1628	to be safer forever
+T918	Premise 2146 2177	that's how I feel about America
+T919	Claim 2634 2777	we'll continue to insist on excellence in every classroom in America so that our children have a chance to realize the great promise of America
+T920	Claim 2806 2881	we'll continue to work to make sure health care is available and affordable
+T921	Claim 2910 3032	we'll continue to rally the armies of compassion, to help heal the hurt that exists in some of our country's neighborhoods
+T922	Claim 3055 3082	we'll win the war on terror
+T923	Claim 3088 3143	I understand it requires firm resolve and clear purpose
+T924	Claim 2100 2136	I love the optimism in that painting
+T925	Premise 2183 2244	we've been through a lot together during the last 3 3/4 years
+T926	Claim 2246 2326	We've come through a recession, a stock market decline, an attack on our country
+T927	Premise 2349 2403	the hard work of the American people and good policies
+T928	Claim 2405 2428	this economy is growing
+T929	Claim 2456 2501	we'll make sure the economy continues to grow
+T930	Premise 2504 2533	We reformed our school system
+T931	Claim 2543 2606	there's an achievement gap in America that's beginning to close
+T932	Claim 3145 3223	We must never waver in the face of this enemy that -- these ideologues of hate
+T933	Claim 3230 3310	as we pursue the enemy wherever it exists, we'll also spread freedom and liberty
+T934	Claim 3312 3427	We got great faith in the ability of liberty to transform societies, to convert a hostile world to a peaceful world
+R1	Support Arg1:T906 Arg2:T905	
+R2	Support Arg1:T907 Arg2:T905	
+R3	Support Arg1:T908 Arg2:T907	
+R4	Support Arg1:T925 Arg2:T926	
+R5	Support Arg1:T930 Arg2:T929	

@@ -1,0 +1,60 @@
+T315	Claim 353 456	I don't believe that it's proper for me to get into the specifics of a hypothetical situation like that
+T316	Claim 1179 1290	if that situation arises, yes, I will be prepared, and I will be prepared to lead this country, if that happens
+T317	Claim 1124 1173	I know what it takes to lead this country forward
+T318	Premise 1097 1122	I know them, they know me
+T319	Premise 877 910	I have traveled a number of times
+T320	Premise 913 1012	I've been to Geneva many times to meet with our negotiators as we were hammering out the INF Treaty
+T321	Premise 1014 1094	I've met with the western political leaders - Margaret Thatcher, Chancellor Kohl
+T322	Premise 651 734	I've tried to list the qualifications of twelve years in the United States Congress
+T323	Premise 736 782	I have served in the Congress for twelve years
+T324	Premise 784 875	I have served in the Congress and served eight years on the Senate Armed Services Committee
+T325	Claim 1352 1482	I think what we are looking at here is someone that can step in at the presidency level at the moment, if that tragedy would occur
+T326	Claim 1817 1914	I hope that would mean that you would say we are going to vote for Mike Dukakis and Lloyd Bentsen
+T327	Claim 1719 1811	if you do that type of thing, then you arrive at a judgment that I think would be a wise one
+T328	Claim 1603 1713	You have to see what kind of leadership roles that person has played in his life before that crisis struck him
+T329	Claim 1488 1601	if that's the case, again you have to look at maturity of judgment, and you have to look at breadth of experience
+T330	Claim 2623 2705	I really must say, Brit, I don't make many mistakes, but that one was a real doozy
+T331	Claim 2711 2728	I agree with that
+T332	Premise 2748 2774	I immediately disbanded it
+T333	Premise 2776 2798	It was perfectly legal
+T334	Claim 2874 2992	I still believe that the better way to go is to have a campaign reform law that takes care of that kind of a situation
+T335	Claim 2994 3039	Even though it's legal, the perception is bad
+T337	Claim 3044 3111	I would push very strong to see that we reform the entire situation
+T338	Claim 3113 3134	I'd work for that end
+T339	Premise 3140 3214	that's what my friend from Indiana has opposed repeatedly, vote after vote
+T336	Premise 3625 3715	That way, we won't have to worry about breakfast clubs, or who's the number one PAC raiser
+T340	Premise 3717 3819	We can go back and get the contributions from the working men and women and the individuals of America
+T341	Premise 3573 3623	There's legislation before the Congress to do that
+T342	Claim 3500 3571	Let's eliminate political action committees, the special interest money
+T345	Claim 3871 3893	it needs strengthening
+T346	Claim 3961 4008	That's the kind of campaign reform that I'm for
+T1	Premise 458 646	The situation is that if I was called upon to serve as the president of this country, or the responsibilities of the president of this country, would I be capable and qualified to do that?
+R1	Support Arg1:T1 Arg2:T315
+R3	Support Arg1:T323 Arg2:T322
+R4	Support Arg1:T324 Arg2:T322
+R5	Support Arg1:T319 Arg2:T322
+R6	Support Arg1:T320 Arg2:T322
+R7	Support Arg1:T321 Arg2:T318
+R8	Support Arg1:T318 Arg2:T317
+R2	Support Arg1:T317 Arg2:T316
+R9	Support Arg1:T329 Arg2:T325
+R10	Support Arg1:T328 Arg2:T325
+R11	Support Arg1:T325 Arg2:T327
+T2	Premise 2804 2868	you have all kinds of such clubs on the Hill - and you know that
+R12	Support Arg1:T330 Arg2:T331
+R13	Attack Arg1:T332 Arg2:T331
+R14	Attack Arg1:T333 Arg2:T331
+R15	Attack Arg1:T2 Arg2:T331
+R16	Support Arg1:T331 Arg2:T334
+R17	Attack Arg1:T335 Arg2:T333
+R18	Support Arg1:T335 Arg2:T334
+R19	Support Arg1:T334 Arg2:T337
+R20	Support Arg1:T338 Arg2:T337
+R21	Attack Arg1:T339 Arg2:T337
+T3	Premise 3252 3303	He disbanded the club, but he's still got the money
+R22	Attack Arg1:T3 Arg2:T332
+T4	Claim 3305 3393	He is the number one - he is the number one receiver of political action committee money
+R23	Support Arg1:T3 Arg2:T4
+R25	Support Arg1:T340 Arg2:T336
+R24	Support Arg1:T341 Arg2:T342
+R26	Support Arg1:T336 Arg2:T342

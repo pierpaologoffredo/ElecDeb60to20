@@ -1,0 +1,135 @@
+T453	Premise 422 455	We've got a bumper crop this year
+T454	Claim 461 481	that's the good news
+T455	Claim 656 695	I want to change many of its provisions
+T456	Claim 2176 2205	we need to do a lot of things
+T457	Claim 2211 2253	we ought to start with a better safety net
+T458	Claim -1 254; -1 254	I think that the environmental benefits that come from sound management of the land ought to represent a new way for farmers to get some income that will enable you to make sensible choices in crop rotation, and when you leave the land fallow and the rest
+T459	Claim 1463 1533	I think that we ought to have an expanded conservation reserve program
+T460	Claim 1023 1064	I want to restore a meaningful safety net
+T461	Claim 988 1021	I want to change those provisions
+T462	Premise 920 957	you guys have been having a hard time
+T463	Claim 963 986	I want to fight for you
+T464	Claim 555 654	In the last several years, the so-called Freedom To Farm Law has, in my view, been mostly a failure
+T465	Premise 535 553	The prices are low
+T466	Claim 800 862	the 2% of the country that is involved in farming is important
+T467	Premise 871 914	the rest of us wouldn't eat except for them
+T469	Claim 1280 1319	farmers are the first environmentalists
+T470	Premise 1129 1269	when you say there are multiple things accomplished by farmers, you're specifically including conservation and protection of the environment
+T471	Claim 1437 1461	it helps the environment
+T472	Premise 1325 1431	when they decide not to plow a field that is vulnerable to soil erosion, that may cost them a little money
+T473	Claim 1844 1914	I think we need much more focus on rural economic development programs
+T474	Claim 1916 2171	I see a time when the Internet-based activities are more available in the rural areas and where the extra source of income that farm families used to have from shoe factories is replaced by an extra source of income from working in the information economy
+T475	Claim 2302 2344	I would like our farmers feeding the world
+T476	Claim 2700 2771	I don't want to use food as a diplomatic weapon from this point forward
+T477	Claim -1 98; -1 98	I like the policies that will encourage farmers to set aside land as well for conservation purposes
+T478	Claim 3875 3917	Every day is earth day if you own the land
+T479	Claim 3405 3450	The President shouldn't have vetoed that bill
+T480	Claim 3227 3304	I'm for getting rid of the death tax, completely getting rid of the death tax
+T481	Claim 3151 3225	we can use our technological base to figure out new uses for farm products
+T482	Premise 3103 3142	Spending research and development money
+T483	Claim 3069 3101	I'm for research and development
+T484	Claim 2887 2930	We need more work on value-added processing
+T485	Claim 2855 2885	I'm for value-added processing
+T486	Claim 2823 2853	It's not the right thing to do
+T487	Claim 2773 2799	We shouldn't be using food
+T488	Premise 2801 2821	It hurts the farmers
+T489	Claim 3032 3067	Value-added processing is important
+T490	Claim 2346 2383	We're the best producers in the world
+T491	Claim 2399 2435	I want the farmers feeding the world
+T492	Claim 2437 2463	We need to open up markets
+T493	Claim 2547 2649	I want the next president to have fast track negotiating authority to open up markets around the world
+T494	Claim 2651 2698	Weâ€™re the best and the most efficient farmers
+T495	Premise 2465 2545	Exports are down, and every time an export number goes down, it hurts the farmer
+T496	Premise 2933 3030	ou take the raw product you produce, I presume you're a farmer, off your farm, and you convert it
+T497	Claim 3386 3403	This is a bad tax
+T498	Premise 3306 3384	One reason family farmers are forced to sell early is because of the death tax
+T499	Premise 3452 3486	It's a tax that taxes people twice
+T500	Premise 3488 3518	It penalizes the family farmer
+T501	Claim 3592 3617	I want to open up markets
+T502	Claim 3623 3688	I also understand that farming is a part of our national security
+T503	Claim 3834 3861	The Vice President is right
+T504	Claim 4789 4866	so let's do it for most all, but not completely eliminate it for the very top
+T505	Claim 4482 4559	now the problem with completely eliminating it goes back to the wealthiest 1%
+T506	Claim 4176 4235	I'm for a massive reform of the estate tax or the death tax
+T507	Claim 4241 4345	under the plan that I've proposed, 80% of all family farms will be completely exempt from the estate tax
+T508	Claim 4351 4420	the vast majority of all family businesses would be completely exempt
+T509	Claim 4426 4470	all of the others would have sharply reduced
+T510	Claim 4561 4783	The amount of money that has to be raised in taxes for middle-class families to make up for completely eliminating that on the very wealthiest, the billionaires, that would be an extra heavy burden on middle-class families
+T511	Claim 5010 5057	people shouldn't be taxed twice on their assets
+T512	Claim 5059 5104	It's either unfair for some or unfair for all
+T513	Claim 5656 5696	It's an issue of principle, not politics
+T514	Claim 5633 5654	It's a fairness issue
+T515	Claim 5548 5631	I just don't think it's fair to tax people's assets twice regardless of your status
+T516	Claim 5496 5546	I know this, 100% will get it if I'm the president
+T517	Claim 5443 5494	I'm not so sure 80% of the people get the death tax
+T518	Claim 5263 5325	I think if you're going to have tax relief, everybody benefits
+T519	Claim 5215 5261	I don't think that's the role of the president
+T520	Premise 5151 5213	If you're from Washington, you want to pick and choose winners
+T521	Premise 5113 5149	this is just a difference of opinion
+R1	Support Arg1:T453 Arg2:T454	
+T1	Premise 487 534	know what the bad news is that follows on that.
+R2	Support Arg1:T1 Arg2:T465	
+R3	Attack Arg1:T454 Arg2:T465	
+R4	Attack Arg1:T455 Arg2:T464	
+R5	Support Arg1:T467 Arg2:T466	
+R6	Support Arg1:T463 Arg2:T462	
+R7	Support Arg1:T462 Arg2:T455	
+R8	Support Arg1:T461 Arg2:T455	
+R9	Support Arg1:T460 Arg2:T461	
+R10	Support Arg1:T469 Arg2:T470	
+R11	Support Arg1:T472 Arg2:T471	
+R12	Support Arg1:T469 Arg2:T471	
+T2	Claim 1539 1809	I think that the environmental benefits that come from sound management of the land ought to represent a new way for farmers to get some income that will enable them -- enable you to make sensible choices in crop rotation, and when you leave the land fallow and the rest
+R13	Support Arg1:T2 Arg2:T459	
+R14	Support Arg1:T471 Arg2:T459	
+R15	Support Arg1:T459 Arg2:T473	
+R16	Support Arg1:T474 Arg2:T473	
+R17	Support Arg1:T456 Arg2:T473	
+R18	Support Arg1:T457 Arg2:T473	
+R19	Support Arg1:T491 Arg2:T475	
+R20	Support Arg1:T490 Arg2:T475	
+R21	Support Arg1:T492 Arg2:T475	
+R22	Support Arg1:T495 Arg2:T492	
+R23	Support Arg1:T492 Arg2:T493	
+R24	Support Arg1:T475 Arg2:T493	
+R25	Support Arg1:T488 Arg2:T487	
+R26	Support Arg1:T486 Arg2:T487	
+R27	Support Arg1:T494 Arg2:T490	
+R28	Support Arg1:T476 Arg2:T487	
+R29	Support Arg1:T485 Arg2:T484	
+R30	Attack Arg1:T484 Arg2:T476	
+R31	Support Arg1:T496 Arg2:T484	
+R32	Support Arg1:T484 Arg2:T489	
+R33	Support Arg1:T482 Arg2:T481	
+R34	Support Arg1:T483 Arg2:T481	
+R35	Support Arg1:T498 Arg2:T480	
+R36	Attack Arg1:T480 Arg2:T497	
+R37	Support Arg1:T500 Arg2:T499	
+R38	Attack Arg1:T480 Arg2:T479	
+R39	Support Arg1:T499 Arg2:T497	
+T3	Premise 3690 3715	I'm from a big farm state
+T4	Premise 3717 3779	We're the second biggest state -- farming state in the country
+T5	Premise 3781 3832	And I hear from my farmers and friends all the time
+R40	Support Arg1:T3 Arg2:T4	
+R41	Support Arg1:T4 Arg2:T5	
+R42	Support Arg1:T503 Arg2:T478	
+R43	Support Arg1:T5 Arg2:T478	
+T6	Claim 3919 4024	I like the policies that will encourage farmers to put -- set aside land as well for conservation purpose
+R44	Support Arg1:T6 Arg2:T478	
+R45	Support Arg1:T492 Arg2:T501	
+R46	Attack Arg1:T506 Arg2:T480	
+R47	Support Arg1:T507 Arg2:T506	
+R48	Support Arg1:T509 Arg2:T508	
+R49	Support Arg1:T508 Arg2:T506	
+R50	Support Arg1:T510 Arg2:T505	
+R51	Support Arg1:T505 Arg2:T504	
+R52	Attack Arg1:T504 Arg2:T480	
+R53	Support Arg1:T512 Arg2:T511	
+R54	Support Arg1:T521 Arg2:T512	
+R55	Attack Arg1:T519 Arg2:T520	
+R56	Support Arg1:T511 Arg2:T518	
+R57	Attack Arg1:T516 Arg2:T517	
+R58	Support Arg1:T516 Arg2:T515	
+R59	Support Arg1:T514 Arg2:T515	
+R60	Support Arg1:T513 Arg2:T515	
+R61	Support Arg1:T511 Arg2:T515	

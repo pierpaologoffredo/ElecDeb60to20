@@ -1,0 +1,122 @@
+T663	Claim 363 525	what I would do first and foremost, is I would get in touch with the Federal Reserve Chairman, Alan Greenspan, to find out all the facts and all the circumstances
+T664	Claim 527 634	I would have my Secretary of the Treasury be in touch with the financial centers not only here, but at home
+T665	Claim 636 737	I would make sure that key members of Congress were called in to discuss the gravity of the situation
+T666	Claim 743 791	I would come up with a game plan to deal with it
+T667	Premise 793 827	That's what governors end up doing
+T668	Claim 829 860	We end up being problem solvers
+T669	Premise 862 951	We come up with practical, common sense solutions for problems that we're confronted with
+T670	Claim 967 1108	in the case of a financial crisis, I would gather all the facts before I made the decision as to what the government ought or ought not to do
+T671	Claim 2269 2298	We need to do more and better
+T672	Claim 2204 2224	it's not good enough
+T673	Premise 1434 1609	On the international financial crises that come up, my friend, Bob Rubin, the former Secretary of Treasury is here, he's a close advisor to me and great friend in all respects
+T674	Premise 1611 1734	I have had a chance to work with him and Alan Greenspan and others on the crisis following the collapse of the Mexican peso
+T675	Premise 1736 1837	When the Asian financial crisis raised the risk of world-wide recession that could affect our economy
+T676	Premise 1839 1924	And now, of course, the euro's value has been dropping, but seems to be under control
+T677	Premise 1930 2198	it started for me in the last eight years when I had the honor of casting the tie-breaking vote to end the old economic plan here at home and put into place a new economic plan that has helped us to make some progress, 22 million new jobs, the greatest prosperity ever
+T678	Claim 2502 2531	there's no difference on that
+T679	Claim 2533 2596	There is a difference, though, as to what the economy has meant
+T680	Claim 2598 2722	I think the economy has meant more for the Gore and Clinton folks than the Gore and Clinton folks have meant for the economy
+T681	Premise 2732 2891	most of the economic growth that has taken place is a result of ingenuity and hard work and entrepreneurship and that's the role of goverment to encourage that
+T682	Claim 3003 3080	I think the American people deserve credit for the great economy that we have
+T683	Premise 3082 3102	It's their ingenuity
+T684	Premise 3137 3182	they were working pretty hard eight years ago
+T685	Premise 3192 3226	they had ingenuity eight years ago
+T686	Claim 3228 3268	The difference is we've got a new policy
+T687	Premise 3274 3333	instead of concentrating on tax cuts mostly for the wealthy
+T688	Claim 3346 3391	I want tax cuts for the middle-class families
+T689	Claim 3396 3499	I want to continue the prosperity and make sure that it enriches not just a few but all of our families
+T690	Claim 3874 3901	We have got to do much more
+T691	Claim 3813 3833	It's not good enough
+T692	Premise 3835 3872	Too many people have been left behind
+T693	Premise 3671 3811	Instead of a high unemployment, we have the lowest African-American and Latin American unemployment rates in history and 22 million new jobs
+T694	Premise 3566 3669	We have gone from a triple-dip recession during the previous 12 years to a tripling of the stock market
+T695	Premise 3501 3564	We have gone from the biggest deficits to the biggest surpluses
+T696	Premise 3903 4013	The key is job training, education, investments in health care and education, environment, retirement security
+T697	Premise 4033 4072	we have got to preserve Social Security
+T698	Claim 4074 4226	I'm totally opposed to diverting one out of every six dollars out of the Social Security trust fund, as the Governor has proposed, into the stock market
+T699	Claim 4228 4451	I want new incentives for savings and investment for the young couples who are working hard so they can save and invest on their own on top of Social Security, not at the expense of Social Security, as the governor proposes
+T700	Claim 4721 4773	They've had their chance to deliver a tax cut to you
+T701	Premise 4477 4544	a lot of folks are still waiting for that 1992 middle-class tax cut
+T702	Premise 4546 4667	I remember the vice president saying, "Just give us a chance to get up there, we're going to make sure you get tax cuts."
+T703	Claim 4668 4684	It didn't happen
+T704	Premise 4686 4719	Now he's having to say that again
+T705	Claim 4785 4875	the surest way to bust this economy is to increase the role and size of the federal budget
+T706	Premise 4877 4953	The Senate Budget Committee did a study of the vice president's expenditures
+T707	Premise 4955 5034	It's been projected that they could conceivably bust the budget by $900 billion
+T708	Claim 5047 5156	he'll either have to raise your taxes by $900 billion or go into the Social Security surplus for $900 billion
+T709	Premise 5158 5231	This is a plan that is going to increase the bureaucracy by 20,000 people
+T710	Claim 5294 5336	it is going to require numerous IRS agents
+T711	Premise 5233 5288	His targeted tax cut is so detailed, so much fine print
+T712	Claim 5338 5375	We need somebody to simplify the code
+T713	Claim 5377 5387	to be fair
+T714	Claim 5389 5537	to continue prosperity by sharing some of the surplus with the people who pay the bills, particularly those at the bottom end of the economic ladder
+T715	Claim 5571 5623	What he's quoting is not the Senate Budget Commiitte
+T716	Claim 5625 5785	it is a partisan press release by the Republicans on the Senate Budget Committee that's not worth the government -- the taxpayer-paid paper that it's printed on
+T717	Claim 5851 5923	the size of the federal government will go down in a Gore administration
+T718	Premise 5925 5991	In the reinventing government program you just look at the numbers
+T719	Premise 5993 6055	It is 300,000 people smaller today than it was eight years ago
+T720	Claim 6356 6591	having a $1.9 trillion tax cut, almost half of which goes to the wealthy, and a $1 trillion Social Security privatization proposal is the surest way to put our budget into deficit â€“ raise interest rates and put our prosperity at risk
+T721	Claim 6646 6683	It is 1.3 trillion Mr. Vice President
+T722	Claim 6685 6723	It will go to everybody who pays taxes
+T723	Claim 6725 6809	I'm not going to be the kind of president that says you get tax relief and you don't
+T724	Claim 6811 6851	I'm not going to be a picker and chooser
+T725	Premise 6853 6913	What is fair is everybody who pays taxes ought to get relief
+R1	Support Arg1:T667 Arg2:T668	
+R2	Support Arg1:T663 Arg2:T666	
+R3	Support Arg1:T664 Arg2:T666	
+R4	Support Arg1:T665 Arg2:T666	
+R5	Support Arg1:T666 Arg2:T668	
+R6	Support Arg1:T669 Arg2:T668	
+R7	Support Arg1:T668 Arg2:T670	
+R8	Support Arg1:T673 Arg2:T674	
+R9	Support Arg1:T672 Arg2:T671	
+T1	Claim 2226 2267	My attitude is you ain't seen nothing yet
+R10	Support Arg1:T675 Arg2:T674	
+R11	Support Arg1:T676 Arg2:T675	
+R12	Support Arg1:T674 Arg2:T677	
+R13	Attack Arg1:T672 Arg2:T677	
+R14	Attack Arg1:T679 Arg2:T678	
+R15	Support Arg1:T679 Arg2:T680	
+R16	Attack Arg1:T681 Arg2:T680	
+R17	Support Arg1:T683 Arg2:T682	
+R18	Support Arg1:T684 Arg2:T685	
+R19	Support Arg1:T685 Arg2:T686	
+R20	Attack Arg1:T688 Arg2:T687	
+R21	Support Arg1:T688 Arg2:T686	
+R22	Support Arg1:T689 Arg2:T686	
+R23	Support Arg1:T688 Arg2:T689	
+R24	Support Arg1:T695 Arg2:T689	
+R25	Support Arg1:T694 Arg2:T689	
+R26	Support Arg1:T693 Arg2:T689	
+R27	Support Arg1:T692 Arg2:T691	
+R28	Support Arg1:T691 Arg2:T690	
+R29	Attack Arg1:T691 Arg2:T695	
+R30	Attack Arg1:T691 Arg2:T694	
+R31	Attack Arg1:T691 Arg2:T693	
+R32	Attack Arg1:T698 Arg2:T697	
+R33	Support Arg1:T697 Arg2:T690	
+R34	Support Arg1:T696 Arg2:T690	
+R35	Support Arg1:T690 Arg2:T699	
+R36	Support Arg1:T702 Arg2:T703	
+R37	Support Arg1:T701 Arg2:T702	
+R38	Support Arg1:T704 Arg2:T702	
+R39	Attack Arg1:T703 Arg2:T700	
+R40	Support Arg1:T706 Arg2:T707	
+R41	Support Arg1:T707 Arg2:T708	
+R42	Support Arg1:T708 Arg2:T705	
+R43	Attack Arg1:T710 Arg2:T711	
+R44	Support Arg1:T709 Arg2:T708	
+R45	Support Arg1:T712 Arg2:T713	
+R46	Support Arg1:T713 Arg2:T714	
+R47	Attack Arg1:T712 Arg2:T711	
+R48	Support Arg1:T716 Arg2:T715	
+R49	Attack Arg1:T715 Arg2:T708	
+R50	Attack Arg1:T717 Arg2:T709	
+R51	Support Arg1:T718 Arg2:T717	
+R52	Support Arg1:T719 Arg2:T717	
+R53	Attack Arg1:T720 Arg2:T714	
+R54	Attack Arg1:T721 Arg2:T720	
+R55	Support Arg1:T722 Arg2:T721	
+R56	Support Arg1:T721 Arg2:T723	
+R57	Support Arg1:T724 Arg2:T723	
+R58	Support Arg1:T725 Arg2:T724	

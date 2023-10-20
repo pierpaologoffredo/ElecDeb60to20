@@ -1,0 +1,61 @@
+T1	Claim 452 515	The White House did not uh - prevent the release of that report
+T2	Premise 517 601	On July twelfth of this year, we gave full permission for the release of that report
+T3	Claim 603 677	I was very disappointed in the fact that the uh - GAO released that report
+T4	Premise 686 756	I think it interjected political partisan politics at the present time
+T5	Claim 1017 1031	He was furious
+T6	Premise 1040 1145	he told me that it was the action of me, President Ford, that saved the lives of the crew of the Mayaguez
+T7	Claim 1173 1328	if we had not taken the strong and forceful action that we did, we would have been uh - criticized very, very uh - severely for sitting back and not moving
+T8	Premise 1330 1356	Captain Miller is thankful
+T9	Premise 1358 1378	The crew is thankful
+T10	Claim 1380 1402	We did the right thing
+T11	Premise 1404 1663	It seems to me that those who sit in Washington eighteen months after the incident are not the best judges of the decision-making process that had to be made by the National Security Council and by myself at the time the incident was developing in the Pacific
+T12	Claim 1688 1798	we made every possible overture to the People's Republic of China and through them to the Cambodian Government
+T13	Premise 1800 1892	We made uh - diplomatic uh - protests to the Cambodian government through the United Nations
+T14	Claim 1894 1938	Every possible diplomatic means was utilized
+T15	Claim 2067 2092	we handled it responsibly
+T16	Premise 2097 2167	I think Captain Miller's testimony to that effect is the best evidence
+T17	Claim 2283 2416	I think the American people have only one - uh requirement - that the facts about Mayaguez be given to them accurately and completely
+T18	Premise 2418 2461	Mr. Ford has been there for eighteen months
+T19	Premise 2463 2544	He had the facts that were released today immediately after the Mayaguez incident
+T20	Claim 2546 2592	I understand that the report today is accurate
+T21	Premise 2594 2644	Mr. Ford has said, I believe, that it was accurate
+T22	Claim 2655 2722	the White House made no attempt to block the issuing of that report
+T23	Claim 2724 2770	I don't know if that's exactly accurate or not
+T24	Premise 2772 2963	I understand that both the - the uh - Department of State and the Defense Department have approved the accuracy of today's report, or yesterday's report, and also the National Security Agency
+T25	Claim 3031 3235	The only thing I believe is that whatever the - the knowledge was that Mr. Ford had should have been given to the American people eighteen months ago, immediately after the Mayaguez uh - incident occurred
+T26	Claim 3237 3279	This is uh - what the American people want
+T27	Premise 3281 3585	When something happens that endangers our security, or when something happens that threatens our stature in the world, or when American people are endangered by the actions of a foreign country, uh - just forty uh sailors on the Mayaguez, we obviously have to move aggressively and quickly to rescue them
+T28	Claim 3633 3775	I believe the president has an obligation to tell the American people the truth and not wait eighteen months later for the report to be issued
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T4 Arg2:T3	
+T29	Claim 792 917	Somebody who sits in Washington, D.C., eighteen months after the Mayaguez incident, can be a very good grandstand quarterback
+R3	Support Arg1:T5 Arg2:T3	
+R4	Support Arg1:T6 Arg2:T5	
+R5	Support Arg1:T8 Arg2:T10	
+R6	Support Arg1:T9 Arg2:T10	
+R7	Support Arg1:T7 Arg2:T10	
+R8	Support Arg1:T29 Arg2:T11	
+R9	Support Arg1:T10 Arg2:T12	
+R10	Attack Arg1:T10 Arg2:T11	
+R11	Support Arg1:T13 Arg2:T12	
+R12	Support Arg1:T14 Arg2:T12	
+T30	Premise 1962 2062	I had a responsibility, and so did the National Security Coun- Council, to meet the problem at hand.
+R13	Support Arg1:T30 Arg2:T15	
+R14	Support Arg1:T16 Arg2:T15	
+R15	Support Arg1:T8 Arg2:T16	
+R16	Support Arg1:T18 Arg2:T17	
+R17	Support Arg1:T19 Arg2:T17	
+R18	Support Arg1:T19 Arg2:T20	
+R19	Support Arg1:T17 Arg2:T20	
+R20	Support Arg1:T21 Arg2:T20	
+R21	Support Arg1:T22 Arg2:T20	
+R22	Attack Arg1:T23 Arg2:T20	
+T31	Premise 2965 3029	I don't know what was right, or what was wrong, or what was done
+R23	Support Arg1:T31 Arg2:T23	
+R24	Support Arg1:T24 Arg2:T20	
+R25	Support Arg1:T25 Arg2:T17	
+R26	Support Arg1:T26 Arg2:T25	
+R27	Support Arg1:T27 Arg2:T26	
+R28	Support Arg1:T27 Arg2:T25	
+R29	Attack Arg1:T28 Arg2:T25	
+R30	Attack Arg1:T28 Arg2:T18	

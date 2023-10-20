@@ -1,0 +1,12 @@
+T1	Premise 646 845	I am the first president in thirty years who has reorganized the intelligence agencies in the federal government: the CIA, the Defense Intelligence Agency, the National Security Agency and the others
+T2	Premise 847 881	We've done that by executive order
+T3	Claim 893 1010	I think uh - we've tightened it up; we've uh - straightened out their problems that developed over the last few years
+T4	Claim 1012 1109	It doesn't seem to me that it's needed or necessary to have legislation in this particular regard
+T5	Claim 1684 1719	we have to do it by executive order
+T6	Premise 1779 1906	We have good executive orders, and the CIA and the DIA and NASA uh - uh - NSA are now doing a good job under proper supervision
+T7	Claim 2950 3070	There has been too much government secrecy and not uh - not enough respect for the personal privacy of American citizens
+R1	Support Arg1:T2 Arg2:T3	
+R2	Support Arg1:T1 Arg2:T3	
+R3	Support Arg1:T3 Arg2:T4	
+R4	Support Arg1:T4 Arg2:T5	
+R5	Support Arg1:T6 Arg2:T5	

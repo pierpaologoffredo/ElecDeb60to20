@@ -1,0 +1,120 @@
+T628	Premise 1091 1094	Why
+T630	Claim 1561 1614	They're putting people out of business, men and women
+T631	Claim 1616 1637	Get the economy going
+T632	Claim 1639 1665	cut the capital gains rate
+T633	Claim 1667 1726	create more jobs and opportunities for everybody in America
+T634	Premise 1728 1750	That's what we will do
+T635	Premise 1756 1771	my word is good
+T636	Premise 1773 1791	I keep my promises
+T637	Claim 1793 1837	I don't break my promises after the election
+T638	Claim 1843 1888	I don't make new promises in an election year
+T639	Claim 1918 1967	We're going to grow some of these jobs in America
+T640	Claim 1890 1916	We're going to get it done
+T641	Premise 1977 1994	we need to get it
+T642	Premise 1998 2025	they're going the wrong way
+T643	Claim 1096 1131	Because of paperwork and regulation
+T644	Premise 1023 1065	She had a small business with 63 employees
+T645	Premise 1067 1089	She finally gave it up
+T646	Premise 963 1021	I met a lady in Colorado Springs about seven weeks ago now
+T647	Premise 394 431	We've lost 357,000 manufacturing jobs
+T648	Premise 433 494	The Bureau of Labor Statistics today said they made a mistake
+T649	Claim 496 550	It's probably going to take a much, much higher figure
+T650	Premise 555 587	we talk about all these new jobs
+T651	Claim 589 634	We'd better wait and see what the results are
+T652	Claim 636 694	We're going to do that with a more aggressive trade policy
+T653	Claim 696 743	We're going to do that with an economic package
+T654	Claim 745 790	We're going to do that with regulatory reform
+T655	Claim 802 893	regulations cost the average family right here, Democrat or Republican, about $7,000 a year
+T656	Premise 902 919	That's like a tax
+T657	Claim 921 961	It's put a lot of people out of business
+T658	Premise 1133 1174	Congress passed a paperwork reduction act
+T659	Premise 1176 1250	The President exempts the IRS which creates three-fourths of the paperwork
+T660	Claim 1252 1282	We're going to have regulatory
+T661	Claim 1286 1320	we're gonna have litigation reform
+T662	Premise 1332 1392	I fell off a platform out in California, Chico, a while back
+T629	Premise 1419 1495	my cell phone rang and this trial lawyer said, I think we've got a case here
+T663	Premise 1509 1559	We've got to stop some of these frivolous lawsuits
+T664	Claim 2572 2682	We're No.1 in automobile manufacturing production and sales around the world again, the first time since 1970s
+T665	Premise 2697 2738	we've had tough aggressive trade policies
+T666	Premise 2752 2781	we've got interest rates down
+T667	Claim 2783 2821	We have a good, stable economic policy
+T668	Premise 2831 2873	we reduced the deficit four years in a row
+T669	Premise 2062 2139	We lost a lot of manufacturing jobs in the 12 years before I became President
+T670	Claim 2141 2198	We've gained manufacturing jobs since I've been President
+T671	Claim 2200 2251	We've negotiated over 200 separate trade agreements
+T672	Claim 2281 2400	In California, we made 37 billion dollars' worth of telecommunications equipment eligible for export for the first time
+T673	Claim 2402 2479	We're selling everything from from -- from telephones to CDs to rice in Japan
+T674	Claim 2481 2528	We're selling American automobiles in Japan now
+T675	Claim 2875 2959	For the first time in the 20th century the President has done that in all four years
+T676	Claim 2975 3064	I don't want to see us blow a big hole in the deficit with a tax program we can't pay for
+T677	Claim 3069 3099	your interest rates will go up
+T678	Claim 3105 3194	you'll have to pay back in higher interest rates what you allegedly will get in a tax cut
+T679	Claim 3199 3242	I say keep working on expanding the markets
+T680	Claim 3244 3323	More than half of these 10 and a half million new jobs are in higher wage areas
+T681	Claim 3328 3384	we'll have more manufacturing and sales around the world
+T682	Premise 3393 3456	You may think the biggest employer in America is General Motors
+T683	Claim 3485 3507	It's Manpower Services
+T684	Claim 3509 3559	Hiring people temporarily who have lost their jobs
+T685	Claim 3564 3603	they get to work for 30 days or 60 days
+T686	Premise 3605 3626	That's a good economy
+T687	Claim 3628 3644	I don't think so
+T688	Premise 3646 3683	They're setting new records this year
+T689	Claim 3685 3722	We had the worst economy in a century
+T690	Claim 3724 3768	We had the slowest growth, about 2.5 percent
+T691	Claim 3770 3818	The president inherited growth of over 5 percent
+T692	Claim 3862 3913	Republicans have cut 53 billion dollars in spending
+T693	Premise 3915 3948	that's why the budget looked good
+T694	Premise 3820 3860	We don't have the S&amp;L crisis anymore
+T695	Premise 3950 4050	It didn't look good the first two years when we had a Democratic president and Â Democratic Congress
+R1	Support Arg1:T647 Arg2:T648	
+R2	Support Arg1:T652 Arg2:T649	
+R3	Support Arg1:T656 Arg2:T655	
+R4	Support Arg1:T655 Arg2:T657	
+R5	Support Arg1:T653 Arg2:T649	
+R6	Support Arg1:T654 Arg2:T649	
+R7	Support Arg1:T644 Arg2:T646	
+R8	Support Arg1:T645 Arg2:T644	
+R9	Support Arg1:T646 Arg2:T657	
+R10	Support Arg1:T628 Arg2:T643	
+R11	Support Arg1:T658 Arg2:T643	
+R12	Support Arg1:T659 Arg2:T643	
+R13	Support Arg1:T643 Arg2:T660	
+R14	Support Arg1:T663 Arg2:T630	
+R15	Support Arg1:T634 Arg2:T631	
+R16	Support Arg1:T632 Arg2:T631	
+R17	Support Arg1:T633 Arg2:T631	
+R18	Support Arg1:T636 Arg2:T635	
+R19	Support Arg1:T635 Arg2:T631	
+R20	Support Arg1:T635 Arg2:T637	
+R21	Support Arg1:T637 Arg2:T640	
+R22	Support Arg1:T638 Arg2:T640	
+R23	Support Arg1:T640 Arg2:T631	
+R24	Support Arg1:T639 Arg2:T640	
+R25	Support Arg1:T641 Arg2:T639	
+R26	Support Arg1:T642 Arg2:T639	
+R27	Support Arg1:T669 Arg2:T670	
+R28	Support Arg1:T671 Arg2:T670	
+R29	Support Arg1:T673 Arg2:T672	
+R30	Support Arg1:T674 Arg2:T672	
+R31	Support Arg1:T672 Arg2:T670	
+R32	Support Arg1:T664 Arg2:T670	
+R33	Support Arg1:T665 Arg2:T664	
+R34	Support Arg1:T666 Arg2:T664	
+R35	Support Arg1:T667 Arg2:T664	
+R36	Support Arg1:T668 Arg2:T667	
+R37	Support Arg1:T675 Arg2:T676	
+R38	Support Arg1:T677 Arg2:T676	
+R39	Support Arg1:T678 Arg2:T676	
+R40	Support Arg1:T679 Arg2:T676	
+R41	Support Arg1:T681 Arg2:T679	
+R42	Support Arg1:T680 Arg2:T679	
+R43	Support Arg1:T682 Arg2:T683	
+R44	Support Arg1:T684 Arg2:T683	
+R45	Support Arg1:T685 Arg2:T683	
+R46	Support Arg1:T686 Arg2:T687	
+R47	Attack Arg1:T687 Arg2:T667	
+R48	Support Arg1:T688 Arg2:T689	
+R49	Support Arg1:T690 Arg2:T689	
+R50	Support Arg1:T691 Arg2:T689	
+R51	Support Arg1:T693 Arg2:T692	
+R52	Support Arg1:T695 Arg2:T692	

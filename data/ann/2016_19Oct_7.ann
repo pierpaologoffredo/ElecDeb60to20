@@ -1,0 +1,53 @@
+T186	Premise 655 661	growth
+T444	Premise 196 286	the Committee for federal -- a Responsible Federal Budget has looked at both of your plans
+T445	Claim 98 189	the biggest driver of our debt is entitlements, which is 60 percent of all federal spending
+T447	Claim 564 581	I'm cutting taxes
+T448	Claim 583 614	We're going to grow the economy
+T450	Claim 672 716	That's not going to help in the entitlements
+T451	Claim 725 759	No, it's going to totally help you
+T452	Claim 765 840	one thing we have to do: Repeal and replace the disaster known as Obamacare
+T453	Premise 842 869	It's destroying our country
+T454	Premise 871 944	It's destroying our businesses, our small business and our big businesses
+T455	Claim 946 985	We have to repeal and replace Obamacare
+T456	Premise 1335 1426	I am on record as saying that we need to put more money into the Social Security Trust Fund
+T457	Premise 1428 1486	That's part of my commitment to raise taxes on the wealthy
+T458	Claim 1488 1607	My Social Security payroll contribution will go up, as will Donald's, assuming he can't figure out how to get out of it
+T460	Premise 1776 1870	that will come from either raising the cap and/or finding other ways to get more money into it
+T461	Claim 1872 1895	I will not cut benefits
+T462	Claim 1897 2026	I want to enhance benefits for low-income workers and for women who have been disadvantaged by the current Social Security system
+T463	Claim 2035 2066	Your husband disagrees with you
+T464	Premise 2116 2179	We've got to get costs down, increase value, emphasize wellness
+T465	Premise 2181 2209	I have a plan for doing that
+T466	Claim 2215 2329	I think that we will be able to get entitlement spending under control by with more resources and harder decisions
+T467	Claim 2351 2469	this is the final time, probably to both of your delight, that you're going to be on a stage together in this campaign
+T468	Premise 2471 2512	I would like to end it on a positive note
+T469	Claim 2514 2625	You had not agreed to closing statements, but it seems to me in a funny way that might make it more interesting
+T470	Premise 2634 2673	you haven't prepared closing statements
+T471	Claim 2690 2821	I would like to say to everyone watching tonight that I'm reaching out to all Americans -- Democrats, Republicans, and independents
+T472	Premise 2833 2963	we need everybody to help make our country what it should be, to grow the economy, to make it fairer, to make it work for everyone
+T473	Claim 2965 3044	We need your talents, your skills, your commitments, your energy, your ambition
+T474	Claim 3092 3152	She's raising the money from the people she wants to control
+T475	Claim 3154 3175	Doesn't work that way
+T312	Premise 291 420	they say neither of you has a serious plan that is going to solve the fact that Medicare's going to run out of money in the 2020s
+T323	Premise 422 479	Social Security is going to run out of money in the 2030s
+T325	Premise 485 555	at that time, recipients are going to take huge cuts in their benefits
+R1	Support Arg1:T444 Arg2:T312	
+R2	Support Arg1:T323 Arg2:T312	
+R3	Support Arg1:T325 Arg2:T312	
+R4	Support Arg1:T447 Arg2:T448	
+R5	Attack Arg1:T450 Arg2:T447	
+R6	Attack Arg1:T451 Arg2:T450	
+R7	Support Arg1:T453 Arg2:T452	
+R8	Support Arg1:T454 Arg2:T452	
+*	Equivalent T455 T452
+R9	Support Arg1:T456 Arg2:T457	
+R10	Support Arg1:T460 Arg2:T461	
+R11	Support Arg1:T462 Arg2:T461	
+R12	Support Arg1:T465 Arg2:T464	
+R13	Attack Arg1:T463 Arg2:T461	
+R14	Support Arg1:T470 Arg2:T469	
+R15	Support Arg1:T472 Arg2:T471	
+R16	Support Arg1:T473 Arg2:T471	
+R17	Attack Arg1:T475 Arg2:T474	
+R18	Attack Arg1:T474 Arg2:T471	
+R19	Support Arg1:T468 Arg2:T467	

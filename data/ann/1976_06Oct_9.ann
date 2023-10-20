@@ -1,0 +1,74 @@
+T1	Claim 440 471	it's not just campaign rhetoric
+T2	Claim 473 536	I think that militarily we are as strong as any nation on earth
+T3	Claim 538 640	I think we got to stay that way and continue to increase our capabilities to meet any potential threat
+T4	Premise 646 702	as far as strength derived from commitment to principles
+T5	Premise 704 764	as far as strength derived from the unity within our country
+T6	Premise 766 1128	as far as strength derived from the people, the Congress, the secretary of state, the president, sharing in the evolution and carrying-out of a foreign policy, as far as strength derived from the respect of our own allies and friends, their assurance that we will be staunch in our commitment, that we will not deviate and that we'll give them adequate attention
+T7	Premise 1130 1304	as far as - as strength derived from doing what's right - caring for the poor, providing food, becoming the breadbasket of the world instead of the arms merchant of the world
+T8	Claim 1307 1342	in those respects, we're not strong
+T9	Claim 1350 1415	we'll never be strong again overseas, unless we're strong at home
+T10	Premise 1421 1494	with our economy in such terrible disarray and getting worse by the month
+T11	Premise 1496 1588	We've got five-hundred thousand more Americans unemployed today than we had three months ago
+T12	Premise 1590 1691	We've got two and a half million more Americans out of work now than we had when Mr. Ford took office
+T13	Claim 1693 1783	This kind of deterioration in our economic strength is bound to weaken us around the world
+T14	Claim 1789 1863	we not only have uh problems at home but we export those problems overseas
+T15	Premise 1868 1933	as far as the respect of our own people toward our own government
+T16	Premise 1935 2006	as far as participating in the shaping of uh - concepts and commitments
+T17	Premise 2008 2073	as far as the trust of our country among the nations of the world
+T18	Premise 2075 2182	as far as dependence of our country in meeting the needs and obligations that we've expressed to our allies
+T19	Premise 2184 2259	as far as the respect of our country - even among our potential adversaries
+T20	Claim 2262 2273	we are weak
+T21	Claim 2275 2299	Potentially we're strong
+T22	Claim 2301 2362	Under this administration that strength has not been realized
+T23	Premise 2534 2666	I must remind him that we're at peace and during the period that he brags about unemployment being low, the United States was at war
+T24	Premise 2741 3019	I have recommended to the Congress that we develop the uranium enrichment plant at Portsmouth, Ohio, which is a publicly owned - U.S. government facility and have indicated that the private program which would follow on in Alabama is one that may or may not uhh - be constructed
+T25	Premise 3025 3070	I am committed to the one at Portsmouth, Ohio
+T26	Claim 3130 3209	The foreign policy of the United States meets the highest standards of morality
+T27	Premise 3211 3282	What is more moral than peace, and the United States is at peace today?
+T28	Premise 3283 3577	What is more moral in foreign policy than for the administration to take the lead in the World Food Conference in Rome in 1974 when the United States committed six million metric tons of food - over 60 percent of the food committed for the disadvantaged and underdeveloped nations of the world?
+T29	Claim 3578 3692	The Ford administration wants to eradicate hunger and disease in our underdeveloped countries throughout the world
+T30	Premise 3694 3826	What is more moral than for the United States under the Ford administration to take the lead in southern Africa, in the Middle East?
+T31	Premise 3827 3967	Those are initiatives in foreign policy which are of the highest moral standard and that is indicative of the foreign policy of this country
+R1	Support Arg1:T3 Arg2:T2	
+R2	Support Arg1:T4 Arg2:T5	
+R3	Support Arg1:T4 Arg2:T1	
+R4	Support Arg1:T5 Arg2:T1	
+R5	Support Arg1:T6 Arg2:T1	
+R6	Support Arg1:T7 Arg2:T1	
+R7	Support Arg1:T8 Arg2:T1	
+R8	Support Arg1:T7 Arg2:T8	
+R9	Support Arg1:T6 Arg2:T8	
+R10	Support Arg1:T5 Arg2:T8	
+R11	Support Arg1:T4 Arg2:T8	
+R12	Attack Arg1:T1 Arg2:T2	
+R13	Attack Arg1:T8 Arg2:T2	
+R14	Support Arg1:T10 Arg2:T11	
+R15	Support Arg1:T11 Arg2:T12	
+R16	Support Arg1:T12 Arg2:T13	
+R17	Support Arg1:T11 Arg2:T13	
+R18	Support Arg1:T10 Arg2:T13	
+R19	Support Arg1:T13 Arg2:T14	
+R20	Support Arg1:T9 Arg2:T14	
+R21	Support Arg1:T13 Arg2:T9	
+R22	Support Arg1:T15 Arg2:T20	
+R23	Support Arg1:T16 Arg2:T20	
+R24	Support Arg1:T17 Arg2:T20	
+R25	Support Arg1:T18 Arg2:T20	
+R26	Support Arg1:T19 Arg2:T20	
+R27	Support Arg1:T14 Arg2:T20	
+R28	Support Arg1:T9 Arg2:T20	
+R29	Attack Arg1:T20 Arg2:T21	
+R30	Support Arg1:T21 Arg2:T22	
+R31	Attack Arg1:T20 Arg2:T22	
+T32	Claim 2420 2533	brags about the unemployment during Democratic administrations and condemns the unemployment at the present time.
+R32	Attack Arg1:T23 Arg2:T32	
+R33	Support Arg1:T24 Arg2:T9	
+R34	Support Arg1:T25 Arg2:T24	
+R35	Support Arg1:T24 Arg2:T26	
+R36	Support Arg1:T26 Arg2:T22	
+R37	Support Arg1:T27 Arg2:T26	
+R39	Support Arg1:T28 Arg2:T26	
+R38	Support Arg1:T28 Arg2:T29	
+R40	Support Arg1:T26 Arg2:T29	
+R41	Support Arg1:T30 Arg2:T26	
+R42	Support Arg1:T31 Arg2:T26	

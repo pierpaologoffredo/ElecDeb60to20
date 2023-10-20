@@ -1,0 +1,116 @@
+T753	Claim 1867 1914	he'll do very well when we get into the debates
+T754	Claim 498 590	I am putting my confidence in a whole generation of people that are in their 30Ï€s and 40Ï€s
+T755	Premise 469 493	I see a man who is young
+T756	Claim 747 922	if a person loses his hob he is retrained for a benefit-for a-work that will be productive and he won't have to go on one of these many programs that the liberal-talking about
+T757	Premise 592 742	I see a man that took the leadership in the Job Training Partnership Act and that retrains people in this highly competitive changing society we're in
+T758	Claim 1094 1140	Dan Quayle is one of them and I am one of them
+T759	Premise 924 1089	I see a young man who is a knowledgeable-in defense and there are three people on our ticket that are knowledgeable-in the whole-in the race-knowledgeable in defense
+T760	Claim 1146 1183	I believe that he will be outstanding
+T761	Premise 1189 1278	he took a tremendous pounding and everybody now knows that he took a very unfair pounding
+T762	Claim 1284 1395	I'd like each person to say did I jump to conclusions running down rumors that were so outrageous and so brutal
+T763	Claim 1428 1453	he will do very very well
+T764	Claim 1401 1422	he's kept his head up
+T765	Claim 1459 1484	he has my full confidence
+T766	Claim 1489 1567	he'll have the confidence of people that are in their 30Ï€s and 40Ï€s and more
+T767	Claim 1573 1678	judge the man on his record not on the-lot of rumors and innuendo and trying to fool around with his name
+T768	Premise 1737 1797	Danforth was, he was a man who gave his life in World War II
+T769	Claim 1802 1861	ridiculing a person's name is a little beneath this process
+T770	Claim 2002 2061	I think we can agree on that in the course of this campaign
+T771	Premise 1945 2000	when it comes to ridicule, George, you win a gold medal
+T772	Claim 2258 2310	I think the debate ought to be between you and Lloyd
+T774	Claim 2322 2478	I think the American people have a right to judge us on this question, on how we picked a running mate, a person who is a heartbeat away from the presidency
+T775	Claim 2480 2610	I picked Lloyd Bentsen, distinguished, strong, mature, a leader in the Senate, somebody whose qualifications nobody has questioned
+T776	Premise 2612 2638	Mr. Bush picked Dan Quayle
+T777	Claim 2640 2716	I doubt very much that Dan Quayle was the best qualified person for that job
+T778	Claim 2743 2830	I think for most people the notion of President Quayle is a very very troubling thought
+T780	Claim 3263 3322	John, I'm a man that's been a chief executive for ten years
+T781	Claim 3699 3711	I picked him
+T782	Premise 3720 3820	he was somebody who would be a strong Vice President, somebody who would be an active Vice President
+T783	Claim 3631 3658	I didn't pick Lloyd Bentsen
+T784	Premise 3667 3697	he was a clone of Mike Dukakis
+T785	Claim 3324 3351	I've picked a lot of people
+T786	Claim 3353 3373	I've picked cabinets
+T787	Claim 3394 3479	I know that the people you pick make an enormous difference in your ability to govern
+T788	Claim 3375 3392	I've named judges
+T789	Claim 3484 3504	I set high standards
+T790	Claim 3506 3625	I try to meet them and I insist that people who work for me meet them, if they don't, they don't stick around very long
+T791	Claim 3989 4009	We shouldn't do that
+T792	Claim 4014 4054	That's the kind of Vice President I want
+T793	Premise 3822 3987	Somebody who would come to me if somebody came up with a crazy idea that we ought to trade arms to the Ayatollah for hostages and say, â‰¥Mr. President, that's wrong
+T794	Claim 4208 4242	I'm very very proud of that choice
+T795	Claim 4248 4265	I didn't pick him
+T796	Premise 4274 4305	he agreed with me on everything
+T797	Premise 4135 4202	When the Vice President makes a decision, that will be his decision
+T798	Premise 4057 4133	He, himself, has said, and rightly so, that he'll be a strong Vice President
+T799	Claim 4670 4774	I doubt very much that Mr. Bush's selection for the Vice Presidency of the United States meets that test
+T801	Claim 4423 4649	The fact is I've picked somebody who not only will be a great Vice President, but if, God forbid, something happens to the president, could step into that office and do so with distinction and with strength and with leadership
+T802	Claim 4833 4863	we obviously have a difference
+T803	Claim 4865 4896	I believe it does meet the test
+T804	Claim 5090 5144	I wanted to hitchhike a ride home in his tank with him
+T805	Claim 5035 5088	I had hoped this had been a little friendlier evening
+T806	Claim 5154 5198	we've got the lines too carefully drawn here
+T807	Claim 5449 5486	I don't think this is a fair argument
+T808	Premise 5267 5340	jumping all over the president on his decision on one area of farm policy
+T809	Claim 5506 5545	I support my nominee for Vice President
+T810	Claim 5550 5577	he'll do an outstanding job
+T1	Claim 4651 4668	I doubt very much
+T2	Premise 374 428	I see a young man that was elected to the Senate twice
+T3	Premise 430 467	to the House of Representatives twice
+R1	Support Arg1:T755 Arg2:T754	
+R2	Support Arg1:T2 Arg2:T3	
+R3	Support Arg1:T3 Arg2:T755	
+R4	Support Arg1:T759 Arg2:T758	
+R5	Support Arg1:T760 Arg2:T758	
+R6	Support Arg1:T754 Arg2:T758	
+R7	Support Arg1:T757 Arg2:T756	
+R8	Support Arg1:T756 Arg2:T758	
+R9	Support Arg1:T766 Arg2:T767	
+R10	Support Arg1:T765 Arg2:T767	
+R11	Support Arg1:T763 Arg2:T767	
+R12	Support Arg1:T764 Arg2:T767	
+R13	Attack Arg1:T767 Arg2:T761	
+R14	Support Arg1:T758 Arg2:T767	
+R15	Attack Arg1:T761 Arg2:T762	
+R16	Support Arg1:T768 Arg2:T769	
+R17	Attack Arg1:T769 Arg2:T761	
+R18	Support Arg1:T767 Arg2:T753	
+R19	Attack Arg1:T771 Arg2:T769	
+R20	Support Arg1:T771 Arg2:T770	
+R21	Attack Arg1:T774 Arg2:T772	
+R22	Support Arg1:T775 Arg2:T774	
+R23	Attack Arg1:T777 Arg2:T776	
+R24	Support Arg1:T778 Arg2:T777	
+T4	Claim 3060 3220	And you have a lot of disagreement with him on fundamental issues, including the Reagan tax cuts, aid to the rebels in Nicaragua, the death penalty, gun control
+R25	Support Arg1:T780 Arg2:T785	
+R26	Support Arg1:T780 Arg2:T786	
+R27	Support Arg1:T780 Arg2:T788	
+R28	Support Arg1:T788 Arg2:T787	
+R29	Support Arg1:T786 Arg2:T787	
+R30	Support Arg1:T785 Arg2:T787	
+R31	Support Arg1:T789 Arg2:T787	
+R32	Support Arg1:T790 Arg2:T789	
+R33	Attack Arg1:T783 Arg2:T784	
+R34	Support Arg1:T782 Arg2:T781	
+R35	Support Arg1:T793 Arg2:T782	
+R36	Attack Arg1:T791 Arg2:T793	
+R37	Support Arg1:T791 Arg2:T792	
+R38	Support Arg1:T787 Arg2:T792	
+R39	Support Arg1:T798 Arg2:T797	
+R40	Support Arg1:T797 Arg2:T794	
+R41	Support Arg1:T794 Arg2:T792	
+R42	Attack Arg1:T795 Arg2:T796	
+T5	Premise 4318 4421	Sam Rayburn once said that if two people agree on everything then only one person is doing the thinking
+R43	Attack Arg1:T5 Arg2:T796	
+R44	Support Arg1:T1 Arg2:T799	
+R45	Support Arg1:T801 Arg2:T799	
+R46	Support Arg1:T794 Arg2:T801	
+R47	Support Arg1:T799 Arg2:T777	
+R48	Support Arg1:T802 Arg2:T803	
+R49	Attack Arg1:T803 Arg2:T799	
+R50	Support Arg1:T805 Arg2:T804	
+R51	Attack Arg1:T806 Arg2:T804	
+T6	Premise 5342 5432	What kind of judgment sense has your chief education adviser now in jail in Massachusetts?
+R52	Attack Arg1:T807 Arg2:T808	
+R53	Attack Arg1:T807 Arg2:T6	
+R54	Support Arg1:T809 Arg2:T810	
+R55	Support Arg1:T810 Arg2:T803	

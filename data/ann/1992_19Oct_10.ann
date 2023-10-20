@@ -1,0 +1,64 @@
+T751	Claim 738 856	I disagree with Mr. Perot on how fast we can reduce the deficit and how much we can increase taxes on the middle class
+T752	Claim 858 963	I really respect what he's done in this campaign to bring the issue of deficit reduction to our attention
+T753	Claim 1132 1166	I just believe it's time to change
+T754	Claim 1169 1224	I offer a new approach. It's not trickle down economics
+T755	Premise 1226 1270	It's been tried for 12 years and it's failed
+T756	Premise 1272 1414	More people are working harder for less, 100,000 people a month losing their health insurance, unemployment going up, our economy slowing down
+T757	Claim 1416 1432	We can do better
+T758	Claim 1439 1471	it's not tax and spend economics
+T759	Claim 1473 1662	It's invest and grow, put our people first, control health care costs and provide basic health care to all Americans, have an education system 2nd to none and revitalize the private economy
+T760	Claim 1695 1860	It is the kind of change that can open up a whole new world of opportunities to America as we enter the last decade of this century and move towards the 21st century
+T761	Claim 1862 1954	I want a country where people who work hard and play by the rules are rewarded, not punished
+T762	Claim 1956 2052	I want a country where people are coming together across the lines of race and region and income
+T763	Claim 2054 2077	I know we can do better
+T764	Claim 2138 2198	we can do much, much better if we have the courage to change
+T765	Claim 2459 2699	On jobs -- that's the number one priority, and I believe my program for stimulating investment, encouraging small business, brand-new approach to education, strengthening the American family, and, yes, creating more exports is the way to go
+T766	Claim 2703 2742	don't believe in trickle-down governmen
+T767	Claim 2745 2807	I don't believe in larger taxes and larger government spending
+T768	Premise 2877 2916	We're living in an interconnected world
+T769	Claim 2809 2875	On foreign affairs, some think it's irrelevant. I believe it's not
+T770	Premise 2918 2965	The whole world is having economic difficulties
+T771	Claim 2967 3000	The US is doing better than a lot
+T772	Claim 3006 3033	we've got to do even better
+T773	Claim 3173 3299	the other night on character Governor Clinton said it's not the character of the president but the character of the presidency
+T774	Claim 3301 3325	I couldn't disagree more
+T775	Premise 3327 3387	Horace Greeley said the only thing that endures is character
+T776	Premise 3401 3490	it was Justice Black who talked about great nations, like great men, must keep their word
+T777	Claim 3517 3637	who will safeguard this nation, who will safeguard our people and our children? I need your support, I ask for your vote
+T778	Claim 4320 4341	Absolutely we can win
+T779	Premise 4351 4368	it's your country
+T780	Claim 4733 4763	You bet your hat we can govern
+T781	Claim 4772 4834	we will be in there together and we will figure out what to do
+T782	Claim 4840 4867	you won't tolerate gridlock
+T783	Claim 4870 4927	ou won't tolerate endless meandering and wandering around
+T784	Claim 4933 4967	you won't tolerate non-performance
+T785	Premise 4986 5072	anybody that knows me understands I have a very low tolerance for non-performance also
+T786	Claim 5074 5107	Together we can get anything done
+R1	Support Arg1:T755 Arg2:T753	
+R2	Support Arg1:T754 Arg2:T753	
+R3	Support Arg1:T756 Arg2:T753	
+R4	Support Arg1:T757 Arg2:T753	
+R5	Support Arg1:T758 Arg2:T754	
+R6	Support Arg1:T759 Arg2:T754	
+R7	Support Arg1:T761 Arg2:T753	
+R8	Support Arg1:T762 Arg2:T753	
+R9	Support Arg1:T764 Arg2:T763	
+R10	Equivalent Arg1:T763 Arg2:T757	
+R11	Support Arg1:T763 Arg2:T753	
+R12	Support Arg1:T767 Arg2:T765	
+R13	Support Arg1:T766 Arg2:T765	
+R14	Support Arg1:T769 Arg2:T767	
+R15	Support Arg1:T770 Arg2:T771	
+R16	Support Arg1:T768 Arg2:T770	
+R17	Support Arg1:T771 Arg2:T772	
+R18	Support Arg1:T773 Arg2:T774	
+R19	Support Arg1:T775 Arg2:T774	
+R20	Support Arg1:T776 Arg2:T774	
+R21	Support Arg1:T772 Arg2:T777	
+R22	Support Arg1:T774 Arg2:T777	
+R23	Support Arg1:T779 Arg2:T778	
+R24	Support Arg1:T781 Arg2:T780	
+R25	Support Arg1:T786 Arg2:T780	
+R26	Support Arg1:T782 Arg2:T781	
+R27	Support Arg1:T783 Arg2:T781	
+R28	Support Arg1:T784 Arg2:T781	

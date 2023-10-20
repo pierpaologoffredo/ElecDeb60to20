@@ -1,0 +1,106 @@
+T144	Claim 1650 1737	is the first time that any president has achieved a cap either on launchers or on MIRVs
+T145	Premise 1810 1869	The grain sales have been a benefit to American agriculture
+T146	Premise 1871 1964	We have achieved a five and three quarter year uh - sale of a minimum six million metric tons
+T147	Premise 1983 2138	they have already bought about four million metric tons this year and are bound to buy another two million metric tons to take the grain and corn and wheat
+T148	Claim 2222 2330	these grain sales to the Soviet Union have helped us tremendously in meeting the costs of the additional oil
+T149	Premise 2337 2378	the oil that we have bought from overseas
+T150	Premise 2447 2561	In the case of Helsinki, thirty-five nations signed an agreement, including the secretary of state for the Vatican
+T151	Claim 2564 2787	I can't under any circumstances believe that the - His Holiness, the Pope would agree by signing that agreement that the thirty-five nations have turned over to the Warsaw Pact nations the domination of the - Eastern Europe
+T152	Claim 2789 2807	It just isn't true
+T153	Claim 2813 2906	if Mr. Carter alleges that His Holiness by signing that has done it, he is totally inaccurate
+T154	Premise 2979 3099	we have an agreement where they notify us and we notify them of any uh - military maneuvers that are to be be undertaken
+T155	Claim 3101 3118	They have done it
+T156	Claim 3157 3204	there is no Soviet domination of Eastern Europe
+T157	Claim 3209 3256	there never will be under a Ford administration
+T159	Claim 3811 3895	I don't believe that the Rumanians consider themselves dominated by the Soviet Union
+T160	Claim 3897 3977	I don't believe that the Poles consider themselves dominated by the Soviet Union
+T161	Premise 3979 4029	Each of those countries is independent, autonomous
+T162	Premise 4031 4067	it has its own territorial integrity
+T163	Claim 4072 4172	the United States does not concede that those countries are under the domination of the Soviet Union
+T164	Premise 4195 4436	I visited Poland, Yugoslavia and Rumania to make certain that the people of those countries understood that the president of the United States and the people of the United are dedicated to their independence, their autonomy and their freedom
+T165	Claim 4538 4579	I'm not criticizing His Holiness the Pope
+T166	Premise 4581 4609	I was talking about Mr. Ford
+T167	Claim 4628 4701	that secrecy has surrounded the decisions made by the Ford administration
+T168	Premise 4703 4793	In the case of the Helsinki agreement - it may have been a good agreement at the beginning
+T169	Claim 4799 4952	we have failed to enforce the so-called basket three part, which insures the right of people to migrate, to join their families, to be free, to speak out
+T170	Claim 4954 5005	The Soviet Union is still jamming Radio Free Europe
+T171	Claim 6585 6660	That's not the way to run our foreign policy, including international trade
+T172	Premise 6441 6498	This grain deal with the Soviet Union in '72 was terrible
+T173	Premise 6504 6583	Mr. Ford made up for it with three embargoes, one against our own ally in Japan
+T176	Claim 5564 5614	Mr. Ford exclude himself from access to the public
+T177	Premise 5699 5740	One press conference he had without sound
+T178	Premise 5616 5697	He hasn't had a tough cross-examination-type press conference in over thirty days
+T179	Claim 5742 5792	He's also shown a weakness in yielding to pressure
+T181	Premise 5855 5950	he refused to see a symbol of human freedom recognized around the world, Aleksandr Solzhenitsyn
+T182	Premise 5952 5991	The Arabs have put pressure on Mr. Ford
+T183	Premise 5997 6105	he's yielded, and has permitted a boycott by the Arab countries of American businesses who trade with Israel
+T184	Premise 6107 6196	or who have American Jews owning or taking part in the management of American - companies
+T185	Premise 6198 6331	His own secretary of commerce had to be subpoenaed by the Congress to reveal the names of businesses who were subject to this boycott
+T133	Premise 1244 1340	we agreed to a mutual cap on the ballistic missile launchers at a ceiling of twenty-four hundred
+T142	Claim 1378 1500	if that becomes a permanent agreement, will have to make a reduction in their launchers that they now have or plan to have
+T1	Claim 973 1087	I believe that we have uh - negotiated with the Soviet Union since I've been president from a position of strength
+T3	Premise 1502 1642	I've negotiated at Vladivostok with uh - Mr. Brezhnev a limitation on the MIRVing of their ballistic missiles at a figure of thirteen-twenty
+T2	Premise 1123 1239	Shortly after I became president in uh - December of 1974, I met with uh - General Secretary Brezhnev in Vladivostok
+T4	Claim 3699 3809	I don't believe, uh - Mr. Frankel that uh - the Yugoslavians consider themselves dominated by the Soviet Union
+T5	Premise 5794 5850	The Soviet Union, for instance, put pressure on Mr. Ford
+R1	Support Arg1:T2 Arg2:T133	
+R2	Support Arg1:T133 Arg2:T142	
+R3	Support Arg1:T142 Arg2:T1	
+R4	Support Arg1:T3 Arg2:T144	
+R5	Support Arg1:T144 Arg2:T1	
+R6	Support Arg1:T145 Arg2:T1	
+R7	Support Arg1:T145 Arg2:T146	
+R8	Support Arg1:T146 Arg2:T147	
+R9	Support Arg1:T147 Arg2:T148	
+R10	Support Arg1:T149 Arg2:T148	
+R11	Support Arg1:T148 Arg2:T1	
+R12	Support Arg1:T150 Arg2:T151	
+T6	Claim 562 662	We've virtually signed, in Helsinki, an agreement that the Russians have dominance in Eastern Europe
+R13	Attack Arg1:T151 Arg2:T6	
+R14	Attack Arg1:T152 Arg2:T6	
+R15	Support Arg1:T152 Arg2:T151	
+R16	Attack Arg1:T153 Arg2:T151	
+R17	Support Arg1:T154 Arg2:T155	
+R18	Support Arg1:T155 Arg2:T156	
+R19	Support Arg1:T156 Arg2:T157	
+R20	Attack Arg1:T156 Arg2:T6	
+T7	Claim 3373 3492	the Russians are not using Eastern Europe as their own sphere of influence in occupying mo- most of the countries there
+R21	Attack Arg1:T4 Arg2:T7	
+R22	Attack Arg1:T159 Arg2:T7	
+R23	Attack Arg1:T160 Arg2:T7	
+R24	Attack Arg1:T163 Arg2:T7	
+R25	Attack Arg1:T161 Arg2:T7	
+R26	Support Arg1:T162 Arg2:T161	
+R27	Support Arg1:T161 Arg2:T163	
+R28	Support Arg1:T162 Arg2:T163	
+R29	Support Arg1:T164 Arg2:T163	
+R30	Support Arg1:T164 Arg2:T160	
+R31	Support Arg1:T164 Arg2:T160	
+R32	Support Arg1:T164 Arg2:T159	
+R33	Support Arg1:T164 Arg2:T4	
+R34	Attack Arg1:T165 Arg2:T153	
+R35	Support Arg1:T166 Arg2:T165	
+R36	Support Arg1:T168 Arg2:T169	
+R37	Support Arg1:T167 Arg2:T169	
+R38	Support Arg1:T169 Arg2:T170	
+T8	Claim 5151 5293	apparently Mr. Ford has just endorsed, which said that there's an organic linkage between the Eastern European countries and the Soviet Union.
+T9	Premise 5318 5544	Mr. Ford convince the Polish-Americans and the Czech-Americans and the Hungarian-Americans in this country that those countries don't live under the domination and supervision of the Soviet Union behind the Iron - uh - Curtain
+R39	Support Arg1:T170 Arg2:T8	
+R40	Support Arg1:T167 Arg2:T176	
+R41	Attack Arg1:T9 Arg2:T160	
+R42	Attack Arg1:T9 Arg2:T159	
+R43	Attack Arg1:T9 Arg2:T4	
+R44	Attack Arg1:T8 Arg2:T163	
+R45	Support Arg1:T178 Arg2:T176	
+R47	Support Arg1:T177 Arg2:T176	
+R50	Support Arg1:T5 Arg2:T181	
+R51	Support Arg1:T181 Arg2:T179	
+R52	Support Arg1:T182 Arg2:T183	
+R53	Support Arg1:T183 Arg2:T179	
+R54	Support Arg1:T182 Arg2:T179	
+R55	Support Arg1:T183 Arg2:T184	
+R56	Support Arg1:T184 Arg2:T179	
+R57	Support Arg1:T185 Arg2:T179	
+R58	Attack Arg1:T172 Arg2:T148	
+R59	Support Arg1:T173 Arg2:T172	
+R60	Attack Arg1:T171 Arg2:T173	

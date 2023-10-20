@@ -1,0 +1,66 @@
+T314	Claim 740 785	I would not work hard to support any of those
+T315	Claim 1079 1111	I'm strongly against a- abortion
+T316	Claim 1113 1137	I think abortion's wrong
+T317	Claim 1139 1208	I don't think the government oughta do anything to encourage abortion
+T318	Claim 1214 1269	I don't favor a constitutional amendment on the subject
+T319	Claim 1368 1427	I'll do everything I can to minimize the need for abortions
+T320	Premise 1433 1470	better sex education, family planning
+T321	Premise 1477 1503	better adoptive procedures
+T322	Claim 1505 1584	I personally don't believe that the federal government oughta finance abortions
+T323	Claim 1594 1654	I draw the line and don't support a constitutional amendment
+T324	Claim 1824 1876	I won't actively work for the passage of any of them
+T325	Premise 792 943	we've always had, I think, a lot of constitutional amendments proposed, but the passage of them has been uh - fairly slow, and uh - few and far between
+T326	Premise 945 1027	In the two-hundred-year history there's been a very uh - cautious approach to this
+T327	Premise 1034 1073	quite often we have a transient problem
+T328	Claim 1934 2054	support the uh - Republican uh - platform, which calls for the constitutional amendment that would uh - outlaw abortions
+T329	Claim 2406 2523	we ought to have a federal constitutional amendment that would permit each one of the fifty states to make the choice
+T330	Premise 2297 2395	if you really believe that the people of a state ought to make a decision on a matter of this kind
+T331	Claim 2530 2587	I think this is a responsible and a proper way to proceed
+T332	Claim 2595 2829	I believe also that uh - there is some merit to a - an amendment that uh - uh - Senator Everett Dirksen uh - proposed very frequently, an amendment that would uh - change the court decision as far as voluntary prayer in public schools
+T334	Premise 2836 3026	it seems to me that there should have - be an opportunity, uh - as long as it's voluntary, as long as there is no uh - compulsion whatsoever, that uh - an individual ought to have that right
+T333	Claim 3031 3115	in those two cases I think uh - such uh - a constitutional amendment would be proper
+T335	Claim 3121 3180	I really don't think in either case they're trivial matters
+T337	Premise 3190 3282	they're matters of very deep conviction, as far as many, many people in this country believe
+T338	Claim 2056 2250	I favor the particular constitutional amendment that would turn over to the states the uh - individual right to the voters in those states uh - the chance to make a decision by public referendum
+T339	Claim 3299 3332	they shouldn't be treated lightly
+T336	Premise 3338 3377	they're matters that are ah - important
+T340	Claim 3383 3421	in those two cases, I would favor them
+R1	Support Arg1:T326 Arg2:T314	
+R2	Support Arg1:T325 Arg2:T314	
+R3	Support Arg1:T327 Arg2:T314	
+R4	Equivalent Arg1:T316 Arg2:T315	
+R5	Support Arg1:T316 Arg2:T317	
+R6	Support Arg1:T315 Arg2:T317	
+R7	Attack Arg1:T318 Arg2:T317	
+R8	Support Arg1:T318 Arg2:T314	
+R9	Support Arg1:T316 Arg2:T319	
+R10	Support Arg1:T315 Arg2:T319	
+R11	Attack Arg1:T319 Arg2:T318	
+R12	Support Arg1:T320 Arg2:T319	
+R13	Support Arg1:T321 Arg2:T319	
+R14	Support Arg1:T322 Arg2:T317	
+R15	Equivalent Arg1:T323 Arg2:T318	
+R16	Attack Arg1:T323 Arg2:T317	
+R17	Support Arg1:T323 Arg2:T314	
+R18	Equivalent Arg1:T324 Arg2:T314	
+R19	Support Arg1:T323 Arg2:T324	
+R20	Support Arg1:T323 Arg2:T324	
+R21	Support Arg1:T318 Arg2:T324	
+R22	Support Arg1:T330 Arg2:T329	
+R23	Support Arg1:T338 Arg2:T329	
+R24	Support Arg1:T331 Arg2:T329	
+R25	Support Arg1:T334 Arg2:T332	
+R26	Support Arg1:T334 Arg2:T333	
+R27	Support Arg1:T334 Arg2:T335	
+R28	Support Arg1:T337 Arg2:T335	
+R29	Support Arg1:T337 Arg2:T333	
+R30	Equivalent Arg1:T339 Arg2:T335	
+R31	Support Arg1:T337 Arg2:T339	
+R32	Support Arg1:T339 Arg2:T333	
+R33	Support Arg1:T336 Arg2:T339	
+R34	Support Arg1:T336 Arg2:T337	
+R35	Support Arg1:T340 Arg2:T333	
+R36	Support Arg1:T336 Arg2:T340	
+R37	Support Arg1:T339 Arg2:T340	
+R38	Support Arg1:T337 Arg2:T340	
+R39	Support Arg1:T335 Arg2:T340	

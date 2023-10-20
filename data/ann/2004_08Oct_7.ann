@@ -1,0 +1,140 @@
+T365	Claim 692 717	The when I can't tell you
+T366	Premise 719 832	Between the World Trade Center bombing in, what was it, 1993 or so, and the next time was five years, seven years
+T367	Premise 834 851	These people wait
+T368	Premise 853 865	They'll plan
+T369	Premise 867 876	They plot
+T370	Claim 911 966	we have to go after them and get them wherever they are
+T371	Claim 968 1015	I just think I can do that far more effectively
+T372	Premise 1025 1080	the most important weapon in doing that is intelligence
+T373	Claim 1082 1135	You've got to have the best intelligence in the world
+T374	Claim 1271 1339	you've got to have the best cooperation you've ever had in the world
+T375	Premise 1151 1269	to have the best intelligence in the world to know who the terrorists are and where they are and what they're plotting
+T376	Claim 1383 1440	we're not getting the best cooperation in the world today
+T377	Premise 1442 1545	We've got a whole bunch of countries that pay a price for dealing with the United States of America now
+T378	Claim 1547 1571	I'm going to change that
+T379	Claim 1578 1637	I'm going to put in place a better homeland security effort
+T380	Premise 1646 1723	95 percent of our containers coming into this country are not inspected today
+T381	Premise 1725 1808	When you get on an airplane, your bag is X- rayed, but the cargo hold isn't X-rayed
+T382	Premise 1830 1921	This president in the last debate said, "Well, that would be a big tax gap if we did that."
+T383	Claim 1964 2081	He chose a tax cut for the wealthiest Americans over getting that equipment out into the homeland as fast as possible
+T384	Premise 2084 2137	We have bridges and tunnels that aren't being secured
+T385	Premise 2139 2190	chemical plants, nuclear plants that aren't secured
+T386	Premise 2192 2249	hospitals that are overcrowded with their emergency rooms
+T387	Claim 2303 2356	This president chose a tax cut over homeland security
+T388	Claim 2358 2370	Wrong choice
+T389	Claim 2404 2430	That's an odd thing to say
+T390	Premise 2438 2512	we've tripled the homeland security budget from $10 billion to $30 billion
+T391	Claim 2522 2572	we'll do everything we can to protect the homeland
+T392	Claim 2596 2621	we need good intelligence
+T393	Claim 2623 2663	It's also a curious thing for him to say
+T394	Premise 2670 2742	right after 1993 he voted to cut the intelligence budget by $7.5 billion
+T395	Claim 2745 2826	The best way to defend America in this world we live in is to stay on the offense
+T396	Claim 2828 2883	We got to be right 100 percent of the time here at home
+T397	Premise 2889 2914	they got to be right once
+T398	Premise 2945 2986	there's a lot of good people working hard
+T399	Claim 2988 3045	We're doing the best we possibly can to share information
+T400	Claim 3058 3087	the Patriot Act was important
+T401	Claim 3090 3114	The Patriot Act is vital
+T402	Premise 3128 3207	It's a tool that law enforcement now uses to be able to talk between each other
+T403	Premise 3209 3262	My opponent says he hadn't changed his position on it
+T404	Claim 3272 3293	he's for weakening it
+T405	Claim 3296 3376	I don't think my opponent has got the right view about the world to make us safe
+T406	Claim 3378 3392	I really don't
+T407	Claim 3409 3445	I don't think he can succeed in Iraq
+T408	Claim 3451 3503	if Iraq were to fail, it'd be a haven for terrorists
+T409	Premise 3509 3572	there would be money and the world would be much more dangerous
+T410	Premise 3933 3961	This war is a long, long war
+T411	Claim 3967 4002	it requires steadfast determination
+T412	Claim 4007 4181	it requires a complete understanding that we not only chase down Al Qaida but we disrupt terrorist safe havens as well as people who could provide the terrorists with support
+T413	Claim 3575 3610	I don't see how you can win in Iraq
+T414	Claim 3671 3706	I don't see how you can lead troops
+T415	Claim 3776 3857	I don't see how the Iraqis are going to have confidence in the American president
+T416	Premise 3614 3669	you don't believe we should be there in the first place
+T417	Premise 3710 3773	you say it's the wrong war at the wrong place at the wrong time
+T418	Premise 3861 3930	all they hear is that it was a mistake to be there in the first place
+T419	Claim 4310 4335	You think it's inevitable
+T420	Premise 4275 4309	You said, "It's not when, but if."
+T421	Premise 4344 4443	the sense of security is a very basic thing with everybody in this country worried about their kids
+T422	Claim 4727 4793	I will never stop at anything to hunt down and kill the terrorists
+T423	Claim 4872 4909	the test is not if you've added money
+T424	Claim 4911 4982	the test is that you've done everything possible to make America secure
+T425	Premise 4984 5061	He chose a tax cut for wealthy Americans over the things that I listed to you
+T426	Premise 4800 4862	you heard the president just say to you that we've added money
+T427	Premise 4459 4562	the president and his experts have told America that it's not a question of if; it's a question of when
+T428	Claim 4568 4604	I accept what the president has said
+T429	Premise 4606 4634	These terrorists are serious
+T430	Premise 4636 4650	they're deadly
+T431	Premise 4656 4695	they know nothing except trying to kill
+T432	Claim 5174 5185	I'm worried
+T434	Claim 5200 5229	I'm worried about our country
+T436	Premise 5380 5432	there's a vicious enemy that has an ideology of hate
+T437	Premise 5257 5340	every day I know that there's people working overtime, doing the very best they can
+T438	Claim 5438 5504	the way to defeat them long-term, by the way, is to spread freedom
+T439	Claim 5507 5532	Liberty can change habits
+T440	Premise 5538 5585	that's what's happening in Afghanistan and Iraq
+T1	Claim 5187 5199	I'm worried.
+T2	Claim 5357 5368	I'm worried
+R1	Support Arg1:T372 Arg2:T371	
+R2	Support Arg1:T366 Arg2:T367	
+R3	Support Arg1:T367 Arg2:T368	
+R4	Support Arg1:T368 Arg2:T369	
+R5	Support Arg1:T369 Arg2:T365	
+R6	Attack Arg1:T371 Arg2:T370	
+R7	Support Arg1:T375 Arg2:T373	
+R8	Support Arg1:T373 Arg2:T374	
+R9	Attack Arg1:T376 Arg2:T374	
+R10	Support Arg1:T377 Arg2:T376	
+R11	Attack Arg1:T378 Arg2:T377	
+R12	Support Arg1:T378 Arg2:T379	
+R13	Support Arg1:T380 Arg2:T381	
+T3	Premise 1810 1827	Do you feel safer
+R14	Attack Arg1:T3 Arg2:T381	
+R15	Attack Arg1:T388 Arg2:T387	
+R16	Support Arg1:T383 Arg2:T387	
+R17	Attack Arg1:T380 Arg2:T382	
+R18	Attack Arg1:T387 Arg2:T382	
+R19	Attack Arg1:T379 Arg2:T384	
+R20	Attack Arg1:T379 Arg2:T385	
+R21	Attack Arg1:T379 Arg2:T386	
+R22	Support Arg1:T379 Arg2:T380	
+R23	Support Arg1:T390 Arg2:T389	
+R24	Attack Arg1:T389 Arg2:T387	
+R25	Support Arg1:T390 Arg2:T391	
+R26	Attack Arg1:T393 Arg2:T394	
+R27	Attack Arg1:T392 Arg2:T393	
+R28	Support Arg1:T392 Arg2:T373	
+R29	Support Arg1:T401 Arg2:T400	
+R30	Attack Arg1:T403 Arg2:T404	
+R31	Support Arg1:T402 Arg2:T401	
+R32	Support Arg1:T396 Arg2:T395	
+R33	Support Arg1:T397 Arg2:T395	
+R34	Support Arg1:T398 Arg2:T399	
+R35	Support Arg1:T399 Arg2:T400	
+R36	Support Arg1:T400 Arg2:T395	
+R37	Support Arg1:T406 Arg2:T405	
+R38	Support Arg1:T409 Arg2:T408	
+R39	Support Arg1:T407 Arg2:T405	
+R40	Support Arg1:T416 Arg2:T413	
+R41	Attack Arg1:T413 Arg2:T405	
+R42	Support Arg1:T417 Arg2:T414	
+R43	Attack Arg1:T414 Arg2:T405	
+R44	Support Arg1:T418 Arg2:T415	
+R45	Attack Arg1:T415 Arg2:T405	
+R46	Support Arg1:T410 Arg2:T411	
+R47	Support Arg1:T411 Arg2:T412	
+R48	Attack Arg1:T412 Arg2:T405	
+R49	Support Arg1:T428 Arg2:T427	
+R50	Support Arg1:T429 Arg2:T428	
+R51	Support Arg1:T430 Arg2:T428	
+R52	Support Arg1:T431 Arg2:T428	
+R53	Support Arg1:T428 Arg2:T422	
+R54	Attack Arg1:T423 Arg2:T426	
+R55	Support Arg1:T423 Arg2:T424	
+R56	Attack Arg1:T424 Arg2:T425	
+R57	Support Arg1:T432 Arg2:T1	
+R58	Support Arg1:T1 Arg2:T434	
+R59	Support Arg1:T436 Arg2:T2	
+R60	Support Arg1:T440 Arg2:T439	
+R61	Support Arg1:T2 Arg2:T434	
+R62	Attack Arg1:T438 Arg2:T436	
+R63	Support Arg1:T439 Arg2:T438	

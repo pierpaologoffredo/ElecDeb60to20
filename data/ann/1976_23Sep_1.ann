@@ -1,0 +1,69 @@
+T3	Claim 2893 2975	There are several things that can be done specifically that are not now being done
+T4	Premise 2977 3086	First of all, to channel research and development funds into areas that will provide uh large numbers of jobs
+T5	Premise 3088 3209	Secondly, we need to have a commitment in the uh private sector uh - to cooperate with government in matters like housing
+T6	Claim 2516 2757	This is uh - an effort that ought to be done primarily by strong leadership in the White House, the inspiration of our people, the tapping of uh - business, agriculture, industry, labor and government at all levels to work on this uh project
+T7	Premise 3216 3558	a very small investment of taxpayer's money - in the housing field can bring large numbers of extra jobs, and the guarantee of mortgage loans, and the uh - putting forward of uh - two-0-two programs for housing for older people and so forth to cut down the roughly 20 percent unemployment that now exists in the - in the construction industry
+T8	Premise 3560 3809	Another thing is to deal with our - uh needs in the central cities, where the unemployment rate is extremely high: sometimes among minority groups, or those who don't speak English, or who're black, or young people, or - 40 percent of the employment
+T9	Premise 3811 4024	Here a CCC type program would be appropriate to channel money into the ah - cha- in - in into the sharing with the private sector and also local and state governments to employ young people who are now out of work
+T10	Claim 4265 4393	These uh - kinds of specific things, uh none of which are being done now, would be a great help in - in reducing uh unemployment
+T11	Premise 4026 4263	Another very important - uh aspect of our - uh economy would be to increase production in every way possible, uh to hold down - uh taxes on individuals, and to uh shift the tax burdens onto those who have avoided paying taxes in the past
+T12	Claim 4395 4620	There is uh - uh an additional factor that needs to be done and covered very - very succinctly, and that is, to make sure that we have a good relationship between management - business on the one hand, and labor, on the other
+T13	Premise 4664 4963	we might channel specific uh targeted job - job - uh opportunities by paying part of the salary of unemployed people - uh and also sharing with uh - local governments the uh - payment of salaries which would uh - let us cut down the unemployment rate much lower, before we hit the inflationary level
+T14	Claim 4969 5111	I believe that by the end of the first four years of uh - of the next term we could have the unemployment down to 3 percent adult unemployment
+T16	Premise 5600 5693	we now have such uh - a low utilization of uh - our productive capacity - uh about 73 percent
+T18	Premise 5695 5757	I think it's about the lowest since the Great Depression years
+T20	Premise 5760 5814	and such a high unemployment rate now - uh 7.9 percent
+T21	Claim 5827 5919	we have a long way to go in getting people to work before we have the inflationary pressures
+T17	Claim 5925 6083	I think this would uh - this would be uh easy to accomplish, to get jobs down, without having strong in- inflationary pressures that - that would be necessary
+T19	Claim 6085 6194	I would not favor the uh - payment of uh - of a given fixed income to people unless they are not able to work
+T22	Premise 6200 6379	with tax incentives for the low-income groups we could build up their uh - income levels uh - above the poverty level and not uh make welfare more uh - profitable than - than work
+T23	Claim 6427 6545	I don't believe that uh that Mr. Carter's been any more specific in this case than he has been on many other instances
+T24	Premise 6547 6702	I notice particularly that he didn't endorse the Humphrey-Hawkins bill which he has on occasions and which is included as a part of the Democratic platform
+T25	Premise 6704 6761	That legislation uh allegedly would help our unemployment
+T26	Claim 6772 6823	we all know that it would've controlled our economy
+T27	Premise 6825 6940	it would've added uh - ten to thirty billion dollars each year in additional expenditures by the Federal Government
+T28	Premise 6942 7005	It would've called for export controls on agricultural products
+T29	Claim 7006 7082	In my judgment the best way to get jobs is to uh - expand the private sector
+T30	Premise 7084 7137	where five out of six jobs today exist in our economy
+T31	Claim 7139 7179	We can do that by reducing Federal taxes
+T32	Premise 7180 7264	as I proposed uh - about a year ago when I called for a tax reduction of $28 billion
+T33	Premise 7267 7359	three-quarters of it to go to private uh taxpayers and uh one-quarter to the business sector
+T34	Claim 7361 7554	We could add to jobs in the major metropolitan areas by a proposal that I recommended that would give tax incentives to business to move into the inner city and to expand or to build new plants
+T35	Premise 7555 7659	so that they would take a plant, or expand a plant where people are, and people are currently unemployed
+T36	Claim 7661 7814	We could uh - also uh - help our youths with some of the proposals that uh - would give to young people an opportunity to work and learn at the same time
+T37	Premise 7815 7879	just like we give money to young people who are going to college
+T38	Claim 7881 7966	Those are the kind of specifics that I think we have to discuss on these uh - debates
+T39	Claim 7972 8034	these are the kind of programs that I'll talk about on my time
+T1	Claim 2759 2891	We'll never have uh - an end to the inflationary spiral, and we'll never have a balanced budget until we get our people back to work
+R1	Support Arg1:T4 Arg2:T3	
+R2	Support Arg1:T5 Arg2:T3	
+R3	Support Arg1:T7 Arg2:T5	
+R4	Support Arg1:T8 Arg2:T3	
+R5	Support Arg1:T9 Arg2:T8	
+R6	Support Arg1:T11 Arg2:T3	
+R7	Support Arg1:T10 Arg2:T3	
+R8	Support Arg1:T13 Arg2:T12	
+R9	Support Arg1:T18 Arg2:T16	
+R10	Support Arg1:T16 Arg2:T21	
+R11	Support Arg1:T20 Arg2:T21	
+R12	Support Arg1:T24 Arg2:T23	
+R13	Support Arg1:T27 Arg2:T26	
+R14	Support Arg1:T30 Arg2:T29	
+R15	Support Arg1:T28 Arg2:T26	
+R16	Support Arg1:T38 Arg2:T39	
+R17	Support Arg1:T22 Arg2:T11	
+R18	Support Arg1:T37 Arg2:T36	
+R19	Support Arg1:T32 Arg2:T31	
+R20	Support Arg1:T35 Arg2:T34	
+R21	Support Arg1:T22 Arg2:T19	
+R22	Attack Arg1:T19 Arg2:T13	
+R23	Support Arg1:T12 Arg2:T3	
+R24	Support Arg1:T3 Arg2:T14	
+R25	Support Arg1:T26 Arg2:T29	
+R26	Support Arg1:T31 Arg2:T29	
+R27	Support Arg1:T33 Arg2:T31	
+R28	Support Arg1:T36 Arg2:T38	
+R29	Support Arg1:T34 Arg2:T38	
+R30	Support Arg1:T29 Arg2:T38	
+R31	Support Arg1:T26 Arg2:T38	
+R32	Attack Arg1:T38 Arg2:T23	

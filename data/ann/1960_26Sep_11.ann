@@ -1,0 +1,23 @@
+T399	Claim 1622 1665	That is the growth that we are looking for;
+T400	Claim 1666 1760	it is the growth that this Administration has supported and that its policies have stimulated.
+T401	Claim 1606 1621	that is growth.
+T402	Premise 1407 1464	this Administration has encouraged individual enterprise;
+T403	Premise 1469 1601	it has resulted in the greatest expansion of the private sector of the economy that has ever been witnessed in an eight-year period.
+T404	Claim 1800 2072	I must say that the reason that the schools have been constructed is because the local school districts were willing to increase the property taxes to a tremendously high figure - in my opinion, almost to the point of diminishing returns in order to sustain these schools.
+T405	Claim 2083 2119	I think we have a rich uh - country.
+T406	Claim 2124 2159	I think we have a powerful country.
+T407	Claim 2160 2304	I think what we have to do, however, is have the president and the leadership set before our country exactly what we must do in the next decade,
+T408	Premise 2305 2415	if we're going to maintain our security in education, in economic growth, in development of natural resources.
+T410	Claim 2781 2873	I think that's the big assignment, the big task, the big function of the federal government.
+T411	Claim 2587 2780	I want to compare what we're doing with what our adversaries are doing, so that by the year 1970 the United States is ahead in education, in health, in building, in homes, in economic strength.
+R1	Support Arg1:T403 Arg2:T402	
+R3	Support Arg1:T410 Arg2:T407	
+R4	Support Arg1:T408 Arg2:T407	
+T1	Claim 727 913	The test of whether America moves is whether the federal government, plus the state government, plus the local government, plus the biggest segment of all - individual enterprise - moves
+T2	Claim 1203 1242	the Eisenhower Administration has moved
+R5	Support Arg1:T402 Arg2:T2	
+T3	Claim 1255 1359	that we've had the funds, for example, locally to build the schools, and the hospitals, and the highways
+R6	Support Arg1:T3 Arg2:T2	
+*	Equivalent T401 T399 T400
+R2	Support Arg1:T2 Arg2:T401	
+R7	Attack Arg1:T404 Arg2:T402	

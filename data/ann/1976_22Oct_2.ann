@@ -1,0 +1,76 @@
+T48	Claim 112 199	voters are so turned off by this election campaign so far that only half intend to vote
+T49	Premise 201 317	One major reason for this apathetic electorate appears to be the low level at which this campaign has been conducted
+T50	Premise 319 447	It has digressed frequently from important issues into allegations of blunder and brainwashing and fixations on lust and Playboy
+T51	Claim 560 755	I think the major reason for a decrease in participation that we have experienced ever since 1960 has been the deep discouragement of the American people about the performance of public officials
+T52	Premise 757 823	When you've got seven and a half, eight million people out of work
+T53	Premise 829 933	you've got three times as much inflation as you had during the last eight-year Democratic administration
+T54	Premise 935 980	when you have the highest deficits in history
+T55	Premise 982 1144	when you have it uh - becoming increasingly difficult far a family to put a child through college or to own a home, there's a natural inclination to be turned off
+T56	Claim 1477 1500	I've made some mistakes
+T57	Premise 1152 1320	in the aftermath of Vietnam and Cambodia and uh - Watergate and uh - the CIA revelations, people have feel - have felt that they've uh been betrayed by public officials
+T58	Premise 1378 1429	I've been in thirty primaries during the springtime
+T59	Premise 1431 1474	I've been campaigning for twenty-two months
+T60	Premise 1514 1572	this is uh - uh - part of uh - of just being a human being
+T61	Claim 2362 2408	I'm doing the best I can to get away from that
+T62	Claim 2414 2617	during the next ten days, the American people will not see the Carter campaign running uh - television advertisements and newspaper advertisements based on a personal attack on President Ford's character
+T63	Claim 2059 2177	in retrospect, from hindsight, I would not have given that uh - interview had I do it - had it - I to do it over again
+T64	Premise 1640 1702	the Playboy thing has been of great - very great concern to me
+T65	Premise 1704 1744	I don't know how to deal with it exactly
+T66	Premise 1751 1802	I uh - agreed to give the interview uh - to Playboy
+T67	Premise 1803 2013	Other people have done it who are notable - uh - Governor Jerry Brown, uh - Walter Cronkite, uh - Albert Schweitzer, Mr. Ford's own secretary of the treasury, Mr. Simon, uh - William Buckley - many other people
+T68	Premise 2019 2053	they weren't running for president
+T69	Claim 2297 2335	I'll use another forum besides Playboy
+T70	Premise 2179 2295	If I should ever decide in the future to discuss my - my deep Christian beliefs and uh - condemnation and sinfulness
+T71	Claim 2696 3011	I hope that we can leave those issues in this next ten days about personalities and mistakes of the past - we've both made some mistakes - and talk about unemployment, inflation, housing, education, taxation, government organization, stripping away of secrecy, and the things that are crucial to the American people
+T72	Premise 3013 3080	I regret the things in my own long campaign that have been mistaken
+T73	Claim 3086 3136	I'm trying to do away with those the last ten days
+T74	Claim 3214 3335	I believe that the uh - American people have been turned off in this election, uh - Mr. Maynard, for a variety of reasons
+T75	Premise 3337 3461	We have seen on Capitol Hill, in the Congress, uh - a great many uh - allegations of wrong-doing, of uh - alleged immorality
+T76	Premise 3468 3516	those are very disturbing to the American people
+T77	Premise 3518 3664	They wonder how an elected representative uh - can serve them and participate in such activities uh - serving in the Congress of the United States
+T78	Claim 3675 3755	I'm certain many, many Americans were turned off by the revelations of Watergate
+T79	Premise 3757 3823	a very, very uh - bad period of time in American political history
+T80	Claim 3834 3888	thousands, maybe millions of Americans were turned off
+T81	Premise 3889 3961	because of the uh - problems that came out of our involvement in Vietnam
+T82	Claim 3986 4051	I found on July fourth of this year, a new spirit born in America
+T83	Premise 4053 4089	We were celebrating our Bicentennial
+T84	Premise 4112 4203	there is a - a movement as I travel around the country of greater interest in this campaign
+T85	Claim 4590 4662	I think this election is one of the mast vital in the history of America
+T86	Claim -1 213; -1 213	I do make a pledge that in the next ten days when we're asking the American people to make one of the most important decisions in their lifetime that uh - we do together what we can to stimulate voter participation
+T87	Claim 4359 4430	I'm guilty of that just like I think most others in the political arena
+T88	Premise 4210 4354	like uh - any hardworking uh - person seeking public office uh - in the campaign, inevitably sometimes you will use uh - rather graphic language
+R1	Support Arg1:T49 Arg2:T48	
+R2	Support Arg1:T50 Arg2:T49	
+R3	Support Arg1:T52 Arg2:T55	
+R4	Support Arg1:T53 Arg2:T55	
+R5	Support Arg1:T54 Arg2:T55	
+R7	Support Arg1:T55 Arg2:T51	
+R6	Support Arg1:T58 Arg2:T56	
+R8	Support Arg1:T59 Arg2:T56	
+R9	Support Arg1:T60 Arg2:T56	
+R10	Support Arg1:T64 Arg2:T65	
+R11	Support Arg1:T67 Arg2:T66	
+R12	Support Arg1:T68 Arg2:T63	
+R13	Support Arg1:T63 Arg2:T56	
+R14	Support Arg1:T65 Arg2:T56	
+R15	Support Arg1:T70 Arg2:T69	
+R16	Support Arg1:T63 Arg2:T69	
+R17	Support Arg1:T69 Arg2:T56	
+R18	Support Arg1:T69 Arg2:T72	
+R19	Support Arg1:T63 Arg2:T72	
+R20	Support Arg1:T56 Arg2:T72	
+R21	Support Arg1:T72 Arg2:T73	
+R22	Support Arg1:T71 Arg2:T73	
+R23	Support Arg1:T76 Arg2:T74	
+R24	Support Arg1:T75 Arg2:T76	
+R25	Support Arg1:T75 Arg2:T74	
+R26	Support Arg1:T75 Arg2:T77	
+R27	Support Arg1:T76 Arg2:T77	
+R28	Support Arg1:T77 Arg2:T74	
+R29	Support Arg1:T78 Arg2:T74	
+R30	Support Arg1:T79 Arg2:T78	
+R31	Support Arg1:T80 Arg2:T74	
+R32	Support Arg1:T81 Arg2:T80	
+R33	Support Arg1:T83 Arg2:T82	
+R34	Support Arg1:T84 Arg2:T82	
+R35	Support Arg1:T88 Arg2:T87	

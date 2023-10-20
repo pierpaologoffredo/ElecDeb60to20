@@ -1,0 +1,76 @@
+T22	Claim 661 706	I wouldn't have taken any of the alternatives
+T23	Claim 726 752	I believe I made a mistake
+T24	Claim 793 908	There was one good thing that came out of that budget agreement, and that is we put a cap on discretionary spending
+T25	Claim 1084 1134	We've put a cap on the growth of all that spending
+T26	Claim 1140 1169	that's good and that's helped
+T27	Claim 1175 1186	I was wrong
+T28	Premise 1195 1291	I thought the tax compromise, going along with 1 Democratic tax increase, would help the economy
+T29	Premise 1293 1330	I see no evidence that it has done it
+T30	Claim 1385 1464	I should have held out for a better deal that would have protected the taxpayer
+T32	Claim 1687 1759	I knew we'd have somebody out there yelling "read my lips", and I did it
+T33	Premise 1768 1790	I thought it was right
+T35	Claim 1814 1892	That's quite different than taking a position where you know it's best for you
+T36	Premise 1894 1953	That wasn't best for me and I knew it in the very beginning
+T37	Premise 1955 2011	I thought it would be better for the country than it was
+T38	Claim 2290 2322	That's absolutely unconscionable
+T39	Premise 2186 2288	Nobody ever told the American people that we increased spending $1.83 for every dollar of taxes raised
+T40	Claim 2324 2383	Both parties carry a huge blame for that on their shoulders
+T41	Claim 2385 2427	This was not a way to pay down the deficit
+T42	Claim 2429 2468	This was a trick on the American people
+T43	Claim 2470 2491	That's not leadership
+T44	Premise 2081 2132	101 in leadership is be accountable for what you do
+T45	Premise 2563 2709	If you create Saddam Hussein, over a 10-year period, using billions of dollars of US taxpayer money, step up to the plate and say it was a mistake
+T46	Premise 2711 2801	If you create Noriega, using taxpayer money, step up to the plate and say it was a mistake
+T47	Premise 2803 3141	If you can't get your act together to pick him up one day when a Panamanian major has kidnapped him and a special forces team is 400 yards away and it's a stroll across the park to get him, and if you can't get your act together, at least pick up the Panamanian major, who they then killed, step up to the plate and admit it was a mistake
+T48	Claim 3143 3160	That's leadership
+T49	Claim 3175 3208	leaders will always make mistakes
+T50	Claim 3342 3365	We've gotta change that
+T52	Premise 3300 3340	nobody takes responsibility for anything
+T51	Claim 3526 3628	The mistake that was made was making the "read my lips" promise in the first place just to get elected
+T53	Premise 3630 3670	knowing what the size of the deficit was
+T54	Premise 3684 3724	Knowing what the size of the deficit was
+T55	Premise 3726 3780	knowing there was no plan to control health care costs
+T56	Premise 3785 3875	knowing that we did not have a strategy to get real economic growth back into this economy
+T57	Claim 3877 3907	The choices were not good then
+T58	Claim 3930 4033	the mistake that was made was signing off on the deal late on Saturday night in the middle of the night
+T60	Claim 4108 4371	I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong. I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time
+T59	Claim 4491 4557	The real mistake was the "read my lips" promise in the first place
+T61	Premise 4373 4464	He said it was in the public interest at the time and most everybody who was involved in it
+T62	Premise 4559 4691	You just can't promise something like that just to get elected if you know there's a good chance that circumstances may overtake you
+T19	Premise 910 1082	One-third of the president's budget is at the president's discretion, or really the Congress, since they appropriate every dime and tell a president how to spend every dime
+T1	Claim 1553 1569	I made a mistake
+T2	Claim 1796 1812	I made a mistake
+R1	Support Arg1:T19 Arg2:T24	
+R2	Support Arg1:T24 Arg2:T25	
+R3	Support Arg1:T26 Arg2:T25	
+R4	Support Arg1:T28 Arg2:T27	
+R5	Support Arg1:T29 Arg2:T27	
+R6	Equivalent Arg1:T27 Arg2:T23	
+R7	Equivalent Arg1:T1 Arg2:T27	
+R8	Support Arg1:T33 Arg2:T32	
+R9	Equivalent Arg1:T2 Arg2:T1	
+R10	Support Arg1:T36 Arg2:T35	
+R11	Support Arg1:T37 Arg2:T35	
+R12	Support Arg1:T39 Arg2:T38	
+R13	Support Arg1:T38 Arg2:T40	
+R14	Support Arg1:T41 Arg2:T40	
+R15	Support Arg1:T42 Arg2:T41	
+R16	Support Arg1:T39 Arg2:T43	
+R17	Support Arg1:T43 Arg2:T40	
+R18	Support Arg1:T45 Arg2:T48	
+R19	Support Arg1:T46 Arg2:T48	
+R20	Support Arg1:T47 Arg2:T48	
+R21	Support Arg1:T44 Arg2:T48	
+R22	Support Arg1:T52 Arg2:T50	
+R23	Support Arg1:T53 Arg2:T51	
+R24	Equivalent Arg1:T54 Arg2:T53	
+R25	Support Arg1:T56 Arg2:T51	
+R26	Support Arg1:T55 Arg2:T51	
+R27	Support Arg1:T57 Arg2:T51	
+R28	Equivalent Arg1:T59 Arg2:T51	
+R29	Support Arg1:T62 Arg2:T59	
+R30	Support Arg1:T61 Arg2:T60	
+R31	Support Arg1:T30 Arg2:T27	
+R32	Attack Arg1:T51 Arg2:T32	
+T3	Premise 4035 4105	That's just what the president did when he vetoed the Family Leave Act
+R33	Support Arg1:T3 Arg2:T58	

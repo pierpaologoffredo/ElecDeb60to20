@@ -1,0 +1,87 @@
+T617	Claim 681 715	we've got to reform our government
+T618	Claim 716 745	or we won't get anything done
+T619	Claim 747 785	We have a government that doesn't work
+T620	Premise 787 922	All these specific examples I'm giving tonight -- if you had a business like that, they'd be leading you away and boarding up the doors
+T622	Claim 1027 1072	The people need to take their government back
+T623	Claim 1003 1025	it comes at the people
+T624	Premise 964 1001	It's supposed to come from the people
+T625	Claim 1074 1103	You've got to reform Congress
+T626	Claim 1105 1151	they've got to be servants of the people again
+T627	Claim 1153 1189	you've got to reform the White House
+T628	Claim 1191 1226	We've got to turn this thing around
+T629	Claim 1337 1413	very specifically the key thing is to turn the government back to the people
+T630	Claim 1418 1499	take it away from the special interests and have people go to Washington to serve
+T631	Premise 1501 1578	Who can give themselves a 23% pay raise anywhere in the world except Congress
+T632	Premise 1580 1654	Who would have 1200 airplanes worth 2 billion a year just to fly around in
+T633	Premise 1656 1738	I don't have a free reserved parking place at Natl Airport, why should my servants
+T634	Premise 1740 1843	I don't have an indoor gymnasium and an indoor tennis and an indoor every other thing they can think of
+T635	Premise 1845 1971	I don't have a place where I can go make free TV to send to my constituents to try to brainwash them to elect me the next time
+T636	Claim 2018 2161	I'm going to be running an ad pretty soon that shows they promised us they were going to hold the line on spending at the tax and budget summit
+T637	Claim 2167 2252	I'm going to show how much they've increased this little stuff they do for themselves
+T638	Claim 2345 2389	I get up there, we're going to clean that up
+T639	Premise 2435 2508	I'll have millions of people at my shoulder, shoulder to shoulder with me
+T640	Claim 2514 2544	we will see it done work speed
+T641	Claim 2556 2566	it's wrong
+T642	Claim 2568 2604	We've turned the country upside down
+T643	Claim 2740 2788	I agree that we need to cut spending in Congress
+T644	Premise 2790 2862	I've called for a 25% reduction in congressional staffs and expenditures
+T645	Premise 2868 3005	the White House staff increased its expenditures by considerably more than Congress has in the last 4 years under the Bush administration
+T646	Premise 3011 3101	Congress has actually spent a billion dollars less than President Bush asked them to spend
+T647	Claim 3199 3295	The real problem in this country is that most people are working hard and falling farther behind
+T648	Claim 3297 3424	My passion is to pass a jobs program and get incomes up with an investment incentive program to grow jobs in the private sector
+T649	Claim 3426 3468	to waste less public money and invest more
+T650	Claim 3470 3498	to control health care costs
+T651	Claim 3503 3555	provide for affordable health care for all Americans
+T652	Claim 3560 3622	to make sure we've got the best trained workforce in the world
+T653	Claim 3624 3642	That is my passion
+T654	Claim 3645 3687	We've gotta get this country growing again
+T655	Claim 3692 3717	this economy strong again
+T656	Premise 3718 3752	or we can't bring down the deficit
+T657	Claim 3754 3810	Economic growth is the key to the future of this country
+T658	Claim 4072 4184	Reduce the White House staff by a 3rd after or at the same time the Congress does the same thing for their staff
+T659	Claim 4186 4228	Term limits for members of the US Congress
+T660	Claim 4230 4268	Give the government back to the people
+T661	Claim 4414 4471	how about a balanced budget amendment to the Constitution
+T662	Claim 5004 5101	that's the only protection the taxpayer has against some of these reckless pork programs up there
+T663	Claim 5107 5227	I'd rather be able to just line it right out of there and get on about passing some good stuff but leave out the garbage
+T664	Claim 5247 5284	there's a good reform program for you
+T665	Claim 4853 4937	That means you can take a line and cut out some of the pork out of a meaningful bill
+T1	Claim 924 962	We have a government that doesn't work
+R1	Support Arg1:T618 Arg2:T617	
+R2	Support Arg1:T619 Arg2:T617	
+R3	Support Arg1:T620 Arg2:T1	
+R4	Equivalent Arg1:T1 Arg2:T619	
+R5	Support Arg1:T624 Arg2:T622	
+R6	Support Arg1:T623 Arg2:T622	
+R7	Support Arg1:T1 Arg2:T622	
+R8	Support Arg1:T626 Arg2:T625	
+R9	Support Arg1:T626 Arg2:T627	
+R10	Support Arg1:T622 Arg2:T628	
+R11	Support Arg1:T619 Arg2:T628	
+R12	Support Arg1:T625 Arg2:T628	
+R13	Support Arg1:T627 Arg2:T628	
+R14	Support Arg1:T622 Arg2:T629	
+R15	Support Arg1:T631 Arg2:T630	
+R16	Support Arg1:T632 Arg2:T630	
+R17	Support Arg1:T633 Arg2:T630	
+R18	Support Arg1:T634 Arg2:T630	
+R19	Support Arg1:T635 Arg2:T630	
+R20	Support Arg1:T637 Arg2:T630	
+R21	Support Arg1:T630 Arg2:T638	
+R22	Support Arg1:T641 Arg2:T640	
+R23	Support Arg1:T639 Arg2:T640	
+R24	Support Arg1:T642 Arg2:T638	
+R25	Support Arg1:T642 Arg2:T628	
+R26	Support Arg1:T644 Arg2:T643	
+R27	Support Arg1:T646 Arg2:T645	
+R28	Support Arg1:T648 Arg2:T653	
+R29	Support Arg1:T649 Arg2:T653	
+R30	Support Arg1:T650 Arg2:T653	
+R31	Support Arg1:T651 Arg2:T653	
+R32	Support Arg1:T652 Arg2:T653	
+R33	Support Arg1:T656 Arg2:T655	
+R34	Support Arg1:T657 Arg2:T655	
+R35	Support Arg1:T654 Arg2:T653	
+R36	Support Arg1:T665 Arg2:T662	
+R37	Support Arg1:T664 Arg2:T663	
+R38	Support Arg1:T643 Arg2:T625	

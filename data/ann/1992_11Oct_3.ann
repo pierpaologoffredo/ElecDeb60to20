@@ -1,0 +1,82 @@
+T124	Claim 753 796	that is where my income limit would trigger
+T125	Premise 378 462	The tax increase I have proposed triggers in at family incomes of $200,000 and above
+T126	Premise 464 553	Those are the people who in the 1980s had their incomes go up while their taxes went down
+T127	Premise 555 748	Middle-class people, defined as people with incomes of $52,000 and down, had their incomes go down while their taxes went up in the Reagan-Bush years because of 6 increases in the payroll taxes
+T128	Premise 942 1016	my plan triggers in at gross incomes, family incomes of $200,000 and above
+T129	Claim -1 43; -1 43	There will be no tax increases below 200,000
+T130	Premise 1023 1174	we want to give modest middle-class tax relief to restore some fairness, especially to middle- class people with families with incomes of under $60,000
+T131	Claim 1197 1433	the money that I raise from upper-income people and from asking foreign corporations just to pay the same income on their income earned in America that American corporations do will be used to give incentives back to upper-income people
+T132	Premise 1504 1602	like President Kennedy and the Congress inaugurated in the early '60s to get industry moving again
+T133	Premise 1604 1641	a research and development tax credit
+T134	Premise 1643 1674	a low-income housing tax credit
+T135	Premise 1676 1751	a long-term capital gains proposal for new business and business expansions
+T136	Claim 1753 1791	We've got to have no more trickle down
+T137	Claim 1793 1860	We don't need across-the-board tax cuts for the wealthy for nothing
+T138	Claim 1862 1954	We need to say here's your tax incentive: if you create American jobs, the old-fashioned way
+T139	Claim 1956 2040	I'd like to create more millionaires than were created under Mr. Bush and Mr. Reagan
+T140	Claim 2046 2120	I don't want to have 4 years where we have no growth in the private sector
+T141	Premise 2126 2168	that's what's happened in the last 4 years
+T142	Premise 2170 2214	We're down 35,000 jobs in the private sector
+T143	Claim 2216 2242	We need to invest and grow
+T144	Claim 2248 2272	that's what I want to do
+T145	Claim 2366 2404	I didn't question the man's patriotism
+T146	Claim 2406 2449	I questioned his judgment and his character
+T147	Claim 2451 2485	What he did in Moscow, that's fine
+T148	Premise 2487 2505	Let him explain it
+T149	Premise 2507 2513	He did
+T150	Premise 2515 2528	I accept that
+T151	Claim 2530 2644	What I don't accept is demonstrating and organizing demonstrations in a foreign country when your country's at war
+T152	Claim 2657 2677	I cannot accept that
+T153	Claim 2755 2857	I do not believe we need to go back to the Mondale proposals or the Dukakis proposals of tax and spend
+T154	Premise 2859 2937	Governor Clinton says $200,000 but he also says he wants to raise $150 billion
+T155	Claim 2939 2996	Taxing people over $200,000 will not get you $150 billion
+T156	Claim 3007 3105	when you add in his other spending proposals, regrettably you end up socking it to the working man
+T157	Premise 3107 3284	That old adage they use--we're going to soak the rich- -we're going to soak the rich--it always ends up being the poor cab driver or the working man that ends up paying the bill
+T158	Claim 3293 3325	I just have a different approach
+T159	Claim 3327 3468	I believe the way to get the deficit down is to control the growth of mandatory spending programs, and not raise taxes on the American people
+T160	Claim 3556 3644	We've got to have a growing, expanding job base to give us a growing, expanding tax base
+T161	Premise 3646 3696	Right now we have a flat to deteriorating job base
+T162	Claim 3760 3800	we've got to really rebuild our job base
+T163	Claim 3802 3873	That's going to take money for infrastructure and investment to do that
+T164	Claim 3875 3911	Our foreign competitors are doing it
+T165	Claim 3913 3922	we're not
+T166	Claim 3924 4089	We cannot pay off the $4 trillion debt, balance the budget and have the industries of the future and the high- paying jobs in this country without having the revenue
+T167	Claim 4091 4145	We're going to go through a period of shared sacrifice
+T168	Claim 4248 4269	we have got to fix it
+T576	Claim 1435 1502	I want to give people permanent incentives on investment tax credit
+T577	Premise 3701 3755	where it appears to be growing, it's minimum-wage jobs
+T578	Premise 4191 4211	We've created a mess
+T579	Premise 4213 4243	don't have much to show for it
+R1	Support Arg1:T126 Arg2:T125	
+R2	Support Arg1:T125 Arg2:T124	
+R3	Support Arg1:T130 Arg2:T128	
+R4	Equivalent Arg1:T128 Arg2:T125	
+R5	Support Arg1:T128 Arg2:T131	
+R6	Support Arg1:T576 Arg2:T131	
+R7	Support Arg1:T132 Arg2:T576	
+R8	Support Arg1:T133 Arg2:T576	
+R9	Support Arg1:T134 Arg2:T576	
+R11	Support Arg1:T137 Arg2:T136	
+R12	Support Arg1:T138 Arg2:T137	
+R13	Support Arg1:T141 Arg2:T140	
+R14	Support Arg1:T142 Arg2:T141	
+R16	Support Arg1:T144 Arg2:T143	
+R17	Support Arg1:T146 Arg2:T145	
+R20	Support Arg1:T149 Arg2:T150	
+R18	Equivalent Arg1:T151 Arg2:T152	
+R19	Support Arg1:T151 Arg2:T146	
+R21	Support Arg1:T154 Arg2:T155	
+R22	Attack Arg1:T155 Arg2:T131	
+R23	Support Arg1:T157 Arg2:T156	
+R24	Support Arg1:T158 Arg2:T159	
+R25	Support Arg1:T577 Arg2:T161	
+R26	Support Arg1:T161 Arg2:T162	
+R27	Support Arg1:T160 Arg2:T162	
+R28	Support Arg1:T162 Arg2:T163	
+R29	Support Arg1:T166 Arg2:T167	
+R30	Support Arg1:T578 Arg2:T168	
+R31	Support Arg1:T579 Arg2:T578	
+R32	Support Arg1:T167 Arg2:T168	
+R33	Support Arg1:T127 Arg2:T124	
+R10	Attack Arg1:T140 Arg2:T139	
+R15	Support Arg1:T579 Arg2:T168	

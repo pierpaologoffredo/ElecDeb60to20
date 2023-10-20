@@ -1,0 +1,114 @@
+T363	Claim 1104 1172	the first bill I signed was something called the Lily Ledbetter bill
+T364	Premise 1372 1458	she should have found about it earlier, whereas she had no way of finding out about it
+T365	Claim 1312 1363	the Supreme Court said that she couldn't bring suit
+T366	Claim 1178 1306	it's named after this amazing woman who had been doing the same job as a man for years, found out that she was getting paid less
+T367	Premise 466 561	I was raised by a single mom who had to put herself through school while looking after two kids
+T368	Premise 567 662	she worked hard every day and made a lot of sacrifices to make sure we got everything we needed
+T369	Premise 664 720	My grandmother, she started off as a secretary in a bank
+T370	Premise 722 755	She never got a college education
+T371	Premise 798 862	she worked her way up to become a vice president of a local bank
+T372	Premise 868 893	she hit the glass ceiling
+T373	Premise 895 982	She trained people who would end up becoming her bosses during the course of her career
+T374	Premise 984 1003	She didn't complain
+T375	Claim 1005 1047	That's not what you did in that generation
+T376	Claim 1463 1476	we fixed that
+T377	Claim 2749 2816	I'm going to continue to push on this issue for the next four years
+T378	Claim 1482 1536	that's an example of the kind of advocacy that we need
+T379	Premise 1546 1599	women are increasingly the breadwinners in the family
+T380	Claim 1704 1729	we've got to fight for it
+T381	Premise 1601 1633	This is not just a women's issue
+T382	Claim 1635 1657	this is a family issue
+T383	Claim 1659 1687	this is a middle-class issue
+T384	Claim 1751 1844	we've got to make sure that young people like yourself are able to afford a college education
+T385	Premise 1855 1960	Governor Romney talked about he wants to make Pell Grants and other education accessible for young people
+T386	Claim 2005 2035	that's exactly what we've done
+T387	Premise 2037 2086	We've expanded Pell Grants for millions of people
+T388	Claim 2540 2569	we've got to enforce the laws
+T389	Premise 2585 2597	we are doing
+T390	Claim 2603 2691	we've also got to make sure that in every walk of life we do not tolerate discrimination
+T391	Premise 2148 2257	We did it by taking $60 billion that was going to banks and lenders as middlemen for the student loan program
+T392	Claim 2372 2433	we've seen millions of young people be able to afford college
+T393	Premise 2439 2533	that's going to make sure that young women are going to be able to compete in that marketplace
+T394	Claim 5738 5857	I'm going to help women in America get good work by getting a stronger economy and by supporting women in the workforce
+T395	Claim 3937 3997	I was able to get so many good women to be part of that team
+T396	Premise 4013 4034	our recruiting effort
+T397	Premise 4060 4168	I recognized that if you're going to have women in the workforce that sometimes you need to be more flexible
+T398	Premise 4534 4590	We're going to have to have employers in the new economy
+T399	Premise 4635 4728	that are going to be so anxious to get good workers they're going to be anxious to hire women
+T400	Premise 5417 5486	an economy with 7.8 percent unemployment is not a real strong economy
+T401	Premise 5491 5566	economy that has 23 million people looking for work is not a strong economy
+T402	Premise 5572 5707	economy with 50 percent of kids graduating from college that can't finds a job, or a college level job, that's not what we have to have
+T403	Claim 4840 4869	We're still down 580,000 jobs
+T404	Premise 4740 4838	in the last women have lost 580,000 jobs. That's the net of what's happened in the last four years
+T405	Claim 4950 5029	we can do to help young women and women of all ages is to have a strong economy
+T406	Premise 5031 5134	so strong that employers that are looking to find good employees and bringing them into their workforce
+T407	Premise 5139 5254	adapting to a flexible work schedule that gives women opportunities that they would otherwise not be able to afford
+T408	Claim 5321 5365	I know what it takes to make an economy work
+T409	Claim 5371 5411	I know what a working economy looks like
+T410	Premise 5257 5281	This is what I have done
+T411	Claim 6114 6176	that's not the kind of advocacy that women need in any economy
+T412	Premise 5978 6075	when Governor Romney's campaign was asked about the Lilly Ledbetter bill, whether he supported it
+T413	Premise 6077 6107	He said, "I'll get back to you
+T414	Claim 6183 6268	there are some other issues that have a bearing on how women succeed in the workplace
+T415	Premise 6283 6299	their healthcare
+T416	Claim 6475 6499	I think that's a mistake
+T417	Claim 6501 6618	In my health care bill, I said insurance companies need to provide contraceptive coverage to everybody who is insured
+T418	Premise 6628 6664	this is not just a -- a health issue
+T419	Claim 6666 6698	it's an economic issue for women
+T420	Premise 6310 6473	a major difference in this campaign is that Governor Romney feels comfortable having politicians in Washington decide the health care choices that women are making
+T421	Premise 6723 6764	This is money out of that family's pocket
+T422	Premise 6766 6801	Governor Romney not only opposed it
+T423	Claim 6803 6953	he suggested that in fact employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage
+T424	Claim 6956 7003	That's not the kind of advocacy that women need
+T425	Premise 7005 7086	When Governor Romney says that we should eliminate funding for Planned Parenthood
+T426	Premise 7088 7267	there are millions of women all across the country, who rely on Planned Parenthood for, not just contraceptive care, they rely on it for mammograms, for cervical cancer screenings
+T427	Claim 7269 7340	That's a pocketbook issue for women and families all across the country
+T428	Premise 7346 7427	it makes a difference in terms of how well and effectively women are able to work
+T429	Claim 7893 7975	I want to make sure that they have the same opportunities that anybody's sons have
+T430	Premise 7866 7888	I've got two daughters
+T431	Premise 7977 8047	That's part of what I'm fighting for as president of the United States
+T432	Claim 7691 7772	one of the things that makes us grow as an economy is when everybody participates
+T433	Claim 7777 7824	women are getting the same fair deal as men are
+R1	Support Arg1:T374 Arg2:T375	
+R2	Support Arg1:T366 Arg2:T363	
+R3	Support Arg1:T364 Arg2:T365	
+R4	Support Arg1:T379 Arg2:T378	
+R5	Support Arg1:T381 Arg2:T382	
+R6	Support Arg1:T382 Arg2:T380	
+R7	Support Arg1:T383 Arg2:T380	
+R8	Support Arg1:T368 Arg2:T367	
+R9	Support Arg1:T370 Arg2:T369	
+R10	Support Arg1:T387 Arg2:T386	
+R11	Support Arg1:T385 Arg2:T386	
+R12	Support Arg1:T391 Arg2:T387	
+R13	Support Arg1:T393 Arg2:T392	
+R14	Support Arg1:T389 Arg2:T388	
+R15	Support Arg1:T390 Arg2:T377	
+R16	Support Arg1:T388 Arg2:T377	
+R17	Support Arg1:T380 Arg2:T377	
+R18	Support Arg1:T396 Arg2:T395	
+R19	Support Arg1:T397 Arg2:T395	
+R20	Support Arg1:T399 Arg2:T398	
+R21	Support Arg1:T404 Arg2:T403	
+R22	Support Arg1:T406 Arg2:T405	
+R23	Support Arg1:T407 Arg2:T405	
+R24	Support Arg1:T410 Arg2:T405	
+R25	Support Arg1:T409 Arg2:T408	
+R26	Support Arg1:T400 Arg2:T409	
+R27	Support Arg1:T401 Arg2:T409	
+R28	Support Arg1:T402 Arg2:T409	
+R29	Support Arg1:T408 Arg2:T394	
+R30	Support Arg1:T412 Arg2:T413	
+R31	Support Arg1:T413 Arg2:T411	
+R32	Support Arg1:T415 Arg2:T414	
+R33	Support Arg1:T420 Arg2:T416	
+R34	Support Arg1:T416 Arg2:T417	
+R35	Support Arg1:T418 Arg2:T419	
+R36	Support Arg1:T419 Arg2:T417	
+R37	Support Arg1:T421 Arg2:T419	
+R38	Support Arg1:T422 Arg2:T423	
+R39	Attack Arg1:T424 Arg2:T423	
+R40	Attack Arg1:T426 Arg2:T425	
+R41	Support Arg1:T426 Arg2:T427	
+R42	Support Arg1:T430 Arg2:T429	
+R43	Support Arg1:T431 Arg2:T429	

@@ -1,0 +1,74 @@
+T1	Premise 1110 1248	I would make sure that the people in the cabinet and the people that are advisors to the president are called in, and I would talk to them
+T2	Claim 1254 1275	I will work with them
+T3	Claim 1281 1318	I will know them on a firsthand basis
+T4	Claim 1328 1389	as vice president I will sit on the National Security Council
+T5	Claim 1395 1432	I will know them on a firsthand basis
+T6	Claim 1442 1486	I'm going to be coordinating the drug effort
+T7	Claim 1488 1525	I will know them on a firsthand basis
+T8	Claim 1534 1599	Vice President George Bush is going to recreate the Space Council
+T9	Claim 1605 1632	I will be in charge of that
+T10	Claim 1634 1701	I will have day-to-day activities with all the people in government
+T11	Claim 1809 1911	I will be prepared to carry out the responsibilities of the presidency of the United States of America
+T13	Claim 1917 1946	I will be prepared to do that
+T14	Claim 1948 2067	I will be prepared not only because of my service in the Congress, but because of my ability to communicate and to lead
+T15	Claim 2069 2126	It is not just age; it's accomplishments, it's experience
+T16	Claim 2128 2228	I have far more experience than many others that sought the office of vice president of this country
+T17	Claim 2230 2321	I have as much experience in the Congress as Jack Kennedy did when he sought the presidency
+T18	Claim 2323 2436	I will be prepared to deal with the people in the Bush administration, if that unfortunate event would ever occur
+T19	Premise 2476 2511	Senator, I served with Jack Kennedy
+T20	Premise 2513 2532	I knew Jack Kennedy
+T21	Premise 2534 2567	Jack Kennedy was a friend of mine
+T22	Claim 2569 2601	Senator, you are no Jack Kennedy
+T24	Premise 2935 2960	I'm one who knew him well
+T25	Claim 2974 3099	I think you are so far apart in the objectives you choose for your country that I did not think the comparison was well-taken
+T26	Claim 3570 3645	Tom, that's one of the toughest problems that any chief executive will face
+T27	Premise 3655 3740	you can't help but have sympathy for that family, and for those hostages in the cells
+T28	Claim 3746 3849	the one thing we ought to know by now is that you can't go out and make secret deals with the Ayatollah
+T29	Claim 3851 3884	you can't trade arms for hostages
+T30	Premise 3886 3982	When you try to do that there is no question but what you just encourage more taking of hostages
+T31	Claim 3988 4075	that's been the result by this dumb idea that was cooked up in the White House basement
+T32	Premise 4081 4193	I want to tell you that George Bush, attending seventeen of those meetings, and having no record of what he said
+T33	Claim 4196 4312	if Lloyd Bentsen was in those meetings, you would certainly hear from him and no one would be asking: Where is Lloyd
+T34	Premise 4344 4381	I would be saying: That's a dumb idea
+T35	Claim 4419 4457	I would speak up on that type of thing
+T36	Claim 4628 4717	that's what you would strive to do to have a successful release finally of those hostages
+T37	Claim 4723 4763	not to encourage more taking of hostages
+T38	Claim 4801 4858	There's no doubt about it that arms for hostages is wrong
+T39	Claim 4864 4889	it will never be repeated
+T40	Premise 4892 4916	we learn by our mistakes
+T41	Claim 4922 5000	there have been a number of successes in foreign policy in this administration
+T42	Claim 5133 5152	we will keep trying
+T43	Claim 5154 5179	we'll keep the doors open
+T44	Claim 5185 5303	hopefully some day Iran and others who control those hostages will want to return to civilized international community
+T45	Claim 5309 5392	they can do that, starting now, by releasing those hostages that are held illegally
+R1	Equivalent Arg1:T3 Arg2:T5	
+R2	Support Arg1:T4 Arg2:T3	
+R3	Support Arg1:T6 Arg2:T5	
+R4	Equivalent Arg1:T7 Arg2:T5	
+R5	Support Arg1:T9 Arg2:T7	
+R6	Support Arg1:T8 Arg2:T7	
+R7	Support Arg1:T1 Arg2:T13	
+R8	Support Arg1:T7 Arg2:T13	
+R9	Equivalent Arg1:T11 Arg2:T13	
+R10	Support Arg1:T10 Arg2:T13	
+R11	Support Arg1:T14 Arg2:T13	
+R12	Support Arg1:T15 Arg2:T13	
+R13	Support Arg1:T16 Arg2:T13	
+R14	Support Arg1:T17 Arg2:T13	
+R15	Equivalent Arg1:T18 Arg2:T13	
+R16	Attack Arg1:T22 Arg2:T17	
+R17	Support Arg1:T19 Arg2:T22	
+R18	Support Arg1:T20 Arg2:T22	
+R19	Support Arg1:T21 Arg2:T22	
+R20	Support Arg1:T25 Arg2:T22	
+R21	Support Arg1:T24 Arg2:T25	
+R22	Support Arg1:T29 Arg2:T28	
+R23	Support Arg1:T30 Arg2:T29	
+R24	Attack Arg1:T33 Arg2:T32	
+R25	Attack Arg1:T34 Arg2:T32	
+R26	Support Arg1:T34 Arg2:T35	
+R27	Support Arg1:T31 Arg2:T35	
+T12	Claim 4462 4553	all you can do in that is to continue to push, use every bit of diplomatic pressure you can
+T23	Claim 4555 4622	what you can do in the way of economic pressure in addition to that
+R28	Support Arg1:T40 Arg2:T39	
+R29	Support Arg1:T38 Arg2:T39	

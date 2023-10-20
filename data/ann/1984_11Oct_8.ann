@@ -1,0 +1,116 @@
+T461	Claim 680 803	I think what happens is when you try to equate whether or not I have had military experience, that's the natural conclusion
+T465	Claim 1200 1384	I don't think the Soviet Union for one minute can sit down and make determination on what I will do if I'm ever in a position to have to do something with reference to the Soviet Union
+T466	Claim 1400 1514	I'm prepared to do whatever is necessary in order to secure this country and make sure that security is maintained
+T467	Claim 1526 1800	if the Soviet Union were to ever believe that they could challenge the United States with any sort of nuclear forces or otherwise, if I were in a position of leadership in this country, they would be assured that they would be met with swift, concise and certain retaliation
+T468	Claim 1872 1975	I think as a leader that what one has to do is get to the point where you're not put into that position
+T469	Claim 2182 2293	I think that if you were to take a look at the failures of this administration that would have to be number one
+T470	Claim 2295 2361	I will not put myself in that position as a leader in this country
+T471	Claim 2363 2419	I will move immediately toward arms control negotiations
+T473	Claim 2128 2180	that's not what's been done over the past four years
+T474	Claim 2819 2866	we are not doing anything to stop the arms race
+T475	Claim 2892 3012	if we keep talking about military inferiority - which we do not have, we are at a comparable level with the Soviet Union
+T476	Premise 3014 3101	our Joint Chiefs of Staff have said they'd never exchange our military power for theirs
+T477	Claim 3103 3243	I guess the thing that I'd want is a commitment that pretty soon they're going to do something about making this a safer world for all of us
+T478	Claim 3635 3691	I think his strategy not only was correct but is correct
+T479	Premise 3739 3863	when we came into office, the American people recognized that we had slipped into positions of inferiority on various things
+T480	Premise 3693 3728	You've got to go back where we were
+T482	Claim 4073 4162	we have had to strengthen the military and we're well on the way to getting that job done
+T485	Claim 3981 4022	you had a major problem with the military
+T486	Claim 4034 4068	the morale wasn't very good either
+T488	Premise 4402 4456	The Strategic Arms Reduction Talks were good proposals
+T489	Premise 4462 4497	it's the Soviets who left the table
+T490	Claim 4558 4600	I wish the Soviet Union had continued them
+T491	Premise 4499 4552	The Intermediate Nuclear Force Talks were sound talks
+T492	Premise 4602 4656	The chemical weapon treaty to ban all chemical weapons
+T493	Claim 4658 4696	it was our initiative, not the Soviets
+T494	Claim 4702 4832	we wish they would think anew and move forward to verification so everybody would know whether the other side was keeping its word
+T495	Claim 4839 4892	much more important, you'd reduce the level of terror
+T496	Premise 5059 5178	I've met with Mr. Andropov and Mr. Chernenko, and we mention and we try to do something about the human rights question
+T497	Premise 5018 5057	We've talked to them about human rights
+T498	Premise 5180 5236	The suppression of Soviet Jews is absolutely intolerable
+T499	Claim 5244 5336	we have to keep pushing forward on the moral grounds as well as on the arms reduction ground
+T500	Premise 5369 5399	this president has been strong
+T501	Premise 5413 5443	we've addressed the imbalances
+T502	Claim 5450 5499	I think we're very close to getting that job done
+T503	Premise 5502 5544	the Soviets are more likely to make a deal
+T504	Premise 5546 5629	The Soviets made an ABM treaty when they felt we were going to deploy an ABM system
+T505	Claim 5634 5664	I am optimistic for the future
+T506	Claim 5666 5829	once they realize that they will have this strong, principled president to negotiate with, strong leadership, and yet with demonstrable flexibility on arms control
+T508	Claim 6170 6324	the Reagan-Bush administration is so different from the Carter-Mondale [sic] administration that the American people are going to have the clearest choice
+T509	Claim 6682 6723	I'd like to hear her talk on those things
+T510	Claim 6543 6623	another option - keep this recovery going until it benefits absolutely everybody
+T512	Claim 6326 6538	It's a question of going back to the failed ideas of the past, where we came in - 21% percent on those interest rates, inflation, despair, malaise, no leadership, blaming the American people for failed leadership
+T513	Claim 6864 6976	I think the vice-president's comment about the Carter-Mondale administration really typifies this administration
+T514	Claim 7073 7123	I'm also tickled by their comments on human rights
+T515	Claim 6978 7055	It's an administration that looks backwards, not forwards and into the future
+T516	Claim 7125 7183	The Soviet Union in 1979 allowed 51,000 people to emigrate
+T517	Premise 7194 7326	in large measure, this administration's policies over the past four years, 1,313 people got out of the Soviet Union in 1983 and 1984
+T518	Claim 7328 7425	That's not a great record on human rights and certainly not a record on human rights achievements
+T519	Premise 7427 7482	This administration spent a trillion dollars on defense
+T520	Claim 7488 7544	it hasn't gotten a trillion dollars on national security
+T433	Claim 805 966	It's about as valid as saying that you would have to be black in order to despise racism, that you'd have to be female in order to be terribly offended by sexism
+T449	Claim 972 990	that's just not so
+T460	Claim 1112 1198	I think that the people of this country can rely upon the fact that I will be a lender
+T462	Claim 992 1109	I think if you take a look at where I've been, both in the Congress and where I intend to go, the type of person I am
+T463	Claim -1 107; -1 107	the way you to that position of rnoving away from having to make a decision is by moving toward arms control
+T464	Claim 2679 2798	I guess the concern that I have is a concern not only as a vice-presidential candidate but as a citizen in this country
+T472	Claim 3631 3633	No
+T481	Claim 3865 3940	Some of our planes, as the president points out, were older than the pilots
+T696	Claim 3942 3975	ships that couldn't go out to sea
+T483	Claim 4164 4273	America is back in terms of military strength, in terms of our ability to deter aggression and keep the peace
+T484	Premise -1 77; -1 77	we have made proposals and proposals and proposals on reducing nuclear weapons
+T487	Premise 6625 6680	Peace at home - peace abroad - prosperity - opportunity
+R1	Attack Arg1:T433 Arg2:T461	
+R2	Support Arg1:T433 Arg2:T449	
+R3	Support Arg1:T462 Arg2:T460	
+R4	Support Arg1:T467 Arg2:T466	
+T1	Premise 1981 2123	the way you to that position of rnoving away from having to make a decision - armed force or anything else - is by moving toward arms control.
+R5	Support Arg1:T1 Arg2:T468	
+R6	Attack Arg1:T1 Arg2:T473	
+R7	Support Arg1:T473 Arg2:T469	
+R8	Attack Arg1:T470 Arg2:T469	
+R9	Support Arg1:T471 Arg2:T470	
+R10	Support Arg1:T471 Arg2:T1	
+R11	Support Arg1:T464 Arg2:T474	
+R12	Support Arg1:T476 Arg2:T475	
+R13	Attack Arg1:T477 Arg2:T474	
+R14	Support Arg1:T479 Arg2:T480	
+R15	Support Arg1:T480 Arg2:T478	
+R16	Support Arg1:T486 Arg2:T485	
+R17	Support Arg1:T481 Arg2:T485	
+R18	Support Arg1:T696 Arg2:T485	
+R19	Support Arg1:T483 Arg2:T482	
+R20	Support Arg1:T485 Arg2:T480	
+R21	Attack Arg1:T482 Arg2:T485	
+R22	Attack Arg1:T488 Arg2:T489	
+R23	Attack Arg1:T492 Arg2:T493	
+R24	Attack Arg1:T491 Arg2:T490	
+T2	Claim 4302 4400	we have made proposals and proposals and proposals - sound proposals - on reducing nuclear weapons
+R25	Support Arg1:T488 Arg2:T2	
+R26	Support Arg1:T491 Arg2:T2	
+R27	Support Arg1:T492 Arg2:T2	
+R28	Attack Arg1:T489 Arg2:T494	
+R29	Support Arg1:T494 Arg2:T495	
+T3	Claim 4905 5016	we're reducing - trying to talk to them, and are talking to them, in Vienna, about conventional force reduction
+R30	Support Arg1:T497 Arg2:T496	
+R31	Support Arg1:T496 Arg2:T498	
+R32	Support Arg1:T498 Arg2:T499	
+R33	Support Arg1:T3 Arg2:T499	
+R34	Support Arg1:T500 Arg2:T502	
+R35	Support Arg1:T501 Arg2:T502	
+R36	Support Arg1:T503 Arg2:T502	
+R37	Support Arg1:T504 Arg2:T502	
+R38	Support Arg1:T505 Arg2:T506	
+R39	Support Arg1:T502 Arg2:T505	
+R40	Attack Arg1:T508 Arg2:T512	
+R41	Support Arg1:T508 Arg2:T510	
+R42	Attack Arg1:T510 Arg2:T512	
+R43	Support Arg1:T487 Arg2:T510	
+R44	Support Arg1:T509 Arg2:T510	
+R45	Attack Arg1:T513 Arg2:T512	
+R46	Attack Arg1:T513 Arg2:T515	
+R47	Attack Arg1:T513 Arg2:T514	
+R48	Support Arg1:T517 Arg2:T516	
+R49	Support Arg1:T518 Arg2:T514	
+R50	Attack Arg1:T518 Arg2:T517	
+R51	Attack Arg1:T520 Arg2:T519	

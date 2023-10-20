@@ -1,0 +1,83 @@
+T158	Claim 161 214	many Americans uh - still seem to be uneasy about you
+T159	Premise 221 285	they don't feel that uh - they know you or the people around you
+T160	Premise 320 448	you haven't reached out to bring people of broad background or national experience into your campaign or your presidential plans
+T161	Premise 450 545	Most of the people around you on a day-to-day basis are the people you've kno- known in Georgia
+T162	Premise 547 618	Many of them are young and relatively inexperienced in national affairs
+T163	Claim 811 834	I don't believe it does
+T164	Premise 841 887	I began campaigning uh - twenty-two months ago
+T165	Premise 889 939	At that time, nobody thought I had a chance to win
+T166	Premise 946 976	very few people knew who I was
+T167	Claim 2139 2221	I think this should be indicative of the kind of leaders I would choose to help me
+T168	Premise 2222 2237	if I am elected
+T169	Premise 2239 2269	I chose Senator Walter Mondale
+T170	Claim 2275 2435	the only criterion I ever put forward in my own mind was who among the several million people in this country would be the best person qualified to be president
+T171	Premise 2437 2469	if something should happen to me
+T172	Claim 2474 2508	to join me in being vice president
+T173	Premise 2509 2538	if I should serve out my term
+T174	Claim 2652 2738	I believe this is a good indication of the kind of people I would choose in the future
+T175	Claim 3219 3264	I think this is indicative of what I would do
+T176	Claim 2611 2646	Walter Mondale was the right choice
+T177	Premise 978 1022	I came from a tiny town, as you know, Plains
+T178	Premise 1028 1053	didn't hold public office
+T179	Premise 1055 1082	didn't have very much money
+T180	Premise 1088 1198	my first organization was just four or five people plus my wife and my children, my three sons and their wives
+T181	Premise 1204 1380	we won the nomination by going out into the streets - barbershops, beauty parlors, restaurants, stores, in factory shift lines also in farmers' markets and livestock sale barns
+T182	Premise 1387 1464	we talked a lot and we listened a lot and we learned from the American people
+T183	Premise 1470 1674	we built up uh - an awareness among the uh - voters of this country, particularly those in whose primaries I entered - thirty of them, nobody's ever done that before - about who I was and what I stood for
+T184	Premise 1676 1909	Now we have a very, very wide-ranging group of advisers who help me prepare for these debates and who teach me about international economics, and foreign affairs, defense matters, health, education, welfare, government reorganization
+T185	Premise 1911 1943	I'd say, several hundred of them
+T186	Premise 1949 1992	they're very fine and very highly qualified
+T187	Premise 3012 3103	I feel completely at ease knowing that someday Senator Mondale might very well be president
+T188	Premise 3105 3213	In the last five pres- vice presidential uh - nominees, uh - incumbents, three of them have become president
+T189	Claim 3431 3554	it was a well-established criteria that the person I selected would be fully qualified to be president of the United States
+T190	Claim 3560 3592	Senator Bob Dole is so qualified
+T191	Premise 3594 3657	sixteen years in the House of Representatives and in the Senate
+T192	Premise 3665 3715	very high responsibilities on important committees
+T193	Claim 4091 4234	I don't think that's a proper way to describe aayuh- chairman of the Joint Chiefs of Staff who has fought for his country for thirty-five years
+T194	Claim 4296 4449	I think Senator Dole would show more good judgment and discretion than to so describe uh - a heroic and brave and very outstanding leader of the military
+T195	Claim 4454 4533	I think our selection uh - of Bob Dole as vice president uh - is based on merit
+T196	Claim 4707 4779	I think he would do an outstanding job as president of the United States
+T197	Premise 4539 4603	if he should ever become uh - the president of the United States
+T198	Premise 4605 4705	with his vast experience as member the House and a member of the Senate, as well as a vice president
+T199	Premise 3779 3976	I was uh - very, very surprised when I read that uh - Senator Mondale made a very derogatory, very personal comment about General Brown uh - after the news story that uh - broke about General Brown
+T200	Premise 3978 4089	If my recollection is correct he indicated that uh - General Brown was not qualified to be a sewer commissioner
+R1	Support Arg1:T159 Arg2:T158	
+R2	Support Arg1:T160 Arg2:T158	
+R3	Support Arg1:T161 Arg2:T159	
+R4	Support Arg1:T161 Arg2:T158	
+R5	Support Arg1:T177 Arg2:T166	
+R6	Support Arg1:T178 Arg2:T166	
+R7	Support Arg1:T179 Arg2:T166	
+R8	Support Arg1:T166 Arg2:T165	
+R9	Support Arg1:T177 Arg2:T165	
+R10	Support Arg1:T178 Arg2:T165	
+R11	Support Arg1:T179 Arg2:T165	
+R12	Support Arg1:T180 Arg2:T166	
+R13	Support Arg1:T180 Arg2:T165	
+R14	Support Arg1:T182 Arg2:T183	
+R15	Support Arg1:T184 Arg2:T185	
+R16	Support Arg1:T169 Arg2:T167	
+R17	Support Arg1:T171 Arg2:T170	
+R18	Support Arg1:T173 Arg2:T172	
+R19	Support Arg1:T176 Arg2:T169	
+R20	Support Arg1:T169 Arg2:T174	
+R21	Support Arg1:T176 Arg2:T174	
+R22	Support Arg1:T170 Arg2:T187	
+R23	Support Arg1:T187 Arg2:T169	
+R24	Support Arg1:T172 Arg2:T187	
+R25	Support Arg1:T188 Arg2:T187	
+R26	Equivalent Arg1:T175 Arg2:T174	
+R27	Support Arg1:T176 Arg2:T175	
+R28	Support Arg1:T169 Arg2:T175	
+T1	Claim 2842 3011	I've never heard Mr. Ford say that that was his prim- primary consideration - Who is the best person I could choose in this country to be president of the United States?
+R29	Attack Arg1:T189 Arg2:T1	
+R30	Support Arg1:T191 Arg2:T190	
+R31	Support Arg1:T192 Arg2:T190	
+R32	Equivalent Arg1:T189 Arg2:T170	
+R33	Support Arg1:T200 Arg2:T199	
+R34	Support Arg1:T193 Arg2:T199	
+R35	Support Arg1:T194 Arg2:T190	
+R36	Support Arg1:T190 Arg2:T195	
+R37	Support Arg1:T198 Arg2:T190	
+R38	Support Arg1:T190 Arg2:T196	
+R39	Support Arg1:T196 Arg2:T195	

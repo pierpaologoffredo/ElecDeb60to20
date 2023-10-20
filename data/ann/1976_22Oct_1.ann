@@ -1,0 +1,82 @@
+T1	Claim 2793 2971	I believe that the American people, in the next four years under a Ford administration, will be called upon to make those necessary sacrifices to preserve the peace which we have
+T2	Premise 3007 3063	we will have to maintain an adequate military capability
+T3	Claim 3095 3186	we will have to add a uh - I think uh - a few billion dollars to our defense appropriations
+T4	Premise 3187 3276	to make certain that we have adequate uh -strategic forces - adequate conventional forces
+T5	Claim 3652 3803	I don't think that uh - America can go on a big spending spree with a whole lot of new programs uh - that would add significantly to the federal budget
+T6	Claim -1 267; -1 267	I believe that the American people would be willing to give this thrust to preserve the peace and the necessary restraint at home to hold the lid on spending so that we could, I think, have a long overdue and totally justified tax decrease for the middle-income people
+T7	Premise 3841 3892	if given the leadership that I would expect to give
+T8	Claim 4278 4400	I think the American people would be willing to make those sacrifices for peace and prosperity in the next uh - four years
+T9	Premise 4139 4208	with the economy that would be generated from a restraint on spending
+T10	Premise 4210 4271	and a tax uh reduction primarily for the middle-income people
+T11	Claim 3278 3522	I think the American people will be called upon to uh - uh - be in the forefront in giving leadership to the solution of those problems that must be solved in the Middle East, in southern Africa, and any problems that might arise in the Pacific
+T12	Claim 3524 3650	The American people will be called upon to tighten their belts a bit in meeting some of the problems that we face domestically
+T13	Claim 4538 4616	we're going to have a fairly high rate of unemployment over a fairly long time
+T14	Claim 4623 4653	growth is gonna be fairly slow
+T15	Claim 4664 4864	we're not gonna be able to do much - very much in the next four or five years to meet the basic agenda of our national needs in the cities, in health, uh in transit and a whole lot of things like that
+T17	Claim 5319 5423	I believe we can meet the problems within the cities of this country and still uh - give a tax reduction
+T18	Premise 5425 5547	I proposed, as you know, a reduction to increase the personal exemption from seven hundred and fifty to a thousand dollars
+T19	Premise 5549 5663	With the fiscal program that I have, and if you look at the projections, it shows that we will reduce unemployment
+T20	Premise 5665 5722	that we will continue to win the battle against inflation
+T21	Premise 5728 5815	at the same time give the kind of quality of life that I believe is possible in America
+T22	Premise 5822 5962	a job, a home for all those that'll work and save for it, uh - safety in the streets, uh - health that is a - health care that is affordable
+T23	Claim 5964 5988	These things can be done
+T24	Premise 5989 6065	if we have the right vision and the right restraint and the right leadership
+T25	Premise 4949 5146	we're spending very significant amounts of money now, some $200 billion a year, almost 50 percent of our total federal expenditure uh - by the federal government at the present time for human needs
+T26	Claim 5152 5205	we will probably need to increase that to same extent
+T27	Claim 5211 5317	we don't have to have - growth in spending that will blow the lid off and add to the problems of inflation
+T28	Claim 6171 6249	I think in case of the Carter administration the sacrifices would be much less
+T29	Premise 6251 6367	Mr. Ford's own uh - environmental agency has projected a 10 percent unemployment rate by 1978 if he's uh - president
+T30	Claim 6369 6417	The American people are ready to make sacrifices
+T31	Premise 6418 6449	if they are part of the process
+T32	Premise 6451 6582	If they know that they will be helping to make decisions and won't be excluded from being an involved party to the national purpose
+T33	Claim 6584 6654	The major effort we must put forward is to put our people back to work
+T34	Claim 6660 6757	I think that this uh - is one example where uh - a lot of people have selfish, grasping ideas now
+T35	Premise 6759 6973	I remember 1973 in the depth of the uh - energy crisis when President Nixon called on the American people to make a sacrifice, to cut down on the waste of uh - gasoline, to cut down on the uh - speed of automobiles
+T36	Premise 6975 7069	It was a - a tremendous surge of patriotism, that "I want to make a sacrifice for my country."
+T37	Claim 7070 7225	I think we uh - could call together, with strong leadership in the White House, business, industry and labor, and say let's have voluntary price restraints
+T38	Claim 8154 8177	I know I'm ready for it
+T39	Claim 8179 8214	I think the American people are too
+T40	Claim 7973 8152	I think uh - uh - a balanced approach, with everybody being part of it and a striving for unselfishness, could help as it did in 1973 to let people sacrifice for their own country
+T41	Claim 7227 7295	Let's lay down some guidelines so we don't have continuing inflation
+T42	Claim 7777 7843	the person who has to pay that expense is the middle-income family
+T43	Premise 7844 7967	who's still working for a living and they have to pay for the rich who have privilege, and for the poor who are not working
+T44	Premise 7733 7772	both those extremes grasp for advantage
+T45	Claim 7297 7339	We can also have a- an end to the extremes
+T46	Premise 7341 7606	We now have one extreme for instance, of some welfare recipients, who by taking advantage of the welfare laws, the housing laws, the uh - Medicaid uh - laws, and the uh - food stamp laws, make over $10 thousand a year and uh - they don't have to pay any taxes on it
+T47	Premise 7608 7728	At the other extreme, uh - just 1 percent of the richest people in our country derive 25 percent of all the tax benefits
+R1	Support Arg1:T3 Arg2:T1	
+R2	Support Arg1:T2 Arg2:T1	
+R3	Support Arg1:T4 Arg2:T2	
+R4	Support Arg1:T4 Arg2:T3	
+R5	Support Arg1:T7 Arg2:T11	
+T48	Claim 4035 4127	I think, have a long overdue and totally justified tax decrease for the middle-income people
+R6	Support Arg1:T48 Arg2:T10	
+R7	Support Arg1:T11 Arg2:T8	
+R8	Support Arg1:T12 Arg2:T8	
+R9	Support Arg1:T5 Arg2:T8	
+R10	Support Arg1:T9 Arg2:T8	
+R11	Attack Arg1:T25 Arg2:T15	
+R12	Support Arg1:T25 Arg2:T26	
+R13	Attack Arg1:T27 Arg2:T14	
+R14	Support Arg1:T18 Arg2:T17	
+R15	Attack Arg1:T19 Arg2:T13	
+R16	Support Arg1:T20 Arg2:T27	
+R17	Attack Arg1:T21 Arg2:T15	
+R18	Attack Arg1:T22 Arg2:T13	
+R19	Support Arg1:T22 Arg2:T21	
+R20	Support Arg1:T22 Arg2:T23	
+R21	Support Arg1:T21 Arg2:T23	
+R22	Support Arg1:T24 Arg2:T23	
+R23	Support Arg1:T29 Arg2:T28	
+R24	Support Arg1:T29 Arg2:T13	
+R25	Support Arg1:T31 Arg2:T30	
+R26	Support Arg1:T32 Arg2:T30	
+R27	Equivalent Arg1:T32 Arg2:T31	
+R28	Support Arg1:T35 Arg2:T34	
+R29	Support Arg1:T36 Arg2:T35	
+R30	Support Arg1:T46 Arg2:T45	
+R31	Support Arg1:T47 Arg2:T45	
+R32	Support Arg1:T47 Arg2:T44	
+R33	Support Arg1:T46 Arg2:T44	
+R34	Attack Arg1:T40 Arg2:T34	
+R35	Equivalent Arg1:T39 Arg2:T30	

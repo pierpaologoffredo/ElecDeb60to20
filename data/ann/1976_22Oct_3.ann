@@ -1,0 +1,71 @@
+T89	Claim 2029 2074	I think the matter is closed once and for all
+T90	Claim 2106 2138	I don't control any of the tapes
+T91	Premise 2140 2231	Those tapes are in the jurisdiction of the courts and I have no right to say "yes" or "no."
+T92	Claim 2352 2398	I think the matter is settled once and for all
+T93	Premise 2236 2350	all the committees, the attorney general, the special prosecutor, all of them have given me a clean bill of health
+T94	Premise 838 937	I testified before two committees, House and Senate, on precisely the questions that you have asked
+T95	Premise 943 1098	the testimony under oath was to the effect that I did not talk to Mr. Nixon, to Mr. Haldeman, to Mr. Ehrlichman, or to any of the people at the White House
+T96	Premise 1100 1205	I said I had no recollection whatsoever of talking with any of the White House legislative liaison people
+T97	Premise 1207 1370	I indicated under oath that the initiative that I took was at the request of the ranking members of the House Banking and Currency Committee on the Republican side
+T98	Premise 1372 1430	which was a legitimate request and a proper response by me
+T99	Premise 1436 1486	that was gone into by two congressional committees
+T100	Premise 1492 1564	following that investigation, both committees overwhelmingly approved me
+T101	Premise 1570 1607	the House and the Senate did likewise
+T102	Premise 1614 1808	in the meantime, the special prosecutor, within the last few days, after an investigation himself, said there was no reason for him to get involved because he found nothing that would justify it
+T103	Premise 1819 1954	just a day or two ago, the attorney general of the United States made a further investigation and came to precisely the same conclusion
+T104	Premise 1961 2027	after all of those investigations by objective, responsible people
+T105	Claim 2474 2554	I think that you still have not gone into details about what your role in it was
+T106	Premise 2574 2739	there is any question about whether or not uh - there was criminal prosecution, but whether - whether you have told the American people your entire involvement in it
+T107	Premise 2745 2890	whether you would be willing, even if you don't control the tapes, whether you would be willing to ask that the tapes be released for examination
+T108	Claim 2899 2993	That's for the uh - proper authorities who have control over those tapes to make that decision
+T109	Claim 3342 3378	I've told everything I know about it
+T111	Premise 2995 3121	I have given every bit of evidence, answered every question that's as- been asked me by any senator or any member of the House
+T112	Premise 3123 3336	Plus the fact, that the special prosecutor, on his own initiation, and the attorney general on his initiation, the highest law enforcement official in this country, all of them have given me a clean bill of health
+T1	Claim 3380 3426	I think the matter is settled once and for all
+R1	Support Arg1:T95 Arg2:T94	
+R2	Support Arg1:T96 Arg2:T94	
+R3	Support Arg1:T98 Arg2:T97	
+R4	Support Arg1:T97 Arg2:T94	
+R5	Support Arg1:T104 Arg2:T89	
+R6	Support Arg1:T103 Arg2:T89	
+R7	Support Arg1:T102 Arg2:T89	
+R8	Support Arg1:T100 Arg2:T89	
+R9	Support Arg1:T101 Arg2:T89	
+R10	Support Arg1:T102 Arg2:T104	
+R11	Support Arg1:T103 Arg2:T104	
+R12	Support Arg1:T98 Arg2:T89	
+R13	Support Arg1:T94 Arg2:T89	
+R14	Support Arg1:T91 Arg2:T90	
+R16	Equivalent Arg1:T92 Arg2:T89	
+R17	Support Arg1:T104 Arg2:T92	
+R18	Support Arg1:T102 Arg2:T92	
+R19	Support Arg1:T100 Arg2:T92	
+R20	Support Arg1:T101 Arg2:T92	
+R21	Support Arg1:T98 Arg2:T92	
+R22	Support Arg1:T94 Arg2:T92	
+R23	Support Arg1:T106 Arg2:T105	
+R24	Attack Arg1:T105 Arg2:T92	
+R25	Attack Arg1:T105 Arg2:T89	
+R26	Support Arg1:T107 Arg2:T105	
+R27	Support Arg1:T107 Arg2:T106	
+R28	Attack Arg1:T108 Arg2:T107	
+R29	Attack Arg1:T111 Arg2:T105	
+R30	Support Arg1:T111 Arg2:T92	
+R31	Support Arg1:T108 Arg2:T89	
+R32	Support Arg1:T90 Arg2:T108	
+R33	Equivalent Arg1:T112 Arg2:T93	
+R15	Support Arg1:T93 Arg2:T89	
+R34	Attack Arg1:T109 Arg2:T105	
+R35	Support Arg1:T109 Arg2:T1	
+R36	Equivalent Arg1:T1 Arg2:T92	
+R37	Equivalent Arg1:T1 Arg2:T89	
+R38	Support Arg1:T94 Arg2:T1	
+R39	Support Arg1:T98 Arg2:T1	
+R40	Support Arg1:T100 Arg2:T1	
+R41	Support Arg1:T101 Arg2:T1	
+R42	Support Arg1:T102 Arg2:T1	
+R43	Support Arg1:T103 Arg2:T1	
+R44	Support Arg1:T104 Arg2:T1	
+R45	Support Arg1:T104 Arg2:T1	
+R46	Support Arg1:T108 Arg2:T1	
+R47	Support Arg1:T108 Arg2:T92	

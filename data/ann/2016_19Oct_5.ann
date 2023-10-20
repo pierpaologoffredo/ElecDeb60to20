@@ -1,0 +1,65 @@
+T261	Claim 1385 1390	Wrong
+T342	Premise 187 257	there is an effort led by the Iraqi army, supported by Kurdish forces,
+T343	Premise 267 360	given the help and advice from the number of special forces and other Americans on the ground
+T344	Claim 366 442	I will not support putting American soldiers into Iraq as an occupying force
+T345	Claim 544 619	I think that would be a big red flag waving for ISIS to reconstitute itself
+T346	Premise 444 481	I don't think that is in our interest
+T347	Premise 487 526	I don't think that would be smart to do
+T348	Claim 1854 1914	he believes it makes him look better now to contrast with me
+T349	Premise 1923 1940	I did vote for it
+T351	Premise 1511 1548	I just want everybody to go Google it
+T352	Claim 1582 1666	you will see the dozens of sources which verify that he was for the invasion of Iraq
+T353	Premise 1695 1745	you can actually hear the audio of him saying that
+T354	Claim 1780 1790	it matters
+T355	Premise 1799 1844	he has not told the truth about that position
+T356	Claim 838 853	Mosul is so sad
+T357	Claim 855 867	We had Mosul
+T358	Premise 873 930	when she left, when she took everybody out, we lost Mosul
+T359	Premise 936 969	we're fighting again to get Mosul
+T360	Claim 971 1090	The problem with Mosul and what they wanted to do is they wanted to get the leaders of ISIS who they felt were in Mosul
+T361	Claim 1225 1287	Donald is implying that he didn't support the invasion of Iraq
+T362	Claim 1289 1312	I said it was a mistake
+T363	Claim 1314 1338	I've said that years ago
+T364	Claim 1956 1978	we don't gain anything
+T365	Claim 2034 2058	Iran is taking over Iraq
+T367	Claim 2370 2417	We could have gained if they did it by surprise
+T368	Claim 1989 2023	He has all the conspiracy theories
+T369	Premise 2162 2233	This conspiracy theory, which he's been spewing out for quite some time
+T370	Claim 2491 2523	he proves it every time he talks
+T371	Claim 2576 2684	WikiLeaks just actually came out -- John Podesta said some horrible things about you, and, boy, was he right
+T372	Claim 2686 2707	He said some beauties
+T373	Claim 2723 2768	Bernie Sanders, he said you have bad judgment
+T374	Claim 2770 2776	You do
+T375	Claim 2793 2856	you should ask Bernie Sanders who he's supporting for president
+T376	Claim 2884 2906	Which is a big mistake
+T377	Premise 2924 2967	he has campaigned for me around the country
+T378	Claim 2969 3056	you are the most dangerous person to run for president in the modern history of America
+T379	Claim 3058 3076	I think he's right
+T276	Premise 1752 1772	why does that matter
+R1	Support Arg1:T346 Arg2:T344	
+R2	Support Arg1:T347 Arg2:T344	
+R3	Support Arg1:T345 Arg2:T344	
+R4	Support Arg1:T357 Arg2:T356	
+R5	Support Arg1:T358 Arg2:T356	
+R6	Support Arg1:T359 Arg2:T356	
+R7	Support Arg1:T360 Arg2:T356	
+R8	Support Arg1:T363 Arg2:T362	
+R9	Attack Arg1:T261 Arg2:T361	
+R10	Support Arg1:T361 Arg2:T362	
+R11	Support Arg1:T351 Arg2:T352	
+R12	Support Arg1:T276 Arg2:T354	
+R13	Support Arg1:T353 Arg2:T354	
+R14	Support Arg1:T355 Arg2:T354	
+R15	Support Arg1:T349 Arg2:T348	
+R16	Support Arg1:T348 Arg2:T354	
+R17	Support Arg1:T369 Arg2:T355	
+R18	Support Arg1:T372 Arg2:T371	
+R19	Support Arg1:T373 Arg2:T374	
+T1	Claim 2532 2564	No, you are the one that's unfit
+R20	Support Arg1:T374 Arg2:T1	
+R21	Support Arg1:T371 Arg2:T1	
+R22	Attack Arg1:T375 Arg2:T373	
+R23	Attack Arg1:T376 Arg2:T375	
+R24	Support Arg1:T377 Arg2:T378	
+R25	Support Arg1:T378 Arg2:T379	
+R26	Attack Arg1:T379 Arg2:T1	

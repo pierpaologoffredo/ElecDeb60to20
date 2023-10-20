@@ -1,0 +1,72 @@
+T1	Premise 562 596	We have increased funding for AIDS
+T2	Premise 598 659	We've doubled it, on research and on every other aspect of it
+T3	Premise 661 766	My request for this year was $4.9 billion for AIDS, 10 times as much for AIDS victim as per cancer victim
+T4	Claim 768 828	I think that we're showing the proper compassion and concern
+R1	Support Arg1:T3 Arg2:T4	
+R2	Support Arg1:T2 Arg2:T4	
+R3	Support Arg1:T1 Arg2:T4	
+T5	Claim 833 872	I can't tell you where it's coming from
+T6	Claim 878 913	I am very much concerned about AIDS
+T7	Claim 919 1014	I believe that we've got the best researchers in the world out there at NIH working the problem
+T8	Premise 1016 1034	We're funding them
+R4	Support Arg1:T4 Arg2:T5	
+R5	Support Arg1:T7 Arg2:T4	
+R6	Support Arg1:T8 Arg2:T4	
+R7	Support Arg1:T6 Arg2:T4	
+T9	Premise 1036 1122	I wish there was more money, but we're funding them far more than any time in the past
+T10	Claim 1124 1157	We're going to keep on doing that
+T11	Claim 1159 1209	I don't know, I was a little disappointed in Magic
+T12	Premise 1219 1396	he came to me and I said, "Now, if you see something we're not doing, get ahold of me, call me, let me know." He went to one meeting, and then we heard that he was stepping down
+T13	Premise 1401 1538	he's been replaced by Mary Fisher, who electrified the Republican Convention by talking about the compassion and the concern that we feel
+T14	Claim 1571 1625	I think she'll do a first-class job on that Commission
+T15	Premise 1540 1565	It was a beautiful moment
+T16	Claim 1630 1665	I think the appeal is, yes, we care
+R8	Equivalent Arg1:T4 Arg2:T16	
+R9	Support Arg1:T12 Arg2:T11	
+R10	Support Arg1:T13 Arg2:T14	
+R11	Support Arg1:T15 Arg2:T14	
+R12	Support Arg1:T14 Arg2:T16	
+T17	Claim 1667 1752	The other thing is, part of AIDS, it's one of the few diseases where behavior matters
+T18	Premise 1758 2025	I once called on somebody, "Well, change your behavior. If the behavior you're using is prone to cause AIDS, change the behavior." The next thing I know, one of these ACT-UP groups is out saying, "Bush ought to change his behavior." You can't talk about it rationally
+T19	Claim 2027 2066	The extremes are hurting the AIDS cause
+R13	Support Arg1:T18 Arg2:T19	
+T20	Premise 2068 2255	To go into a Catholic mass in a beautiful cathedral in New York under the cause of helping in AIDS and start throwing condoms around in the mass, I'm sorry, I think it sets back the cause
+R14	Support Arg1:T20 Arg2:T19	
+T21	Claim 2257 2286	We cannot move to the extreme
+T22	Claim 2307 2381	We've got to continue everything we can at the Federal and the local level
+T23	Premise 2383 2456	Barbara, I think, is doing a superb job in destroying the myth about AIDS
+T24	Claim 2458 2495	All of us are in this fight together.
+T25	Claim 2496 2510	All of us care
+T26	Claim 2512 2536	Do not go to the extreme
+R15	Equivalent Arg1:T21 Arg2:T26	
+R16	Support Arg1:T19 Arg2:T21	
+T27	Claim 2583 2621	I think Mary Fisher was a great choice
+T28	Claim 2623 2669	We're lucky to have her heading the Commission
+R17	Support Arg1:T27 Arg2:T28	
+R18	Support Arg1:T28 Arg2:T14	
+T29	Claim 3133 3174	I think we can expedite the problem there
+T30	Premise 3024 3128	We could be moving out to the human population a whole lot faster than we are on some of these new drugs
+R19	Support Arg1:T30 Arg2:T29	
+T31	Claim 2954 3022	Believe me, people with AIDS are more than willing to take that risk
+R20	Support Arg1:T31 Arg2:T29	
+T32	Premise 2846 2952	If you're going to die, you don't have to go through this 10-year cycle that FDA goes through on new drugs
+R21	Support Arg1:T32 Arg2:T31	
+T33	Premise 3644 3684	Over 150,000 Americans have died of AIDS
+T34	Premise 3686 3746	Well over a million and a quarter Americans are HIV-positive
+T35	Claim 3748 3859	We need to put one person in charge of the battle against AIDS to cut across all the agencies that deal with it
+T36	Claim 3861 3908	We need to accelerate the drug approval process
+T37	Claim 3910 4050	We need to fully fund the act named for that wonderful boy, Ryan White, to make sure we're doing everything we can on research and treatment
+T38	Claim 4052 4199	The President should lead a national effort to change behavior to keep our children alive in the schools, responsible behavior to keep people alive
+T39	Premise 4201 4235	This is a matter of life and death
+T40	Premise 4236 4311	I've worked in my State to reduce teen pregnancy and illness among children
+T41	Premise 4336 4514	The reason Magic Johnson resigned from the AIDS Commission is because the statement you heard tonight from Mr. Bush is the longest and best statement he's made about it in public
+T42	Claim 4516 4569	I'm proud of what we did at the Democratic Convention
+T43	Premise 4571 4618	putting two HIV-positive people on the platform
+T44	Claim 4624 4723	I'm proud of the leadership that I'm going to bring to this country in dealing with the AIDS crisis
+R22	Attack Arg1:T41 Arg2:T11	
+R23	Support Arg1:T34 Arg2:T35	
+R24	Support Arg1:T33 Arg2:T35	
+R25	Support Arg1:T39 Arg2:T38	
+T45	Claim 4317 4334	I know it's tough
+R26	Support Arg1:T40 Arg2:T45	
+R27	Support Arg1:T43 Arg2:T42	

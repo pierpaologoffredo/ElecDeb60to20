@@ -1,0 +1,65 @@
+T743	Claim 417 427	Yes, I can
+T744	Premise 429 783	When I got to the United States Senate and went on the Judiciary Committee as a young lawyer, I was of the view and had been trained in the view that the only thing that mattered was whether or not a nominee appointed, suggested by the president had a judicial temperament, had not committed a crime of moral turpitude, and was -- had been a good student
+T745	Premise 788 966	it didn't take me long -- it was hard to change, but it didn't take me long, but it took about five years for me to realize that the ideology of that judge makes a big difference
+T746	Claim 968 1013	That's why I led the fight against Judge Bork
+T748	Claim 1257 1354	that was one of the intellectual changes that took place in my career as I got a close look at it
+T749	Claim 1495 1559	The American people have a right to understand it and to know it
+T750	Claim 1561 1612	But I did change on that, and -- and I'm glad I did
+T751	Claim 2004 2144	there were times when I wanted to zero-base budget, and to cut taxes even more, and I didn't have enough support in order to accomplish that
+T752	Claim 2146 2303	But on the major principle things, no, there hasn't been something that I've had to compromise on, because we've always seemed to find a way to work together
+T753	Premise 2305 2474	Up there in Alaska, what we have done is, with bipartisan efforts, is work together and, again, not caring who gets the credit for what, as we accomplish things up there
+T754	Claim 2476 2552	And that's been just a part of the operation that I wanted to participate in
+T755	Claim 2554 2643	And that's what we're going to do in Washington, D.C., also, bring in both sides together
+T756	Claim 2645 2741	John McCain is known for doing that, also, in order to get the work done for the American people
+T758	Claim 3152 3334	I have been able to work across the aisle on some of the most controversial issues and change my party's mind, as well as Republicans', because I learned a lesson from Mike Mansfield
+T759	Premise 3604 3762	He said, "Joe, understand one thing. Everyone's sent here for a reason, because there's something in them that their folks like. Don't question their motive."
+T760	Claim 3763 3901	I have never since that moment in my first year questioned the motive of another member of the Congress or Senate with whom I've disagreed
+T761	Claim 3903 3933	I've questioned their judgment
+T762	Claim 3935 4075	I think that's why I have the respect I have and have been able to work as well as I've been able to have worked in the United States Senate
+T763	Claim 4077 4193	That's the fundamental change Barack Obama and I will be bring to this party, not questioning other people's motives
+T764	Claim 4222 4345	You do what I did as governor, and you appoint people regardless of party affiliation, Democrats, independents, Republicans
+T765	Claim 4347 4401	You -- you walk the walk; you don't just talk the talk
+T766	Claim 4406 4455	even in my own family, it's a very diverse family
+T767	Claim 4457 4511	And we have folks of all political persuasion in there
+T768	Premise 4522 4667	I've grown up just knowing that, you know, at the end of the day, as long as we're all working together for the greater good, it's going to be OK
+T769	Claim 4669 4742	But the policies and the proposals have got to speak for themselves, also
+T770	Claim 4744 4875	And, again, voters on November 4th are going to have that choice to either support a ticket that supports policies that create jobs
+T771	Claim 4877 4948	You do that by lowering taxes on American workers and on our businesses
+T772	Claim 4950 4981	And you build up infrastructure
+T773	Claim 4987 5018	you rein in government spending
+T774	Claim 5024 5069	you make our -- our nation energy independent
+T775	Claim 5071 5157	Or you support a ticket that supports policies that will kill jobs by increasing taxes
+T776	Premise 5159 5304	And that's what the track record shows, is a desire to increase taxes, increase spending, a trillion-dollar spending proposal that's on the table
+T777	Premise 5306 5376	That's going to hurt our country, and saying no to energy independence
+T778	Claim 5378 5407	Clear choices on November 4th
+R1	Support Arg1:T744 Arg2:T745	
+R2	Support Arg1:T745 Arg2:T746	
+T1	Claim 1015 1232	Had he been on the court, I suspect there would be a lot of changes that I don't like and the American people wouldn't like, including everything from Roe v. Wade to issues relating to civil rights and civil liberties
+R3	Support Arg1:T746 Arg2:T1	
+R4	Support Arg1:T1 Arg2:T748	
+T2	Claim 1360 1493	that's why I was the first chairman of the Judiciary Committee to forthrightly state that it matters what your judicial philosophy is
+R5	Support Arg1:T748 Arg2:T2	
+R6	Support Arg1:T749 Arg2:T2	
+R7	Support Arg1:T749 Arg2:T750	
+R8	Attack Arg1:T752 Arg2:T751	
+R9	Support Arg1:T753 Arg2:T752	
+R10	Support Arg1:T754 Arg2:T755	
+R11	Support Arg1:T755 Arg2:T756	
+R12	Support Arg1:T759 Arg2:T758	
+R13	Support Arg1:T758 Arg2:T760	
+R14	Support Arg1:T761 Arg2:T762	
+R15	Support Arg1:T760 Arg2:T763	
+R16	Support Arg1:T762 Arg2:T763	
+R17	Support Arg1:T764 Arg2:T765	
+R18	Support Arg1:T765 Arg2:T766	
+R19	Support Arg1:T766 Arg2:T767	
+R20	Support Arg1:T768 Arg2:T767	
+R21	Support Arg1:T769 Arg2:T770	
+R22	Support Arg1:T771 Arg2:T772	
+R23	Support Arg1:T772 Arg2:T773	
+R24	Support Arg1:T773 Arg2:T774	
+R25	Support Arg1:T774 Arg2:T770	
+R26	Attack Arg1:T770 Arg2:T775	
+R27	Support Arg1:T777 Arg2:T776	
+R28	Support Arg1:T776 Arg2:T775	
+R29	Support Arg1:T776 Arg2:T778	

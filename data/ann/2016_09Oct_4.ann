@@ -1,0 +1,74 @@
+T126	Claim 927 944	It was principled
+T127	Claim 950 966	it was strategic
+T128	Premise 830 925	It was a master class watching President Lincoln get the Congress to approve the 13th Amendment
+T129	Claim 2265 2324	we should demand that Donald release all of his tax returns
+T130	Claim 2835 2843	she lied
+T131	Claim 2663 2692	she got caught in a total lie
+T132	Premise 2694 2800	Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things
+R1	Support Arg1:T128 Arg2:T126	
+R2	Support Arg1:T126 Arg2:T127	
+T1	Claim 971 1100	I was making the point that it is hard sometimes to get the Congress to do what you want to do and you have to keep working at it
+R3	Support Arg1:T127 Arg2:T1	
+T2	Premise 1112 1238	President Lincoln was trying to convince some people, he used some arguments, convincing other people, he used other arguments
+T3	Premise 1241 1309	hat was a great — I thought a great display of presidential leadership
+R4	Support Arg1:T3 Arg2:T2	
+R5	Support Arg1:T2 Arg2:T1	
+T4	Premise 1387 1603	our intelligence community just came out and said in the last few days that the Kremlin, meaning Putin and the Russian government, are directing the attacks, the hacking on American accounts to influence our election
+T5	Premise 1609 1765	WikiLeaks is part of that, as are other sites where the Russians hack information, we don’t even know if it’s accurate information, and then they put it out
+T6	Claim 1766 1927	We have never in the history of our country been in a situation where an adversary, a foreign power, is working so hard to influence the outcome of the election.
+T7	Claim 1944 1982	they’re not doing it to get me elected
+T8	Claim 1984 2049	They’re doing it to try to influence the election for Donald Trum
+T9	Premise 2056 2236	maybe because he has praised Putin, maybe because he says he agrees with a lot of what Putin wants to do, maybe because he wants to do business in Moscow, I don’t know the reasons.
+T10	Claim 2242 2259	e deserve answers
+T11	Premise 2325 2417	so that people can see what are the entanglements and the financial relationships that he ha
+R6	Support Arg1:T11 Arg2:T129	
+R7	Support Arg1:T4 Arg2:T5	
+R8	Support Arg1:T5 Arg2:T6	
+R9	Support Arg1:T6 Arg2:T8	
+R10	Attack Arg1:T7 Arg2:T6	
+R11	Support Arg1:T9 Arg2:T8	
+R12	Attack Arg1:T10 Arg2:T9	
+R13	Support Arg1:T129 Arg2:T10	
+R14	Support Arg1:T132 Arg2:T131	
+R15	Support Arg1:T131 Arg2:T130	
+T12	Claim 2845 2905	Now she’s blaming the lie on the late, great Abraham Lincoln
+R16	Support Arg1:T130 Arg2:T12	
+T13	Claim 3203 3308	I think it would be great if we got along with Russia because we could fight ISIS together, as an example
+T14	Claim 3310 3332	But I don’t know Putin
+T15	Claim 3183 3202	I don’t know Putin.
+T16	Premise 3332 3468	.But I notice, anytime anything wrong happens, they like to say the Russians are—she doesn’t know if it’s the Russians doing the hacking
+T17	Premise 3470 3495	Maybe there is no hacking
+T18	Claim 3501 3525	they always blame Russia
+T19	Premise 3531 3619	the reason they blame Russia because they think they’re trying to tarnish me with Russia
+T20	Claim 3621 3649	I know nothing about Russia.
+T21	Premise 3682 3731	I know nothing about the inner workings of Russia
+R17	Support Arg1:T15 Arg2:T14	
+R18	Attack Arg1:T17 Arg2:T16	
+R19	Support Arg1:T16 Arg2:T18	
+R20	Support Arg1:T19 Arg2:T18	
+R21	Attack Arg1:T20 Arg2:T19	
+R22	Support Arg1:T21 Arg2:T20	
+T22	Claim 3733 3751	I don’t deal there
+T23	Claim 3753 3779	I have no businesses there
+T24	Claim 3781 3808	I have no loans from Russia
+T25	Claim 4209 4236	I have no loans with Russia
+R23	Support Arg1:T22 Arg2:T20	
+R24	Support Arg1:T23 Arg2:T20	
+R25	Support Arg1:T24 Arg2:T20	
+R26	Support Arg1:T25 Arg2:T24	
+T26	Claim 4479 4525	I pay hundreds of millions of dollars in taxes
+T27	Claim 4527 4569	Many of her friends took bigger deductions
+T28	Claim 4571 4610	Warren Buffett took a massive deduction
+T29	Claim 4612 4667	Soros, who’s a friend of hers, took a massive deduction
+T30	Claim 4669 4801	Many of the people that are giving her all this money that she can do many more commercials than me gave her — took massive deductions
+T31	Claim 4802 4848	I pay hundreds of millions of dollars in taxes
+T32	Claim 4854 4922	but as soon as my routine audit is finished, I’ll release my returns
+T33	Claim 4924 4945	I’ll be very proud to
+T34	Claim 4947 4975	They’re actually quite great
+R27	Support Arg1:T34 Arg2:T33	
+R28	Support Arg1:T33 Arg2:T32	
+R29	Support Arg1:T27 Arg2:T28	
+R30	Support Arg1:T28 Arg2:T29	
+R31	Support Arg1:T29 Arg2:T30	
+R32	Attack Arg1:T31 Arg2:T30	
+R33	Attack Arg1:T26 Arg2:T27	

@@ -1,0 +1,87 @@
+T1	Premise 633 698	I've been a nuclear engineer, and did graduate work in this field
+T2	Claim 700 772	I think I know the - the uh capabilities and limitations of atomic power
+T3	Claim 778 884	the energy - uh policy of our nation is one that uh has not yet been established under this administration
+T4	Claim 886 973	I think almost every other developed nation in the world has an energy policy except us
+T5	Premise 975 1044	We have seen uh - the Federal Energy Agency established, for instance
+T6	Premise 1051 1175	in the crisis of 1973 it was supposed to be a temporary agency, uh now it's permanent, it's enormous, it's growing every day
+T7	Premise 1177 1390	I think the Wall Street Journal uh reported not too long ago they have a hundred and twelve public relations experts working for the Federal Energy Agency to try to justify to the American people its own existence
+T8	Claim 1392 1454	We've got to have a - a firm way to handle the energy question
+T9	Claim 1530 1664	In addition to that, we need to have - uh a realization that we've got uh about thirty-five years worth of oil left in the whole world
+T10	Claim 1666 1692	We're gonna run out of oil
+T11	Premise 1694 1850	When Mr. Nixon made his famous uh speech on Operation Independence we were importing about 35 percent of our oil. Now we've increased that amount 25 percent
+T12	Premise 1852 1893	We now import about 44 percent of our oil
+T13	Claim 1895 1928	We need to shift from oil to coal
+T14	Claim 1930 2022	We need to concentrate our research and development effort on uh coal burning and extraction
+T15	Premise 2024 2069	with safer mines, but also it's clean burning
+T16	Claim 2071 2159	We need to shift very strongly toward solar energy and have strict conservation measures
+T17	Claim 2170 2221	as a last resort only, continue to use atomic power
+T18	Claim 2223 2281	I would certainly uh - not cut out atomic power altogether
+T19	Premise 2283 2338	We can't afford to give up that opportunity until later
+T20	Claim 2344 2502	to the extent that we continue to use atomic power, I would be responsible as president to make sure that the safety precautions were initiated and maintained
+T21	Premise 2504 2707	For instance, some that have been forgotten; we need to have the reactor core - below ground level, the entire power plant that uses atomic uh - power tightly sealed and a heavy - heavy vacuum maintained
+T22	Premise 2709 2748	There ought to be a standardized design
+T23	Premise 2750 2948	There ought to be a full-time uh - atomic energy specialist, independent of the power company in the control room, full time, twenty-four hours a day, to shut down a plant if an abnormality develops
+T24	Premise 2950 3057	These kinds of uh - procedures, along with evacuation procedures, adequate insurance, ought to be initiated
+T25	Premise 3063 3406	shift from oil to coal, emphasize research and development on coal use and also on solar power, strict conservation measures, not yield every time that the special interest groups uh - put pressure on the president like uh this administration has done, and use atomic energy only as a last resort with the strictest possible safety precautions
+T26	Claim 3632 3740	Some of the things that can be done about this is a change in the rate structure of electric power companies
+T27	Premise 3742 3854	We uh - now encourage people to waste electricity, and uh - by giving uh - the lowest rates to the biggest users
+T28	Premise 3856 3914	We don't do anything to cut down on peak load requirements
+T29	Premise 3916 4016	We don't have an adequate requirement for the insulation of homes, for the efficiency of automobiles
+T30	Premise 4022 4224	whenever the uh - automobile manufacturers come forward and say they can't meet the uh - amendments that the Congress has put forward, this Republican administration has delayed the implementation dates
+T31	Premise 4247 4365	we ought to have a - a shift toward the use of coal, particularly in the Appalachian regions where the coal is located
+T32	Premise 4367 4446	A lot of uh - very high quality, low-carbon coal, uh - low-sulfur coal is there
+T33	Claim 4448 4483	it's where our employment is needed
+T34	Claim 4531 4568	mandatory conservation measures - yes
+T35	Claim 4570 4644	Encouragement by the president for people to uh voluntarily conserve - yes
+T36	Claim 4655 4761	the private sector ought to be encouraged to - to bring forward to the public the benefits from efficiency
+T37	Premise 4763 4916	One bank in uh - Washington, fo- for instance, gives lower interest loans for people who adequately insulate their homes or who buy efficient automobiles
+T38	Premise 4922 5123	some major uh - uh - manufacturing companies, like Dow Chemical, have through uh - very effective efficiency mechanism cut down the use of energy by uh - as much as 40 percent with the same out-product
+T39	Claim 5293 5359	Governor Carter skims over a very serious and a very broad subject
+T40	Premise 5361 5507	In January of uh - 1975 I submitted to the Congress and to the American people the first comprehensive energy program recommended by any president
+T41	Premise 5509 5583	It called for an increase in the production of energy in the United States
+T42	Premise 5585 5671	It called for uh - conservation measures so that we would save the energy that we have
+T43	Premise 5843 6015	I recommended to the Congress that we should increase production in this country from six hundred million tons a year to twel- a- a billion two hundred million tons by 1985
+T44	Claim 6017 6094	In order to do that we have to improve our extraction of coal from the ground
+T45	Claim 6096 6180	we have to improve our utilization of coal - make it more efficient, make it cleaner
+T46	Claim 6182 6245	In addition we uh - have to expand our research and development
+T47	Premise 6247 6421	In my program for energy independence we have increased, for example, solar energy research from about $84 million a year to about a hundred and twenty million dollars a year
+T48	Premise 6423 6471	We're going as fast as the experts say we should
+T49	Premise 6473 6745	In nuclear power we have increased the research and development, uh - under the Energy Research and Development Agency uh - very substantially, to insure that our ener- uh - nuclear power plants are safer, that they are more efficient, and that we have adequate safeguards
+T50	Claim 6747 6903	I think you have to have greater oil and gas production, more coal production, more nuclear production, and in addition you have to have energy conservation
+R1	Support Arg1:T1 Arg2:T2	
+R2	Support Arg1:T7 Arg2:T6	
+R3	Support Arg1:T6 Arg2:T5	
+R4	Support Arg1:T5 Arg2:T4	
+R5	Support Arg1:T4 Arg2:T3	
+R6	Support Arg1:T2 Arg2:T3	
+T51	Claim 1456 1528	The reorganization proposal that I have put forward is one uh first step
+R7	Support Arg1:T51 Arg2:T8	
+R9	Support Arg1:T10 Arg2:T9	
+R10	Support Arg1:T11 Arg2:T10	
+R11	Support Arg1:T12 Arg2:T10	
+R12	Support Arg1:T9 Arg2:T13	
+R8	Support Arg1:T14 Arg2:T13	
+R13	Support Arg1:T15 Arg2:T14	
+R14	Support Arg1:T10 Arg2:T16	
+R15	Support Arg1:T10 Arg2:T17	
+R16	Support Arg1:T18 Arg2:T17	
+R17	Support Arg1:T19 Arg2:T18	
+R18	Support Arg1:T17 Arg2:T20	
+R19	Support Arg1:T21 Arg2:T20	
+R20	Support Arg1:T22 Arg2:T20	
+R21	Support Arg1:T23 Arg2:T20	
+R22	Support Arg1:T24 Arg2:T20	
+T52	Claim 3408 3485	That's the best overall energy policy in the brief time we have to discuss it
+R23	Support Arg1:T25 Arg2:T52	
+R24	Attack Arg1:T27 Arg2:T26	
+R25	Support Arg1:T28 Arg2:T27	
+R26	Support Arg1:T29 Arg2:T27	
+R27	Support Arg1:T30 Arg2:T26	
+R28	Support Arg1:T31 Arg2:T26	
+R29	Support Arg1:T32 Arg2:T31	
+R30	Support Arg1:T37 Arg2:T36	
+R31	Support Arg1:T38 Arg2:T36	
+R32	Attack Arg1:T40 Arg2:T3	
+R33	Support Arg1:T41 Arg2:T40	
+R34	Support Arg1:T42 Arg2:T40	
+R35	Support Arg1:T40 Arg2:T39	

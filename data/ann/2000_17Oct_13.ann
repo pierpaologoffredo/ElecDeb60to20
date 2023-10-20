@@ -1,0 +1,75 @@
+T670	Claim 1258 1361	if you have an elderly parent or grandparent who needs long-term care, then you will get help with that
+T671	Premise 1363 1457	$3,000 tax credit to help your expenses in taking care of a loved one who needs long-term care
+T672	Claim 1134 1235	Now, the tax relief that I propose is directed specifically at middle-income individuals and families
+T673	Claim 595 663	If you make more than $60,000 and up to 100 you'll still get a match
+T674	Premise 669 684	not as generous
+T675	Claim 744 804	help with tuition if you want to get a new skill or training
+T676	Claim 686 742	You'll get an access to life-long learning and education
+T677	Claim 806 875	If you want to purchase health insurance, you will get help with that
+T678	Claim 877 1009	If you want to participate in some of the dynamic changes that are going on in our country, you will get specific help in doing that
+T679	Claim -1 110; -1 110	If you are part of the bottom 20% or so of wage earners, then you will get an expanded earned income tax credit
+T680	Claim 470 593	If you make less than $30,000 a year and you put $500 in a savings account, the federal government will match it with $1500
+T681	Claim 259 373	If you make less than $60,000 a year and you decide to invest $1,000 in a savings account, you'll get a tax credit
+T682	Premise 375 468	which means in essence that the federal government will match your $1,000 with another $1,000
+T683	Claim 1730 1773	You're going to get a tax relief in my plan
+T684	Claim 3202 3229	It should be a helping hand
+T685	Claim 3235 3310	tax relief and the proposals I just described should be a good helping hand
+T686	Claim 3156 3200	It's what the federal government does to you
+T687	Claim 3118 3154	Government shouldn't be a heavy hand
+T688	Claim 3051 3093	The harder you work, the more you can keep
+T689	Premise 3095 3116	It's the American way
+T690	Claim 2996 3049	You'll be in a world in which fits into my philosophy
+T691	Claim 2521 2548	It will be a world of peace
+T692	Claim 2557 2678	we're going to have a clear sight of foreign policy based upon a strong military and a mission that stands by our friends
+T693	Claim 2863 2917	it's less likely you'll be harmed in your neighborhood
+T694	Claim 2803 2859	You'll live in a world, hopefully, that is more educated
+T695	Claim 2739 2801	A judicious use of the military which will help keep the peace
+T696	Claim 2680 2737	A mission that doesn't try to be all things to all people
+T697	Claim 2479 2519	You're going to live in a peaceful world
+T698	Claim 2389 2477	it will be a modern Medicare system that trusts you to make a variety of options for you
+T699	Claim 1775 1825	You're not going to be targeted in or targeted out
+T700	Claim 1827 1879	Everybody that pays taxes is going to get tax relief
+T701	Claim 1604 1728	matching savings here and matching savings there, fully-funded it's gonna cost a whole lot of money, a lot more than we have
+T702	Claim 1881 1978	If you take care of an elderly in your home, you're going to get the personal exemption increased
+T703	Claim 2069 2120	You get a plan that will include prescription drugs
+T704	Claim 2122 2155	a plan that will give you options
+T705	Claim 2225 2266	it doesn't keep up with the new medicines
+T706	Claim 2157 2219	Now, I hope people understand that Medicare today is important
+T707	Premise 2268 2342	If you're a Medicare person, on Medicare, you don't get the new procedures
+T708	Premise 2344 2384	You're stuck in a time warp in many ways
+T709	Claim 2924 2994	an educated child is one much more likely to be hopeful and optimistic
+R1	Support Arg1:T681 Arg2:T682	
+R2	Support Arg1:T674 Arg2:T673	
+R3	Support Arg1:T675 Arg2:T676	
+T1	Claim 1011 1132	If you are part of the -- of the bottom 20% or so of wage earners, then you will get an expanded earned income tax credit
+R4	Support Arg1:T681 Arg2:T680	
+R5	Support Arg1:T680 Arg2:T673	
+R6	Support Arg1:T677 Arg2:T678	
+R7	Support Arg1:T1 Arg2:T678	
+R8	Support Arg1:T681 Arg2:T672	
+R9	Support Arg1:T680 Arg2:T672	
+R10	Support Arg1:T673 Arg2:T672	
+R11	Support Arg1:T1 Arg2:T672	
+R12	Support Arg1:T670 Arg2:T678	
+R13	Support Arg1:T671 Arg2:T670	
+R14	Attack Arg1:T683 Arg2:T701	
+R15	Support Arg1:T699 Arg2:T683	
+R16	Support Arg1:T700 Arg2:T683	
+R17	Support Arg1:T702 Arg2:T700	
+R18	Support Arg1:T703 Arg2:T704	
+R19	Support Arg1:T704 Arg2:T706	
+R20	Attack Arg1:T706 Arg2:T705	
+R21	Support Arg1:T707 Arg2:T705	
+R22	Support Arg1:T708 Arg2:T707	
+R23	Support Arg1:T706 Arg2:T698	
+R24	Support Arg1:T691 Arg2:T697	
+R25	Support Arg1:T692 Arg2:T691	
+R26	Attack Arg1:T692 Arg2:T696	
+R27	Support Arg1:T695 Arg2:T697	
+R28	Support Arg1:T693 Arg2:T694	
+R29	Support Arg1:T709 Arg2:T693	
+R30	Support Arg1:T690 Arg2:T688	
+R31	Support Arg1:T689 Arg2:T688	
+R32	Attack Arg1:T688 Arg2:T687	
+R33	Support Arg1:T684 Arg2:T685	
+R34	Support Arg1:T686 Arg2:T687	

@@ -1,0 +1,96 @@
+T481	Premise 2021 2059	somehow I haven't been straightforward
+T483	Claim 2591 2632	I'm proud to have been the author of that
+T485	Claim 2851 2884	It was a program that didn't work
+T486	Claim 2889 2931	the Job Training Partnership Act does work
+T488	Claim 2994 3081	I stand before you tonight - as the most investigated person ever to seek public office
+T489	Claim 3201 3261	I have never professed to be anything but an average student
+T490	Claim 3263 3310	I have never said I was anything more than that
+T491	Claim 3316 3402	it's not whether you're an average study, it's what are you going to do with your life
+T493	Premise 3103 3180	Thousands of journalists have asked every professor I've had, all my teachers
+T494	Claim 3408 3446	what have I - going to do with my life
+T495	Claim 3608 3682	I now have the opportunity at 41 to seek the office of the Vice Presidency
+T496	Premise 3557 3606	Elected to the United States Senate when I was 33
+T492	Premise 3448 3513	I have committed it to public service since I was 29 years of age
+T497	Premise 3516 3555	elected to the House of Representatives
+T498	Claim 3794 3847	I do strongly disagree with him on some of the issues
+T499	Claim 3722 3788	I have absolutely no quarrel with Senator Quayle's military record
+T500	Claim 3905 3952	I don't understand your vote on veterans issues
+T501	Premise 3954 4051	Senator Quayle has one of the worst voting records in the United States Senate on veterans issues
+T502	Claim 4335 4429	I think you ought to explain that to the people of America and you ought to explain it tonight
+T503	Premise 4221 4333	Tax on their disability pay when they're lying there in the hospital, people who have sacrificed for our country
+T504	Premise 4057 4219	one of them that particularly bothers me, sponsoring legislation to put a tax on combat pay and disability pay for veterans, for fighting men and women of America
+T505	Claim 5128 5277	I try to turn the situation around where we have seen the subsidy payments go from two and a half billion to ten times that under this administration
+T506	Claim 5283 5418	the way I would accomplish that--was with a tough trade policy, opening up those markets, getting those prices back up to market prices
+T508	Claim 5599 5711	That means we have to stand up for the American farmers and that cuts back on the regulation on American farmers
+T509	Claim 5713 5753	That's a positive way to accomplish that
+T507	Claim 5420 5597	We can do that if we have an aggressive trade policy for our country, if we make trade a number one priority and not trade it off for some foreign policy objective at the moment
+T510	Claim 5776 5874	we do some of the things that I think have to be done insofar as doing a better job of procurement
+T511	Premise 5876 5960	particularly when we're talking about some of our military things that we should buy
+T512	Claim 5962 6112	I know that I fought very hard to put in an independent inspector general for the Defense Department, that the Senator from Indiana opposed me on that
+T513	Claim 6118 6221	we were finally able to put that into effect and we saved over a quarter of a billion dollars this year
+T514	Premise 6223 6262	almost enough to buy a squadron of 716s
+T515	Claim 6264 6309	Those are the kids of things that I'd work on
+T516	Premise 6311 6390	One of the things I learned in business is that you can expect what you inspect
+T518	Claim 6578 6634	those types of things would bring the interest rate down
+T519	Claim 6636 6735	I'd try to turn this trade deficit around and that too would help us and help us very substantially
+T521	Claim 6938 7009	I don't think we can afford a piece of technological elegance like that
+T522	Claim 7011 7056	I'd strike that sort of thing from the ticket
+T524	Claim 7127 7145	I voted against it
+T525	Premise 7147 7208	said it would be a financial disaster and it's been just that
+T526	Claim 7695 7779	We're going to need all the tools possible to bring this Federal budget deficit down
+T527	Claim 7921 7986	The President of the United States needs to have a line item veto
+T528	Claim 8197 8285	Congress has to help out in reducing this budget deficit as much as the Executive Branch
+T529	Claim 7781 7818	We need the tools of a line item veto
+T531	Claim 7332 7482	The way we're going to reduce this budget deficit, and it is a challenge to make sure that it is reduce, is first to stick to the Gramm-Rudman targets
+T532	Premise 7484 7520	The Gramm-Rudman targets have worked
+T533	Premise 7522 7574	We've reduced the Federal budget deficit $70 billion
+T534	Premise 7576 7693	Senator Bentsen voted against Gramm-Rudman, the very tool that has been used to bring the Federal budget deficit down
+T535	Claim 7820 7919	A line item veto that 43 governors in this country have, but not the President of the United States
+T537	Claim 8162 8195	let the Congress vote on it again
+T536	Premise 7988 8157	When Congress goes ahead and puts into appropriations bills unrequested and unnecessary spending, let the President put a line through that, send it back to the Congress
+T1	Claim 6396 6563	we'd be a - doing a much tougher job of auditing, to try to get rid of some of these kickbacks to consultants on military contracts, to be much more aggressive on that
+T2	Premise 6741 6936	I'd get rid of some things like these planes that - are going to have - that the administration wants that'll fly from New York to Tokyo and take those investment bankers over there in four hours
+T3	Claim 2065 2071	I have
+R1	Attack Arg1:T3 Arg2:T481	
+T4	Premise 2642 2849	you know what we had, we had a CETA program that spent $50 billion from about 1973 through 1982 and when we concluded that program - when we concluded that program, unemployment was higher than when it began
+R2	Support Arg1:T493 Arg2:T489	
+R3	Support Arg1:T490 Arg2:T489	
+R4	Attack Arg1:T491 Arg2:T489	
+R5	Support Arg1:T492 Arg2:T494	
+R6	Support Arg1:T497 Arg2:T494	
+R7	Support Arg1:T494 Arg2:T491	
+R8	Support Arg1:T496 Arg2:T494	
+R9	Support Arg1:T495 Arg2:T494	
+R10	Support Arg1:T500 Arg2:T498	
+R11	Support Arg1:T501 Arg2:T500	
+R12	Support Arg1:T504 Arg2:T501	
+R13	Support Arg1:T503 Arg2:T501	
+R14	Support Arg1:T498 Arg2:T502	
+R15	Support Arg1:T507 Arg2:T506	
+R16	Support Arg1:T508 Arg2:T507	
+R17	Support Arg1:T509 Arg2:T508	
+R18	Support Arg1:T511 Arg2:T510	
+R19	Support Arg1:T514 Arg2:T513	
+R20	Support Arg1:T516 Arg2:T1	
+R22	Support Arg1:T2 Arg2:T521	
+R23	Support Arg1:T513 Arg2:T515	
+R24	Support Arg1:T512 Arg2:T515	
+R25	Support Arg1:T510 Arg2:T515	
+R26	Support Arg1:T506 Arg2:T515	
+R27	Support Arg1:T505 Arg2:T515	
+R28	Support Arg1:T518 Arg2:T1	
+R29	Support Arg1:T1 Arg2:T519	
+R21	Support Arg1:T521 Arg2:T519	
+R30	Support Arg1:T521 Arg2:T522	
+R31	Support Arg1:T524 Arg2:T522	
+R32	Support Arg1:T525 Arg2:T524	
+R33	Support Arg1:T533 Arg2:T532	
+R34	Support Arg1:T532 Arg2:T531	
+R35	Attack Arg1:T533 Arg2:T534	
+R36	Support Arg1:T531 Arg2:T526	
+R37	Support Arg1:T529 Arg2:T526	
+R38	Support Arg1:T535 Arg2:T529	
+R39	Equivalent Arg1:T527 Arg2:T529	
+R40	Support Arg1:T528 Arg2:T526	
+R41	Support Arg1:T536 Arg2:T528	
+R42	Support Arg1:T537 Arg2:T528	

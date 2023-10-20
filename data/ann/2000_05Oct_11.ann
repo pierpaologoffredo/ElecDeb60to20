@@ -1,0 +1,57 @@
+T552	Premise 1172 1307	it's the most we could get done to do hard studies to make the case of the extent to which racial profiling is occurring in our country
+T553	Premise 1327 1368	I'm so proud that Al Gore said two things
+T554	Claim 1392 1480	if we're fortunate enough to be elected, an executive order prohibiting racial profiling
+T555	Claim 1495 1603	the first Civil Rights Act legislation we would send to Congress would be a national ban on racial profiling
+T556	Claim 1605 1621	It is just wrong
+T557	Claim 1623 1639	It is unAmerican
+T558	Claim 1720 1738	We have to stop it
+T559	Claim 1740 1782	The only way to stop it is through the law
+T560	Premise 1645 1718	to think that in the 21st Century this kind of nonsense is still going on
+T561	Claim 1059 1087	We can't tolerate it anymore
+T562	Premise 861 932	I have a few African-American friends who have gone through this horror
+T563	Claim 948 988	it makes me want to kind of hit the wall
+T564	Premise 997 1057	it's such an assault on their humanity and their citizenship
+T565	Claim 799 859	the sad fact is that racial profiling occurs in this country
+T566	Claim 533 552	I would be outraged
+T567	Claim 554 693	It is such an assault on the basic promise that America makes that the law will treat individuals as individuals regardless of their status
+T568	Claim 2169 2201	That can't be in America anymore
+T569	Premise 1966 2167	I had a friend a while ago who works in the government, works at the White House, African-American, stopped, surrounded by police for no other cause that anyone can determine than the color of his skin
+T570	Claim 1876 1964	our values are violently contradicted by the kind of racial profiling that I know exists
+T571	Premise 1784 1870	The law, after all, is meant to express our values and our aspirations for our society
+T572	Claim 2810 2978	I think that we have to recognize that while we've made enormous progress in the U.S. in racial relations and come a great long way, we still have a very long way to go
+T573	Claim 3214 3349	We still have, I think, a society that -- where we haven't done enough yet to live up to that standard that we'd all like to live up to
+T574	Claim 3351 3431	I think in terms of equality of opportunity, that we judge people as individuals
+T575	Premise 3433 3554	As Martin Luther King said, we ought to judge people on the content of their character instead of the color of their skin
+T576	Claim 3556 3636	I would hope we can continue to make progress int that regard in the years ahead
+T577	Premise 2980 3100	We still have not only the problems we're talking about here tonight in terms of the problems you mentioned in profiling
+T578	Claim 3119 3212	we still have an achievement gap in education, income differentials, differences in life span
+T1	Question 284 520	Dick Cheney, Joe Lieberman, you are black for this question. Imagine yourself an African-American. You become the target of racial profiling either while walking or driving. African-American Joseph Lieberman, what would you do about it?
+R1	Support Arg1:T562 Arg2:T565
+R2	Support Arg1:T565 Arg2:T567
+R3	Support Arg1:T564 Arg2:T565
+R4	Support Arg1:T563 Arg2:T565
+T2	Claim 1100 1162	I  've supported legislation in the first instance in Congress
+R5	Support Arg1:T561 Arg2:T2
+R6	Support Arg1:T565 Arg2:T2
+R7	Support Arg1:T552 Arg2:T2
+R8	Support Arg1:T2 Arg2:T554
+R9	Support Arg1:T553 Arg2:T554
+R10	Support Arg1:T556 Arg2:T555
+R11	Support Arg1:T557 Arg2:T555
+R12	Support Arg1:T560 Arg2:T555
+R13	Support Arg1:T558 Arg2:T555
+R14	Support Arg1:T559 Arg2:T555
+R15	Support Arg1:T571 Arg2:T559
+R16	Support Arg1:T570 Arg2:T555
+R17	Support Arg1:T569 Arg2:T570
+R18	Support Arg1:T568 Arg2:T570
+T3	Claim 2310 2368	I don't think I can understand fully what it would be like
+T4	Claim 2242 2304	I would like to answer your question to the best of my ability
+R19	Attack Arg1:T3 Arg2:T4
+T5	Premise 2370 2520	I try hard to put myself in that position and imagine what it would be like, but I've always been part of the majority, never part of a minority group
+R20	Support Arg1:T5 Arg2:T3
+R21	Support Arg1:T577 Arg2:T572
+R22	Support Arg1:T578 Arg2:T572
+R23	Support Arg1:T573 Arg2:T572
+R24	Support Arg1:T575 Arg2:T574
+R25	Support Arg1:T574 Arg2:T572

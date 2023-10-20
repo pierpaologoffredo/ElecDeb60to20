@@ -1,0 +1,47 @@
+T341	Claim 973 1145	What we have to do, and this is the crux of the matter, is to make it very, very uh - difficult for a person who uses a gun in the commission of a crime to stay out of jail
+T342	Claim 1354 1442	I don't believe in the registration of handguns or the registration of the handgun owner
+T343	Premise 1444 1479	That has not proven to be effective
+T344	Premise 597 871	the record of gun control, whether it's one city or another or in some states, does not show that the registration of a gun, handgun, or the registration of the gun owner, has in any way whatsoever decreased the crime rate or the use of that gun in the committing of a crime
+T345	Premise 873 971	The record just doesn't prove that such legislation or action by a local city council is effective
+T346	Claim 1270 1352	in my opinion, we are going after the person who uses the gun for the wrong reason
+T347	Premise 1147 1262	If we make the use of a gun in the commission. of a crime a serious criminal offense, and that person is prosecuted
+T348	Claim 1496 1663	I think the better way is to go after the criminal, the individual who commits a crime in the possession of a gun and uses that gun for a part of his criminal activity
+T349	Premise 1665 1708	Those are the people who ought to be in jai
+T350	Claim 1715 1900	the only way to do it is to pass strong legislation so that once apprehended, indicted, convicted, they'll be in jail and off the streets and not using guns in the commission of a crime
+T351	Claim 2668 2765	a national registration of handguns or handgun owners will solve the problem you're talking about
+T352	Premise 2767 2870	The person who wants to use a gun for an illegal purpose can get it whether it's registered or outlawed
+T353	Premise 2872 2893	They will be obtained
+T354	Premise 2899 2946	they are the people who ought to go behind bars
+T355	Claim 2948 3015	You should not in the process penalize the legitimate handgun owner
+T356	Premise 3021 3162	when you go through the process of registration, you in effect, are penalizing that individual who uses his gun for a very legitimate purpose
+T357	Claim 3204 3284	I think it's accurate to say that Mr. Ford's position on gun control has changed
+T358	Premise 3291 3522	earlier, uh - Mr. Levi, his uh - attorney general, put forward a gun control proposal, which Mr. Ford later, I believe, espoused, that called for the prohibition against the uh sale aw- of the uh - so-called Saturday Night Specials
+T359	Premise 3528 3603	it would've put uh - very strict uh - uh - control over who owned a handgun
+T360	Claim 3976 4085	I believe that limited approach to the - to the question would be uh - advisable, and - and I think, adequate
+T361	Premise 3605 3692	I have been a hunter all my life and happen to own both shotguns, rifles, and a handgun
+T362	Premise 3703 3974	the only purpose that I would see in registering uh - handguns and not long guns of any kind would be to prohibit the uh - ownership of those guns by those who've used them in the commission of a crime, or who uh - have been proven to be mentally incompetent to own a gun
+T363	Claim 4091 4126	that's as far as I would go with it
+R1	Support Arg1:T344 Arg2:T345	
+R2	Support Arg1:T347 Arg2:T346	
+R3	Support Arg1:T344 Arg2:T342	
+R4	Support Arg1:T345 Arg2:T342	
+R5	Support Arg1:T343 Arg2:T342	
+R6	Support Arg1:T348 Arg2:T341	
+R7	Support Arg1:T349 Arg2:T341	
+R8	Support Arg1:T349 Arg2:T348	
+R9	Equivalent Arg1:T341 Arg2:T350	
+R10	Support Arg1:T349 Arg2:T350	
+R11	Support Arg1:T348 Arg2:T350	
+R12	Support Arg1:T352 Arg2:T351	
+R13	Support Arg1:T353 Arg2:T351	
+R14	Equivalent Arg1:T353 Arg2:T352	
+R15	Equivalent Arg1:T354 Arg2:T349	
+R16	Support Arg1:T354 Arg2:T341	
+R17	Support Arg1:T354 Arg2:T348	
+R18	Support Arg1:T354 Arg2:T350	
+R19	Support Arg1:T356 Arg2:T355	
+R20	Support Arg1:T358 Arg2:T357	
+R21	Support Arg1:T359 Arg2:T357	
+R22	Support Arg1:T362 Arg2:T360	
+R23	Support Arg1:T360 Arg2:T363	
+R24	Support Arg1:T362 Arg2:T363	

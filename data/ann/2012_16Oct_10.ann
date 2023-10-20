@@ -1,0 +1,156 @@
+T834	Premise 1754 1837	if they put their currency down low, that means their prices on their goods are low
+T835	Claim 1659 1744	they don't play by the rules is artificially holding down the value of their currency
+T836	Premise 427 485	The place where we've seen manufacturing go has been China
+T837	Claim 487 537	China is now the largest manufacturer in the world
+T838	Premise 539 581	It used to be the United States of America
+T839	Claim 770 850	people think it's more attractive in some cases to go offshore than to stay here
+T840	Premise 852 950	We have made it less attractive for enterprises to stay here than to go offshore from time to time
+T841	Claim 952 1038	What I will do as president is make sure it's more attractive to come to America again
+T842	Claim 583 618	A lot of good people have lost jobs
+T843	Claim 1041 1099	This is the way we're going to create jobs in this country
+T844	Premise 1101 1269	It's not by trickle-down government, saying we're going to take more money from people and hire more government workers, raise more taxes, put in place more regulations
+T845	Claim 1346 1494	I want to make America the most attractive place in the world for entrepreneurs, for small business, for big business, to invest and grow in America
+T846	Claim 1502 1598	we're going to have to make sure that as we trade with other nations that they play by the rules
+T847	Premise 1604 1616	China hasn't
+T848	Premise 1271 1343	Trickle-down government has never worked here, has never worked anywhere
+T849	Claim 1843 1890	that makes them advantageous in the marketplace
+T850	Claim 2378 2463	we're going to make sure that people we trade with around the world play by the rules
+T851	Claim 1912 1981	manufacturers here in the U.S. making the same products can't compete
+T852	Claim 1983 2050	China has been a currency manipulator for years and years and years
+T853	Premise 2056 2135	the president has a regular opportunity to label them as a currency manipulator
+T854	Claim 2141 2157	refuses to do so
+T855	Claim 2172 2213	I will label China a currency manipulator
+T856	Claim 2215 2372	which will allow me as president to be able to put in place, if necessary, tariffs where I believe that they are taking unfair advantage of our manufacturers
+T857	Premise 2922 2970	Canada's tax rate on companies is now 15 percent
+T858	Claim 2972 2990	Ours is 35 percent
+T859	Premise 2995 3057	if you're starting a business, where would you rather start it
+T860	Claim 3059 3124	We have to be competitive if we're going to create more jobs here
+T861	Claim 3550 3606	My priority is making sure that we get more people hired
+T862	Premise 3608 3770	If we have more people hired, if we get back manufacturing jobs, if we get back all kinds of jobs into this country, then you're going to see rising incomes again
+T863	Claim 3783 3799	incomes are down
+T864	Premise 3811 3834	unemployment is so high
+T865	Claim 3127 3154	Regulations have quadrupled
+T866	Premise 3156 3211	The rate of regulations quadrupled under this president
+T867	Claim 3329 3425	I want to make sure that regulators see their job as encouraging small business, not crushing it
+T868	Premise 3460 3547	Obamacare has been an extraordinary deterrent to enterprises of all kinds hiring people
+T869	Claim 3884 3904	my plan will do that
+T870	Claim 3910 3980	one part of it is to make sure that we keep China playing by the rules
+T871	Premise 3836 3878	I know what it takes to get this to happen
+T872	Claim 4092 4119	We need to create jobs here
+T873	Claim 5962 6018	exports have significantly increased under my presidency
+T874	Premise 6020 6060	That's going to help to create jobs here
+T875	Claim 5793 5863	the currency has actually gone up 11 percent since I've been president
+T876	Premise 5872 5896	we have pushed them hard
+T877	Premise 5902 5949	we've put unprecedented trade pressure on China
+T878	Premise 4130 4210	Governor Romney and I agree actually that we should lower our corporate tax rate
+T879	Claim 4212 4225	It's too high
+T880	Claim 4284 4373	I want to close loopholes that allow companies to deduct expenses when they move to China
+T881	Claim 4375 4435	that allow them to profit offshore and not have to get taxed
+T882	Premise 4475 4532	All those changes in our tax code would make a difference
+T883	Claim 4440 4473	they have tax advantages offshore
+T884	Claim 4540 4597	Governor Romney actually wants to expand those tax breaks
+T885	Premise 4599 4758	One of his big ideas when it comes to corporate tax reform would be to say, if you invest overseas, you make profits overseas, you don't have to pay U.S. taxes
+T886	Premise 4777 4942	if you're a small business or a mom-and-pop business or a big business starting up here, you've got to pay even the reduced rate that Governor Romney's talking about
+T887	Claim 4949 5002	it's estimated that that will create 800,000 new jobs
+T888	Claim 5004 5038	The problem is they'll be in china
+T889	Claim 5040 5048	Or India
+T890	Claim 5050 5060	Or Germany
+T891	Premise 5063 5113	That's not the way we're going to create jobs here
+T892	Claim 5115 5189	The way we're going to create jobs here is not just to change our tax code
+T893	Claim 5203 5221	double our exports
+T894	Claim 5227 5263	we are on pace to double our exports
+T895	Premise 5265 5315	one of the commitments I made when I was president
+T896	Premise 5317 5381	That's creating tens of thousands of jobs all across the country
+T897	Claim 5394 5427	we've kept on pushing trade deals
+T898	Premise 5433 5529	trade deals that make sure that American workers and American businesses are getting a good deal
+T899	Claim 5620 5698	Governor Romney's company invested in what were called pioneers of outsourcing
+T900	Premise 5700 5720	That's not my phrase
+T901	Premise 5722 5753	That's what reporters called it
+T902	Claim 6399 6476	We can compete with anyone in the world as long as the playing field is level
+T903	Claim 6478 6514	China's been cheating over the years
+T905	Premise 6580 6656	stealing our intellectual property; our designs, our patents, our technology
+T906	Claim 6786 6834	We will have to have people play on a fair basis
+T907	Claim 6867 6980	we have to make America the most attractive place for entrepreneurs, for people who want to expand their business
+T908	Premise 6982 7008	That's what brings jobs in
+T909	Claim 6658 6754	There's even an Apple store in China that's a counterfeit Apple store, selling counterfeit goods
+T910	Premise 6756 6784	They hack into our computers
+T911	Claim 7377 7428	there are some jobs that are not going to come back
+T912	Premise 7438 7471	they are low wage, low skill jobs
+T913	Claim 7519 7553	we have to emphasize manufacturing
+T914	Claim 7566 7609	we have to invest in advanced manufacturing
+T915	Claim 7622 7702	we've got to make sure that we've got the best science and research in the world
+T916	Claim 7737 7810	if we're adding to our deficit for tax cuts for folks who don't need them
+T917	Claim 7816 7994	we're cutting investments in research and science that will create the next Apple, create the next new innovation that will sell products around the world, we will lose that race
+T918	Premise 7996 8084	If we're not training engineers to make sure that they are equipped here in this country
+T919	Premise 8086 8116	Then companies won't come here
+T920	Claim 8118 8217	Those investments are what's going to help to make sure that we continue to lead this world economy
+T921	Premise 8219 8237	not just next year
+T922	Claim 8243 8299	10 years from now, 50 years from now, 100 years from now
+T923	Claim 8383 8414	Government does not create jobs
+T1	Premise 6523 6563	holding down the value of their currency
+T2	Claim 8416 8447	Government does not create jobs
+R1	Support Arg1:T836 Arg2:T837	
+R2	Support Arg1:T838 Arg2:T842	
+R3	Support Arg1:T839 Arg2:T842	
+R4	Support Arg1:T840 Arg2:T839	
+R5	Support Arg1:T841 Arg2:T843	
+R6	Support Arg1:T842 Arg2:T841	
+R7	Support Arg1:T844 Arg2:T848	
+R8	Support Arg1:T845 Arg2:T841	
+R9	Support Arg1:T847 Arg2:T835	
+R10	Support Arg1:T834 Arg2:T835	
+R11	Support Arg1:T849 Arg2:T835	
+R12	Support Arg1:T835 Arg2:T846	
+R13	Support Arg1:T835 Arg2:T851	
+R14	Support Arg1:T852 Arg2:T851	
+R15	Support Arg1:T853 Arg2:T854	
+R16	Support Arg1:T851 Arg2:T855	
+R17	Support Arg1:T856 Arg2:T855	
+R18	Support Arg1:T850 Arg2:T855	
+R19	Support Arg1:T859 Arg2:T860	
+R20	Support Arg1:T866 Arg2:T865	
+R21	Support Arg1:T865 Arg2:T860	
+R22	Support Arg1:T868 Arg2:T867	
+R23	Support Arg1:T862 Arg2:T861	
+R24	Support Arg1:T864 Arg2:T863	
+R25	Support Arg1:T863 Arg2:T861	
+R26	Support Arg1:T871 Arg2:T869	
+R27	Support Arg1:T870 Arg2:T869	
+R28	Support Arg1:T861 Arg2:T869	
+R29	Support Arg1:T878 Arg2:T879	
+R30	Support Arg1:T883 Arg2:T881	
+R31	Support Arg1:T881 Arg2:T880	
+R32	Support Arg1:T882 Arg2:T880	
+R33	Support Arg1:T885 Arg2:T884	
+R34	Support Arg1:T886 Arg2:T884	
+R35	Attack Arg1:T888 Arg2:T887	
+R36	Attack Arg1:T889 Arg2:T887	
+R37	Attack Arg1:T890 Arg2:T887	
+R38	Attack Arg1:T891 Arg2:T887	
+R39	Support Arg1:T893 Arg2:T892	
+R40	Support Arg1:T894 Arg2:T893	
+R41	Support Arg1:T895 Arg2:T894	
+R42	Support Arg1:T896 Arg2:T893	
+R43	Support Arg1:T898 Arg2:T897	
+R44	Support Arg1:T900 Arg2:T899	
+R45	Support Arg1:T901 Arg2:T900	
+R46	Support Arg1:T876 Arg2:T875	
+R47	Support Arg1:T877 Arg2:T873	
+R48	Support Arg1:T874 Arg2:T873	
+R49	Support Arg1:T1 Arg2:T903	
+R50	Support Arg1:T905 Arg2:T903	
+R51	Support Arg1:T910 Arg2:T903	
+R52	Support Arg1:T909 Arg2:T903	
+R53	Support Arg1:T903 Arg2:T906	
+R54	Support Arg1:T908 Arg2:T907	
+R55	Support Arg1:T912 Arg2:T911	
+T3	Claim 7473 7506	I want high wage, high skill jobs
+R56	Support Arg1:T3 Arg2:T913	
+R57	Support Arg1:T3 Arg2:T914	
+R58	Support Arg1:T3 Arg2:T915	
+R59	Support Arg1:T916 Arg2:T917	
+R60	Support Arg1:T918 Arg2:T919	
+R61	Support Arg1:T919 Arg2:T917	
+R62	Support Arg1:T921 Arg2:T922	
+R63	Support Arg1:T922 Arg2:T920	
+*	Equivalent T2 T923

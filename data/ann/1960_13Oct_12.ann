@@ -1,0 +1,81 @@
+T384	Claim 599 692	the first thing we have to do is to continue to keep confidence abroad in the American dollar
+T385	Claim 1453 1494	I think we have been right in carrying it
+T386	Claim 710 808	we must continue to have a balanced budget here at home in every possible circumstance that we can
+T387	Premise 818 927	the moment that we have loss of confidence in our own fiscal policies at home, it results in gold flowing out
+T388	Claim 939 1000	we have to increase our exports, as compared with our imports
+T389	Claim 1011 1084	we have a very strong program going forward in the Department of Commerce
+T390	Claim 1086 1113	This one must be stepped up
+T391	Premise 1222 1386	we have to bear in mind that we must get more help from our allies abroad in this great venture in which all free men are involved of winning the battle for freedom
+T392	Premise 1392 1451	America has been carrying a tremendous load in this respect
+T393	Premise 1496 1582	I have favored our programs abroad for economic assistance and for military assistance
+T394	Premise 1588 1779	now we find that the countries of Europe for example, that we have aided, and Japan, that we've aided in the Far East; these countries - some our former enemies, have now recovered completely
+T396	Premise 1781 1861	They have got to bear a greater share of this load of economic assistance abroad
+T398	Claim 2156 2239	The United States cannot continue to carry the major share of this burden by itself
+T399	Premise 2241 2265	We can a big share of it
+T400	Premise 2271 2322	we've got to have more help from our friends abroad
+T401	Claim 2349 2427	I think, will be very helpful in reversing the gold flow which you spoke about
+T402	Claim 3068 3190	if we're going to continue to maintain our position in the sixties, we have to maintain a sound monetary and fiscal policy
+T403	Claim 3192 3230	We have to have control over inflation
+T405	Claim 3728 3783	I believe that we must be able to compete in the market
+T406	Claim 3834 3873	we must be able to compete against them
+T408	Premise 3882 3929	we always did because of our technological lead
+T409	Claim 3931 3966	We have to be sure to maintain that
+T410	Claim 3968 4086	We have to persuade these other countries not to restrict our goods coming in, not to act as if there was a dollar gap
+T412	Claim 3236 3285	we also have to have a favorable balance of trade
+T413	Claim 3287 3336	We have to be able to compete in the world market
+T415	Premise 3474 3554	many of the countries around the world still keep restrictions against our goads
+T416	Premise 3556 3623	going all the way back to the days when there was a dollar shortage
+T417	Premise 3629 3658	there isn't a dollar shortage
+T418	Claim 3664 3726	yet many of these countries continue to move against our goods
+T474	Premise 2498 2566	Mr. Nixon said on depletion that his record was the opposite of mine
+T475	Premise 2573 2672	I said was that this matter should be thoroughly gone into to make sure that there aren't loopholes
+T476	Claim 2674 2758	If his record is the opposite of that, that means that he doesn't want to go into it
+T407	Claim 4099 4196	we have to persuade them to assume some of the responsibilities that up till now we've maintained
+T411	Claim 4198 4309	to assist underdeveloped countries in Africa, Latin America and Asia make an economic breakthrough on their own
+R1	Support Arg1:T386 Arg2:T384
+R2	Support Arg1:T387 Arg2:T386
+R8	Support Arg1:T392 Arg2:T385
+R9	Support Arg1:T391 Arg2:T385
+R12	Support Arg1:T394 Arg2:T396
+R13	Support Arg1:T393 Arg2:T385
+R18	Equivalent Arg1:T400 Arg2:T391
+R6	Support Arg1:T400 Arg2:T392
+R19	Support Arg1:T400 Arg2:T385
+R20	Support Arg1:T399 Arg2:T400
+R21	Support Arg1:T400 Arg2:T398
+T1	Claim 1874 2154	I am advocating, and will develop during the course of the next Administration - if, of course, I get the opportunity - a program in which we enlist more aid from these other countries on a concerted basis in the programs of economic development for Africa, Asia and Latin America
+R23	Support Arg1:T398 Arg2:T1
+R25	Support Arg1:T400 Arg2:T401
+R27	Support Arg1:T475 Arg2:T474
+R28	Attack Arg1:T474 Arg2:T476
+T2	Claim 2879 3050	have to maintain not only a favorable balance of trade but also send a good deal of our dollars overseas to pay our troops, maintain our bases, and sustain other economies
+R30	Support Arg1:T403 Arg2:T402
+R31	Support Arg1:T412 Arg2:T402
+R32	Support Arg1:T2 Arg2:T402
+R33	Support Arg1:T402 Arg2:T413
+R35	Support Arg1:T416 Arg2:T415
+R36	Support Arg1:T415 Arg2:T413
+R37	Attack Arg1:T417 Arg2:T418
+R38	Support Arg1:T418 Arg2:T413
+R39	Support Arg1:T418 Arg2:T415
+R41	Equivalent Arg1:T405 Arg2:T413
+R42	Support Arg1:T402 Arg2:T405
+R44	Support Arg1:T418 Arg2:T405
+R46	Equivalent Arg1:T405 Arg2:T406
+R47	Support Arg1:T413 Arg2:T406
+R51	Support Arg1:T417 Arg2:T410
+R52	Support Arg1:T398 Arg2:T407
+R53	Support Arg1:T396 Arg2:T407
+R54	Support Arg1:T407 Arg2:T411
+T3	Premise 2789 2859	The difficulty, of course, is that we do have heavy obligations abroad
+R56	Support Arg1:T3 Arg2:T2
+T4	Claim 3338 3459	We have to be able to sell abroad more than we consume uh - from abroad if we're going to be able to meet our obligations
+R57	Support Arg1:T413 Arg2:T4
+R58	Support Arg1:T389 Arg2:T390
+R59	Support Arg1:T396 Arg2:T1
+R60	Support Arg1:T4 Arg2:T3
+R61	Support Arg1:T408 Arg2:T406
+R3	Support Arg1:T390 Arg2:T388	
+R4	Support Arg1:T394 Arg2:T393	
+R5	Support Arg1:T401 Arg2:T398	
+R7	Support Arg1:T405 Arg2:T409	

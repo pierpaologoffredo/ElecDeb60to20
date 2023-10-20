@@ -1,0 +1,87 @@
+T466	Claim 288 307	I am against quotas
+T467	Claim 309 398	I'm against giving anybody any kind of preference for something they're not qualified for
+T468	Premise 412 461	I still believe that there is some discrimination
+T469	Premise 466 576	that not everybody has an opportunity to prove they're qualified, I favor the right kind of Affirmative Action
+T470	Premise 1055 1135	We've opened 260,000 new jobs in the military to women since I've been president
+T471	Claim 1673 1731	I agree with General Colin Powell that we're not there yet
+T472	Claim 578 746	I've done more to eliminate Affirmative Action programs I didn't think were fair and tighten others up than my predecessors have, since affirmative action's been around
+T473	Claim 752 832	I have also worked hard to give people a chance to prove that they are qualified
+T474	Premise 870 942	We've doubled the number of loans from the small business administration
+T475	Premise 944 1053	tripled the number of loans to women business people, no one unqualified, everybody had to meet the standards
+T476	Claim 1733 1839	We ought to keep making those extra effort Affirmative Action programs, the law and the policy of the land
+T477	Claim 1272 1318	Affirmative Action is making that extra effort
+T478	Premise 1505 1645	We weren't guaranteeing anything, anybody anything except the chance to prove they were qualified, the chance to prove that they could do it
+T479	Premise 1448 1503	you have to make it accessible to people in wheelchairs
+T480	Premise 1320 1440	It's sort of like what Senator Dole did when he sponsored the Americans with Disabilities Act and said to certain stores
+T481	Premise 1877 1966	we may not be there yet but we're not going to get there by giving preferences and quotas
+T482	Claim 1968 2004	I supported that route for some time
+T483	Claim 2015 2049	I think it gets back to experience
+T484	Claim 2051 2107	A little experience, a little age, a little intelligence
+T485	Premise 2113 2192	I noted that nobody was really benefitting except a very small group at the top
+T486	Claim 2838 2855	Equal opportunity
+T487	Claim 2194 2231	The average person wasn't benefitting
+T488	Claim 2233 2273	People who had the money were benefiting
+T489	Claim 2275 2318	People who got all the jobs were benefiting
+T490	Claim 2320 2398	It seems to me that we ought to support the California civil rights initiative
+T491	Claim 2400 2456	It ought to be not based on gender or ethnicity or color
+T492	Claim 2458 2471	Or disability
+T493	Claim 2473 2485	I'm disabled
+T494	Claim 2487 2516	I shouldn't have a preference
+T495	Claim 2518 2597	I would like to have one in this race, come to think of it, but I don't get one
+T496	Claim 2667 2684	No discrimination
+T497	Claim 2650 2665	This is America
+T498	Claim 2686 2721	Discrimination ought to be punished
+T499	Claim 2726 2761	there ought to be equal opportunity
+T500	Premise 2763 2836	We ought to reach out, make certain everybody has a chance to participate
+T501	Premise 2861 2905	we cannot guarantee equal results in America
+T502	Claim 2907 2982	That's not how America became the greatest country on the face of the earth
+T503	Claim 2994 3023	I have never supported quotas
+T504	Claim 3025 3054	I've always been against them
+T505	Premise 3056 3083	I don't favor equal results
+T506	Claim 3089 3161	I do favor making sure everybody has a chance to prove they're competent
+T507	Premise 3216 3266	I'm afraid it will end those extra effort programs
+T508	Claim 3174 3204	I have opposed that initiative
+T509	Premise 3327 3401	Make an effort to put a ramp up there so someone in a wheelchair can get u
+T510	Premise 3404 3440	You don't guarantee they get the job
+T511	Claim 3442 3501	You guarantee they have a chance to prove they're competent
+T512	Premise 3518 3554	this is not a partisan thing with me
+T513	Premise 3556 3663	General Colin Powell said the same thing, he fears the initiative would take away the extra effort programs
+T514	Claim 3665 3701	No preferences to unqualified people
+T515	Claim 3703 3712	no quotas
+T516	Claim 3718 3825	don't give up on making an extra effort until you're sure everybody has a chance to prove they're qualified
+R1	Support Arg1:T469 Arg2:T468	
+R2	Support Arg1:T468 Arg2:T467	
+R3	Support Arg1:T467 Arg2:T473	
+R4	Support Arg1:T469 Arg2:T472	
+R5	Support Arg1:T474 Arg2:T473	
+R6	Support Arg1:T475 Arg2:T473	
+R7	Support Arg1:T470 Arg2:T473	
+R8	Support Arg1:T479 Arg2:T480	
+R9	Support Arg1:T480 Arg2:T477	
+R10	Support Arg1:T478 Arg2:T477	
+R11	Support Arg1:T477 Arg2:T476	
+R12	Support Arg1:T471 Arg2:T476	
+R13	Support Arg1:T481 Arg2:T466	
+R14	Support Arg1:T483 Arg2:T484	
+R15	Support Arg1:T485 Arg2:T487	
+R16	Support Arg1:T488 Arg2:T487	
+R17	Support Arg1:T489 Arg2:T487	
+R18	Support Arg1:T493 Arg2:T494	
+R19	Support Arg1:T492 Arg2:T494	
+R20	Support Arg1:T498 Arg2:T496	
+R21	Support Arg1:T497 Arg2:T496	
+R22	Support Arg1:T499 Arg2:T496	
+R23	Support Arg1:T500 Arg2:T496	
+R24	Support Arg1:T486 Arg2:T496	
+R25	Support Arg1:T501 Arg2:T502	
+*	Equivalent T503 T466
+R26	Support Arg1:T504 Arg2:T503	
+R27	Support Arg1:T505 Arg2:T506	
+R28	Support Arg1:T507 Arg2:T508	
+R29	Support Arg1:T510 Arg2:T511	
+R30	Support Arg1:T509 Arg2:T511	
+R31	Support Arg1:T513 Arg2:T507	
+R32	Support Arg1:T503 Arg2:T515	
+R33	Support Arg1:T506 Arg2:T514	
+R34	Support Arg1:T515 Arg2:T516	
+R35	Support Arg1:T514 Arg2:T516	

@@ -1,0 +1,49 @@
+T239	Claim 1513 1623	The Ford administration will not let down, will not eliminate or forget our obligation to the people of Taiwan
+T240	Claim 1638 1742	there must be a continued obligation to the people, the some nineteen or twenty million people in Taiwan
+T241	Claim 1787 1836	those will be the policies of this administration
+T242	Claim 575 674	Our relationship with the People's Republic of China is based upon the Shanghai Communique, of 1972
+T243	Premise 824 1016	It doesn't uh - make a determination as to how uh - that relationship should be achieved in relationship to our current uhh - diplomatic recognition and obligations to the Taiwanese Government
+T244	Premise 791 822	It doesn't set a times schedule
+T245	Premise 1018 1177	The Shanghai Communique, does say that the differences between the People's Republic on the one hand and Taiwan on the other shall be settled by peaceful means
+T246	Claim 1279 1359	we will continue to move for normalization of relations in the traditional sense
+T247	Claim 1365 1460	we will insist that the disputes between Taiwan and the People's Republic be settled peacefully
+T248	Claim 1915 2051	There is no policy of this government to give to the People's Republic, or to sell to the People's Republic of China, military equipment
+T249	Claim 2053 2259	I do not believe that we, the United States, should sell, give or otherwise transfer military hardware to the People's Republic of China, or any other Communist nation, such as the Soviet Union and the like
+T250	Claim -1 139; -1 139; -1 139; -1 139; -1 139; -1 139	I think we need to continue to be strong and I would certainly pursue the normalization of relationships with the People's Republic of China
+T251	Claim 3553 3715	I would never let that friendship with the People's Republic of China stand in the way of the preservation of the independence and freedom of the people on Taiwan
+T252	Premise 3356 3547	We opened a great opportunity in l972, which has pretty well been frittered - frit- frittered away under Mr. Ford, that ought to be a constant uh - inclination toward - uh - toward friendship
+T253	Premise 2388 2482	I think, confused the issue by trying to say that we are shipping Israel 40 percent of our aid
+T254	Premise 2505 2722	during this current year uh we are shipping Iran, or have contracted to ship to Iran, about seven and a half billion dollars worth of arms and also to Saudi Arabia, about seven and a half billion dollars worth of arms
+T255	Premise 2729 2867	in 1975, we almost brought Israel to their knees after the uh - Yom Kippur War by the so-called reassessment of our relationship to Israel
+T256	Claim 2869 2952	We in effect tried to make Israel the scapegoat for the problems in the Middle East
+T257	Premise 2958 3014	this weakened our relationships with Israel a great deal
+T258	Premise 3019 3095	put a cloud on the total commitment that our people feel toward the Israelis
+T175	Claim 680 789	that communique, calls for the normalization of relations between the United States and the People's Republic
+T1	Claim 3189 3354	I think we need to continue to be uh - strong and uh - I would certainly uh - pursue the uh - normalization of uh - relationships with the People's Republic of China
+R1	Support Arg1:T242 Arg2:T175	
+R2	Support Arg1:T244 Arg2:T242	
+R3	Support Arg1:T243 Arg2:T175	
+R4	Support Arg1:T244 Arg2:T175	
+R5	Support Arg1:T243 Arg2:T245	
+R6	Support Arg1:T245 Arg2:T175	
+R7	Support Arg1:T175 Arg2:T246	
+R8	Support Arg1:T245 Arg2:T247	
+R9	Support Arg1:T247 Arg2:T246	
+R10	Support Arg1:T239 Arg2:T246	
+R11	Support Arg1:T240 Arg2:T246	
+R12	Support Arg1:T246 Arg2:T241	
+R13	Support Arg1:T248 Arg2:T249	
+R14	Support Arg1:T253 Arg2:T256	
+R15	Support Arg1:T254 Arg2:T256	
+R16	Support Arg1:T255 Arg2:T256	
+R17	Support Arg1:T257 Arg2:T256	
+R18	Support Arg1:T258 Arg2:T256	
+R19	Support Arg1:T257 Arg2:T258	
+R20	Support Arg1:T1 Arg2:T246	
+R21	Support Arg1:T1 Arg2:T175	
+T2	Claim 3097 3171	There ought to be a clear, unequivocal commitment without change to Israel
+R22	Support Arg1:T258 Arg2:T2	
+R23	Support Arg1:T252 Arg2:T1	
+R24	Support Arg1:T252 Arg2:T251	
+R25	Support Arg1:T251 Arg2:T240	
+R26	Support Arg1:T251 Arg2:T241	

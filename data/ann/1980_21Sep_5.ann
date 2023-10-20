@@ -1,0 +1,130 @@
+T211	Premise 1278 1537	When these Presidential Debates were held just four years ago, I remember the incumbent President, who was willing to debate, President Ford, telling the American people that they simply ought not to vote for somebody who promised more than they could deliver
+T212	Premise 1545 1573	we've seen what has happened
+T213	Claim 1575 1646	We haven't gotten either the economies in Government that were promised
+T214	Premise 1648 1749	we haven't gotten the 4% inflation that we were supposed to get at the end of Mr. Carter's first term
+T215	Premise 1751 1844	Instead we had, I think, in the second quarter, a Consumer Price Index registering around 12%
+T216	Claim 2009 2084	I think my programs are far less inflationary than those of Governor Reagan
+T217	Premise 1850 1990	nobody really knows, with the latest increase in the Wholesale Price Index - that's about 18% on an annualized basis - what it's going to be
+T218	Premise 2086 2331	His own running mate, when he was running for the Presidency, said that they would cost 30% inflation inside of two years, and he cited his leading economic advisor, a very distinguished economist, Paul Macavoy, as the source of that information
+T219	Premise 2333 2381	He went so far as to call it "brutal economics."
+T220	Claim 3101 3247	I'm going to wait until I see that that inflation rate is going down, before I even begin to phase in the business tax cuts that I've talked about
+T221	Claim 3253 3399	I think, by improving productivity, they would be far less inflationary than the consumption-oriented tax cut that Governor Reagan is recommending
+T222	Premise 2518 2615	I would like to stand here and promise the American people a tax cut, as Governor Reagan has done
+T223	Premise 2632 2671	it's gotten to be about $122 difference
+T224	Claim 2673 2695	Somebody worked it out
+T225	Premise 2701 2882	they figured out that between the tax cut that Governor Reagan is promising the American people, and the tax cut that Jimmy Carter is promising in 198I, his is worth about $122 more
+T226	Premise 2998 3099	one is going to give you $122 more if you happen to be in that range of about a $20,000-a-year income
+T227	Claim 2887 2992	you, dear voters, are out there on the auction block, and these two candidates are bidding for your votes
+T228	Claim 3787 3802	I don't have to
+T229	Claim 3804 3816	I've done it
+T230	Premise 3818 3930	We have a back-up paper to my economic speech of a couple of weeks ago in Chicago, that gives all of the figures
+T231	Premise 3932 4071	And we used - yes, we used - the Senate Budget Committee's projections for five years, which are based on an average inflation rate of 7.5%
+T232	Claim 4074 4128	which, I think, that under our plan, can be eliminated
+T233	Premise 4134 4279	eliminated probably more quickly than our plan, but we wanted to be so conservative with it, that people would see how. how well it could be done
+T234	Claim 4895 4935	I speak with some confidence of our plan
+T235	Premise 4945 5110	I took over a state - California - 10% of the population of this nation - a state that, if it were a nation, would be the seventh-ranking economic power in the world
+T236	Claim 5116 5149	that state we controlled spending
+T237	Claim 5151 5198	We cut the rate of increase in spending in half
+T238	Premise 5204 5317	at the same time, we gave back to the people of California - in tax rebates, tax credits, tax cuts - $5.7 billion
+T239	Claim 5795 5847	I believe the budget can be balanced by 1982 or 1983
+T240	Premise 5853 5999	it is a combination of planned reduction of the tax increase that Carter has built into the economy, and that's what he's counting on for his plan
+T241	Premise 6005 6179	he's going to get a half-a-trillion dollars more over the next five years that he can use for additional programs, or hopefully, someplace down the line, balancing the budget
+T242	Claim 6181 6270	We believe that that's too much additional money to take out of the pockets of the people
+T243	Premise 5319 5373	I vetoed 993 measures without having a veto overturned
+T244	Claim 5379 5443	among those vetoes, I stopped $16 billion in additional spending
+T245	Premise 5449 5667	the funny thing was that California, which is normally above the national average in inflation and unemployment, for those six years for the first time, was below the national average in both inflation and unemployment
+T246	Claim 5669 5712	We have considered inflation in our figures
+T247	Premise 5714 5793	We deliberately took figures that we, ourselves, believed were too conservative
+T248	Claim 6593 6717	Spending, in other words. more than doubled, and it rose at a faster rate than spending was rising in the Federal Government
+T249	Premise 6426 6591	despite his pledge to reduce state Government spending, that it rose from $4.6 billion when he took office in 1967, to $10.2 billion during his eight years in office
+T250	Claim 7303 7428	I have seen his program costed out to the point where it would amount to more than $300 million a year, just for the military
+T251	Claim 7434 7504	I think the figures that he has given are simply not going to stand up
+T252	Premise 6723 6981	on his very optimistic figures about his tax cut producing a balanced budget by 1983, and the fact that he is using, he says, the figures of the Senate Budget Committee, that Senate Budget Committee Report does not accommodate all of the Reagan defense plans
+T253	Premise 7574 7634	some people look up figures, and some people make up figures
+T254	Claim 7640 7691	John has just made up some very interesting figures
+T255	Premise 7693 7729	We took the Senate report, of course
+T256	Claim 7735 7892	we did factor in our own ideas with regard to increases in the projected military spending that we believe would, over a period of time, do what is necessary
+T257	Claim 8117 8260	I think being Governor of California is probably the closest thing to the Presidency, if that's possible, of any executive job in America today
+T258	Premise 8271 8300	it is the most populous state
+T259	Claim 7977 8020	we did cut the increase in spending in half
+T260	Premise 8032 8111	John doesn't quite realize - he's never held an executive position of that kind
+T261	Claim 8331 8432	we reduced, in proportion of other states, the per capita spending, the per capita size of Government
+T262	Premise 8435 8538	we only increased the size of Government one-twelfth what it had increased in the preceding eight years
+T263	Premise 8544 8729	one journal, the San Francisco Chronicle, a respected newspaper, said there was no question about the fact that Governor Reagan had prevented the State of California from going bankrupt
+T1	Claim 1151 1277	I believe that all too often in past elections, politicians have simply been promising people things that they cannot deliver.
+T2	Premise 1067 1141	to tell the voters of this country exactly what I think it's going to cost
+T3	Claim 2407 2516	I have been very careful in saying that what I'm going to do is to bring Federal spending under control first
+R1	Support Arg1:T211 Arg2:T1	
+R2	Support Arg1:T2 Arg2:T1	
+R3	Support Arg1:T211 Arg2:T212	
+R4	Attack Arg1:T212 Arg2:T213	
+R5	Support Arg1:T212 Arg2:T1	
+R6	Support Arg1:T214 Arg2:T213	
+R7	Support Arg1:T215 Arg2:T213	
+R8	Support Arg1:T217 Arg2:T213	
+R9	Attack Arg1:T216 Arg2:T213	
+R10	Support Arg1:T218 Arg2:T219	
+R11	Attack Arg1:T216 Arg2:T218	
+R12	Attack Arg1:T216 Arg2:T219	
+R13	Support Arg1:T222 Arg2:T223	
+R14	Attack Arg1:T3 Arg2:T222	
+R15	Support Arg1:T223 Arg2:T224	
+R16	Support Arg1:T224 Arg2:T225	
+R17	Support Arg1:T225 Arg2:T227	
+R18	Support Arg1:T226 Arg2:T227	
+R19	Support Arg1:T3 Arg2:T220	
+R20	Attack Arg1:T220 Arg2:T227	
+R21	Support Arg1:T220 Arg2:T221	
+R22	Support Arg1:T216 Arg2:T221	
+R23	Support Arg1:T228 Arg2:T229	
+R24	Support Arg1:T230 Arg2:T229	
+R25	Support Arg1:T231 Arg2:T232	
+R26	Support Arg1:T233 Arg2:T232	
+T4	Premise 4287 4326	ohn's been in the Congress for 20 years
+T5	Premise 4333 4413	ohn tells us that first, we've got to reduce spending before we can reduce taxes
+T6	Premise 4421 4520	if you've got a kid that's extravagant, you can lecture him all you want to about his extravagance.
+T7	Premise 4524 4588	you can cut his allowance and achieve the same end much quicker.
+T8	Premise 4589 4671	But Government has never reduced Government does not tax to get the money it needs
+T9	Premise 4673 4714	Government always needs the money it gets
+T10	Claim 4725 4889	John talks about his non-inflationary plan, as far as I have been able to learn, there are 88 proposals in it that call for additional Government spending programs.
+R27	Support Arg1:T4 Arg2:T5	
+R28	Support Arg1:T5 Arg2:T6	
+R29	Support Arg1:T6 Arg2:T7	
+R30	Support Arg1:T7 Arg2:T8	
+R31	Support Arg1:T8 Arg2:T9	
+R32	Attack Arg1:T9 Arg2:T10	
+R33	Support Arg1:T235 Arg2:T234	
+R34	Support Arg1:T236 Arg2:T234	
+R35	Support Arg1:T237 Arg2:T234	
+R36	Support Arg1:T236 Arg2:T237	
+R37	Support Arg1:T243 Arg2:T244	
+R38	Support Arg1:T238 Arg2:T237	
+R39	Support Arg1:T245 Arg2:T246	
+R40	Support Arg1:T245 Arg2:T244	
+R41	Support Arg1:T244 Arg2:T246	
+R42	Support Arg1:T247 Arg2:T246	
+R43	Support Arg1:T246 Arg2:T239	
+R44	Support Arg1:T240 Arg2:T239	
+R45	Support Arg1:T234 Arg2:T239	
+R46	Support Arg1:T241 Arg2:T240	
+R47	Attack Arg1:T242 Arg2:T241	
+R48	Attack Arg1:T249 Arg2:T237	
+R49	Support Arg1:T249 Arg2:T248	
+R50	Attack Arg1:T248 Arg2:T237	
+R51	Attack Arg1:T252 Arg2:T239	
+R52	Support Arg1:T252 Arg2:T250	
+R53	Support Arg1:T250 Arg2:T251	
+R54	Attack Arg1:T251 Arg2:T246	
+R55	Attack Arg1:T251 Arg2:T239	
+R56	Support Arg1:T253 Arg2:T254	
+R57	Attack Arg1:T254 Arg2:T250	
+R58	Support Arg1:T255 Arg2:T254	
+R59	Attack Arg1:T256 Arg2:T252	
+R60	Attack Arg1:T256 Arg2:T250	
+R61	Support Arg1:T256 Arg2:T259	
+R62	Attack Arg1:T257 Arg2:T260	
+R63	Support Arg1:T258 Arg2:T257	
+R64	Support Arg1:T261 Arg2:T259	
+R65	Support Arg1:T262 Arg2:T261	
+R66	Support Arg1:T263 Arg2:T259	
+R67	Support Arg1:T263 Arg2:T261	

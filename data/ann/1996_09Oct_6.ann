@@ -1,0 +1,41 @@
+T300	Claim 223 340	I don't think, Jim, that Bob Dole was suggesting that the defense of our country is a jobs or a socioeconomic program
+T301	Premise 346 509	it's clear that the defense budget of this administration has taken defense as a percent of our national economy to a lower level than it was prior to Pearl Harbor
+T302	Claim 511 548	That's dangerous and it's provocative
+T303	Claim 554 754	the mixed message, the ambiguities of U.S. foreign policy, uh are -- I believe, and Bob Dole believes, is causing not only problems for this country throughout the world, but particularly here at home
+T304	Claim 977 1018	that is not the way policy should be made
+T305	Premise 1020 1139	It should be predicated upon the defense needs, the security needs, the strategic needs of the United States of America
+T306	Claim 1145 1199	that's how they'll be made under Bob Dole as president
+T307	Claim 1424 1471	There is a huge difference in our economic plan
+T308	Premise 1214 1394	first of all, there are virtually no large differences in the defense budgets put forward by President Clinton and put forward by the majority in the Congress in the last two years
+T309	Premise 1396 1422	They're very, very similar
+T310	Premise 1473 1718	This risky $550-billion tax scheme that I talked about earlier is said by the Concord Coalition, including Republicans like Pete Peterson and Warren Rudman, to pose a threat to our nation's ability to have a sensible defense budget in the future
+T311	Premise 1720 1925	They've gone on record as saying that this tax scheme would not only raise taxes on 9 million hard-working American families, but would also lead, almost inevitably, to deep cuts in Medicare and in defense
+T312	Premise 1927 2101	We have a balanced budget plan that protects the defense budget, also Medicare, Medicaid, education, the environment, and give tax -- gives tax cuts to middle-income families
+T313	Premise 2145 2314	Every time in this century we've lowered the tax rates across-the-board on employment, on saving, investment, and risk-taking in this economy, revenues went up, not down
+T314	Premise 2321 2440	if the purpose of the tax code is to raise revenue. We ought to think, as John F. Kennedy did, about lowering the rates
+T315	Claim 2463 2484	They can't go too low
+T316	Premise 2494 2520	there's not enough revenue
+T1	Question 8 215	Mr. Kemp, Senator Dole the other night criticized President Clinton for cutting defense spending and, thus, cutting jobs in California. Is that how defense spending should be seen, as a jobs program as well?
+R1	Support Arg1:T301 Arg2:T300	
+R2	Support Arg1:T302 Arg2:T300	
+T2	Premise 760 850	the type of changes that were made overnight in California caused very severe dislocations
+R3	Support Arg1:T2 Arg2:T303	
+T3	Premise 856 971	then, of course, the President ran out to California and announced, well, maybe we'll have another B-1or B-2 Bomber
+R4	Support Arg1:T3 Arg2:T303	
+R5	Support Arg1:T304 Arg2:T303	
+R6	Support Arg1:T305 Arg2:T306	
+R7	Attack Arg1:T308 Arg2:T301	
+R8	Support Arg1:T309 Arg2:T308	
+R9	Support Arg1:T310 Arg2:T307	
+R10	Support Arg1:T311 Arg2:T307	
+R11	Support Arg1:T312 Arg2:T307	
+R12	Attack Arg1:T307 Arg2:T306	
+R13	Attack Arg1:T313 Arg2:T312	
+R15	Support Arg1:T316 Arg2:T315	
+T4	Premise 2628 2671	President Bush apologized for raising taxes
+T5	Premise 2526 2626	President Clinton apologized in Houston for saying, whoops, I raised your taxes and they're too high
+R17	Support Arg1:T4 Arg2:T315	
+R18	Support Arg1:T5 Arg2:T315	
+T6	Premise 3059 3276	In citing John F. Kennedy's tax cut in the 1960s, I want to also remind you that Mr. Kemp has pointed out in the past, Bob Dole was in the Congress then. He was one of those who voted against John F. Kennedy's tax cut
+R19	Attack Arg1:T6 Arg2:T314	
+R14	Support Arg1:T314 Arg2:T315	

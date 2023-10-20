@@ -1,0 +1,114 @@
+T468	Claim 305 418	when we look at the circle of the key people closest to you, your inner circle of advisers, we see white men only
+T469	Premise 459 521	You don't see Margaret Tutwiler sitting in there with me today
+T470	Premise 581 632	The key people, the people beyond the glass ceiling
+T471	Claim 653 689	I happen to think she's a key person
+T472	Claim 691 733	I think our Cabinet members are key people
+T473	Premise 735 876	I think the woman that works with me, Rose Zamaria, is about as tough as a boot out there and makes some discipline and protects the taxpayer
+T474	Premise 878 897	Look at our Cabinet
+T475	Premise 931 950	Look at Carla Hills
+T476	Premise 952 1048	Look at Lynn Martin, who's fighting against this glass ceiling and doing a first-class job on it
+T477	Premise 1050 1090	Look at our surgeon general, Dr. Novello
+T478	Claim 1092 1155	You can look all around and you'll see first-class strong women
+T479	Premise 1158 1175	Jim Baker's a man
+T480	Claim 1266 1305	this is a little defensive on your part
+T481	Premise 1224 1256	look who's around with him there
+T482	Premise 1183 1205	I plead guilty to that
+T483	Claim 1337 1423	We've got a very good record appointing women to high positions and positions of trust
+T484	Claim 1429 1462	I'm not defensive at all about it
+T485	Claim 1464 1497	What we got to do is keep working
+T486	Premise 1499 1609	as the Labor Dept is doing a first-class job on, to break down discrimination, to break down the glass ceiling
+T487	Claim 1616 1670	I am not apologetic at all about our record with women
+T488	Premise 1704 1739	you think about women in government
+T489	Premise 1741 1772	I think about women in business
+T490	Claim 1782 1870	try to help them with my small business program to build some incentives into the system
+T491	Claim 1872 1906	I think we're making progress here
+T492	Premise 1909 1950	You got a lot of women running for office
+T493	Claim 1979 2004	I hope a lot of them lose
+T494	Premise 2013 2038	they're liberal Democrats
+T495	Premise 2062 2131	we don't need more of them in the Senate or more of them in the House
+T496	Premise 2137 2168	nevertheless, they're out there
+T497	Premise 2174 2220	we got some very good Republican women running
+T498	Claim 2225 2255	we're making dramatic progress
+T499	Claim 2402 2458	we have a long history of having a lot of talented women
+T500	Premise 2302 2397	I come from the computer business, and everybody knows the women are more talented than the men
+T501	Premise 2460 2546	One of our first officers was a woman, the chief financial officer. She was a director
+T502	Claim 3204 3303	I suggest, in the sense of taking responsibility for your actions, we lay those papers on the table
+T503	Claim 3305 3348	They're not the secrets to the nuclear bomb
+T504	Claim 3840 3871	That gets to the national honor
+T505	Claim -1 72; -1 72	We did not say to Saddam Hussein you can take the northern part of Kuwait
+T506	Claim 3998 4023	That is absolutely absurd
+T507	Premise 4062 4083	Glaspie has testified
+T508	Premise 4106 4159	Glaspie's papers have been presented to the US Senate
+T509	Claim 3521 3574	We told him he could take the northern part of Kuwait
+T510	Claim 3580 3622	when he took the whole thing, we went nuts
+T511	Claim 3361 3402	we got upset when he took the whole thing
+T512	Premise 3408 3519	to the ordinary American out there who doesn't know where the oil fields are in Kuwait, they're near the border
+T513	Premise 4196 4349	If you have time, go through Nexis and Lexis, pull all the old news articles, look at what Ambassador Glaspie said all through the fall and what-have-you
+T514	Premise 4355 4467	then look at what she and Kelly and all the others in State said at the end when they were trying to clean it up
+T515	Premise 4473 4534	talk to any head of any of those key committees in the Senate
+T516	Premise 4536 4615	They will not let them see the written instructions given to Ambassador Glaspie
+T517	Claim 4621 4763	I suggest that in a free society owned by the people, the American people ought to know what we told Ambassador Glaspie to tell Saddam Hussein
+T518	Premise 4773 4890	we spent a lot of money and risked lives and lost lives in that effort, and did not accomplish most of our objectives
+T519	Premise 4892 5014	We got Kuwait back to the emir but he's still not his nuclear, his chemical, his bacteriological and he's still over there
+T520	Claim 5631 5721	I don't agree that there are no women and minorities in important positions in my campaign
+T521	Claim 5723 5737	There are many
+T522	Claim 5743 5790	I think even more relevant is my record at home
+T523	Premise 5792 5853	For most of my time as governor a woman was my chief of staff
+T524	Premise 5855 5903	An African American was my chief cabinet officer
+T525	Premise 5905 5966	An African American was my chief economic development officer
+T526	Claim 6216 6245	I think is a sign of progress
+T527	Premise 5994 6208	There was a story today or yesterday in the Washington Post about my economic programs and my chief budget officer and my chief economic officer were both African Americans, even though the Post didn't mention that
+T528	Premise 6248 6386	The Natl Women's Political Caucus gave me an award, one of their Good Guy Awards, for my involvement of women in high levels of government
+T529	Premise 6392 6533	I've appointed more minorities to positions of high level in government than all the governors in the history of my state combined, before me
+T530	Claim 6539 6571	that's what I'll do as president
+T531	Claim 6619 6791	I think I owe the American people a White House staff, a Cabinet and appointments that look like America but that meet high standards of excellence, and that's what I'll do
+R2	Attack Arg1:T470 Arg2:T469	
+R3	Support Arg1:T469 Arg2:T471	
+R1	Attack Arg1:T471 Arg2:T468	
+R4	Support Arg1:T474 Arg2:T472	
+R5	Support Arg1:T474 Arg2:T478	
+R6	Support Arg1:T475 Arg2:T478	
+R7	Support Arg1:T473 Arg2:T478	
+R8	Support Arg1:T476 Arg2:T478	
+R9	Support Arg1:T477 Arg2:T478	
+R10	Support Arg1:T479 Arg2:T482	
+R11	Support Arg1:T483 Arg2:T484	
+R12	Support Arg1:T486 Arg2:T485	
+R13	Support Arg1:T487 Arg2:T484	
+R15	Support Arg1:T489 Arg2:T490	
+R16	Support Arg1:T490 Arg2:T487	
+R14	Support Arg1:T492 Arg2:T491	
+R17	Support Arg1:T494 Arg2:T493	
+R18	Support Arg1:T495 Arg2:T493	
+R19	Support Arg1:T496 Arg2:T492	
+R20	Equivalent Arg1:T498 Arg2:T491	
+R21	Support Arg1:T497 Arg2:T492	
+R22	Support Arg1:T500 Arg2:T499	
+R23	Support Arg1:T501 Arg2:T499	
+R24	Support Arg1:T503 Arg2:T502	
+R25	Support Arg1:T512 Arg2:T511	
+R26	Equivalent Arg1:T510 Arg2:T511	
+R27	Support Arg1:T507 Arg2:T506	
+R28	Support Arg1:T508 Arg2:T506	
+R29	Support Arg1:T504 Arg2:T506	
+R30	Attack Arg1:T506 Arg2:T502	
+R31	Support Arg1:T515 Arg2:T516	
+R32	Attack Arg1:T517 Arg2:T506	
+R33	Support Arg1:T518 Arg2:T517	
+R34	Support Arg1:T519 Arg2:T517	
+R35	Equivalent Arg1:T517 Arg2:T502	
+R36	Support Arg1:T521 Arg2:T520	
+R37	Attack Arg1:T520 Arg2:T468	
+R38	Support Arg1:T523 Arg2:T522	
+R39	Support Arg1:T524 Arg2:T522	
+R40	Support Arg1:T525 Arg2:T522	
+R41	Support Arg1:T527 Arg2:T526	
+R42	Support Arg1:T526 Arg2:T522	
+R43	Support Arg1:T529 Arg2:T530	
+R44	Support Arg1:T529 Arg2:T520	
+R45	Support Arg1:T528 Arg2:T520	
+R46	Support Arg1:T531 Arg2:T530	
+R47	Support Arg1:T471 Arg2:T472	
+R48	Attack Arg1:T482 Arg2:T478	
+R49	Attack Arg1:T481 Arg2:T482	
+R50	Support Arg1:T478 Arg2:T483	

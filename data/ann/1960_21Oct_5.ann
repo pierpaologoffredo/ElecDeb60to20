@@ -1,0 +1,54 @@
+T257	Claim 553 677	I think the next president of the United States should make one last effort to secure an agreement on the cessation of tests
+T258	Claim 691 797	I think we should go back to Geneva, who's ever elected president, Mr. Nixon or myself, and try once again
+T260	Premise 862 1009	I hope we can come to an agreement because it does not merely involve now the United States, Britain, France, and the Soviet Union as atomic powers
+T261	Premise 1019 1440	new breakthroughs in atomic energy technology there's some indications that by the time the next president's term of office has come to an end, there may be ten, fifteen, or twenty countries with an atomic capacity, perhaps that many testing bombs with all the effect that it could have on the atmosphere and with all the chances that more and more countries will have an atomic capacity, with more and more chance of war
+T262	Claim 1445 1475	one more effort should be made
+T263	Claim 1477 1612	I don't think that even if that effort fails that it will be necessary to carry on tests in the atmosphere which pollute the atmosphere
+T264	Premise 1614 1649	They can be carried out underground
+T265	Premise 1651 1693	they c- could be carried on in outer space
+T266	Claim 1699 1797	I believe the effort should be made once more by who's ever elected president of the United States
+T267	Claim 1799 1878	If we fail, it's been a great serious failure for everyone - for the human race
+T259	Premise 1912 2101	if we fail responsibility will be clearly on the Russians and then we'll have to meet our responsibilities to the security of the United States, and there may have to be testing underground
+T268	Premise 2103 2157	I think the Atomic Energy Committee is prepared for it
+T269	Premise 2159 2194	There may be testing in outer space
+T270	Premise 2196 2282	I hope it will not be necessary for any power to resume uh - testing in the atmosphere
+T271	Premise 2284 2327	It's possible to detect those kind of tests
+T272	Premise 2329 2424	The kind of tests which you can't detect are underground or in - in uh - perhaps in outer space
+T273	Premise 2429 2466	that I'm hopeful we can try once more
+T274	Claim 2468 2530	If we fail then we must meet our responsibilities to ourselves
+T275	Premise 2536 2610	I'm most concerned about the whole problem of the spread of atomic weapons
+T276	Premise 2612 2644	China may have it by 1963, Egypt
+T277	Premise 2646 2839	War has been the constant companion of mankind, so to have these weapons disseminated around the world, I believe means that we're going to move through a period of hazard in the next few years
+T278	Claim 2841 2873	We ought to make one last effort
+T279	Claim 3239 3281	the Soviet Union is actually filibustering
+T280	Premise 2958 3091	we must have in mind the fact that we have been negotiating to get tests inspected and uh - to get an agreement for many, many months
+T281	Premise 3114 3204	there's been a moratorium on testing as a result of the fact that we have been negotiating
+T282	Claim 3364 3384	they may be cheating
+T283	Claim 3386 3570	I don't think we can wait until the next president is inaugurated and then uh - select a new team and then all the months of negotiating that will take place before we reach a decision
+T284	Claim 3572 3766	I think that immediately after this election we should set a timetable - the next president, working with the present President, President Eisenhower - a timetable to break the Soviet filibuster
+T286	Claim 3920 3974	we should not allow this Soviet filibuster to continue
+T287	Claim 3976 4022	I think it's time for them to fish or cut bait
+T288	Claim 4024 4201	I think that the next president immediately after his election should sit down with the President, work out a timetable, and - get a decision on this before January of next year
+R1	Support Arg1:T258 Arg2:T257	
+R3	Support Arg1:T260 Arg2:T257	
+R4	Support Arg1:T261 Arg2:T260	
+R5	Support Arg1:T260 Arg2:T262	
+R6	Support Arg1:T264 Arg2:T263	
+R7	Support Arg1:T265 Arg2:T263	
+R8	Support Arg1:T267 Arg2:T266	
+R9	Support Arg1:T276 Arg2:T275	
+R11	Support Arg1:T277 Arg2:T278	
+R12	Support Arg1:T281 Arg2:T280	
+R13	Support Arg1:T286 Arg2:T283	
+R14	Support Arg1:T287 Arg2:T286	
+R2	Equivalent Arg1:T262 Arg2:T257	
+R16	Equivalent Arg1:T266 Arg2:T262	
+R17	Support Arg1:T259 Arg2:T267	
+R18	Support Arg1:T268 Arg2:T259	
+R19	Support Arg1:T275 Arg2:T274	
+R20	Equivalent Arg1:T278 Arg2:T266	
+R10	Support Arg1:T281 Arg2:T279	
+R21	Support Arg1:T282 Arg2:T279	
+R22	Attack Arg1:T283 Arg2:T257	
+R23	Support Arg1:T283 Arg2:T284	
+R15	Equivalent Arg1:T288 Arg2:T284	

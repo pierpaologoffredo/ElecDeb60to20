@@ -1,0 +1,54 @@
+T285	Claim 678 771	America has a national strategic interest and principled interest in peace in the Middle East
+T286	Claim 1781 1819	Al Gore and I will continue to do that
+T287	Claim 1665 1756	We've been on a very constructive course in the Middle East, played an unusual, unique role
+T288	Premise 1821 1980	I hope I might, through my friendships in Israel and throughout the Arab world, play a unique role in bringing peace to this -- this sacred region of the world
+T289	Premise 411 497	So much work has been done by the people there with the support of this administration
+T290	Premise 499 669	So much progress has been made in the original Oslo agreements between the Israelis, the Palestinians, adopted in 1993, and the peace between Israel and Jordan thereafter
+T291	Claim 777 863	Al Gore has played a critical role in advancing that process over the last eight years
+T292	Premise 966 1073	these two peoples have come in some senses, generations forward, centuries forward, in the last seven years
+T293	Claim 1075 1119	They are so close to a final peace agreement
+T294	Premise 1121 1308	I hope and pray that the death and unrest in the last week will not create the kinds of scars that make it hard for them to go back to the peace table with American assistance and achieve
+T295	Claim 1314 1389	I'm convinced the great majority of the Israeli and Palestinian people want
+T296	Claim 3710 3880	I think it's very important that we have an administration where we have a president with firm leadership who has the kind of track record of dealing straight with people
+T297	Claim 3882 3967	of keeping his word so friends and allies both respect us and our adversaries fear us
+T298	Claim 3474 3511	I think Barak has tried to same thing
+T299	Claim 3583 3708	the next administration is going to be the one that is going to have to come to grips with the current state of affairs there
+T300	Claim 2774 2862	We were able to, I think, reassure both Arabs and Israelis would play a major role there
+T301	Claim 3171 3240	I think also a lot of credit goes to some great men like Yitzak Rabin
+T302	Claim 2208 2289	We made significant breakthroughs, I think, at the end of the Bush administration
+T303	Premise 2301 2313	the Gulf War
+T304	Premise 2067 2206	Numerous administrations going back certainly to World War II have had to wrestle with the problem of what should happen to the Middle East
+T305	Premise 2326 2416	we had joined together with Arab allies and done enormous damage to the Iraqi armed forces
+T306	Claim 2864 3000	We have the ability and the will to deploy forces if we had to, to engage in military operations to help our friends and oppose our foes
+T307	Premise 3002 3046	We were able to convene them in a conference
+T308	Premise 3048 3169	The first time Arab and Israelis sat down face-to-face and began this process of trying to move the peace process forward
+T309	Claim 3242 3357	His tragic passing was of great consequence, a great tragedy for everybody who cares about peace in the Middle East
+T310	Premise 3359 3472	He was a man who had the military stature to be able to confidently persuade the Israelis to take risks for peace
+T311	Premise 2504 2539	the Soviets were no longer a factor
+T312	Premise 2541 2630	They used to fish in troubled waters whenever they had the opportunity in the Middle East
+T313	Claim 2418 2464	Iraq was the biggest military threat to Israel
+T1	Question 47 240	Once again in the Middle East, peace talks on the one hand, deadly confrontations on the other, and the flashpoint, Jerusalem, and then there's Syria. Is United States policy what it should be?
+R1	Support Arg1:T290 Arg2:T291	
+R2	Support Arg1:T289 Arg2:T291	
+R3	Support Arg1:T292 Arg2:T293	
+R4	Support Arg1:T287 Arg2:T286	
+R5	Support Arg1:T295 Arg2:T286	
+R6	Support Arg1:T293 Arg2:T287	
+T2	Premise 1459 1549	Secretary Albright has been in Paris meeting with prime minister Barak and chairman Arafat
+R7	Support Arg1:T2 Arg2:T287	
+R8	Support Arg1:T288 Arg2:T286	
+R9	Support Arg1:T303 Arg2:T302	
+R10	Support Arg1:T304 Arg2:T302	
+R11	Support Arg1:T305 Arg2:T302	
+T3	Premise 2466 2502	By virtue of the end of the Cold War
+R12	Support Arg1:T3 Arg2:T311	
+T4	Premise 2632 2772	With the end of the Soviet Union, the implosion of the empire, that created a vacuum if you will, and made it easier for us to operate there
+R13	Support Arg1:T311 Arg2:T4	
+R14	Support Arg1:T312 Arg2:T4	
+R15	Support Arg1:T4 Arg2:T300	
+R16	Support Arg1:T302 Arg2:T300	
+R17	Support Arg1:T313 Arg2:T302	
+R18	Support Arg1:T306 Arg2:T300	
+R19	Support Arg1:T307 Arg2:T306	
+R20	Support Arg1:T308 Arg2:T307	
+R21	Support Arg1:T310 Arg2:T309	

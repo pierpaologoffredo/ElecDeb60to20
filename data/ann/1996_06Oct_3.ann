@@ -1,0 +1,79 @@
+T107	Claim 171 185	Absolutely not
+T108	Premise 243 417	in this campaign season, since Senator Dole's been a candidate, he has bragged about the fact that he voted against Medicare in the beginning, in 1965, one of only 12 members
+T109	Premise 419 492	He said he did the right thing then, he knew it wouldn't work at the time
+T110	Premise 515 658	Then his budget that he passed along with Speaker Gingrich cut Medicare $270 billion, more than was necessary to repair the Medicare trust fund
+T112	Premise 755 791	doctors could have charged them more
+T114	Premise 1031 1088	with this risky $550 billion tax scheme of Senator Dole's
+T115	Claim 1284 1372	my balanced budget plan adds ten years to the life of the Medicare trust fund, ten years
+T116	Premise 1378 1449	we'll have time to deal with the long-term problems of the baby boomers
+T117	Claim 1455 1576	it was simply wrong to finance their last scheme to cut Medicare $270 billion to run the risk of it withering on the vine
+T118	Claim 1625 1673	we need somebody who believes it in to reform it
+T119	Premise 1578 1619	We always had to reform it over the years
+T120	Premise 1724 1894	I look back at the vote on Medicare in 1965, we had a program called Eldercare that also provided drugs and means tests to people who needed medical attention received it
+T121	Premise 1896 1927	I thought it was a good program
+T122	Claim 1933 1967	I've supported Medicare ever since
+T123	Premise 1978 2091	I used to go home, my mother would tell me, Bob, all I've got is my Social Security and my Medicare, don't cut it
+T124	Claim 2093 2135	I wouldn't violate anything my mother said
+T125	Claim 2748 2766	we can do it again
+T126	Claim 2244 2274	I'm concerned about healthcare
+T127	Premise 2276 2346	I've had the best healthcare from government hospitals, Army hospitals
+T128	Premise 2351 2372	I know its importance
+T129	Claim 2378 2397	we've got to fix it
+T130	Claim 2399 2485	It's his trustees, the President's trustees, not mine, who says it's going to go broke
+T131	Premise 2487 2518	He doesn't fix it for ten years
+T132	Claim 2520 2552	We ought to appoint a commission
+T133	Premise 2559 2742	as we did in Social Security in 1983, when we rescued Social Security, and I was proud to be on that commission, along with Claude Pepper, the champion of senior citizens from Florida
+T134	Claim 2911 2944	I think it's time to have a truce
+T135	Claim 2840 2909	You've already spent $45 million scaring seniors and tearing me apart
+T136	Claim 3013 3061	I'd be happy to have a commission deal with this
+T137	Premise 3066 3138	I appreciate what Senator Dole did on the '83 Social Security commission
+T138	Claim 3144 3196	it won't be possible to do, if his tax scheme passes
+T139	Premise 3210 3334	his own campaign co-chair, Senator D'Amato, says he'll have to cut Medicare even more than was cut in the bill that I vetoed
+T140	Premise 3363 3440	it cut more Medicare and and basically ran the risk of breaking up the system
+T141	Claim 3336 3354	I vetoed that bill
+T142	Claim 3442 3496	My balanced budget plan puts ten years on the Medicare
+T143	Claim 3498 3548	We ought to do that, then we can have a commission
+T144	Claim 3554 3603	Senator Dole's plans are not good for the country
+T97	Claim 660 746	It would have charged seniors more for out-of-pocket costs as well as more in premiums
+T111	Premise 793 1020	The American Medical, Hospital Association, the Nurses Association, the Catholic Hospital Association all said hundreds of hospitals could close and people would be hurt badly under the Dole-Gingrich Medicare plan that I vetoed
+T113	Premise 1095 1276	his own friends, his campaign co-chair, Senator D'Amato, says that they can't possibly pay for it without cutting Medicare more and cutting Social Security as well, according to him
+T1067	Premise 2768 2797	if we take politics out of it
+T1	Premise 494 514	That's what he said.
+R1	Support Arg1:T108 Arg2:T109	
+R2	Support Arg1:T1 Arg2:T109	
+R3	Support Arg1:T110 Arg2:T97	
+R4	Support Arg1:T112 Arg2:T97	
+R5	Attack Arg1:T97 Arg2:T109	
+R6	Support Arg1:T111 Arg2:T97	
+R7	Support Arg1:T114 Arg2:T113	
+R8	Support Arg1:T113 Arg2:T97	
+R9	Support Arg1:T97 Arg2:T107	
+R10	Attack Arg1:T115 Arg2:T97	
+R11	Support Arg1:T116 Arg2:T115	
+R12	Support Arg1:T119 Arg2:T118	
+R13	Attack Arg1:T117 Arg2:T110	
+R14	Attack Arg1:T117 Arg2:T97	
+R15	Support Arg1:T121 Arg2:T120	
+R16	Support Arg1:T123 Arg2:T124	
+R17	Support Arg1:T122 Arg2:T124	
+R18	Support Arg1:T121 Arg2:T122	
+R19	Attack Arg1:T122 Arg2:T108	
+R20	Support Arg1:T127 Arg2:T128	
+R21	Support Arg1:T128 Arg2:T126	
+R22	Support Arg1:T126 Arg2:T129	
+R23	Support Arg1:T131 Arg2:T130	
+R24	Attack Arg1:T130 Arg2:T117	
+R25	Support Arg1:T133 Arg2:T132	
+R26	Support Arg1:T1067 Arg2:T125	
+R27	Support Arg1:T125 Arg2:T132	
+R28	Attack Arg1:T132 Arg2:T130	
+R29	Support Arg1:T135 Arg2:T134	
+R30	Support Arg1:T134 Arg2:T1067	
+R31	Support Arg1:T136 Arg2:T132	
+R32	Support Arg1:T137 Arg2:T133	
+R33	Attack Arg1:T138 Arg2:T136	
+R34	Support Arg1:T139 Arg2:T138	
+R35	Support Arg1:T140 Arg2:T141	
+R36	Support Arg1:T141 Arg2:T138	
+R37	Support Arg1:T142 Arg2:T143	
+R38	Support Arg1:T143 Arg2:T136	

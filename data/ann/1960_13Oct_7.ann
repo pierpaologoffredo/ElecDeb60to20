@@ -1,0 +1,65 @@
+T198	Claim 1396 1421	I disapprove of the issue
+T199	Claim 1423 1470	I do not suggest that Mr. Nixon does in any way
+T200	Claim 1068 1088	I don't suggest that
+T201	Claim 1090 1108	I don't support it
+T202	Claim 1053 1066	That's absurd
+T203	Claim 1110 1134	I would disagree with it
+T205	Claim 865 1051	I do not suggest in any way, nor have I ever, that that indicates that Mr. Nixon has the slightest sympathy, involvement, or in any way imply any inferences in regard to the Ku Klux Klan
+T207	Claim 1778 1887	I pointed out that it was my position that Americans must choose the best man that either party could produce
+T208	Premise 1889 1930	We can't settle for anything but the best
+T209	Premise 1959 2000	the best man that this nation can produce
+T210	Premise 2022 2056	we can't have any test of religion
+T211	Premise 2058 2088	We can't have any test of race
+T212	Premise 2090 2116	It must be a test of a man
+T213	Claim 2864 2918	we certainly cannot have it in a presidential campaign
+T214	Premise 2827 2858	We cannot have it in our hearts
+T215	Claim 2446 2476	I obviously repudiate the Klan
+T216	Claim 2478 2526	I repudiate anybody who uses the religious issue
+T217	Claim 2528 2550	I will not tolerate it
+T218	Premise 2552 2613	I have ordered all of my people to have nothing to do with it
+T219	Premise 2690 2715	if you believe in America
+T220	Premise 2717 2774	if you want America to set the right example to the world
+T221	Claim 2781 2825	we cannot have religious or racial prejudice
+T222	Premise 2156 2184	I have seen Communism abroad
+T223	Premise 2186 2204	I see what it does
+T224	Claim 2206 2245	Communism is the enemy of all religions
+T225	Claim 2251 2294	we who do believe in God must join together
+T226	Claim 2296 2332	We must not be divided on this issue
+T227	Premise 2334 2444	The worst thing that I can think can happen in this campaign would be for it to be decided on religious issues
+R1	Support Arg1:T205 Arg2:T202	
+R2	Equivalent Arg1:T205 Arg2:T200	
+R4	Support Arg1:T202 Arg2:T200	
+R5	Support Arg1:T202 Arg2:T201	
+T1	Premise 1136 1370	Mr. Nixon knows very well that in this - in this whole matter that's been involved with the so-called religious discussion in this campaign, I've never suggested, even by the vaguest implication, that he did anything but disapprove it
+R7	Support Arg1:T1 Arg2:T198	
+T2	Claim 1376 1394	that's my view now
+R10	Equivalent Arg1:T2 Arg2:T198	
+T3	Claim 1514 1593	I welcome this opportunity to join Senator Kennedy completely on that statement
+R13	Support Arg1:T3 Arg2:T198	
+R14	Support Arg1:T208 Arg2:T207	
+R16	Support Arg1:T209 Arg2:T208	
+R21	Support Arg1:T212 Arg2:T207	
+R22	Support Arg1:T222 Arg2:T223	
+R23	Support Arg1:T223 Arg2:T224	
+R24	Support Arg1:T224 Arg2:T225	
+R26	Support Arg1:T225 Arg2:T226	
+R31	Support Arg1:T227 Arg2:T217	
+R32	Support Arg1:T215 Arg2:T216	
+R33	Support Arg1:T216 Arg2:T217	
+R34	Support Arg1:T218 Arg2:T217	
+R35	Support Arg1:T219 Arg2:T220	
+R36	Support Arg1:T220 Arg2:T221	
+R38	Support Arg1:T214 Arg2:T213	
+R39	Support Arg1:T221 Arg2:T213	
+T4	Claim 197 416	The Ku Klux Klan is riding again in this campaign. If it doesn't stop, all bigots will vote for Nixon and all right-thinking Christians and Jews will vote for Kennedy rather than be found in the ranks of the Klan-minded
+R45	Support Arg1:T205 Arg2:T1	
+R46	Equivalent Arg1:T203 Arg2:T198	
+R51	Support Arg1:T211 Arg2:T207	
+R53	Support Arg1:T210 Arg2:T216	
+T5	Premise 638 863	Mr. Griffin, I believe, who is the head of the Klan, who lives in Tampa, Florida, indicated a - in a statement, I think, two or three weeks ago that he was not going to vote for me, and that he was going to vote for Mr. Nixon
+R42	Attack Arg1:T205 Arg2:T5	
+R3	Equivalent Arg1:T201 Arg2:T203	
+R6	Support Arg1:T1 Arg2:T205	
+R8	Equivalent Arg1:T198 Arg2:T203	
+R11	Equivalent Arg1:T199 Arg2:T203	
+R9	Support Arg1:T217 Arg2:T213	

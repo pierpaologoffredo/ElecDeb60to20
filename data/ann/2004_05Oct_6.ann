@@ -1,0 +1,72 @@
+T460	Claim 865 989	John Kerry and I believe we have a moral responsibility not to leave trillions of debt to our children and our grandchildren
+T461	Claim 286 318	we will do what they've not done
+T462	Premise 370 500	last four years, we have gone from a $5 trillion projected surplus when George Bush took office to a $3 trillion projected deficit
+T463	Premise 502 592	They promised they were going to put $2 trillion of the surplus aside from Social Security
+T464	Claim 594 602	Not done
+T465	Premise 1198 1237	we have plans on both of those subjects
+T466	Claim 1113 1188	I hope to get the chance to talk about health care and also about education
+T467	Claim 1246 1285	we're going to do is roll back tax cuts
+T468	Claim 1079 1105	we believe need to be done
+T470	Premise 1330 1447	there have been exaggerations made on the campaign trail: Roll back tax cuts for people who make over $200,000 a year
+T469	Claim 1449 1464	we will do that
+T471	Claim 1467 1559	We want to keep the tax cuts that are in place for people who make less than $200,000 a year
+T472	Claim 1564 1619	give additional tax cuts to those middle-class families
+T473	Claim 1621 1645	tax cuts for health care
+T474	Claim 1647 1702	tax cuts to help families pay for their college tuition
+T475	Claim 1704 1727	tax cuts for child care
+T476	Premise 1730 1771	These families are struggling and hurting
+T477	Claim 1777 1802	they need more tax relief
+T478	Premise 1804 1823	not less tax relief
+T479	Claim 1884 1958	we also want to get rid of some of the bureaucratic spending in Washington
+T480	Premise 2006 2110	they've actually layered on more supervisory people, people at the supervisory level, in this government
+T481	Claim 2113 2159	We also want to close some corporate loopholes
+T482	Claim 2200 2231	We can't eliminate this deficit
+T483	Claim 2294 2309	We cannot do it
+T484	Claim 2342 2372	we can cut the deficit in half
+T485	Claim 2378 2454	if we move, we can move this country back on a path to fiscal responsibility
+T486	Claim 2892 3028	I think the Kerry-Edwards approach basically is to raise taxes and to give government more control over the lives of individual citizens
+T487	Claim 3031 3066	We think that's the wrong way to go
+T489	Claim 3463 3479	That's not smart
+T490	Premise 3488 3555	seven out of 10 new jobs in America are created by small businesses
+T491	Premise 3119 3203	They talk about the top bracket and going after only those people in the top bracket
+T492	Claim 3238 3347	a great many of our small businesses pay taxes under the personal income taxes rather than the corporate rate
+T493	Premise 3353 3460	about 900,000 small businesses will be hit if you do, in fact, do what they want to do with the top bracket
+T494	Claim 3587 3640	It's a bad idea to increase the burden on those folks
+T495	Claim 3987 4068	we'll also drive the deficit down 50 percent in the course of the next five years
+T496	Claim 3844 3910	the president and I will go forward to make the tax cuts permanent
+T497	Premise 3912 3958	That's good policy. That's what we ought to do
+T498	Claim 4122 4254	We are committed to cutting back anything in our programs that need to be cut back to get us back on a path to fiscal responsibility
+T499	Premise 4256 4361	John Kerry, Mr. Vice President, has voted or co-sponsored over 600 times tax cuts for the American people
+T500	Claim 4444 4541	We are for more tax cuts for the middle class than they're for, have been for the last four years
+T501	Claim 4547 4597	we are not for more tax cuts for multimillionaires
+T502	Premise 4599 4607	They are
+R1	Support Arg1:T462 Arg2:T461
+R2	Support Arg1:T463 Arg2:T464
+R3	Support Arg1:T464 Arg2:T461
+T4	Question 56 266	Senator Kerry said in a recent interview that he absolutely will not raise taxes on anyone under -- who earns under $200,000 a year. How can he guarantee that and also cut the deficit in half, as he's promised?
+T5	Premise 706 862	The Washington Post just reported they have several trillion dollars of additional tax cuts and spending, no suggestion of what they're going to do about it
+R4	Support Arg1:T5 Arg2:T461
+R5	Support Arg1:T465 Arg2:T466
+R6	Support Arg1:T470 Arg2:T467
+R7	Equivalent Arg1:T469 Arg2:T467
+R8	Support Arg1:T476 Arg2:T477
+R9	Support Arg1:T478 Arg2:T477
+R10	Support Arg1:T480 Arg2:T479
+R11	Equivalent Arg1:T483 Arg2:T482
+T6	Claim 2521 2649	the Kerry record on taxes is one basically of voting for a large number of tax increases -- 98 times in the United States Senate
+R12	Support Arg1:T6 Arg2:T486
+R13	Support Arg1:T486 Arg2:T487
+R14	Attack Arg1:T492 Arg2:T491
+R15	Support Arg1:T493 Arg2:T492
+R16	Attack Arg1:T492 Arg2:T467
+R17	Support Arg1:T490 Arg2:T489
+R18	Support Arg1:T492 Arg2:T489
+R19	Support Arg1:T489 Arg2:T494
+R20	Support Arg1:T497 Arg2:T496
+R21	Support Arg1:T499 Arg2:T498
+R22	Attack Arg1:T500 Arg2:T496
+R23	Attack Arg1:T501 Arg2:T496
+T7	Premise 4921 5011	Senators Kerry and Edwards weren't even there to vote for it when it came to final passage
+T8	Premise 4755 4919	Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit
+R26	Attack Arg1:T8 Arg2:T501
+R27	Attack Arg1:T7 Arg2:T500

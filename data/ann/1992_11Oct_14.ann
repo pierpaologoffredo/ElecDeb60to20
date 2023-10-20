@@ -1,0 +1,54 @@
+T1	Claim 628 656	We ought to love one another
+T2	Premise 666 705	united teams win and divided teams lose
+R1	Support Arg1:T2 Arg2:T1	
+T3	Claim 707 775	If we can't love one another, we ought to get along with one another
+T4	Premise 777 881	If you can't get there, just recognize we're all stuck with one another, because nobody's going anywhere
+T5	Claim 988 1015	Our diversity is a strength
+R2	Support Arg1:T4 Arg2:T3	
+T6	Premise 1017 1048	We've turned it into a weakness
+R3	Attack Arg1:T5 Arg2:T6	
+T7	Claim 1062 1095	the White House is a bully pulpit
+T8	Claim 1097 1195	I think whoever's in the White House should just make it absolutely unconscionable and inexcusable
+R4	Support Arg1:T7 Arg2:T8	
+R5	Support Arg1:T5 Arg2:T8	
+T9	Claim 1410 1443	Our differences are our strengths
+R6	Equivalent Arg1:T9 Arg2:T5	
+T10	Claim 1445 1473	We have got to pull together
+T11	Premise 1475 1499	In athletics, we know it
+T12	Premise 1501 1546	You see, divided teams lose; united teams win
+R7	Support Arg1:T12 Arg2:T11	
+R8	Support Arg1:T11 Arg2:T10	
+T13	Claim 1548 1586	We have got to unite and pull together
+R9	Equivalent Arg1:T10 Arg2:T13	
+T14	Premise 1915 2107	I grew up in the segregated south, thankfully raised by a grandfather with almost no formal education but with a heart of gold who taught me early that all people were equal in the eyes of God
+T15	Premise 2109 2243	I saw the winds of hatred divide people and keep the people of my State poorer than they would have been, spiritually and economically
+T16	Premise 2322 2369	We don't have a person to waste in this country
+T17	Premise 2370 2438	We are being murdered economically because we have too many dropouts
+T18	Premise 2440 2480	We have too many low-birth weight babies
+T19	Premise 2482 2519	We have too many drug addicts as kids
+T20	Premise 2521 2546	We have too much violence
+T21	Premise 2548 2596	We are too divided by race, by income, by region
+T22	Claim 2598 2818	I have devoted a major portion of this campaign to going across this country and looking for opportunities to go to white groups and African-American groups and Latino groups, Asian-American groups and say the same thing
+T23	Claim 2820 2904	If the American people cannot be brought together, we can't turn this country around
+T24	Claim 2906 2959	If we can come together, nothing, nothing can stop us
+R10	Support Arg1:T23 Arg2:T22	
+R11	Support Arg1:T24 Arg2:T22	
+R12	Support Arg1:T21 Arg2:T22	
+R13	Support Arg1:T20 Arg2:T22	
+R14	Support Arg1:T19 Arg2:T22	
+R15	Support Arg1:T18 Arg2:T22	
+R16	Support Arg1:T17 Arg2:T22	
+R17	Support Arg1:T16 Arg2:T22	
+R18	Support Arg1:T15 Arg2:T22	
+R19	Support Arg1:T14 Arg2:T22	
+T25	Premise 3048 3184	I do think it's fair to note -- he can rebut it -- that Arkansas is one of the few States that doesn't have any civil rights legislation
+T26	Claim 3186 3274	I've tried to use the White House as a bully pulpit, speaking out against discrimination
+T27	Premise 3276 3329	We passed two very forward-looking civil rights bills
+T28	Claim 3381 3491	I do think that you need to make an appeal every time you can to eliminate racial divisions and discrimination
+T29	Premise 3331 3375	It's not going to be all done by legislation
+T30	Premise 3497 3582	I'll keep on doing that and pointing to some legislative accomplishment to back it up
+T31	Claim 3009 3046	I think Governor Clinton is committed
+R20	Attack Arg1:T25 Arg2:T31	
+R21	Support Arg1:T27 Arg2:T26	
+R22	Support Arg1:T29 Arg2:T26	
+R23	Support Arg1:T30 Arg2:T28	

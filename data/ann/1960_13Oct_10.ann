@@ -1,0 +1,87 @@
+T304	Claim 1771 1857	I advocate a program of tax reform which will stimulate more investment in our economy
+T305	Claim 587 648	I am never satisfied with the economic growth of this country
+T306	Claim 650 720	I'm not satisfied with it even if there were no Communism in the world
+T307	Claim 739 868	when we're in the kind of a race we're in, we have got to see that America grows just as fast as we can, provided we grow soundly
+T308	Premise 878 986	even though we have maintained, as I pointed out in our first debate, the absolute gap over the Soviet Union
+T309	Premise 988 1095	even though the growth in this Administration has been twice as much as it was in the Truman Administration
+T310	Claim 1097 1119	that isn't good enough
+T311	Premise 1129 1278	America must be able to grow enough not only to take care of our needs at home for better education and housing and health - all these things we want
+T312	Premise 1280 1453	We've got to grow enough to maintain the forces that we have abroad and to wage the non-military battle for the war - uh - for the world in Asia, in Africa and Latin America
+T313	Premise 1455 1484	It's going to cost more money
+T314	Premise 1490 1528	growth will help us to win that battle
+T315	Claim 1880 1939	we have to move on other areas that are holding back growth
+T316	Premise 1941 1982	I refer, for example, to distressed areas
+T317	Claim 1984 2091	We have to move into those areas with programs so that we make adequate use of the resources of those areas
+T318	Premise 2093 2224	We also have to see that all of the people of the United States - the tremendous talents that our people have - are used adequately
+T319	Premise 2273 2380	the equality of opportunity for employment and education is not just for the benefit of the minority groups
+T320	Claim 2382 2498	it's for the benefit of the nation so that we can get the scientists and the engineers and all the rest that we need
+T321	Premise 2525 2651	we need programs, particularly in higher education, which will stimulate scientific breakthroughs which will bring more growth
+T322	Claim 2703 2738	America has not been standing still
+T323	Premise 2765 2884	Anybody who says America's been standing still for the last seven and a half years hasn't been traveling around America
+T324	Claim 2929 2948	We have been moving
+T325	Claim 2950 3013	We have been moving much faster than we did in the Truman years
+T326	Claim 3019 3046	we can and must move faster
+T327	Claim 3052 3141	that's why I stand so strongly for programs that will move America forward in the sixties
+T328	Premise 2886 2927	He's been traveling in some other country
+T329	Premise 3447 3545	the farmer who grows wheat gets about two and a half cents out of a twenty-five-cent loaf of bread
+T330	Premise 3547 3691	Even if you put his income up ten percent, that would be two and three-quarters percent three pers- or three cents out of that twenty-five cents
+T331	Premise 3693 3795	The t- man who grows tomatoes - it costs less for those tomatoes than it does for the label on the can
+T332	Claim 3801 3905	I believe when the average hour for many farmers' wage is about fifty cents an hour, he should do better
+T333	Claim 3911 4021	anybody who suggests that that program would c- come to any figure indicated by the Vice President is in error
+T334	Premise 4023 4070	The Vice President suggested a number of things
+T335	Premise 4072 4113	He suggested that we aid distressed areas
+T336	Premise 4115 4183	The Administration has vetoed that bill passed by the Congress twice
+T337	Premise 4185 4230	He suggested we pass an aid to education bill
+T338	Premise 4236 4341	the Administration and the Republican majority in the Congress has opposed any realistic aid to education
+T339	Premise 4347 4479	the Vice President cast the deciding vote against federal aid for teachers' salaries in the Senate, which prevented that being added
+T340	Premise 4481 4644	This Administration and this country last year had the lowest rate of economic growth - which means jobs - of any major industrialized society in the world in 1959
+T341	Claim 4650 4764	when we have to find twenty-five thousand new jobs a week for the next ten years, we're going to have to grow more
+T342	Premise 4766 4805	Governor Rockefeller says five per cent
+T343	Premise 4807 4859	The Democratic platform and others say five per cent
+T344	Premise 4861 4894	Many say four and a half per cent
+T345	Premise 4896 4974	The last eight years the average growth has been about two and a half per cent
+T346	Claim 4976 5022	That's why we don't have full employment today
+T470	Premise 3143 3246	move her forward so that we can stay ahead of the Soviet Union and win the battle for freedom and peace
+R1	Support Arg1:T307 Arg2:T305
+R3	Support Arg1:T306 Arg2:T307
+R5	Attack Arg1:T309 Arg2:T310
+R6	Support Arg1:T310 Arg2:T305
+T1	Premise 1568 1754	I believe basically that what we have to do is to stimulate that sector of America, the private enterprise sector of the economy, in which there is the greatest possibility for expansion
+R15	Support Arg1:T1 Arg2:T304
+R16	Support Arg1:T316 Arg2:T315
+R18	Support Arg1:T315 Arg2:T317
+R22	Support Arg1:T319 Arg2:T320
+R24	Support Arg1:T321 Arg2:T320
+R27	Support Arg1:T328 Arg2:T323
+R28	Support Arg1:T324 Arg2:T322
+R30	Support Arg1:T325 Arg2:T322
+R34	Support Arg1:T326 Arg2:T327
+T2	Claim 3344 3437	that under my agricultural program food prices would go up twenty-five percent. That's untrue
+R37	Support Arg1:T330 Arg2:T329
+R38	Support Arg1:T331 Arg2:T330
+R39	Support Arg1:T329 Arg2:T2
+R42	Support Arg1:T2 Arg2:T333
+R43	Support Arg1:T334 Arg2:T333
+R45	Support Arg1:T337 Arg2:T334
+R48	Attack Arg1:T336 Arg2:T335
+R47	Attack Arg1:T338 Arg2:T337
+R51	Attack Arg1:T340 Arg2:T309
+R52	Support Arg1:T340 Arg2:T341
+R59	Support Arg1:T345 Arg2:T346
+R56	Support Arg1:T341 Arg2:T346
+R61	Support Arg1:T339 Arg2:T338
+R2	Attack Arg1:T308 Arg2:T310	
+R4	Support Arg1:T311 Arg2:T310	
+R7	Support Arg1:T312 Arg2:T310	
+R8	Attack Arg1:T313 Arg2:T312	
+R9	Support Arg1:T314 Arg2:T307	
+R10	Support Arg1:T318 Arg2:T320	
+R11	Support Arg1:T317 Arg2:T315	
+R12	Support Arg1:T320 Arg2:T317	
+R13	Support Arg1:T317 Arg2:T315	
+R14	Support Arg1:T323 Arg2:T322	
+R17	Support Arg1:T470 Arg2:T327	
+R19	Support Arg1:T335 Arg2:T334	
+R25	Support Arg1:T342 Arg2:T345	
+R20	Support Arg1:T343 Arg2:T346	
+R21	Support Arg1:T344 Arg2:T346	

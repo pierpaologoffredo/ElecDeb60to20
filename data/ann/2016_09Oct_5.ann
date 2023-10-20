@@ -1,0 +1,193 @@
+T133	Claim 311 358	one thing I’d do is get rid of carried interest
+T134	Claim 500 534	she could have done this years ago
+T136	Claim 360 460	One of the greatest provisions for people like me, to be honest with you, I give up a lot when I run
+T137	Premise 470 494	I knock out the tax code
+T138	Claim 2833 2889	everything you’ve heard just now from Donald is not true
+T139	Premise 2933 2967	he lives in an alternative reality
+T140	Claim 2973 3102	it is sort of amusing to hear somebody who hasn’t paid federal income taxes in maybe 20 years talking about what he’s going to do
+T141	Claim 4772 4909	we’re going to make sure that nobody, no corporation, and no individual can get away without paying his fair share to support our country
+T142	Premise 5061 5158	In the last month, taxes were the number-one issue on Facebook for the first time in the campaign
+T143	Premise 5160 5225	The New York Times published three pages of your 1995 tax returns
+T144	Claim 5270 5351	which means you could have avoided paying personal federal income taxes for years
+T145	Premise 5227 5268	They show you claimed a $916 million loss
+T146	Premise 5353 5435	You’ve said you pay state taxes, employee taxes, real estate taxes, property taxes
+T147	Claim 5586 5600	Of course I do
+T148	Claim 5622 5668	so do all of her donors, or most of her donors
+T149	Claim 5926 5948	she’ll always allow it
+T150	Premise 5958 6011	the people that give her all this money, they want it
+T151	Claim 5830 5920	a lot of my write- off was depreciation and other things that Hillary as a senator allowed
+T152	Claim 6985 7012	which is a wonderful charge
+T153	Premise 6937 6983	I have a write-off, a lot of it’s depreciation
+T154	Premise 7014 7033	I love depreciation
+T155	Premise 6909 6931	I pay federal tax, too
+T156	Premise 6894 6903	I pay tax
+T158	Claim 7424 7464	Bernie Sanders, it’s really bad judgment
+T159	Claim 7466 7509	She has made bad judgment not only on taxes
+T160	Claim 7511 7563	She’s made bad judgments on Libya, on Syria, on Iraq
+T161	Claim 7671 7712	that’s why ISIS formed in the first place
+T162	Premise 7573 7669	her and Obama, whether you like it or not, the way they got out of Iraq, the vacuum they’ve left
+T163	Premise 7714 7798	They started from that little area, and now they’re in 32 different nations, Hillary
+T164	Claim 7932 8040	I’ve been in favor of getting rid of carried interest for years, starting when I was a senator from New York
+T165	Claim 8244 8291	I will be the president and we will get it done
+T166	Claim 8293 8313	That’s exactly right
+T167	Claim 8371 8427	if you were an effective senator, you could have done it
+T168	Claim 8491 8524	you were not an effective senator
+T170	Claim 9934 10064	I worked very hard and was very proud to be re-elected in New York by an even bigger margin than I had been elected the first time
+T171	Claim 10070 10155	as president, I will take that work, that bipartisan work, that finding common ground
+T172	Claim 10165 10242	you have to be able to get along with people to get things done in Washington
+T173	Claim 10287 10309	I’ve proven that I can
+T174	Claim 10315 10361	for 30 years, I’ve produced results for people
+T175	Claim 10475 10515	She said a lot of things that were false
+T176	Claim 10675 10711	she has been a disaster as a senator
+R1	Support Arg1:T137 Arg2:T136	
+R2	Support Arg1:T133 Arg2:T136	
+R3	Attack Arg1:T136 Arg2:T134	
+T1	Premise 548 601	She’s a United States—she was a United States senator
+R4	Support Arg1:T1 Arg2:T134	
+T2	Premise 602 664	She complains that Donald Trump took advantage of the tax code
+T3	Claim 672 697	why didn’t she change it?
+T4	Claim 698 747	Why didn’t you change it when you were a senator?
+T5	Claim 748 829	The reason you didn’t is that all your friends take the same advantage that I do.
+T6	Claim 830 838	And I do
+T7	Premise 840 906	You have provisions in the tax code that, frankly, we could change
+T8	Claim 908 1027	But you wouldn’t change it, because all of these people give you the money so you can take negative ads on Donald Trump
+R5	Attack Arg1:T3 Arg2:T2	
+R6	Support Arg1:T4 Arg2:T3	
+R7	Support Arg1:T5 Arg2:T4	
+R8	Support Arg1:T6 Arg2:T5	
+R9	Attack Arg1:T8 Arg2:T7	
+T10	Premise 1197 1254	she’s been there for 30 years she’s been doing this stuff
+T11	Claim 1256 1274	She never changed.
+T12	Claim 1279 1300	she never will change
+R10	Support Arg1:T10 Arg2:T11	
+R11	Support Arg1:T11 Arg2:T12	
+T13	Claim 1302 1323	She never will change
+*	Equivalent T13 T12
+T14	Claim 1324 1372	We’re getting rid of carried interest provisions
+T15	Claim 1374 1552	I’m lowering taxes actually, because I think it’s so important for corporations, because we have corporations leaving—massive corporations and little ones, little ones can’t form
+R12	Support Arg1:T14 Arg2:T15	
+T16	Claim 1554 1709	We’re getting rid of regulations which goes hand in hand with the lowering of the taxes.But we’re bringing the tax rate down from 35 percent to 15 percent.
+R13	Support Arg1:T16 Arg2:T15	
+T18	Claim 1710 1751	We’re cutting taxes for the middle class.
+T19	Claim 1756 1825	I will tell you, we are cutting them big league for the middle class.
+R14	Support Arg1:T19 Arg2:T18	
+T20	Claim 1846 1890	Hillary Clinton is raising your taxes, folks
+R15	Attack Arg1:T18 Arg2:T20	
+T21	Claim 1912 1948	She’s raising your taxes really high
+R16	Support Arg1:T20 Arg2:T21	
+T22	Claim 1959 2007	that’s going to do is a disaster for the country
+R17	Attack Arg1:T22 Arg2:T21	
+T23	Premise 2009 2066	But she is raising your taxes and I’m lowering your taxes
+T24	Claim 2104 2137	We are going to be thriving again
+R18	Support Arg1:T23 Arg2:T24	
+T25	Claim 2139 2172	We have no growth in this country
+T26	Claim 2174 2191	There’s no growth
+R19	Support Arg1:T26 Arg2:T25	
+R20	Attack Arg1:T25 Arg2:T24	
+T27	Premise 2193 2258	If China has a GDP of 7 percent, it’s like a national catastrophe
+T28	Premise 2260 2283	We’re down at 1 percent
+T29	Premise 2289 2312	that’s, like, no growth
+R21	Support Arg1:T27 Arg2:T26	
+R22	Support Arg1:T28 Arg2:T27	
+R23	Support Arg1:T29 Arg2:T28	
+T30	Claim 2358 2455	lot of it has to do with the fact that our taxes are so high, just about the highest in the world
+R24	Attack Arg1:T30 Arg2:T29	
+T31	Claim 2461 2516	I’m bringing them down to one of the lower in the world
+R25	Support Arg1:T31 Arg2:T30	
+T32	Claim 2522 2590	I think it’s so important—one of the most important things we can do
+R26	Support Arg1:T32 Arg2:T31	
+T33	Claim 2596 2638	she is raising everybody’s taxes massively
+R27	Attack Arg1:T138 Arg2:T33	
+R28	Support Arg1:T139 Arg2:T138	
+T34	Claim 3144 3286	His plan will give the wealthy and corporations the biggest tax cuts they’ve ever had, more than the Bush tax cuts by at least a factor of two
+T35	Claim 3288 3380	Donald always takes care of Donald and people like Donald, and this would be a massive gift.
+R29	Support Arg1:T140 Arg2:T34	
+R30	Support Arg1:T35 Arg2:T34	
+T9	Claim 3394 3521	the way that he talks about his tax cuts would end up raising taxes on middle-class families, millions of middle-class families
+T17	Claim 3565 3743	nobody who makes less than $250,000 a year — and that’s the vast majority of Americans as you know — will have their taxes raised, because I think we’ve got to go where the money is.
+T36	Claim 3752 3835	money is with people who have taken advantage of every single break in the tax code
+T37	Premise 3841 4055	yes, when I was a senator, I did vote to close corporate loopholes. I voted to close, I think, one of the loopholes he took advantage of when he claimed a billion-dollar loss that enabled him to avoid paying taxes.
+T38	Claim 4055 4118	I want to have a tax on people who are making a million dollars
+T39	Premise 4155 4279	Warren Buffett is the one who’s gone out and said somebody like him should not be paying a lower tax rate than his secretary
+T40	Premise 4120 4148	It’s called the Buffett rule
+R31	Support Arg1:T17 Arg2:T36	
+R32	Attack Arg1:T38 Arg2:T37	
+R33	Support Arg1:T40 Arg2:T38	
+R34	Support Arg1:T39 Arg2:T40	
+R35	Attack Arg1:T9 Arg2:T34	
+R36	Attack Arg1:T36 Arg2:T37	
+T41	Claim 4281 4402	I want to have a surcharge on incomes above $5 million.We have to make up for lost times, because I want to invest in you
+T42	Premise 4404 4445	I want to invest in hard-working families
+T43	Claim 4451 4567	I think it’s been unfortunate, but it’s happened, that since the Great Recession, the gains have all gone to the top
+T44	Claim 4573 4728	we need to reverse that.People like Donald, who paid zero in taxes, zero for our vets, zero for our military, zero for health and education, that is wrong.
+R37	Support Arg1:T42 Arg2:T41	
+R38	Attack Arg1:T41 Arg2:T43	
+R39	Attack Arg1:T44 Arg2:T43	
+R40	Attack Arg1:T141 Arg2:T44	
+T45	Claim 5602 5616	Of course I do
+*	Equivalent T45 T147
+T46	Premise 5670 5696	I know many of her donors.
+T47	Claim 5697 5736	Her donors took massive tax write-offs.
+R41	Support Arg1:T147 Arg2:T148	
+R42	Support Arg1:T46 Arg2:T148	
+R43	Support Arg1:T148 Arg2:T47	
+R44	Support Arg1:T150 Arg2:T149	
+R45	Support Arg1:T151 Arg2:T149	
+T48	Claim 6013 6104	That’s why.See, I understand the tax code better than anybody that’s ever run for president
+T49	Premise 6106 6309	Hillary Clinton — and it’s extremely complex — Hillary Clinton has friends that want all of these provisions, including they want the carried interest provision, which is very important to Wall Street people
+T50	Claim 6311 6397	But they really want the carried interest provision, which I believe Hillary’s leaving
+R46	Support Arg1:T149 Arg2:T48	
+R47	Support Arg1:T49 Arg2:T50	
+T51	Claim 6524 6545	I absolutely used it.
+T52	Claim 6550 6666	so did Warren Buffett and so did George Soros and so did many of the other people that Hillary is getting money from
+T53	Claim 6673 6747	I won’t mention their names, because they’re rich, but they’re not famous.
+T54	Claim 6748 6776	So we won’t make them famous
+R48	Support Arg1:T156 Arg2:T155	
+R49	Support Arg1:T155 Arg2:T153	
+R50	Support Arg1:T153 Arg2:T152	
+R51	Support Arg1:T154 Arg2:T152	
+T55	Claim 6489 6522	I pay tremendous numbers of taxes
+R52	Support Arg1:T55 Arg2:T51	
+R53	Support Arg1:T51 Arg2:T52	
+R54	Support Arg1:T53 Arg2:T52	
+R55	Support Arg1:T54 Arg2:T53	
+T56	Claim 7035 7065	You know, she’s given it to us
+R56	Support Arg1:T152 Arg2:T56	
+T57	Premise 7161 7189	She talks about health care.
+T58	Claim 7190 7227	Why didn’t she do something about it?
+T59	Premise 7228 7249	She talks about taxes
+T60	Claim 7251 7287	Why didn’t she do something about it
+T61	Claim 7289 7343	She doesn’t do anything about anything other than talk
+T62	Claim 7345 7383	With her, it’s all talk and no action.
+R57	Attack Arg1:T58 Arg2:T57	
+R58	Attack Arg1:T60 Arg2:T59	
+R59	Support Arg1:T62 Arg2:T61	
+R60	Support Arg1:T57 Arg2:T59	
+R61	Support Arg1:T59 Arg2:T61	
+R62	Support Arg1:T159 Arg2:T160	
+R63	Support Arg1:T162 Arg2:T160	
+R64	Attack Arg1:T161 Arg2:T162	
+R65	Support Arg1:T163 Arg2:T161	
+R66	Support Arg1:T166 Arg2:T165	
+R67	Support Arg1:T165 Arg2:T164	
+R68	Attack Arg1:T167 Arg2:T165	
+T63	Premise 8746 8797	So let me talk about my 30 years in public service.
+T64	Claim 8821 8994	Eight million kids every year have health insurance, because when I was first lady I worked with Democrats and Republicans to create the Children’s Health Insurance Program.
+T65	Claim 8995 9119	Hundreds of thousands of kids now have a chance to be adopted because I worked to change our adoption and foster care system
+T66	Claim 9121 9341	After 9/11, I went to work with Republican mayor, governor and president to rebuild New York and to get health care for our first responders who were suffering because they had run toward danger and gotten sickened by it
+T67	Claim 9343 9565	Hundreds of thousands of National Guard and Reserve members have health care because of work that I did, and children have safer medicines because I was able to pass a law that required the dosing to be more carefully done
+T68	Claim 9571 9816	I was secretary of state, I went around the world advocating for our country, but also advocating for women’s rights, to make sure that women had a decent chance to have a better life and negotiated a treaty with Russia to lower nuclear weapons.
+T69	Claim 9817 9933	Four hundred pieces of legislation have my name on it as a sponsor or cosponsor when I was a senator for eight years
+R69	Support Arg1:T171 Arg2:T172	
+R70	Support Arg1:T172 Arg2:T173	
+R72	Support Arg1:T63 Arg2:T64	
+R71	Support Arg1:T173 Arg2:T174	
+R73	Support Arg1:T64 Arg2:T174	
+R74	Support Arg1:T65 Arg2:T174	
+R75	Support Arg1:T66 Arg2:T174	
+R76	Support Arg1:T67 Arg2:T174	
+R77	Support Arg1:T68 Arg2:T174	
+R78	Support Arg1:T69 Arg2:T174	
+R79	Support Arg1:T170 Arg2:T174	
+R80	Attack Arg1:T175 Arg2:T174	
+R81	Support Arg1:T176 Arg2:T175	

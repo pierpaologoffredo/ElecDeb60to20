@@ -1,0 +1,69 @@
+T503	Claim 321 413	The purpose of this debate and the outcome of the election will determine three basic things
+T504	Premise 415 425	Leadership
+T505	Premise 427 466	upholding the principles of our country
+T506	Premise 472 520	proper priorities and commitments for the future
+T507	Claim 522 596	This election will also determine what kind of world we leave our children
+T508	Claim 1844 1876	I believe we can and we ought to
+T509	Claim 1882 1929	we've been hurt in recent years in this country
+T510	Premise 1931 2026	In the aftermath of Vietnam, Cambodia, Chile, Pakistan, Angola, Watergate, CIA, we've been hurt
+T511	Claim 2028 2078	Our people feel that we've lost something precious
+T513	Claim 2102 2202	I wanna see our nation - return to a posture and an image and a standard to make us proud once again
+T514	Premise 2204 2333	I remember the world with NATO, and the world of Point Four, and the world of the Marshall Plan, and the world of the Peace Corps
+T515	Claim 2370 2523	We ought to be a beacon for nations who search for peace and who search for freedom, who search for individual liberty, who search for basic human rights
+T516	Premise 2525 2547	We haven't been lately
+T517	Premise 2549 2569	We can be once again
+T518	Claim 2571 2637	We'll never have that world leadership until we are strong at home
+T519	Claim 2643 2705	we can have that strength if we return to the basic principles
+T520	Claim 2707 2759	It ought not to be a strength of bombast and threats
+T521	Claim 2761 2829	It ought to be a quiet strength based on the integrity of our people
+T522	Claim 2831 2861	the vision of the Constitution
+T523	Claim 2863 2972	an in- innate strong will and purpose that God's given us in the greatest nation on earth - the United States
+T524	Claim 3491 3508	America is strong
+T525	Claim 3510 3525	America is free
+T526	Claim 3527 3547	America is respected
+T527	Premise 3034 3100	foreign policy and defense policy are difficult and complex issues
+T528	Premise 3102 3123	We can debate methods
+T529	Premise 3125 3162	we can debate one decision or another
+T530	Claim 3168 3240	there are two uh things which cannot be debated - experience and results
+T531	Claim 3549 3630	Not a single young American today is fighting or dying on any foreign battlefield
+T532	Claim 3632 3668	America is at peace and with freedom
+T1	Premise 598 858	Will it be a nightmare world threatened with the proliferation of atomic bombs, not just in five major countries but dozens of smaller countries that have been permitted to develop atomic weapons because of a failure of our top leadership to stop proliferation
+T2	Premise 860 1091	Will we have a world of hunger and - and hatred, and will we be living in an armed camp stripped of our friendship and allies hiding behind a tight defense that's been drawn in around us because we are fearful of the outside world?
+T3	Premise 1092 1369	Will we have a government of secrecy that excludes the American people from participation in making basic decisions and therefore covers up mistakes and makes it possible for our government - our government - to depart from the principles of our Constitution and Bill of Rights
+T4	Premise 1371 1669	Or will we have a world of peace with the threat of atomic weapons eliminated, with full trade, with our people at work, inflation controlled, openness in government, our people proud once again, Congress, citizens, president, secretary of state working in harmony and unity toward a common future?
+T5	Premise 1670 1759	Or world where people have enough to eat and a world where we care about those who don't?
+T6	Premise 1760 1843	Can we become a breadbasket of the world instead of the arms merchant of the world?
+R1	Support Arg1:T504 Arg2:T503	
+R2	Support Arg1:T505 Arg2:T503	
+R3	Support Arg1:T506 Arg2:T503	
+R4	Support Arg1:T503 Arg2:T507	
+R5	Attack Arg1:T4 Arg2:T1	
+R6	Attack Arg1:T5 Arg2:T2	
+R7	Support Arg1:T508 Arg2:T6	
+R8	Support Arg1:T508 Arg2:T5	
+R9	Support Arg1:T508 Arg2:T4	
+R10	Support Arg1:T510 Arg2:T509	
+R11	Support Arg1:T509 Arg2:T511	
+R12	Attack Arg1:T513 Arg2:T511	
+T7	Premise 2335 2368	Why can't we have that once again
+R13	Support Arg1:T7 Arg2:T514	
+R14	Support Arg1:T514 Arg2:T513	
+R15	Support Arg1:T513 Arg2:T515	
+R16	Attack Arg1:T516 Arg2:T515	
+R17	Support Arg1:T517 Arg2:T515	
+R18	Support Arg1:T518 Arg2:T519	
+R19	Support Arg1:T515 Arg2:T519	
+R20	Attack Arg1:T519 Arg2:T520	
+R21	Support Arg1:T521 Arg2:T519	
+R22	Support Arg1:T522 Arg2:T519	
+R23	Support Arg1:T523 Arg2:T519	
+R24	Support Arg1:T528 Arg2:T529	
+T8	Premise 3242 3490	In the last two years, I have made policy decisions involving - long-range difficulties and policies and made day-to-day judgments not only as president of the United States but as the leader of the free world What is the result of that leadership?
+R25	Support Arg1:T8 Arg2:T524	
+R26	Support Arg1:T8 Arg2:T525	
+R27	Support Arg1:T8 Arg2:T526	
+R28	Support Arg1:T8 Arg2:T531	
+R29	Support Arg1:T8 Arg2:T532	
+R30	Attack Arg1:T530 Arg2:T529	
+R31	Support Arg1:T8 Arg2:T530	
+R32	Support Arg1:T527 Arg2:T528	

@@ -1,0 +1,98 @@
+T324	Claim 1015 1036	three ways to do that
+T325	Premise 1038 1059	One is to raise taxes
+T326	Premise 1061 1125	One is to reduce spending -- controlling that mandatory spending
+T327	Premise 1127 1184	Another one is to invest and save and to stimulate growth
+T328	Claim 1186 1214	I do not want to raise taxes
+T329	Claim 1250 1279	I'm just not going to do that
+T330	Claim 1281 1336	I do believe that we need to control mandatory spending
+T331	Claim 1338 1377	I think we need to invest and save more
+T332	Claim 1379 1438	I believe that we need to educate better and retrain better
+T333	Claim 1440 1550	I believe that we need to export more so I'll keep working for export agreements where we can sell more abroad
+T334	Claim 1555 1599	I believe that we must strengthen the family
+T335	Claim 1601 1635	We've got to strengthen the family
+T336	Claim 2276 2313	I'm one person they ought to consider
+T337	Claim 2387 2403	I'm not your man
+T338	Premise 2405 2426	I am results oriented
+T339	Premise 2428 2448	I am action oriented
+T340	Premise 2450 2474	I've dealt my businesses
+T341	Premise 2476 2552	Getting things done in three months that my competitors took 18 months to do
+T343	Claim 2608 2637	you can do that with Congress
+T344	Premise 2639 2674	Congress -- they're all good people
+T345	Premise 2676 2743	They're all patriots but you've got to link arms and work with them
+T346	Premise 2745 2772	Sure, you'll have arguments
+T347	Premise 2774 2798	Sure, you'll have fights
+T348	Premise 2800 2830	We have them all day every day
+T349	Premise 2832 2855	But we get the job done
+T350	Claim 3412 3436	that will change America
+T351	Claim 3438 3475	Those children will all go to college
+T352	Claim 3477 3510	They will live the American dream
+T353	Claim 2863 2909	I have to come back in my clothes to one thing
+T354	Premise 2918 2949	I am passionate about education
+T355	Premise 2951 3030	I was talking about early childhood education for disadvantaged little children
+T356	Premise 3036 3151	let me tell you one specific pilot program where children who don't have a chance go to this program when they're 3
+T357	Premise 3153 3246	Now we're going back to when the mother's pregnant and they'll start right after they're born
+T358	Premise 3249 3368	Starting when they're 3 and going to this school until they're 9 and then going into the public school in the 4th grade
+T359	Premise 3370 3406	Ninety percent are on the honor role
+T360	Claim 3959 4045	we will have so many people who are qualified for the top job that it will be terrific
+T361	Premise 3516 3953	I beg the American people, any time they think about reforming education to take this piece of society that doesn't have a chance and take these little pieces of clay that can be shaped and molded and give them the same love and nurture and affection and support you give your children and teach them that they're unique and that they're precious and that there's only one person in the world like them and you will see this nation bloom
+T362	Premise 4062 4113	if you can't pay the bills you're dead in the water
+T363	Claim 4119 4161	we have got to put our nation back to work
+T365	Premise 4222 4273	I'd go crazy sitting up there slow dancing that one
+T366	Claim 4291 4365	unless we're going to do it, then pick somebody who likes to talk about it
+T367	Claim 4414 4439	I didn't create this mess
+T368	Premise 4441 4539	I've been paying taxes just like you and Lord knows, I've paid my share -- over a billion in taxes
+T369	Premise 5289 5316	These problems are not easy
+T370	Premise 5318 5358	They're not going to be solved overnight
+T371	Claim 5424 5489	the people of my state have let me be their governor for 12 years
+T372	Premise 5563 5589	Our schools are now better
+T373	Premise 5591 5694	Our children get off to a better start from pre-school programs and smaller classes in the early grades
+T374	Premise 5798 5946	This year my state ranks first in the country in job growth, 4th in manufacturing in job growth, 4th in income growth, 4th in the decline of poverty
+T375	Claim 5968 5979	It happened
+T376	Premise 6043 6173	That's why we've had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign
+T377	Claim 6176 6228	You have to decide whether you want to change or not
+T378	Premise 6230 6297	We do not need 4 more years of an economic theory that doesn't work
+T379	Premise 6299 6343	We've had 12 years of trickle down economics
+T380	Claim 6345 6387	It's time to put the American people first
+T381	Premise 6422 6544	I'm the only person here who's ever balanced a government budget and I've presented 12 of them and cut spending repeatedly
+T382	Claim 6550 6599	you cannot just get there by balancing the budget
+T383	Claim 6601 6678	We've got to grow the economy by putting people first -- real people like you
+T384	Claim 6681 6701	I got into this race
+T385	Claim 6823 6845	We're better than that
+T386	Claim 6847 6873	We can do better than that
+T387	Claim 6875 6919	I want to make America as great as it can be
+T323	Premise 2184 2242	If the American people want to do it and not talk about it
+T409	Premise 2315 2385	If they just want to keep slow dancing and talk about it and not do it
+T410	Premise 4168 4203	if you don't want to really do that
+T411	Premise 5498 5560	I made commitments to 2 things -- more jobs and better schools
+T412	Premise 5700 5774	we have one of the most aggressive adult education programs in the country
+T413	Premise 5988 6041	I could work with people -- Republicans and Democrats
+T414	Claim 6389 6420	to invest and grow this economy
+T415	Premise 6710 6821	I did not want my child to grow up to be part of the first generation of Americans to do worse than her parents
+T1	Claim 4204 4220	I'm not your man
+T2	Claim 1953 2066	Who has the perseverance, the character, the integrity, the maturity, to get the job done? I hope I'm that person
+T3	Premise 1681 1952	If in the next 5 minutes a television announcer came on and said, there is a major international crisis -- there is a major threat to the world or in this country a major threat -- my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?
+R1	Support Arg1:T3 Arg2:T2	
+R2	Support Arg1:T323 Arg2:T336	
+R3	Support Arg1:T409 Arg2:T337	
+R5	Support Arg1:T338 Arg2:T336	
+R6	Support Arg1:T339 Arg2:T336	
+R4	Support Arg1:T340 Arg2:T336	
+T4	Premise 2554 2600	Everybody says you can't do that with Congress
+R7	Attack Arg1:T343 Arg2:T4	
+R8	Support Arg1:T341 Arg2:T336	
+R9	Support Arg1:T368 Arg2:T367	
+R10	Support Arg1:T410 Arg2:T1	
+R11	Support Arg1:T365 Arg2:T366	
+R12	Support Arg1:T1 Arg2:T366	
+R13	Support Arg1:T367 Arg2:T366	
+R14	Support Arg1:T411 Arg2:T371	
+R15	Support Arg1:T372 Arg2:T411	
+R16	Support Arg1:T373 Arg2:T372	
+R17	Support Arg1:T412 Arg2:T372	
+R18	Support Arg1:T413 Arg2:T375	
+R19	Support Arg1:T376 Arg2:T413	
+R20	Support Arg1:T378 Arg2:T377	
+R21	Support Arg1:T379 Arg2:T377	
+R22	Support Arg1:T415 Arg2:T384	
+R23	Support Arg1:T384 Arg2:T385	
+R24	Equivalent Arg1:T385 Arg2:T386	

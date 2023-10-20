@@ -1,0 +1,83 @@
+T836	Claim 452 556	we have in our economic pack, -- individual retirement accounts where we think it will encourage savings
+T837	Premise 558 634	You can also use those accounts for health care or education or a first home
+T838	Claim 668 778	I think one thing sooner or later we're going to have to consider is take a look at the Social Security system
+T839	Premise 788 876	we've got a lot of people advocating we don't want to put our money into Social Security
+T840	Claim 878 913	You have to be very careful of that
+T841	Premise 922 984	you have to protect the people who are already in the pipeline
+T842	Claim 2049 2111	I think we will wait, see what they present, take a look at it
+T843	Premise 986 1019	It's something you might consider
+T844	Premise 1112 1217	When I was chairman of the finance committee which handled Social Security we looked at all these options
+T845	Premise 1260 1357	when I used to go home my mother would tell me all I've got is my Social Security, don't touch it
+T846	Premise 1363 1381	we didn't touch it
+T847	Premise 1383 1398	We preserved it
+T848	Claim 1404 1419	I'm an optimist
+T849	Claim 1426 1483	your Social Security is going to be there when you retire
+T850	Claim 1485 1499	We will fix it
+T851	Claim 1501 1549	It will probably happen in the year 2012 or 2015
+T852	Premise 1551 1591	In 1983 we thought we had a 75 -year fix
+T853	Premise 1593 1607	It didn't work
+T854	Premise 1630 1717	at least we fixed it for some time and 37 to 40 million people get their checks on time
+T855	Claim 1722 1752	we need to preserve the system
+T856	Claim 1758 1785	we need to make it stronger
+T857	Claim 1791 1883	we also need to look at some options, whether or not we -- depending on what the options are
+T858	Premise 1894 2044	they have got a commission right now in Congress, a bipartisan commission, looking at all the different options they will present to the next Congress
+T859	Claim 2129 2169	this is one where we have some agreement
+T860	Premise 2180 2241	Only about half the people in this country have pension plans
+T861	Claim 2247 2307	Social Security is not enough for a lot of people to live on
+T862	Claim 2312 2394	at least is not enough for them to maintain anything like their previous lifestyle
+T863	Premise 2399 2478	we've got to figure out how are we going to have more people with pension plans
+T864	Premise 2484 2610	pension coverage has been declining as more and more people work for small businesses and fewer people work for big businesses
+T865	Claim 2701 2906	we make more people eligible to save in an IRA and let couples, married couples save more and then they could withdraw from it tax-free if they needed to, for medical emergencies or buy a home or education
+T866	Claim 2912 2957	they could also save to supplement retirement
+T867	Premise 2980 3127	we just passed a sweeping small business reform that makes it easier for small business people to take out 401 K plans for themselves and employees
+T868	Premise 3132 3185	much easier for employees to carry it from job to job
+T869	Premise 3187 3365	My best friend from grade school is a computer software salesman and he told me last time he changed employers it took him nine months to figure out how to transfer his 401K plan
+T870	Claim 3371 3403	none of that will happen anymore
+T871	Claim 3412 3555	over the next ten years you will see a big increase over the percentage of people that have pension plans, plus a secure Social Security system
+T872	Claim 3622 3668	the first thing we have to do is get you a job
+T873	Premise 3674 3707	that's the economic package again
+T874	Claim 3709 3738	Create jobs and opportunities
+T875	Claim 3740 3769	Reduce the capital gains rate
+T876	Claim 3771 3795	Reduce regulatory reform
+T877	Claim 3797 3866	Stop some of this senseless litigation and let people work in America
+T878	Claim 3872 3917	I think that's that's the thrust we will make
+T879	Claim 3929 4010	if Social Security is a very important program, it should -- it will be preserved
+T880	Claim 4012 4058	Democrats or Republicans, it will be preserved
+T881	Premise 4060 4180	We want to make certain we protect those in the pipeline just as we did back in 1983 and we did it on a bipartisan basis
+T882	Premise 4210 4241	people get so tired of politics
+T883	Premise 4182 4208	We took it out of politics
+T884	Claim 4243 4280	We ought to do the same with Medicare
+R1	Support Arg1:T837 Arg2:T836	
+R2	Support Arg1:T839 Arg2:T838	
+R3	Support Arg1:T841 Arg2:T840	
+R4	Support Arg1:T843 Arg2:T840	
+R5	Support Arg1:T844 Arg2:T845	
+R6	Support Arg1:T845 Arg2:T846	
+*	Equivalent T847 T846
+R7	Support Arg1:T846 Arg2:T849	
+R8	Support Arg1:T848 Arg2:T850	
+R9	Support Arg1:T851 Arg2:T850	
+R10	Support Arg1:T852 Arg2:T853	
+R11	Support Arg1:T855 Arg2:T856	
+R12	Support Arg1:T858 Arg2:T842	
+R13	Support Arg1:T842 Arg2:T857	
+R14	Support Arg1:T862 Arg2:T861	
+R15	Support Arg1:T860 Arg2:T863	
+R16	Support Arg1:T864 Arg2:T863	
+R17	Support Arg1:T861 Arg2:T859	
+R18	Support Arg1:T869 Arg2:T870	
+R19	Support Arg1:T868 Arg2:T870	
+R20	Support Arg1:T867 Arg2:T870	
+R21	Support Arg1:T866 Arg2:T871	
+R22	Support Arg1:T865 Arg2:T871	
+R23	Support Arg1:T870 Arg2:T871	
+R24	Support Arg1:T873 Arg2:T872	
+R25	Support Arg1:T880 Arg2:T879	
+R26	Support Arg1:T882 Arg2:T883	
+R27	Support Arg1:T883 Arg2:T881	
+R28	Support Arg1:T881 Arg2:T879	
+R29	Support Arg1:T879 Arg2:T884	
+R30	Support Arg1:T876 Arg2:T878	
+R31	Support Arg1:T877 Arg2:T878	
+R32	Support Arg1:T875 Arg2:T878	
+R33	Support Arg1:T874 Arg2:T878	

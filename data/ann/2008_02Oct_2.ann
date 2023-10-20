@@ -1,0 +1,102 @@
+T49	Claim 575 728	it was the predator lenders, who tried to talk Americans into thinking that it was smart to buy a $300,000 house if we could only afford a $100,000 house
+T50	Claim 730 755	There was deception there
+T51	Claim 761 776	there was greed
+T52	Claim 781 815	there is corruption on Wall Street
+T53	Claim 821 841	we need to stop that
+T54	Claim 868 976	that commitment that we have made, and we're going to follow through on that, getting rid of that corruption
+T55	Claim 987 1144	One thing that Americans do at this time, also, though, is let's commit ourselves just every day American people, Joe Six Pack, hockey moms across the nation
+T56	Claim 1146 1198	I think we need to band together and say never again
+T57	Claim 1200 1320	Never will we be exploited and taken advantage of again by those who are managing our money and loaning us these dollars
+T58	Claim 1322 1465	We need to make sure that we demand from the federal government strict oversight of those entities in charge of our investments and our savings
+T59	Claim 1470 1511	we need also to not get ourselves in debt
+T60	Claim 1632 1729	We need to make sure that as individuals we're taking personal responsibility through all of this
+T61	Claim 1731 1809	It's not the American peoplesâ€™s fault that the economy is hurting like it is
+T62	Claim 1815 1941	we have an opportunity to learn a heck of a lot of good lessons through this and say never again will we be taken advantage of
+T63	Premise 1979 2048	two years ago Barack Obama warned about the sub prime mortgage crisis
+T64	Premise 2050 2153	John McCain said shortly after that in December he was surprised there was a sub prime mortgage problem
+T65	Premise 2155 2331	John McCain while Barack Obama was warning about what we had to do was literally giving an interview to "The Wall Street Journal" saying that I'm always for cutting regulations
+T66	Claim 2333 2360	We let Wall Street run wild
+T67	Claim 2399 2496	John McCain thought the answer is that tried and true Republican response, deregulate, deregulate
+T68	Claim 2500 2550	what you had is you had overwhelming "deregulation
+T69	Claim 2553 2624	You had actually the belief that Wall Street could self-regulate itself
+T70	Premise 2630 2789	while Barack Obama was talking about reinstating those regulations, John on 20 different occasions in the previous year and a half called for more deregulation
+T71	Premise 2812 2998	John recently wrote an article in a major magazine saying that he wants to do for the health care industry deregulate it and let the free market move like he did for the banking industry
+T72	Claim 3000 3031	So deregulation was the promise
+T73	Claim 3049 3135	Those people who say don't go into debt, they can barely pay to fill up their gas tank
+T74	Claim 3361 3402	The middle class needs relief, tax relief
+T75	Claim 3404 3420	They need it now
+T76	Claim 3422 3440	They need help now
+T77	Claim 3442 3481	The focus will change with Barack Obama
+T78	Premise 3298 3323	He said I don't know, Joe
+T79	Premise 3325 3359	I never have enough money to do it
+T80	Claim 3703 3768	we need tax relief for Americans so that jobs can be created here
+T81	Claim 4024 4105	that's not what we need to create jobs and really bolster and heat up our economy
+T82	Premise 3864 4018	Barack had 94 opportunities to side on the people's side and reduce taxes and 94 times he voted to increase taxes or not support a tax reduction, 94 times
+T83	Claim 3775 3862	Barack Obama and Senator Biden also voted for the largest tax increases in U.S. history
+T84	Claim 4107 4188	We do need the private sector to be able to keep more of what we earn and produce
+T85	Claim 4190 4266	Government is going to have to learn to be more efficient and live with less
+T86	Claim 4352 4373	we do need tax relief
+T87	Premise 4378 4489	Barack Obama even supported increasing taxes as late as last year for those families making only $42,000 a year
+T88	Claim 4491 4572	That's a lot of middle income average American families to increase taxes on them
+T89	Claim 4574 4646	I think that is the way to kill jobs and to continue to harm our economy
+T90	Claim 4674 4707	The charge is absolutely not true
+T91	Premise 4709 4749	Barack Obama did not vote to raise taxes
+T92	Premise 4751 4816	The vote she's referring to, John McCain voted the exact same way
+T93	Premise 4818 4849	It was a budget procedural vote
+T94	Premise 4851 4881	John McCain voted the same way
+T95	Premise 4883 4905	It did not raise taxes
+T96	Premise 4919 5004	using the standard that the governor uses, John McCain voted 477 times to raise taxes
+T97	Claim 5245 5296	He did support deregulation almost across the board
+T98	Claim 5298 5336	That's why we got into so much trouble
+T99	Claim 5006 5027	It's a bogus standard
+T100	Premise 5056 5115	the governor did not answer the question about deregulation
+T101	Premise 5117 5243	did not answer the question of defending John McCain about not going along with the deregulation, letting Wall Street run wild
+T102	Claim 5750 5805	As mayor, every year I was in office I did reduce taxes
+T103	Premise 5807 5937	I eliminated personal property taxes and eliminated small business inventory taxes and as governor we suspended our state fuel tax
+T104	Claim 5939 6021	We did all of those things knowing that that is how our economy would be heated up
+T105	Claim 6137 6186	that is another thing that he is known for though
+R3	Support Arg1:T50 Arg2:T49	
+R4	Attack Arg1:T53 Arg2:T52	
+R1	Support Arg1:T51 Arg2:T49	
+R2	Support Arg1:T49 Arg2:T52	
+R5	Attack Arg1:T54 Arg2:T52	
+R6	Support Arg1:T55 Arg2:T56	
+R7	Support Arg1:T56 Arg2:T57	
+R8	Support Arg1:T57 Arg2:T58	
+R9	Support Arg1:T58 Arg2:T59	
+R10	Support Arg1:T59 Arg2:T60	
+R11	Attack Arg1:T61 Arg2:T60	
+R12	Support Arg1:T60 Arg2:T62	
+R13	Attack Arg1:T63 Arg2:T64	
+R14	Support Arg1:T64 Arg2:T65	
+R15	Attack Arg1:T66 Arg2:T65	
+R16	Support Arg1:T67 Arg2:T68	
+R17	Support Arg1:T68 Arg2:T69	
+R18	Attack Arg1:T70 Arg2:T69	
+R19	Support Arg1:T71 Arg2:T70	
+R20	Support Arg1:T72 Arg2:T73	
+R21	Attack Arg1:T73 Arg2:T71	
+R22	Support Arg1:T78 Arg2:T79	
+R24	Support Arg1:T75 Arg2:T74	
+R25	Support Arg1:T76 Arg2:T74	
+R23	Support Arg1:T74 Arg2:T77	
+R26	Attack Arg1:T80 Arg2:T83	
+R27	Support Arg1:T82 Arg2:T83	
+R28	Attack Arg1:T81 Arg2:T82	
+R29	Support Arg1:T84 Arg2:T85	
+R30	Support Arg1:T85 Arg2:T86	
+R31	Attack Arg1:T86 Arg2:T87	
+R32	Support Arg1:T88 Arg2:T89	
+R33	Attack Arg1:T89 Arg2:T87	
+R34	Support Arg1:T91 Arg2:T90	
+R35	Attack Arg1:T90 Arg2:T89	
+R36	Support Arg1:T92 Arg2:T93	
+R37	Support Arg1:T94 Arg2:T92	
+R38	Support Arg1:T93 Arg2:T95	
+R39	Support Arg1:T95 Arg2:T91	
+R40	Attack Arg1:T99 Arg2:T96	
+R41	Support Arg1:T100 Arg2:T101	
+R42	Support Arg1:T97 Arg2:T98	
+R43	Attack Arg1:T98 Arg2:T101	
+R44	Support Arg1:T103 Arg2:T102	
+R45	Support Arg1:T102 Arg2:T104	

@@ -1,0 +1,50 @@
+T424	Claim 739 802	the Panamanian question is one that's been confused by Mr. Ford
+T425	Claim 809 991	he had directed his uh - diplomatic relation - uh - uh - representative to yield to the Panamanians full sovereignty over the Panama Canal Zone at the end of a certain period of time
+T426	Claim 1573 1668	I believe that we could share more fully responsibilities for the Panama Canal Zone with Panama
+T427	Claim 1775 1874	I might even be willing to reduce to some degree our military emplacements in the Panama Canal Zane
+T428	Claim 1880 1980	I would not relinquish practical control of the Panama Canal Zane any time in the foreseeable future
+T429	Claim 1670 1773	I would be willing to continue to raise the payment for shipment of goods through the Panama Canal Zone
+T430	Claim 1523 1571	I would be willing to go ahead with negotiations
+T431	Premise 1469 1517	We retained control as though we had sovereignty
+T432	Claim 1171 1255	I would never give up complete control or practical control of the Panama Canal Zone
+T433	Claim 2017 2093	The United States must and will maintain complete access to the Panama Canal
+T434	Claim 2095 2167	The United States must maintain a defense capability of the Panama Canal
+T435	Claim 2173 2255	the United States will maintain our national security interest in the Panama Canal
+T436	Premise 2257 2368	The negotiations far the Panama Canal started under President Johnson and have continued up to the present time
+T437	Claim 2370 2414	I believe those negotiations should continue
+T438	Claim 2420 2470	there are certain guidelines that must be followed
+T439	Claim 2476 2498	I've just defined them
+T394	Claim 1261 1311	I would continue to negotiate with the Panamanians
+T1	Claim 1051 1170	Mr. Ford not only disavowed his instructions, but he also even dropped, parenthetically, the use of the word "detente."
+T2	Claim 2636 2686	called for a conference of uh - nuclear suppliers.
+T3	Claim 2687 2721	That conference has met six times.
+T4	Claim 2722 2857	In May of this year, Governor Carter took the first initiative, approximately twelve months after I had taken my initiative a year ago.
+R1	Support Arg1:T432 Arg2:T394	
+R2	Support Arg1:T394 Arg2:T430	
+R3	Support Arg1:T432 Arg2:T430	
+T5	Premise 1413 1468	Panama retained sovereignty over the Panama Canal Zone.
+R4	Support Arg1:T430 Arg2:T426	
+R5	Support Arg1:T1 Arg2:T425	
+R6	Attack Arg1:T432 Arg2:T425	
+R7	Support Arg1:T431 Arg2:T426	
+R8	Support Arg1:T5 Arg2:T426	
+R9	Attack Arg1:T426 Arg2:T425	
+R10	Attack Arg1:T428 Arg2:T425	
+R11	Support Arg1:T428 Arg2:T433	
+R12	Support Arg1:T433 Arg2:T434	
+R13	Support Arg1:T434 Arg2:T435	
+R14	Support Arg1:T435 Arg2:T433	
+R15	Support Arg1:T435 Arg2:T433	
+R16	Support Arg1:T436 Arg2:T437	
+R17	Support Arg1:T428 Arg2:T437	
+R18	Support Arg1:T437 Arg2:T438	
+R19	Support Arg1:T438 Arg2:T439	
+R20	Support Arg1:T429 Arg2:T439	
+R21	Support Arg1:T427 Arg2:T439	
+R22	Support Arg1:T428 Arg2:T439	
+R23	Support Arg1:T433 Arg2:T439	
+R24	Support Arg1:T434 Arg2:T439	
+R25	Support Arg1:T435 Arg2:T439	
+R26	Support Arg1:T2 Arg2:T3	
+R27	Attack Arg1:T3 Arg2:T4	
+R28	Attack Arg1:T2 Arg2:T4	

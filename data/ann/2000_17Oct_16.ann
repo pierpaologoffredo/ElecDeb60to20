@@ -1,0 +1,74 @@
+T809	Claim 201 276	I believe that a lot of people are skeptical about people in politics today
+T810	Premise 285 339	we have seen a time of great challenge for our country
+T811	Claim 451 482	we need campaign finance reform
+T812	Claim 529 543	I keep my word
+T813	Claim 545 566	I have kept the faith
+T814	Claim 568 603	I've kept the faith with my country
+T815	Claim 654 685	I kept the faith with my family
+T816	Premise 605 631	I volunteered for the Army
+T817	Premise 633 652	I served in Vietnam
+T818	Claim 827 865	I have kept the faith with our country
+T819	Premise 732 825	We have devoted ourselves to our children and now our nearly one-and-a-half-year-old grandson
+T820	Claim 1796 1820	I will keep that promise
+T821	Claim 1521 1573	We've made some progress during the last eight years
+T822	Claim 1575 1645	We have seen the strongest economy in the history of the United States
+T823	Premise 867 935	Nine times I have raised my hand to take an oath to the Constitution
+T824	Claim 941 972	I have never violated that oath
+T825	Claim 1166 1295	I believe very deeply that you have to be willing to stand up and fight no matter what powerful forces might be on the other side
+T826	Claim 974 1045	I have not spent the last quarter century in pursuit of personal wealth
+T827	Claim 1047 1164	I have spent the last quarter century fighting for middle-class working men and women in the United States of America
+T828	Claim 1297 1519	If you want somebody who is willing to fight for you, I am asking for your support and your vote and, yes, your confidence and your willingness to believe that we can do the right thing in America, and be the better for it
+T829	Claim 1764 1790	You ain't seen nothing yet
+T830	Premise 1647 1689	Lower crime rates for eight years in a row
+T831	Premise 1691 1726	Highest private home ownership ever
+T832	Claim 2167 2300	There is a difference between big federal government and somebody who is coming from outside of Washington who will trust individuals
+T833	Claim 2302 2360	I've got an agenda that I want to get done for the country
+T835	Premise 2362 2531	It's an agenda that says we're going to reform Medicare to make sure seniors have got prescription drugs and to give seniors different options from which they can choose
+T834	Premise 2533 2741	It's an agenda that says we're listen to the young voices in Social Security and say we're going to think differently about making sure we have a system, but also fulfill the promise to the seniors in America
+T836	Claim 2836 2881	I want to have the military keeping the peace
+T837	Claim 2883 2956	I want to make sure the public school system in America keeps its promise
+T838	Claim 2960 2988	not one child is left behind
+T839	Claim 2990 3054	After setting priorities, I want to give some of your money back
+T840	Claim 3056 3107	I don't think the surplus is the government's money
+T841	Claim 3109 3140	I think it's the people's money
+T842	Claim 3142 3239	I don't think the surplus exists because of the ingenuity and hard work of the federal government
+T843	Claim 3241 3320	I think it exists because of the ingenuity and hard work of the American people
+T844	Claim 3326 3400	you ought to have some of this surplus so you can save and dream and build
+T845	Claim 3739 3926	when I put my hand on the Bible, I will swear to not only uphold the laws of the land, but I will also swear to uphold the honor and the dignity of the office to which I have been elected
+R1	Support Arg1:T810 Arg2:T809	
+T1	Premise 341 437	Since the assassination of our best leaders in the '60's, since the Vietnam War, since Watergate
+R2	Support Arg1:T1 Arg2:T809	
+R3	Support Arg1:T811 Arg2:T809	
+T2	Premise 687 731	Tipper and I have been married for 30 years.
+R4	Support Arg1:T816 Arg2:T817	
+R5	Support Arg1:T817 Arg2:T814	
+R6	Support Arg1:T2 Arg2:T819	
+R7	Support Arg1:T819 Arg2:T815	
+R8	Support Arg1:T823 Arg2:T824	
+R9	Support Arg1:T824 Arg2:T818	
+R10	Attack Arg1:T827 Arg2:T826	
+R11	Support Arg1:T827 Arg2:T825	
+R12	Support Arg1:T825 Arg2:T828	
+R13	Support Arg1:T828 Arg2:T821	
+R14	Support Arg1:T821 Arg2:T822	
+R15	Support Arg1:T830 Arg2:T822	
+R16	Support Arg1:T831 Arg2:T822	
+T3	Premise 1732 1762	I'll make you one promise here
+R17	Support Arg1:T3 Arg2:T829	
+R18	Support Arg1:T820 Arg2:T829	
+R19	Support Arg1:T812 Arg2:T813	
+R20	Support Arg1:T835 Arg2:T833	
+R21	Support Arg1:T834 Arg2:T833	
+T4	Claim 2743 2834	A promise made will be a promise kept should I be fortunate enough to become your president
+R22	Support Arg1:T4 Arg2:T834	
+R23	Support Arg1:T838 Arg2:T837	
+R24	Support Arg1:T836 Arg2:T833	
+R25	Support Arg1:T837 Arg2:T833	
+R26	Attack Arg1:T839 Arg2:T840	
+R27	Attack Arg1:T841 Arg2:T840	
+R28	Support Arg1:T839 Arg2:T833	
+R29	Support Arg1:T841 Arg2:T839	
+R30	Support Arg1:T843 Arg2:T841	
+R31	Attack Arg1:T843 Arg2:T842	
+R32	Support Arg1:T844 Arg2:T839	
+R33	Support Arg1:T844 Arg2:T843	

@@ -1,0 +1,48 @@
+T1	Claim 647 677	I do believe in public service
+T2	Claim 679 721	I believe that public service is honorable
+T3	Claim 727 807	I don't think anybody has a call on people in their Administrations going astray
+T4	Premise 809 897	His chief education adviser is in jail He's in jail because he betrayed the public trust
+T5	Premise 995 1069	He said that a fish rots from the head down as he was going after Ed Meese
+T6	Claim 1077 1123	we need the highest possible ethical standards
+T7	Premise 1125 1225	I will have an ethical office in the White House that will be under the President's personal concern
+T8	Premise 926 993	yet this man, the governor, equated the President to a rotting fish
+T9	Premise 1227 1294	I will see that these standards apply to the United States Congress
+T10	Premise 1296 1493	I hope I will do a good job as one who has had a relatively clean record with no conflicts of interest in his own public life, as has the Governor, to exhort young people to get into public service
+T11	Claim 1499 1551	there is no corner on this sleaze factor, believe me
+T12	Claim 1557 1572	it's a disgrace
+T13	Premise 1669 1847	I do believe that with my record in Congress, having led the new Congressmen to a code of ethics through major main emphasis on it in full disclosure, that I've got a good record
+T14	Premise 1853 2030	there are more, if you want to talk about percentage appointments, more Members of Congress who have been under investigation percentage-wise that people in the executive branch
+T15	Premise 2097 2163	His some of his college presidents aren't exactly holier than thou
+T16	Claim 2218 2289	this isn't Democrat or Republican, and it isn't liberal or conservative
+T17	Claim 2411 2481	I would agree that integrity is not a Republican or a Democratic issue
+T18	Claim 2483 2505	it's an American issue
+T19	Claim 2523 2570	I don't know which George Bush I'm listening to
+T20	Premise 2572 2625	Wasn't this the George Bush that supported Mr. Meese?
+T21	Premise 2626 2683	Called James Watt an excellent Secretary of the Interior?
+T22	Premise 2684 2808	Provided support for some of these people, supported the nomination of Robert Bork to the Supreme Court of the United States
+T23	Premise 2810 3005	We've had dozens we've had dozens and dozens of officials in this Administration who have left under a cloud, who have left with the special prosecutor in their arm, have been indicted, convicted
+T24	Claim 3007 3052	This isn't the kind of Administration we need
+T25	Claim 3058 3124	one of the reasons our selection of a running mate is so important
+T26	Premise 3126 3290	it is such a test of the kinds of standards we'll set, is because it tells the American people in advance of the election just what kind of people we're looking for
+T27	Claim 3344 3506	I think that says a great deal to the American people about the standards we'll set and the quality of the people that we will pick to serve in our Administration
+T28	Premise 551 641	I think you see, I am one who I get kidded by being a little old fashioned on these things
+R1	Attack Arg1:T1 Arg2:T28	
+R2	Support Arg1:T2 Arg2:T1	
+R3	Attack Arg1:T4 Arg2:T8	
+R4	Support Arg1:T5 Arg2:T8	
+R5	Support Arg1:T7 Arg2:T6	
+R6	Support Arg1:T9 Arg2:T6	
+R7	Support Arg1:T10 Arg2:T6	
+T29	Claim 1578 1616	I will do my level best to clean it up
+R8	Support Arg1:T29 Arg2:T12	
+R9	Support Arg1:T13 Arg2:T29	
+T30	Claim 1619 1663	ecognizing that you can't legislate morality
+R10	Attack Arg1:T30 Arg2:T29	
+R11	Support Arg1:T17 Arg2:T16	
+R12	Support Arg1:T18 Arg2:T17	
+R13	Support Arg1:T20 Arg2:T19	
+R14	Support Arg1:T21 Arg2:T19	
+R15	Support Arg1:T22 Arg2:T19	
+R16	Support Arg1:T23 Arg2:T19	
+R17	Support Arg1:T26 Arg2:T25	
+R18	Support Arg1:T25 Arg2:T27	

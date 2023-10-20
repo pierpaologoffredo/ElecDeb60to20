@@ -1,0 +1,91 @@
+T104	Claim 500 573	I think that we should move step-by-step toward universal health coverage
+T105	Claim 579 623	I am not in favor of government doing it all
+T106	Claim 811 837	That is a national outrage
+T107	Premise 625 718	We've spent 65 years now on the development of a hybrid system, partly private, partly public
+T108	Premise 724 774	85% of our people have health insurance, 15% don't
+T109	Premise 776 809	That adds up to 44 million people
+T110	Claim 2068 2105	Now, we have a big difference on this
+T111	Claim 1797 1851	I want to give seniors who are, well, the near elderly
+T112	Claim 1853 1875	I don't like that term
+T113	Premise 1884 1916	I am just about in that category
+T114	Claim 1922 2066	those 55 to 65 ought to be able to buy into Medicare for premiums that are reasonable and fair and significantly below what they have to get now
+T115	Claim 1652 1795	I want to give small business employers a tax credit, 25%, to encourage the providing of health insurance for the employees in small businesses
+T116	Claim 1569 1650	I want to give a tax credit for the purchase of individual health insurance plans
+T117	Claim 1428 1567	then we'll fill other gaps by covering the parents of those children when the family is poor or up to two and a half times the poverty rate
+T118	Claim 1282 1422	I will make a commitment to bring health care coverage of high quality that is affordable to every single child in America within four years
+T119	Claim 1184 1223	We have got to deal with long-term care
+T120	Claim 839 902	We have got to get health coverage for those who do not have it
+T121	Claim 907 1040	we've got to improve the quality for those who do with a patient's bill of rights that's real and that works, the Dingle-Norwood bill
+T122	Claim 1046 1152	we have got to fill in the gaps in coverage by finally bringing parity for the treatment of mental illness
+T123	Premise 1162 1182	that's been left out
+T124	Claim 2111 2143	you need to know the record here
+T125	Premise 2145 2258	Under Governor Bush, Texas has sunk to be 50th out of 50 in health care -- in health insurance for their citizens
+T126	Claim 2459 2512	I'm absolutely opposed to a national health care plan
+T127	Claim 4388 4440	that's what we ought to do for all people in America
+T128	Claim 3945 4003	We have to trust people to make decisions with their lives
+T129	Claim 3895 3943	health care needs to be affordable and available
+T130	Claim 3569 3653	We need a $2,000 credit, rebate for people, working people that don't have insurance
+T131	Premise 3655 3717	they can get in the marketplace and start purchasing insurance
+T132	Claim -1 79; -1 79	We need to allow small businesses to write insurance across jurisdictional lines
+T133	Claim 3811 3890	small business can afford health care, small restaurants can afford health care
+T134	Claim 2514 2597	I don't want the federal government making decisions for consumers or for providers
+T135	Claim 2707 2729	fortunately, it failed
+T136	Premise 2599 2653	I remember what the administration tried to do in 1993
+T137	Premise 2655 2701	They tried to have a national health care plan
+T138	Claim 2731 2745	I trust people
+T139	Claim 2747 2783	I don't trust the federal government
+T140	Claim 2785 2836	It's going to be one of the themes you hear tonight
+T141	Claim 2838 2913	I don't want the federal government making decisions on behalf of everybody
+T142	Claim 2915 2966	There is an issue with the uninsured, there sure is
+T143	Claim 3200 3247	The question is, are people getting health care
+T144	Claim 3253 3327	we have a strong safety net, and there needs to be a safety net in America
+T145	Claim 3329 3414	There needs to be more community health clinics where the poor can go get health care
+T146	Claim 3416 3451	We need a program for the uninsured
+T147	Claim 3103 3145	we're providing health care for our people
+T148	Premise 2972 3008	we have uninsured people in my state
+T149	Premise 3010 3051	Ours is a big state, a fast-growing state
+T150	Premise 4005 4109	In the Medicare reform I talk about it says if you are a senior, you can stay in Medicare if you like it
+T151	Premise 4115 4126	that's fine
+T152	Claim 4132 4241	we're going to give you other choices to choose if you want to do so, just like they do the federal employees
+R1	Attack Arg1:T105 Arg2:T104	
+R2	Attack Arg1:T106 Arg2:T109	
+R3	Support Arg1:T107 Arg2:T108	
+R4	Support Arg1:T108 Arg2:T109	
+R6	Support Arg1:T123 Arg2:T122	
+R7	Support Arg1:T122 Arg2:T119	
+R5	Support Arg1:T120 Arg2:T119	
+R8	Support Arg1:T121 Arg2:T119	
+R9	Support Arg1:T119 Arg2:T106	
+R10	Support Arg1:T117 Arg2:T118	
+R11	Support Arg1:T115 Arg2:T116	
+R12	Attack Arg1:T112 Arg2:T111	
+R13	Support Arg1:T113 Arg2:T112	
+R14	Support Arg1:T114 Arg2:T111	
+R15	Support Arg1:T124 Arg2:T110	
+R16	Attack Arg1:T110 Arg2:T125	
+R17	Support Arg1:T134 Arg2:T126	
+R18	Support Arg1:T136 Arg2:T137	
+R19	Attack Arg1:T138 Arg2:T139	
+R20	Support Arg1:T139 Arg2:T134	
+R21	Attack Arg1:T135 Arg2:T137	
+R22	Support Arg1:T135 Arg2:T139	
+R23	Support Arg1:T140 Arg2:T139	
+R24	Support Arg1:T141 Arg2:T140	
+R25	Support Arg1:T148 Arg2:T142	
+R26	Support Arg1:T149 Arg2:T148	
+R27	Attack Arg1:T142 Arg2:T147	
+R28	Support Arg1:T144 Arg2:T143	
+R29	Support Arg1:T145 Arg2:T146	
+R30	Attack Arg1:T146 Arg2:T142	
+R31	Support Arg1:T131 Arg2:T130	
+R32	Support Arg1:T133 Arg2:T129	
+R33	Support Arg1:T130 Arg2:T129	
+R34	Support Arg1:T129 Arg2:T128	
+R35	Support Arg1:T151 Arg2:T150	
+R36	Attack Arg1:T152 Arg2:T150	
+R37	Support Arg1:T128 Arg2:T152	
+T1	Premise 4243 4382	The people that work in Washington, D.C. for the U.S. Congress or the United States senate. Get a variety of choices to make in their lives
+R38	Support Arg1:T1 Arg2:T127	
+R39	Support Arg1:T152 Arg2:T127	
+R40	Support Arg1:T129 Arg2:T127	
+R41	Support Arg1:T128 Arg2:T127	

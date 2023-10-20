@@ -1,0 +1,123 @@
+T610	Claim 373 420	my administration is better off for it in Texas
+T611	Premise 285 367	I've had a record of bringing people from all walks of life into my administration
+T612	Claim 422 479	I'm going to find people that want to serve their country
+T613	Claim 485 516	I want a diverse administration
+T614	Claim 518 540	I think it's important
+T615	Claim 1828 1880	I'll have an administration that will make you proud
+T616	Claim 1579 1652	I think we can do that in a way that represents what America is all about
+T617	Premise 1654 1737	which is equal opportunity and an opportunity for people to realize their potential
+T618	Claim 1439 1471	The contracts need to be smaller
+T619	Claim -1 89; -1 89	the agencies need to recruit and to work hard to find people to bid on the state contracts
+T620	Claim 1297 1352	I think the contracting business in government can help
+T621	Claim 1218 1244	It was a smart thing to do
+T622	Claim 787 824	It's not the way America is all about
+T623	Claim 682 701	I don't like quotas
+T624	Claim 542 652	I've worked hard in the State of Texas to make sure our institutions reflect the state with good, smart policy
+T625	Premise 654 680	Policy that rejects quotas
+T626	Premise 703 757	Quotas tend to pit one group of people against another
+T627	Claim 759 785	Quotas are bad for America
+T628	Claim 874 898	they can help themselves
+T629	Premise 830 870	policies that give people a helping hand
+T630	Premise 1166 1216	as a result, our universities are now more diverse
+T631	Premise 900 1160	For example, in our State of Texas I worked with the legislature, both Republicans and Democrats, to pass a law that said if you come in the top 10% of your high school class, you're automatically admitted to one of our higher institutions of learning, college
+T632	Premise 1264 1295	I labeled it affirmative access
+T633	Premise 1354 1437	Not with quotas, but help meet a goal of ownership of small businesses, for example
+T634	Claim 1933 1984	I believe in this goal and effort with all my heart
+T635	Claim 1986 2162	I believe that our future as a nation depends upon whether or not we can break down these barriers that have been used to pit group against group, and bring our people together
+T636	Claim 3622 3640	I'm against quotas
+T637	Premise 3758 3773	they're illegal
+T638	Claim 3705 3736	Affirmative action isn't quotas
+T640	Claim 3544 3620	Now, I just believe that what we have to do is enforce the civil rights laws
+T641	Claim 2932 2986	I know what it means to have a commitment to diversity
+T642	Claim 2877 2902	I'm for that proposed law
+T644	Claim 2657 2696	I do know what affirmative action means
+T645	Claim 2613 2655	I don't know what affirmative access means
+T646	Claim 2227 2255	You don't ignore differences
+T647	Claim 2257 2453	It's all too easy for somebody in the majority in the population to say oh, we're just all the same, without an understanding of the different life experience that you've had, that others have had
+T648	Claim 2455 2611	Once you have that understanding and mutual respect, then we can transcend the differences and embrace the highest common denominator of the American spirit
+T649	Claim 2737 2759	I know that I'm for it
+T650	Claim 2698 2731	I know the governor is against it
+T651	Claim 2761 2875	I know what a hate crime statute pending at the national level is all about in the aftermath of James Byrd's death
+T652	Claim 3102 3200	I think our success over the last eight years has not been in spite of diversity but because of it
+T653	Premise 3210 3340	we're able to draw on the wisdom and experience from different parts of the society that hadn't been tapped in the same way before
+T654	Claim 3360 3482	Mel Carnahan in Missouri had the finest record on diversity in any governor in the entire history of the State of Missouri
+T655	Premise 3488 3542	I want to honor that among his other achievements here
+T656	Claim 3683 3703	that's a red herring
+T657	Premise 3775 3807	They're against the American way
+T658	Claim 4135 4185	If affirmative action means quotas, I'm against it
+T660	Premise 4187 4249	If affirmative action means what I just described what I'm for
+T661	Claim 4376 4397	that's what I support
+T663	Premise 4294 4344	The vice president keeps saying I'm against things
+T664	Claim 4537 4575	Affirmative action doesn't mean quotas
+T666	Claim 4857 4889	: I think that speaks for itself
+T667	Claim 4902 4929	it doesn't speak for itself
+T668	Claim 4951 5031	it speaks for the fact that there are certain rules in this that we all agree to
+T669	Premise 5037 5072	evidently rules don't mean anything
+T2	Claim 1473 1493;1508 1577	the agencies need to recruit and to work hard to find people to bid on the state contracts
+T1	Premise 2904 2930	the governor is against it
+T3	Claim 3738 3756	I'm against quotas
+T4	Claim 4256 4266	I'm for it
+T5	Premise 4346 4370	You heard what I was for
+T6	Claim 4898 4900	No
+R1	Support Arg1:T611 Arg2:T610	
+R2	Support Arg1:T614 Arg2:T613	
+R3	Support Arg1:T612 Arg2:T613	
+R4	Support Arg1:T610 Arg2:T613	
+R5	Support Arg1:T613 Arg2:T624	
+R6	Attack Arg1:T624 Arg2:T625	
+R7	Support Arg1:T625 Arg2:T623	
+R8	Support Arg1:T623 Arg2:T627	
+R9	Attack Arg1:T627 Arg2:T626	
+R10	Attack Arg1:T622 Arg2:T627	
+R11	Support Arg1:T629 Arg2:T628	
+R12	Support Arg1:T631 Arg2:T630	
+R13	Support Arg1:T630 Arg2:T621	
+R14	Support Arg1:T628 Arg2:T631	
+R15	Support Arg1:T632 Arg2:T621	
+R16	Support Arg1:T633 Arg2:T620	
+R17	Support Arg1:T618 Arg2:T2	
+R18	Support Arg1:T2 Arg2:T620	
+R19	Support Arg1:T620 Arg2:T616	
+R20	Support Arg1:T617 Arg2:T616	
+T7	Claim 1767 1826	I support, I guess the way to put it, is affirmative access
+R21	Support Arg1:T632 Arg2:T7	
+R22	Support Arg1:T7 Arg2:T616	
+R23	Support Arg1:T616 Arg2:T615	
+R24	Support Arg1:T634 Arg2:T635	
+T8	Premise 2188 2225	you establish respect for differences
+R25	Support Arg1:T8 Arg2:T635	
+R26	Attack Arg1:T635 Arg2:T646	
+R27	Support Arg1:T646 Arg2:T647	
+R28	Support Arg1:T8 Arg2:T647	
+R29	Support Arg1:T647 Arg2:T648	
+R30	Attack Arg1:T644 Arg2:T645	
+R31	Attack Arg1:T645 Arg2:T7	
+R32	Attack Arg1:T644 Arg2:T650	
+R33	Support Arg1:T644 Arg2:T649	
+R34	Attack Arg1:T649 Arg2:T650	
+R35	Attack Arg1:T642 Arg2:T1	
+R36	Support Arg1:T642 Arg2:T651	
+R37	Attack Arg1:T651 Arg2:T1	
+T9	Claim 2988 3058	I am part of an administration that has the finest record on diversity
+R38	Support Arg1:T9 Arg2:T641	
+R39	Support Arg1:T652 Arg2:T9	
+R40	Support Arg1:T653 Arg2:T652	
+R41	Support Arg1:T654 Arg2:T9	
+R42	Support Arg1:T655 Arg2:T654	
+R43	Attack Arg1:T640 Arg2:T636	
+R44	Support Arg1:T656 Arg2:T636	
+R45	Attack Arg1:T638 Arg2:T656	
+R46	Support Arg1:T636 Arg2:T3	
+R47	Attack Arg1:T3 Arg2:T637	
+R48	Attack Arg1:T3 Arg2:T657	
+T10	Premise 3809 4049	Affirmative action means that you take extra steps to acknowledge the history of discrimination and injustice and prejudice and bring all people into the American dream because it helps everybody, not just those who are directly benefitting
+R49	Support Arg1:T10 Arg2:T640	
+R50	Support Arg1:T660 Arg2:T4	
+R51	Attack Arg1:T658 Arg2:T656	
+R52	Support Arg1:T5 Arg2:T661	
+R53	Attack Arg1:T661 Arg2:T663	
+T11	Premise 4476 4536	He said if affirmative action means quotas, he's against it.
+R54	Support Arg1:T6 Arg2:T667	
+R55	Support Arg1:T667 Arg2:T668	
+R56	Attack Arg1:T668 Arg2:T669	
+R57	Attack Arg1:T667 Arg2:T666	

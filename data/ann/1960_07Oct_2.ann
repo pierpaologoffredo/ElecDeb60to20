@@ -1,0 +1,64 @@
+T31	Claim 443 581	In my judgment that statement has been distorted uh - by Mr. Nixon and others in their debates around the country and in their discussions
+T33	Claim 805 855	they were not in accordance with international law
+T34	Premise 722 799	The U-2 flights were proper from the point of view of protecting our security
+T37	Claim 1810 1856	That is the accepted procedure between nations
+T38	Premise 1571 1651	We expressed regrets for a flight over Eastern Germany under this Administration
+T39	Premise 1653 1730	The Soviet Union in 1955 expressed regrets to us over the Bering Sea incident
+T40	Premise 1732 1808	The Chinese Communists expressed regrets to us over a plane incident in 1956
+T41	Claim 1862 1993	my judgment is that we should follow the advice of Theodore Roosevelt: Be strong; maintain a strong position; but also speak softly
+T42	Claim 1995 2130	I believe that in those cases where international custom calls for the expression of a regret, if that would have kept the summit going
+T43	Claim 2132 2169	in my judgment it was a proper action
+T44	Claim 2171 2191	It's not appeasement
+T45	Claim 2193 2206	It's not soft
+T46	Claim 2208 2255	I believe we should be stronger than we now are
+T47	Claim 2257 2307	I believe we should have a stronger military force
+T48	Claim 2309 2369	I believe we should increase our strength all over the world
+T49	Claim 2375 2410	I don't confuse words with strength
+T52	Premise 2972 3019	He knew these flights were going on long before
+T53	Claim 3024 3078	that wasn't the reason that he broke up the conference
+T54	Claim 3080 3129	Second, he's wrong in the analogies that he makes
+T55	Claim 3170 3206	Whenever we do anything that's wrong
+T56	Claim 4189 4403	I don't intend ever to express regrets to Mr. Khrushchev or anybody else if I'm doing something that has the support of the Congress and that is right for the purpose of protecting the security of the United States
+T57	Claim 4013 4183	I don't intend to see to it that the United States is ever in a position where, while we're negotiating with the Soviet Union, that we discontinue our intelligence effort
+T58	Claim 3915 4011	I just want to make my position absolutely clear with regard to getting intelligence information
+T59	Claim 3873 3909	We cannot afford an intelligence gap
+T60	Claim 3741 3802	This seems to me is criticism that again is wrong on his part
+T61	Claim 3236 3488	when the president of the United States is doing something that's right, something that is for the purpose of defending the security of this country against surprise attack, he can never express regrets or apologize to anybody, including Mr. Khrushchev
+T62	Premise 3490 3606	Now in that connection Senator Kennedy has criticized the President on the ground not only of not expressing regrets
+T63	Premise 3620 3739	he allowed this flight to take place while the summit conference - or immediately before the summit conference occurred
+R3	Support Arg1:T40 Arg2:T37	
+R4	Support Arg1:T39 Arg2:T37	
+R5	Support Arg1:T38 Arg2:T37	
+R6	Equivalent Arg1:T43 Arg2:T41	
+R8	Equivalent Arg1:T49 Arg2:T41	
+R9	Support Arg1:T52 Arg2:T53	
+R13	Attack Arg1:T61 Arg2:T43	
+R14	Support Arg1:T62 Arg2:T60	
+R15	Attack Arg1:T60 Arg2:T41	
+R16	Support Arg1:T58 Arg2:T59	
+R17	Support Arg1:T57 Arg2:T59	
+R20	Attack Arg1:T56 Arg2:T43	
+T1	Premise 989 1331	I believe Mr. Nixon himself said on May fifteenth that the flights would continue even though Mr. Herter testified before the Senate Foreign Relations Committee that they had been canceled as of May twelfth - that it would have been far better that if we had expressed regrets, if that would have saved the summit, and if the summit is useful
+T3	Premise 1355 1569	The point that is always left out is the fact that we expressed regrets to Castro this winter; that we expressed regrets - the Eisenhower Administration expressed regrets - for a flight over Southern Russia in 1958
+T5	Premise 2826 2970	First of all, he's wrong in thinking th- er- even suggesting that Mr. Khrushchev might have continued the conference if we had expressed regrets
+T6	Premise 294 441	I suggested that if the United States felt that it could save the summit conference that it would have been proper for us to have expressed regrets
+R1	Attack Arg1:T34 Arg2:T33	
+R2	Support Arg1:T1 Arg2:T31	
+R7	Support Arg1:T6 Arg2:T31	
+T2	Claim 1338 1353	I believe it is
+R21	Support Arg1:T3 Arg2:T31	
+R22	Support Arg1:T41 Arg2:T42	
+R23	Support Arg1:T42 Arg2:T43	
+R24	Support Arg1:T44 Arg2:T43	
+R25	Support Arg1:T45 Arg2:T43	
+R26	Attack Arg1:T48 Arg2:T49	
+T4	Premise 2416 2731	in my judgment if the summit was useful, if it would have brought us closer to peace, that rather than the lie that we told - which has been criticized by all responsible people afterwards - it would have been far better for us to follow the common diplomatic procedure of expressing regrets and then try to move on
+R27	Support Arg1:T4 Arg2:T43	
+R28	Support Arg1:T47 Arg2:T48	
+T7	Claim 2769 2824	I think Kenne- Senator Kennedy is wrong on three counts
+R29	Support Arg1:T5 Arg2:T7	
+R30	Attack Arg1:T53 Arg2:T5	
+R10	Support Arg1:T54 Arg2:T7	
+R11	Support Arg1:T63 Arg2:T60	
+T8	Premise 3804 3871	We all remember Pearl Harbor. We lost three thousand American lives
+R12	Support Arg1:T8 Arg2:T59	

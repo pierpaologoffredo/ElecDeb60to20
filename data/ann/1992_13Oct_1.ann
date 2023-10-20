@@ -1,0 +1,169 @@
+T2	Premise 1744 1836	our discussion this evening will be about what kind of nation we want to be 4 years from now
+T3	Claim 1928 1977	it's a special honor to share this stage with you
+T4	Premise 1979 2107	Those of us who served in Vietnam looked at you as a national hero even before you were awarded the Congressional Medal of Honor
+T5	Premise 1838 1897	It's also a pleasure to be with my 2 opponents this evening
+T6	Premise 2113 2238	Mr. Vice President -- Dan, if I may -- it was 16 years ago that you and I went to the Congress on the very first day together
+T7	Claim 2275 2367	If you don't try to compare George Bush to Harry Truman, I won't compare you to Jack Kennedy
+T8	Premise 2522 2627	Harry Truman, it's worth remembering, assumed the presidency when Franklin Roosevelt died here in Georgia
+T9	Claim 2734 2794	It's something to think about during the debate this evening
+T10	Claim 2849 2884	Bill Clinton and I stand for change
+T11	Premise 2893 2994	we don't believe our nation can stand 4 more years of what we've had under George Bush and Dan Quayle
+T12	Claim 2996 3066	When the recession came they were like a deer caught in the headlights
+T13	Premise 3177 3208	We have an environmental crisis
+T14	Premise 3210 3235	a health insurance crisis
+T15	Premise 3237 3258	substandard education
+T16	Claim 3260 3283	It is time for a change
+T17	Premise 3286 3349	Bill Clinton and I want to get our country moving forward again
+T18	Premise 3351 3378	put our people back to work
+T19	Premise 3384 3428	create a bright future for the US of America
+T20	Claim 3754 3832	Bill Clinton's economic plan and his agenda will make matters much, much worse
+T21	Premise 3836 3860	he will raise your taxes
+T22	Premise 3862 3887	he will increase spending
+T23	Premise 3889 3919	he will make government bigger
+T24	Premise 3921 3938	jobs will be lost
+T25	Claim 3948 4031	Bill Clinton does not have the strength nor the character to be president of the US
+T26	Premise 4045 4071	Let us look at the agendas
+T27	Premise 4073 4119	President Bush wants to hold the line on taxes
+T28	Premise 4121 4154	Bill Clinton wants to raise taxes
+T29	Premise 4156 4205	President Bush is for a balanced budget amendment
+T30	Premise 4207 4236	Bill Clinton is opposed to it
+T31	Premise 4238 4296	We want to reform the legal system because it's too costly
+T32	Premise 4298 4331	Bill Clinton wants the status quo
+T33	Premise 4333 4373	We want to reform the health care system
+T34	Premise 4375 4415	Bill Clinton wants to ration health care
+T35	Premise 4417 4457	Bill Clinton wants to empower government
+T36	Premise 4459 4484	we want to empower people
+T37	Premise 4487 4595	In St. Louis, Missouri, in June of this year, Bill Clinton said this: "America is the mockery of the world."
+T38	Claim 4596 4607	He is wrong
+T39	Claim 4610 4678	At some time during these next 4 years there is going to be a crisis
+T40	Claim 4682 4719	there will be an international crisis
+T41	Claim 4809 4823	it will happen
+T42	Premise 4721 4760	I can't tell you where it's going to be
+T43	Premise 4762 4801	I can't even tell you the circumstances
+T44	Claim 4825 4867	We need a president who has the experience
+T45	Claim 4953 4982	The president has been tested
+T46	Claim 4984 5033	the president has the integrity and the character
+T47	Claim 5057 5099	You need to have a president you can trust
+T48	Claim 6011 6045	That's one thing I'm an insider on
+T49	Claim 5993 6009	that's important
+T50	Claim 5883 5959	I know how governments, how American governments can be -- can be courageous
+T51	Premise 5263 5283	I'm not a politician
+T52	Premise 5375 5405	Thirty-seven years in the Navy
+T53	Premise 5411 5450	only one of them up there in Washington
+T54	Premise 5456 5475	now I'm an academic
+T55	Premise 5478 5524	The centerpiece of my life was the Vietnam War
+T56	Premise 5526 5556	I was there the day it started
+T57	Premise 5558 5608	I led the first bombing raid against North Vietnam
+T58	Premise 5610 5638	I was there the day it ended
+T59	Premise 5644 5681	I was there for everything in between
+T60	Premise 5683 5731	Ten years in Vietnam, aerial combat, and torture
+T61	Claim 5733 5801	I know things about the Vietnam War better than anybody in the world
+T62	Claim 5803 5876	I know some things about the Vietnam War better than anybody in the world
+T63	Premise 6048 6152	I was the leader of the underground of the American pilots who were shot down in prison in North Vietnam
+T65	Premise 6154 6265	You should know that the American character displayed in those dungeons by those fine men was a thing of beauty
+T66	Premise 6268 6429	I look back on those years as the beginning of wisdom, learning everything a man can learn about the vulnerabilities and the strengths that are ours as Americans
+T645	Premise 2631 2732	only one of many occasions when fate thrust a vice president into the Oval Office in a time of crisis
+T646	Premise 3070 3093	paralyzed into inaction
+T647	Premise 3095 3175	blinded to the suffering and pain of bankruptcies and people who were unemployed
+T648	Claim 4869 4888	who has been tested
+T649	Claim 4890 4951	who has the integrity and qualifications to handle the crisis
+T650	Claim 5312 5373	don't expect me to use the language of the Washington insider
+T651	Claim 5965 5987	how they can be callow
+T652	Claim 6473 6557	I have in my brain and in my heart what it takes to lead America through tough times
+T1	Premise 2240 2273	I'll make you a deal this evening
+T67	Claim 2796 2847	But our real discussion is going to be about change
+R1	Support Arg1:T5 Arg2:T3	
+R2	Support Arg1:T4 Arg2:T3	
+R3	Support Arg1:T6 Arg2:T3	
+R4	Support Arg1:T1 Arg2:T7	
+R5	Support Arg1:T8 Arg2:T645	
+R6	Support Arg1:T645 Arg2:T9	
+R7	Support Arg1:T67 Arg2:T10	
+R8	Support Arg1:T11 Arg2:T10	
+R9	Support Arg1:T646 Arg2:T12	
+R10	Support Arg1:T647 Arg2:T12	
+R11	Support Arg1:T13 Arg2:T12	
+R12	Support Arg1:T14 Arg2:T12	
+R13	Support Arg1:T15 Arg2:T12	
+R14	Support Arg1:T12 Arg2:T16	
+R15	Support Arg1:T16 Arg2:T10	
+R16	Support Arg1:T67 Arg2:T16	
+R17	Support Arg1:T17 Arg2:T16	
+R18	Support Arg1:T17 Arg2:T18	
+R19	Support Arg1:T18 Arg2:T19	
+R20	Support Arg1:T18 Arg2:T16	
+R21	Support Arg1:T19 Arg2:T16	
+R22	Support Arg1:T21 Arg2:T20	
+R23	Support Arg1:T22 Arg2:T20	
+R24	Support Arg1:T23 Arg2:T20	
+R25	Support Arg1:T24 Arg2:T20	
+R26	Support Arg1:T28 Arg2:T20	
+R27	Attack Arg1:T27 Arg2:T28	
+R28	Attack Arg1:T29 Arg2:T30	
+R29	Support Arg1:T26 Arg2:T20	
+R30	Support Arg1:T30 Arg2:T20	
+R31	Attack Arg1:T31 Arg2:T32	
+R32	Support Arg1:T32 Arg2:T20	
+R33	Attack Arg1:T33 Arg2:T34	
+R34	Support Arg1:T34 Arg2:T20	
+R35	Support Arg1:T20 Arg2:T25	
+R36	Support Arg1:T35 Arg2:T20	
+R37	Attack Arg1:T36 Arg2:T35	
+R38	Support Arg1:T38 Arg2:T37	
+R39	Support Arg1:T39 Arg2:T40	
+R40	Support Arg1:T42 Arg2:T43	
+R41	Support Arg1:T43 Arg2:T41	
+R42	Support Arg1:T40 Arg2:T41	
+R43	Support Arg1:T39 Arg2:T41	
+R44	Support Arg1:T44 Arg2:T648	
+R45	Support Arg1:T648 Arg2:T649	
+R46	Support Arg1:T648 Arg2:T45	
+R47	Support Arg1:T649 Arg2:T46	
+R48	Support Arg1:T44 Arg2:T46	
+R49	Support Arg1:T44 Arg2:T45	
+R50	Attack Arg1:T46 Arg2:T25	
+R51	Support Arg1:T45 Arg2:T46	
+T68	Premise 5101 5135	Can you really trust Bill Clinton?
+R52	Support Arg1:T45 Arg2:T47	
+R53	Support Arg1:T46 Arg2:T47	
+R54	Support Arg1:T44 Arg2:T47	
+R55	Attack Arg1:T47 Arg2:T68	
+R56	Support Arg1:T68 Arg2:T25	
+R57	Support Arg1:T51 Arg2:T650	
+R58	Support Arg1:T52 Arg2:T53	
+R59	Support Arg1:T53 Arg2:T54	
+R60	Support Arg1:T52 Arg2:T650	
+R61	Support Arg1:T53 Arg2:T650	
+R62	Support Arg1:T55 Arg2:T56	
+R63	Support Arg1:T56 Arg2:T57	
+R64	Support Arg1:T57 Arg2:T58	
+R65	Support Arg1:T58 Arg2:T59	
+R66	Support Arg1:T59 Arg2:T60	
+R67	Support Arg1:T60 Arg2:T61	
+R68	Support Arg1:T55 Arg2:T61	
+R69	Support Arg1:T56 Arg2:T61	
+R70	Support Arg1:T57 Arg2:T61	
+R71	Support Arg1:T58 Arg2:T61	
+R72	Support Arg1:T59 Arg2:T61	
+R73	Equivalent Arg1:T62 Arg2:T61	
+R74	Support Arg1:T55 Arg2:T62	
+R75	Support Arg1:T56 Arg2:T62	
+R76	Support Arg1:T57 Arg2:T62	
+R77	Support Arg1:T58 Arg2:T62	
+R78	Support Arg1:T59 Arg2:T62	
+R79	Support Arg1:T60 Arg2:T62	
+R80	Support Arg1:T62 Arg2:T50	
+R81	Support Arg1:T50 Arg2:T651	
+R82	Support Arg1:T651 Arg2:T49	
+R83	Support Arg1:T50 Arg2:T49	
+R84	Support Arg1:T49 Arg2:T48	
+R85	Support Arg1:T62 Arg2:T48	
+R86	Support Arg1:T63 Arg2:T48	
+R87	Support Arg1:T65 Arg2:T63	
+R88	Support Arg1:T65 Arg2:T48	
+R89	Support Arg1:T66 Arg2:T48	
+R90	Support Arg1:T65 Arg2:T66	
+R91	Support Arg1:T63 Arg2:T66	
+T64	Premise 6432 6454	Why am I here tonight?
+R92	Support Arg1:T64 Arg2:T652	
+R93	Support Arg1:T48 Arg2:T652	

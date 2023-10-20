@@ -1,0 +1,85 @@
+T1	Premise 1987 2065	Qualifications for the office of Vice President or President are not age alone
+T2	Premise 2134 2214	I have more experience than others that have sought the office of Vice President
+T3	Premise 2067 2099	You must look at accomplishments
+T4	Premise 2105 2132	you must look at experience
+T7	Premise 2469 2559	On each one of those issues I have more experience than does the Governor of Massachusetts
+T9	Premise 2561 2715	In national security and arms control, you have to understand the difference between a ballistic missile, a warhead, what throwweight, what megatonnage is
+T10	Premise 2717 2769	You better understand about telemetry and encryption
+T11	Premise 2775 2851	you better understand that you have to negotiate from a position of strength
+T12	Claim 2853 2879	These are important issues
+T13	Premise 2889 2942	we want to have more arms control and arms reductions
+T14	Premise 2944 3038	In the area of jobs and education, I wrote the Job Training Partnership Act, a bipartisan bill
+T15	Premise 3040 3155	a bill that has trained and employed over three million economically disadvantaged youth and adults in this country
+T16	Premise 3157 3256	On the area of the Federal budget deficit, I have worked eight years on the Senate Budget Committee
+T18	Premise 4694 4724	The stakes could not be higher
+T19	Claim 4574 4692	No, the debate tonight is a debate about the presidency itself, and a presidential decision that has to be made by you
+T20	Claim 3981 4056	This debate tonight is not about the qualifications for the Vice Presidency
+T21	Claim 4058 4166	The debate is whether or not Dan Quayle and Lloyd Bentsen are qualified to be President of the United States
+T22	Premise 4205 4244	that has happened too often in the past
+T24	Claim 5247 5309	we agree on so many things and the vast majority of the issues
+T25	Claim 5311 5364	We agree on the fact that we have to cut this deficit
+T27	Claim 6755 6865	That's the sort of thing that Michael Dukakis and I will do to bring about a better America for all our people
+T28	Claim 6676 6753	We'll show leadership in that respect, and turn this deficit and trade around
+T29	Premise 6485 6674	that means that we're going to stand tough for America, and we're going to protect those jobs, and we're going to push American products, and we're going to open up markets around the world
+T30	Premise 6332 6478	we passed a trade bill that has this premise, that any country that has full access to our markets, we're entitled to full access to their markets
+T31	Premise 6205 6326	as I worked to pass a trade bill through the United States Senate, they threw roadblocks in the way every step of the way
+T33	Claim 5583 5619	That is a major sense of achievement
+T34	Premise 5370 5581	Gov. Dukakis has been able to cut that deficit ten budgets in a row in the State of Massachusetts, while he lowered the tax burden on their people from one of the highest to one of the lower in the United States
+T35	Claim 5693 5772	Gov. Dukakis and I agreed that we ought to have a trade policy for this country
+T36	Premise 5779 5844	we've seen this Administration more than double the national debt
+T37	Premise 5852 5997	they've moved this country from the number one lender nation in the world to the number one debtor nation in the world under their Administration
+T38	Premise 6004 6036	they have not had a trade policy
+T39	Premise 6043 6129	they have let trade be a handmaiden for their foreign policy objectives of the country
+T40	Premise 6136 6199	this country has exported too many jobs and not enough products
+T42	Premise 7425 7507	every time there's a problem, the liberal governor from Massachusetts raises taxes
+T43	Premise 7348 7415	That's why they refer to the State of Massachusetts as Taxachusetts
+T44	Premise 7249 7284	He just raised taxes this past year
+T45	Premise 7175 7247	The fact of the matter is, Senator Bentsen, he's raised taxes five times
+T48	Premise 7290 7346	that's why a lot of people refer to him as Tax-hike Mike
+R1	Support Arg1:T13 Arg2:T12	
+T5	Claim 1852 1985	The question goes to whether I am qualified to be Vice President, and in the case of a tragedy, whether I'm qualified to be President
+R2	Support Arg1:T1 Arg2:T5	
+R4	Support Arg1:T4 Arg2:T1	
+R3	Support Arg1:T3 Arg2:T1	
+R5	Support Arg1:T2 Arg2:T4	
+R6	Support Arg1:T7 Arg2:T1	
+R7	Support Arg1:T9 Arg2:T7	
+R8	Support Arg1:T10 Arg2:T7	
+R9	Support Arg1:T11 Arg2:T7	
+R10	Support Arg1:T14 Arg2:T5	
+R11	Support Arg1:T15 Arg2:T14	
+R12	Support Arg1:T16 Arg2:T4	
+T6	Claim 3348 3499	if qualifications alone are going to be the issue in this campaign, George Bush has more qualifications than Michael Dukakis and Lloyd Bentsen combined
+R13	Attack Arg1:T20 Arg2:T5	
+R14	Support Arg1:T21 Arg2:T20	
+R15	Support Arg1:T22 Arg2:T21	
+R16	Support Arg1:T19 Arg2:T20	
+R17	Support Arg1:T18 Arg2:T19	
+R18	Support Arg1:T25 Arg2:T24	
+R19	Support Arg1:T34 Arg2:T33	
+R20	Support Arg1:T33 Arg2:T25	
+R21	Support Arg1:T35 Arg2:T24	
+R22	Support Arg1:T36 Arg2:T37	
+R24	Support Arg1:T39 Arg2:T40	
+R23	Support Arg1:T31 Arg2:T38	
+R25	Support Arg1:T29 Arg2:T28	
+R26	Support Arg1:T30 Arg2:T28	
+R27	Support Arg1:T28 Arg2:T27	
+T8	Premise 4250 4572	if that tragedy should occur, we have to step in there without any margin for error, without time for preparation, to take over the responsibility for the biggest job in the world, that of running this great country of ours; to take over the awesome responsibility for commanding the nuclear weaponry that this country has
+R28	Support Arg1:T8 Arg2:T21	
+R30	Support Arg1:T44 Arg2:T45	
+R29	Support Arg1:T45 Arg2:T48	
+R31	Support Arg1:T45 Arg2:T43	
+R32	Support Arg1:T42 Arg2:T43	
+T17	Premise 6924 7013	As you notice, Senator Bentsen didn't tell you very much about what Gov. Dukakis would do
+T23	Premise 7016 7173	Gov. Dukakis, one of the most liberal governors in the United States of America The one thing he tried to point out about Gov. Dukakis is that he's cut taxes
+R33	Attack Arg1:T48 Arg2:T23	
+R34	Support Arg1:T23 Arg2:T17	
+R35	Attack Arg1:T23 Arg2:T34	
+R36	Attack Arg1:T43 Arg2:T23	
+T26	Claim 7619 7715	If I had to defend the liberal policies of Gov. Michael Dukakis, I wouldn't talk about it either
+R37	Support Arg1:T17 Arg2:T26	
+T32	Premise 7509 7581	I don't blame Senator Bentsen for not talking about Gov. Michael Dukakis
+T41	Premise 7583 7617	He's talking more about his record
+R38	Support Arg1:T41 Arg2:T26	
+R39	Support Arg1:T32 Arg2:T26	

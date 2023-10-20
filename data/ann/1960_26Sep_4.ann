@@ -1,0 +1,83 @@
+T143	Claim 219 309	It's a fact, I think, that presidential candidates traditionally make promises to farmers.
+T144	Claim 310 415	Lots of people, I think, don't understand why the government pays farmers for not producing certain crops
+T145	Claim 419 470	paying farmers if they overproduce for that matter.
+T146	Premise 568 669	If an auto company overproduces a certain model car Uncle Sam doesn't step in and buy up the surplus.
+T147	Claim 503 567	the farmer operate like the business man who operates a factory?
+T148	Premise 748 824	if the federal government moved out of the program and withdrew its supports
+T149	Claim 835 887	I think you would have complete uh - economic chaos.
+T150	Premise 888 945	The farmer plants in the spring and harvests in the fall.
+T151	Premise 946 986	There are hundreds of thousands of them.
+T152	Premise 1007 1058	they're not able to control their market very well.
+T153	Premise 1059 1141	They bring their crops in or their livestock in, many of them about the same time.
+T154	Claim 1252 1342	therefore the farmer is not in a position to bargain very effectively in the market place.
+T155	Premise 1142 1207	They have only a few purchasers that buy their milk or their hogs
+T156	Claim 1343 1435	I think the experience of the twenties has shown what a free market could do to agriculture.
+T157	Premise 1440 1478	if the agricultural economy collapses,
+T158	Claim 1484 1559	the economy of the rest of the United States sooner or later will collapse.
+T159	Premise 1560 1647	The farmers are the number one market for the automobile industry of the United States.
+T160	Premise 1648 1707	The automobile industry is the number one market for steel.
+T161	Claim 1799 1861	I think you would have a recession in the rest of the country.
+T162	Premise 1711 1793	if the farmers' economy continues to decline as sharply as it has in recent years,
+T163	Claim 1865 1928	I think the case for the government intervention is a good one.
+T164	Claim 1983 2062	there are no effective controls to bring supply and demand into better balance.
+T165	Premise 2063 2140	The dropping of the support price in order to limit production does not work,
+T166	Premise 2145 2213	we now have the highest uh - surpluses - nine billion dollars worth.
+T167	Premise 2214 2344	We've had a uh - higher tax load from the Treasury for the farmer in the last few years with the lowest farm income in many years.
+T168	Claim 2345 2386	I think that this farm policy has failed.
+T169	Claim 2387 2490	In my judgment the only policy that will work will be for effective supply and demand to be in balance.
+T170	Premise 2495 2545	that can only be done through governmental action.
+T171	Claim 2546 2787	I therefore suggest that in those basic commodities which are supported, that the federal government, after endorsement by the farmers in that commodity, attempt to bring supply and demand into balance - attempt effective production controls
+T172	Premise 2798 2895	we won't have that five or six percent surplus which breaks the price fifteen or twenty per cent.
+T173	Claim 2896 2935	I think Mr.Benson's program has failed.
+T174	Claim 3031 3095	I don't believe that it's very much different from Mr. Benson's.
+T175	Claim 3096 3154	I don't think it provides effective governmental controls.
+T176	Claim 3155 3243	I think the support prices are tied to the average market price of the last three years,
+T177	Premise 3244 3274	which was Mr. Benson's theory.
+T178	Claim 3275 3397	I therefore do not believe that this is a sharp enough breach with the past to give us any hope of success for the future.
+T179	Claim 3432 3561	I of course disagree with Senator Kennedy insofar as his suggestions as to what should be done uh - with re- on the farm program.
+T180	Claim 3853 3889	I think this is the wrong direction.
+T181	Claim 3890 3932	I don't think this has worked in the past;
+T182	Claim 3933 3975	I do not think it will work in the future.
+T183	Premise 3562 3663	He has made the suggestion that what we need is to move in the direction of more government controls,
+T184	Premise 3664 3712	a suggestion that would also mean raising prices
+T185	Premise 3723 3852	the consumers pay for products and im- and imposing upon the farmers uh - controls on acreage even far more than they have today.
+T186	Premise 4086 4236	It recognizes that the government has a responsibility to get the farmer out of the trouble he presently is in because the government got him into it.
+T187	Claim 4275 4333	we can't let the farmer go by himself at the present time.
+T188	Premise 4334 4441	The farmer produced these surpluses because the government asked him to through legislation during the war.
+T189	Premise 4476 4592	it's our responsibility to indemnify the farmer during that period that we get rid of the farmer uh - the surpluses.
+T190	Claim 4652 4739	we should have a program such as I announced, which will see that farm income holds up.
+R1	Support Arg1:T152 Arg2:T147	
+R2	Support Arg1:T150 Arg2:T152	
+R3	Support Arg1:T151 Arg2:T152	
+R5	Support Arg1:T161 Arg2:T163	
+R6	Support Arg1:T153 Arg2:T154	
+R7	Support Arg1:T155 Arg2:T154	
+R8	Support Arg1:T166 Arg2:T165	
+R9	Support Arg1:T165 Arg2:T164	
+R10	Support Arg1:T167 Arg2:T164	
+R13	Support Arg1:T159 Arg2:T158	
+R14	Support Arg1:T175 Arg2:T174	
+R15	Support Arg1:T176 Arg2:T174	
+R17	Support Arg1:T174 Arg2:T178	
+R18	Support Arg1:T172 Arg2:T171	
+R21	Equivalent Arg1:T168 Arg2:T173	
+R22	Equivalent Arg1:T179 Arg2:T180	
+R23	Support Arg1:T181 Arg2:T180	
+R24	Support Arg1:T182 Arg2:T180	
+R25	Support Arg1:T186 Arg2:T187	
+R26	Support Arg1:T188 Arg2:T186	
+R27	Equivalent Arg1:T186 Arg2:T189	
+R28	Support Arg1:T158 Arg2:T163	
+R31	Equivalent Arg1:T149 Arg2:T161	
+R11	Support Arg1:T164 Arg2:T168	
+R32	Equivalent Arg1:T164 Arg2:T169	
+R33	Support Arg1:T168 Arg2:T169	
+T1	Claim 4744 4980	I would propose holding that income up not through a type of program that Senator Kennedy has suggested that would raise prices, but one that would indemnify the farmer, pay the farmer in kind uh - from the products which are in surplus
+R29	Support Arg1:T152 Arg2:T154	
+R30	Support Arg1:T157 Arg2:T158	
+R4	Support Arg1:T156 Arg2:T158	
+R12	Support Arg1:T162 Arg2:T161	
+R19	Support Arg1:T170 Arg2:T171	
+R20	Support Arg1:T177 Arg2:T174	
+R16	Support Arg1:T184 Arg2:T180	
+R34	Support Arg1:T185 Arg2:T180	

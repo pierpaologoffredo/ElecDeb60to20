@@ -1,0 +1,69 @@
+T744	Claim 888 1061	one thing I did was oppose the government takeover health care that President Clinton offered in 1993, which created 17 new taxes and 50 new bureaucracies and price controls
+T745	Premise 1071 1134	we were afraid the very thing you mentioned would have happened
+T746	Claim 1267 1302	I think right now we got to go back
+T747	Claim 1304 1372	I know they've appointed a commission to take a look at managed care
+T748	Claim 1136 1186	Everybody would have been forced into managed care
+T749	Premise 1188 1261	You couldn't have chosen your own doctor and that would have been the end
+T750	Premise 1426 1631	if we start to take choices away from people and if we drive them into one type care, eliminate fee-for-service altogether or eliminate the fact you can go to your own doctor, you have to go somewhere else
+T751	Claim 1638 1711	I think we've taken a giant step backward in the United States of America
+T752	Claim 1713 1802	We have the best health care delivery system in the world and we want to keep it that way
+T753	Premise 1804 1940	That's why we opposed the government take over health care plan that President Clinton tried and tried and tried to get through Congress
+T754	Claim 1942 1960	Didn't get it done
+T755	Premise 1975 2040	we had more votes than he had, then they decided to pull the plug
+T756	Claim 2042 2067	It was a big, big mistake
+T757	Claim 2073 2244	whether or not he'll do that again I've heard some of the people say, well, that's the model we ought to use and if he's reelected maybe he will come back and try it again
+T758	Premise 2288 2375	it does seem to me that you've raised a very important point that needs to be addressed
+T759	Premise 2377 2409	You're going to have to watch it
+T760	Claim 2411 2483	Gonna have to take a look at all the managed care going on in California
+T761	Claim 2488 2556	we're going to end up losing our best care that we have in the world
+T762	Claim 2733 2894	one of the things that I tried to do was to make sure that everybody in the country who was under a managed care plan should at least have three choices of plans
+T763	Claim 2900 2958	would have the right to get out without penalty every year
+T764	Premise 2964 2996	that's not a government takeover
+T765	Premise 2998 3041	That's like the family of medical-leave law
+T766	Premise 3043 3085	it just tries to set the rules of the game
+T767	Claim 3087 3163	I'm strongly in favor of a federal bill to repeal any gag rules on providers
+T768	Claim 3181 3312	I believe that doctors should not be able to be kicked out of managed care plans just because they tell the patients what they need
+T769	Claim 3317 3358	what more expensive care options might be
+T770	Claim 3360 3432	If we're saving money and managing resources better, that's a good thing
+T771	Claim 3434 3504	If we're saving money and depriving people of care, that's a bad thing
+T772	Premise 3506 3643	A good place to start is to say no managed care provider can gag a doctor and kick the doctor out of the managed care plan for the doctor
+T773	Premise 3645 3696	telling the patient, you need a more expensive test
+T774	Premise 3698 3733	you need a more expensive procedure
+T775	Premise 3735 3758	your health requires it
+T776	Claim 3861 3997	I think what we want to avoid is falling back into this nationalized health care system that President Clinton wanted to give us in 1993
+T777	Premise 3999 4049	If that isn't a liberal idea, I've never heard one
+T778	Claim 4051 4101	17 new taxes, price controls, 50 new bureaucracies
+T779	Claim 4291 4315	Not just a state problem
+T780	Claim 4266 4289	It's a national problem
+T781	Claim 4215 4264	It's happening in other states that we visit, too
+T782	Claim 4179 4213	It not only happened in California
+T783	Premise 4144 4178	We need to deal with managed care.
+T784	Premise 4103 4142	We'd have that trouble all over America
+R1	Support Arg1:T745 Arg2:T744	
+R2	Support Arg1:T748 Arg2:T744	
+R3	Support Arg1:T747 Arg2:T746	
+R4	Support Arg1:T750 Arg2:T751	
+R5	Support Arg1:T751 Arg2:T746	
+R6	Support Arg1:T753 Arg2:T754	
+R7	Support Arg1:T755 Arg2:T754	
+R8	Support Arg1:T756 Arg2:T754	
+R9	Support Arg1:T752 Arg2:T761	
+R10	Support Arg1:T758 Arg2:T759	
+R11	Support Arg1:T759 Arg2:T760	
+R12	Support Arg1:T764 Arg2:T762	
+R13	Support Arg1:T765 Arg2:T762	
+R14	Support Arg1:T766 Arg2:T762	
+R15	Support Arg1:T763 Arg2:T762	
+R16	Support Arg1:T769 Arg2:T768	
+R17	Support Arg1:T770 Arg2:T768	
+R18	Support Arg1:T771 Arg2:T768	
+R19	Support Arg1:T772 Arg2:T767	
+R20	Support Arg1:T773 Arg2:T768	
+R21	Support Arg1:T774 Arg2:T768	
+R22	Support Arg1:T775 Arg2:T768	
+R23	Support Arg1:T777 Arg2:T776	
+R24	Support Arg1:T784 Arg2:T778	
+R25	Support Arg1:T783 Arg2:T778	
+R26	Support Arg1:T781 Arg2:T780	
+R27	Support Arg1:T782 Arg2:T781	
+R28	Support Arg1:T779 Arg2:T780	

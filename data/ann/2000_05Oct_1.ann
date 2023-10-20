@@ -1,0 +1,66 @@
+T1	Claim 2889 2971	We're not spending any more than is projected by the experts, unlike our opponents
+T2	Claim 2973 3095	We're setting aside $300 billion in a reserve fund in case the projections the nonpartisan experts make aren't quite right
+T3	Claim 3097 3226	We understand that balancing the budget, keeping America out of debt is a way to keep interest rates down and the economy growing
+T4	Claim 3574 3654	I think this is an extraordinarily important decision we'll make on November 7th
+T5	Claim 4313 4372	I think we have to make some planning assumption to proceed
+T6	Claim 4593 4654	There are important issues out there that need to be resolved
+T7	Premise 4656 4706	It's important for us to get on with that business
+T8	Premise 3656 3860	We're really going to choose between what I consider to be an old way of governing ourselves of high levels of spending, high taxes, ever more intrusive bureaucracy or a new course, a new era, if you will
+T10	Claim 3866 3925	Governor Bush and I want to offer that new course of action
+T11	Premise 4003 4052	We can't make 12-month decisions in this business
+T12	Premise 4054 4201	We're talking about the kinds of fundamental changes in programs and government that are going to affect people's lives for the next 25 or 30 years
+T13	Claim 4213 4311	it may be a little risky in some respects from an economic standpoint to try to forecast surpluses
+T14	Claim 4469 4528	for the last eight years we ignored a lot of these problems
+T15	Premise 4530 4591	We haven't moved aggressively on Social Security, on Medicare
+T16	Claim 4957 4995	I think public education is a solution
+T17	Claim 5183 5231	We believe very much in the public school system
+T18	Premise 5092 5181	I'm a product of public schools, my family, wife and daughters all went to public schools
+T19	Claim 6747 6786	We think it's extraordinarily important
+T20	Claim 6132 6161	We think we know how to do it
+T21	Claim 5723 5762	That's unacceptable from our standpoint
+T22	Premise 5604 5673	We've had a significant increase in spending for education nationwide
+T23	Premise 5679 5721	it has produced almost no positive results
+T24	Claim 5510 5602	The achievement gap between minority and non-minority students is as big as itâ€™s ever been
+T25	Premise 5414 5480	there's been no progress on reading scores in the last eight years
+T26	Premise 5482 5508	Almost no progress on math
+T27	Premise 5802 5925	we now have in our most disadvantaged communities, 70% of our fourth graders can't read at the basic level of understanding
+T28	Claim 5927 6035	We've graduated 15 million kids from high school in the last few years who can't read at a significant level
+T29	Claim 6037 6092	They are permanently sentenced to a lifetime of failure
+T30	Premise 6099 6130	we want to do is to change that
+T31	Premise 6163 6197	Governor Bush has done it in Texas
+T32	Claim 6350 6412	the worst things we can do is fail to establish high standards
+T33	Premise 6498 6583	we don't have the same kind of expectations from you that we have from everybody else
+T34	Premise 6788 6845	Probably the single most important issue in this campaign
+T35	Claim 6847 6989	Governor Bush has made it clear that when he's elected this will be his number one priority as a legislative measure to submit to the Congress
+T36	Claim 6609 6745	We have to test every child every year to know whether or not we're making progress with respect to achieving those goals and objectives
+T37	Claim 6306 6341	We want to insist on high standards
+T38	Claim 6585 6607	We want accountability
+T39	Claim 7019 7103	Al Gore and I are committed to making America's public schools the best in the world
+T40	Claim 7468 7554	I think both of us agree that leaving aside the Social Security and Medicare surpluses
+T41	Premise 7556 7631	there's $1.8 trillion in surplus available to spend over the next ten years
+T42	Claim 8098 8184	You cannot reform education and improve it in this country without spending some money
+T43	Premise 8186 8244	Al Gore and I have committed $170 billion for that purpose
+T44	Premise 8246 8310	To recruit 100,000 new teachers to reduce the size of classrooms
+T45	Premise 8312 8419	To help local school districts build new buildings so our children are not learning in crumbling classrooms
+T46	Premise 7105 7146	I disagree with what my opponent has said
+T47	Claim 7148 7195	A lot of progress has been made in recent years
+T48	Premise 7197 7352	Average testing scores are up and a lot of extraordinary work is being done by tens of thousands of parents, teachers and administrators all around America
+T49	Premise 7891 8053	Our opponents are going to spend $1.6 trillion of the $1.8 trillion surplus projected on that big tax cut that Al Gore talked about the other night so effectively
+T50	Claim 8055 8096	We're saving money to invest in education
+T51	Claim 7693 7753	We're taking $300 billion off the top to put in reserve fund
+T52	Claim 7755 7837	The rest we'll use for middle class tax cuts and invest in programs like education
+T53	Claim 8470 8590	We're going to go on and give the middle class the ability to deduct up to $10,000 a year in the cost of college tuition
+T54	Premise 8597 8684	that is a tremendous life-saving change which will help people carry on their education
+T55	Premise 8689 8790	allow them to develop the kinds of skills that will help them succeed in the hi-tech economy of today
+T80	Question 1161 1402	Senator, few hard working Americans would base their well-being on bonuses they hope to get five or ten years from now. Why do you, and you, Secretary Cheney, predict surpluses you cannot possibly guarantee to pay for your proposed programs?
+T56	Claim 2720 2811	I'm going to explain tonight how we're going to do all this and remain fiscally responsible
+R1	Support Arg1:T1 Arg2:T56	
+R2	Support Arg1:T2 Arg2:T56	
+R3	Support Arg1:T3 Arg2:T56	
+R4	Support Arg1:T8 Arg2:T4	
+T9	Claim 3964 4001	we have to make some kind of forecast
+R5	Support Arg1:T12 Arg2:T9	
+R6	Support Arg1:T11 Arg2:T9	
+R7	Attack Arg1:T13 Arg2:T5	
+R8	Support Arg1:T9 Arg2:T5	
+R9	Support Arg1:T15 Arg2:T14	

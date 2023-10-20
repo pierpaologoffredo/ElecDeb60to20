@@ -1,0 +1,79 @@
+T359	Claim 648 713	I think that we might ought to review the terms, the way it works
+T358	Claim 728 766	I don't think that's the problem today
+T360	Premise 768 800	We have low interest rates today
+T361	Premise 811 862	we have low interest rates that the Fed can control
+T362	Premise 915 937	because of our deficit
+T363	Premise 983 1219	there was a terrible reaction internationally to Mr. Bush saying he was going to give us 4 more years of trickle-down economics--another across-the- board tax cut and most of it going to the wealthy, with no real guarantee of investment
+T364	Claim 1225 1421	I think the important thing--the important thing-- is to use the powers the president does have on the assumption that, given the condition of this economy, we're going to keep interest rates down
+T366	Claim 1582 1671	I think Congress is hungry for someone who will work with them instead of manipulate them
+T367	Premise 1673 1823	Someone who will not veto a bill that has an investment tax credit, middle class tax relief, research and development tax credits as Mr. Bush has done
+T368	Claim 1854 1918	I don't have to worry in the near term about the Federal Reserve
+T369	Premise 1920 1975	Their policies so far, it seems to me, are pretty sound
+T370	Claim 2029 2093	I don't think the Fed ought to be put under the Executive Branch
+T371	Claim 2124 2143	I think that's fine
+T372	Premise 2145 2172	Alan Greenspan is respected
+T373	Premise 2174 2334	I've had some arguments with him about the speed in which we might have lowered interest rates, but Governor Clinton, he talks about the reaction to the markets
+T374	Premise 2336 2428	There was a momentary fear that he might win and that the markets went phwee, down like that
+T375	Claim 2433 2496	I don't think we can judge on, the stock market has been strong
+T376	Premise 2498 2545	It's been very strong since I've been president
+T377	Premise 2551 2591	they recognize we got great difficulties
+T378	Premise 2597 2674	they're also much more optimistic than the pessimists we have up here tonight
+T379	Claim 2726 2804	I am going to protect the American taxpayer against the spend and tax Congress
+T380	Claim 2810 2843	I'm going to keep on vetoing them
+T381	Premise 2853 2889	I don't think we're taxed too little
+T382	Premise 2891 2933	I think the government's spending too much
+T383	Claim 3007 3065	I'm going to protect the working man by continuing to veto
+T384	Claim 3071 3121	to threaten to veto until we get this new Congress
+T385	Claim 3127 3171	then we're going to move forward on our plan
+T386	Claim 3241 3277	Keep the Federal Reserve independent
+T387	Claim 3283 3315	let's live in a world of reality
+T388	Premise 3317 3368	We live in a global economy, not a national economy
+T389	Claim 3370 3423	These interest rates we have now don't make any sense
+T390	Premise 3425 3460	We have a four trillion dollar debt
+T391	Premise 3542 3594	So seventy percent of our debt is five years or less
+T392	Claim 3596 3624	It's very interest sensitive
+T393	Premise 3626 3742	We have a four percent gap between what we pay for treasuries, and what Germany pays for one to five year treasuries
+T394	Premise 3882 3905	they can get more money
+T395	Premise 3907 4014	Every time our interest rates go up one percent, that adds 28 billion dollars to the deficit or to the debt
+T396	Premise 4016 4042	Whichever place you put it
+T397	Claim 4044 4081	We are sitting on a ticking time bomb
+T398	Premise 4097 4135	we have totally mismanaged our country
+T399	Premise 4187 4276	think in your own business, if you had all of your long term problems financed short term
+T626	Claim 864 914	Our long-term interest rates are still pretty high
+T627	Premise 942 977	because of our economic performance
+T628	Premise 1422 1507	if we have the discipline to increase investment and reduce the debt at the same time
+T629	Premise 2095 2122	There is a separation there
+T630	Premise 3466 3540	only in America would you finance seventy percent of it five years or less
+T631	Claim 3744 3770	That gap is going to close
+T632	Claim 3780 3873	the Arabs, the Japanese and folks in this country are going to start buying German treasuries
+T633	Premise 4278 4303	You'd go broke in a hurry
+R1	Support Arg1:T360 Arg2:T358	
+R2	Support Arg1:T361 Arg2:T360	
+R3	Support Arg1:T362 Arg2:T626	
+R4	Support Arg1:T627 Arg2:T626	
+R5	Support Arg1:T363 Arg2:T358	
+R6	Support Arg1:T628 Arg2:T364	
+R9	Support Arg1:T369 Arg2:T368	
+R10	Support Arg1:T368 Arg2:T358	
+R11	Support Arg1:T629 Arg2:T370	
+R12	Support Arg1:T370 Arg2:T371	
+R13	Support Arg1:T373 Arg2:T372	
+R14	Support Arg1:T376 Arg2:T375	
+R15	Support Arg1:T381 Arg2:T380	
+R16	Support Arg1:T382 Arg2:T380	
+R17	Support Arg1:T383 Arg2:T380	
+R18	Support Arg1:T384 Arg2:T380	
+R19	Support Arg1:T388 Arg2:T387	
+R20	Equivalent Arg1:T391 Arg2:T630	
+R21	Support Arg1:T391 Arg2:T389	
+R22	Support Arg1:T390 Arg2:T389	
+R23	Support Arg1:T389 Arg2:T392	
+R24	Support Arg1:T393 Arg2:T631	
+R25	Support Arg1:T394 Arg2:T632	
+R26	Support Arg1:T396 Arg2:T397	
+R27	Support Arg1:T398 Arg2:T397	
+R28	Support Arg1:T399 Arg2:T633	
+R29	Support Arg1:T633 Arg2:T398	
+R30	Support Arg1:T626 Arg2:T358	
+R7	Attack Arg1:T366 Arg2:T367	
+R8	Support Arg1:T379 Arg2:T380	

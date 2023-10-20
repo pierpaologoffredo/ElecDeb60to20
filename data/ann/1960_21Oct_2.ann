@@ -1,0 +1,59 @@
+T146	Claim 825 1045	I think that Senator Kennedy's policies and recommendations for the handling of the Castro regime are probably the most dangers- dangerously irresponsible recommendations that he's made during the course of this campaign
+T147	Premise 1047 1244	In effect, what Senator Kennedy recommends is that the United States government should give help to the exiles and to those within Cuba who oppose the Castro regime - provided they are anti-Batista
+T149	Premise 1282 1548	We have five treaties with Latin America, including the one setting up the Organization of American States in Bogota in 1948, in which we have agreed not to intervene in the internal affairs of any other American country - and they as well have agreed to do likewise
+T150	Premise 1550 1724	The charter of the United Nations - its Preamble, Article I and Article II - also provide that there shall be no intervention by one nation in the internal affairs of another
+T151	Claim 1893 2086	if we were to follow that recommendation, that we would lose all of our friends in Latin America, we would probably be condemned in the United Nations, and we would not accomplish our objective
+T152	Premise 2111 2280	It would be an open invitation for Mr. Khrushchev to come in, to come into Latin America and to engage us in what would be a civil war, and possibly even worse than that
+T153	Premise 2282 2329	This is the major recommendation that he's made
+T154	Claim 2358 2394	we can do what we did with Guatemala
+T155	Premise 2396 2477	There was a Communist dictator that we inherited from the previous Administration
+T156	Premise 2479 2504	We quarantined Mr. Arbenz
+T157	Premise 2506 2600	The result was that the Guatemalan people themselves eventually rose up and they threw him out
+T158	Premise 2602 2638	We are quarantining Mr. Castro today
+T159	Premise 2640 2744	We're quarantining him diplomatically by bringing back our Ambassador; economically by cutting off trade
+T160	Claim 2750 2862	Senator Kennedy's suggestion that the trade that we cut off is not significant is just one hundred percent wrong
+T161	Premise 2864 2952	We are cutting off the significant items that the Cuban regime needs in order to survive
+T162	Claim 2954 3125	By cutting off trade, by cutting off our diplomatic relations as we have, we will quarantine this regime so that the people of Cuba themselves will take care of Mr. Castro
+T163	Claim 3131 3285	for us to do what Senator Kennedy has suggested would bring results which I know he would not want, and certainly which the American people would not want
+T164	Claim 3297 3340	Mr. Nixon uh - shows himself i- misinformed
+T165	Premise 3342 3541	He surely must be aware that most of the equipment and arms and resources for Castro came from the United States, flowed out of Florida and other parts of the United States to Castro in the mountains
+T166	Premise 3543 3575	There isn't any doubt about that
+T167	Claim 3601 3719	I believe that if any economic sanctions against Latin America are going to be successful they have to be multilateral
+T168	Claim 3721 3778	They have to include the other countries of Latin America
+T169	Premise 3780 3988	The very minute effect of the action which has been taken this week on Cuba's economy - I believe Castro can replace those markets very easily through Latin America, through Europe, and through Eastern Europe
+T170	Premise 3990 4194	If the United States had stronger prestige and influence in Latin America it could persuade - as Franklin Roosevelt did in 1940 - the countries of Latin America to join in an economic quarantine of Castro
+T171	Claim 4196 4273	That's the only way you can bring real economic pressure on the Castro regime
+T172	Claim 4362 4435	Castro is only the beginning of our difficulties throughout Latin America
+T173	Claim 4437 4561	The big struggle will be to prevent the influence of Castro spreading to other countries - Mexico, Panama, Bolivia, Colombia
+T174	Premise 4563 4784	We're going to have to try to provide closer ties, to associate ourselves with the great desire of these people for a better life if we're going to prevent Castro's influence from spreading throughout all of Latin America
+T175	Premise 4786 4930	His influence is strong enough today to prevent us from joi- getting the other countries of Latin America to join with us in economic quarantine
+T176	Claim 4932 4956	His influence is growing
+T177	Premise 4974 5019	this Administration has ignored Latin America
+T178	Premise 5021 5193	You yourself said, Mr. Vice President, a month ago, that if we had provided the kind of economic aid five years ago that we are now providing we might never have had Castro
+R2	Support Arg1:T152 Arg2:T146	
+R3	Support Arg1:T149 Arg2:T151	
+R4	Support Arg1:T150 Arg2:T151	
+R5	Support Arg1:T159 Arg2:T158	
+R6	Support Arg1:T157 Arg2:T154	
+R7	Support Arg1:T161 Arg2:T160	
+R8	Support Arg1:T156 Arg2:T162	
+R9	Support Arg1:T157 Arg2:T162	
+R11	Support Arg1:T166 Arg2:T165	
+R12	Support Arg1:T167 Arg2:T164	
+R13	Attack Arg1:T164 Arg2:T154	
+R14	Attack Arg1:T164 Arg2:T146	
+R15	Support Arg1:T165 Arg2:T164	
+R16	Support Arg1:T168 Arg2:T167	
+R17	Support Arg1:T169 Arg2:T168	
+R18	Support Arg1:T173 Arg2:T172	
+R19	Support Arg1:T175 Arg2:T173	
+R20	Support Arg1:T177 Arg2:T176	
+R21	Support Arg1:T178 Arg2:T177	
+R22	Support Arg1:T177 Arg2:T170	
+T1	Claim 792 823	Our policies are very different
+R23	Support Arg1:T146 Arg2:T1	
+R24	Support Arg1:T147 Arg2:T146	
+R1	Support Arg1:T151 Arg2:T146	
+R10	Support Arg1:T155 Arg2:T154	
+R25	Support Arg1:T158 Arg2:T154	
+R26	Attack Arg1:T176 Arg2:T173	

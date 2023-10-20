@@ -1,0 +1,67 @@
+T130	Claim 1201 1313	we also think banning the horrific practice of partial birth abortions is an area where there could be agreement
+T131	Claim 370 428	We want to reduce the incidence of abortion on our society
+T132	Premise 430 482	Many on the pro-choice side have said the same thing
+T133	Premise 484 564	Even Bill Clinton has advocated reducing abortion to make it as rare as possible
+T135	Claim 566 621;681 757	With respect to the question of RU-486, we believe that That really was a question of whether or not it was safe to be used by women
+T136	Premise 1315 1449	Congress has twice passed by overwhelming margins, a significant number of votes from both parties, the ban on partial birth abortions
+T137	Premise 1451 1501	Twice it's been vetoed by Bill Clinton and Al Gore
+T138	Claim 1503 1593	We would hope eventually they would recognize that's not a good position for them to be in
+T139	Claim 1718 1876	Governor Bush made it clear the other night he did not anticipate that he would be able to go in and direct the FDA to reverse course on that particular issue
+T140	Premise 1896 1996	the decision they made was on the drug, not the question of whether or not it would support abortion
+T142	Claim 2137 2269	I would not support legislation that is being introduced in Congress to override the Food and Drug Administration decision on RU-486
+T143	Premise 2271 2334	The administration, FDA worked 12 years on this serious problem
+T144	Claim 2920 3025	we believe that the government ought to do everything it can to reduce the number of unwanted pregnancies
+T145	Claim 2456 2501	I think it's a decision we ought to let stand
+T146	Premise 2510 2532	it was made by experts
+T147	Premise 2336 2398	They made a judgment based on what was good for women's health
+T148	Claim 2569 2687	the significant difference here on this issue is that Al Gore and I respect and will protect a woman's right to choose
+T149	Claim 2689 2711	Our opponents will not
+T150	Premise 2713 2776	We know that this is a difficult personal, moral, medical issue
+T151	Claim 2802 2870	it ought to be left under our law to a woman, her doctor and her God
+T152	Claim 3043 3066	the number of abortions
+T153	Claim 3117 3194	The number of abortions is actually down in America over the last eight years
+T154	Premise 3205 3280	over the last eight years the number of teenage pregnancies has dropped 20%
+T155	Claim 3297 3389	it has is that there are good programs out there that Al Gore and I will continue to support
+T156	Claim 3459 3542	when the health of a woman is involved, I think the government has to be respectful
+T157	Premise 3544 3701	I supported, in fact, a bill in the Senate that would have prohibited late-term abortions except in cases where the health or life of the mother was involved
+T158	Claim 3703 3762	I did not support the so-called partial birth abortion bill
+T159	Premise 3771 3908	it would have prohibited that form of abortion at any stage of the pregnancy regardless of the effect on the health and life of the woman
+T1	Question 47 171	Would you support the effort of House Republicans who want legislation to restrict distribution of the abortion drug RU-486?
+T2	Claim 265 368	Governor Bush and I have emphasized while, while we are clearly both pro-life, that  is what we believe
+R1	Support Arg1:T131 Arg2:T2	
+R2	Support Arg1:T133 Arg2:T132	
+T3	Premise 641 679	it's recently been approved by the FDA
+T4	Premise 759 916	They didn't address the sort of the question of whether or not there should or should not be abortion in the society so much as evaluate that particular drug
+T5	Claim 918 1107	What we would like to be able to do is to look for ways to reach across the divide between the two points of view and find things that we can do together to reduce the incidence of abortion
+T6	Premise 1109 1160	Such things as promoting adoption as an alternative
+R3	Support Arg1:T6 Arg2:T5	
+T7	Premise 1162 1195	Encouraging parental notification
+R4	Support Arg1:T7 Arg2:T5	
+R5	Support Arg1:T136 Arg2:T130	
+R6	Attack Arg1:T138 Arg2:T137	
+R7	Support Arg1:T140 Arg2:T139	
+R8	Attack Arg1:T135 Arg2:T133	
+R9	Support Arg1:T4 Arg2:T135	
+R10	Equivalent Arg1:T5 Arg2:T131	
+R11	Support Arg1:T130 Arg2:T131	
+R12	Support Arg1:T139 Arg2:T131	
+R13	Attack Arg1:T142 Arg2:T139	
+R14	Support Arg1:T143 Arg2:T142	
+R15	Support Arg1:T147 Arg2:T142	
+T8	Premise 2400 2454	A doctor has to pescribe and care for a woman using it
+R16	Support Arg1:T8 Arg2:T147	
+R17	Support Arg1:T146 Arg2:T145	
+R18	Support Arg1:T145 Arg2:T142	
+R20	Attack Arg1:T148 Arg2:T131	
+R19	Attack Arg1:T148 Arg2:T149	
+R21	Support Arg1:T150 Arg2:T151	
+R22	Support Arg1:T151 Arg2:T148	
+R23	Support Arg1:T154 Arg2:T153	
+R24	Support Arg1:T144 Arg2:T152	
+R25	Support Arg1:T153 Arg2:T155	
+T9	Premise 3391 3453	such as family planning and programs that encourage abstinence
+R26	Support Arg1:T9 Arg2:T155	
+R27	Support Arg1:T156 Arg2:T155	
+R28	Support Arg1:T157 Arg2:T156	
+R29	Support Arg1:T159 Arg2:T158	
+R30	Support Arg1:T158 Arg2:T130	

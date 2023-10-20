@@ -1,0 +1,68 @@
+T1	Claim 703 740	I don't think that's the right answer
+T2	Claim 742 792	I don't believe legalizing narcotics is the answer
+R1	Equivalent Arg1:T2 Arg2:T1	
+T3	Claim 794 832	I just don't believe that's the answer
+R2	Equivalent Arg1:T3 Arg2:T2	
+T4	Claim 834 891	I do believe that there's some fairly good news out there
+T5	Premise 893 959	The use of cocaine, for example, by teenagers is dramatically down
+T6	Claim 965 1017	we've got to keep fighting on this war against drugs
+T7	Claim 1019 1062	We're doing a little better in interdiction
+T8	Premise 1064 1265	Many of the countries below that used to say, well, this is the US' problem -- if you'd get the demand down, then we wouldn't have the problem -- are working cooperatively with the DEA and the military
+R3	Support Arg1:T8 Arg2:T7	
+T9	Premise 1267 1325	We're using the military more now in terms of interdiction
+R4	Support Arg1:T9 Arg2:T7	
+T10	Premise 1327 1381	Our funding for recovery is up, recovering the addicts
+R5	Support Arg1:T10 Arg2:T7	
+T11	Claim 1383 1462	Where we're not making the progress, Sander, is in we're making it in teenagers
+R6	Attack Arg1:T11 Arg2:T4	
+T12	Claim 1578 1633	where we're not making it is with the confirmed addicts
+R7	Attack Arg1:T12 Arg2:T4	
+T13	Claim 1635 1753	I'll tell you one place that's working well, and that is the private sector, Jim Burke and this task force that he has
+R8	Support Arg1:T13 Arg2:T4	
+T14	Premise 1778 2068	Tell the American people, but this man said, "I'll get you a million dollars a day in pro bono advertising," something that's very hard for the Government to do. He went out and he did it, and people are beginning to educate through this program, teaching these kids you shouldn't use drugs
+R9	Support Arg1:T14 Arg2:T13	
+T15	Claim 2073 2097	we're still in the fight
+T16	Claim 2120 2254	I think legalization of narcotics or something of that nature, in the face of the medical evidence, would be totally counterproductive
+T17	Claim 2260 2324	I oppose it, and I'm going to stand up and continue to oppose it
+R10	Support Arg1:T16 Arg2:T17	
+R11	Support Arg1:T5 Arg2:T4	
+R12	Support Arg1:T7 Arg2:T4	
+T18	Premise 2364 2568	Any time you think you want to legalize drugs, go to a neonatal unit, if you can get in. They are between 100 and 200 percent capacity up and down the East Coast, and the reason is crack babies being born
+T19	Premise 2570 2640	Baby's in the hospital 42 days; typical cost to you and me is $125,000
+T20	Premise 2642 2792	Again and again and again, the mother disappears in 3 days, and the child becomes a ward of the State because he's permanently and genetically damaged
+T21	Claim 2834 2899	if anybody can even think about legalizing drugs, they've lost me
+R13	Support Arg1:T20 Arg2:T21	
+R14	Support Arg1:T19 Arg2:T21	
+R15	Support Arg1:T18 Arg2:T21	
+T22	Premise 2932 3066	We went on the Libyan raid, you remember that one, because we were worried to death that Qadhafi might be building up chemical weapons
+T23	Premise 3068 3225	We've got chemical warfare being conducted against our children on the streets in this country all day, every day, and we don't have the will to stamp it out
+T24	Claim 3234 3316	if I get up there, if you send me, we're going to have some blunt talks about this
+R16	Support Arg1:T23 Arg2:T24	
+R17	Support Arg1:T22 Arg2:T24	
+T25	Premise 3451 3561	There are guys that couldn't get a job third shift in a Dairy Queen, driving BMW's and Mercedes, selling drugs
+T26	Premise 3318 3449	We're really going to get out in the trenches and say, "Is this one you want to talk about or fix?" Because talk won't do it, folks
+T27	Claim 3563 3604	These old boys are not going to quit easy
+R18	Support Arg1:T25 Arg2:T27	
+R20	Support Arg1:T26 Arg2:T27	
+T28	Claim 3710 3768	I know more about this, I think, than anybody else up here
+T29	Premise 3777 3824	I have a brother who's a recovering drug addict
+T30	Premise 3874 3928	If drugs were legal, I don't think he'd be alive today
+T31	Claim 3930 3972	I am adamantly opposed to legalizing drugs
+R19	Support Arg1:T30 Arg2:T31	
+T32	Premise 3974 4030	He is alive today because of the criminal justice system
+R21	Support Arg1:T32 Arg2:T31	
+T33	Claim 4233 4274	We need 100,000 more police on the street
+T34	Premise 4124 4231	Thirty years ago there were three policemen for every crime. Now there are three crimes for every policeman
+R22	Support Arg1:T34 Arg2:T33	
+T35	Claim 4276 4298	I have a plan for that
+T36	Claim 4300 4346	Secondly, we ought to have treatment on demand
+T37	Claim 4069 4122	First, we ought to prevent more of this on the street
+R24	Support Arg1:T33 Arg2:T37	
+R23	Support Arg1:T35 Arg2:T37	
+T38	Claim 4348 4420	Thirdly, we ought to have boot camps for first-time nonviolent offenders
+T39	Premise 4424 4609	they can get discipline and treatment and education and get reconnected to the community, before they are severed and sent to prison where they can learn how to be first-class criminals
+T40	Premise 4611 4788	There is a crime bill that, lamentably, was blocked from passage once again, mostly by Republicans in the United States Senate, which would have addressed some of these problems
+T41	Premise 4790 4884	That crime bill is going to be one of my highest priorities next January if I become President
+R25	Support Arg1:T41 Arg2:T38	
+R26	Support Arg1:T40 Arg2:T38	
+R27	Support Arg1:T39 Arg2:T38	

@@ -1,0 +1,118 @@
+T1	Claim 314 366	do we move forward with strength and with prosperity
+T2	Claim 370 416	do we go back to weakness, despair, disrespect
+T3	Premise 481 570	We've moved some of the power away from Washington, D.C., and put it back with the people
+T4	Premise 572 594	We're pulling together
+T5	Premise 596 650	The neighborhoods are safer 'cause crime is going down
+T6	Premise 652 702	Your sons and daughters are doing better in school
+T7	Premise 704 728	Test scores are going up
+T8	Claim 730 785	There's a new opportunity lying out there in the future
+T9	Premise 787 886	Science, technology and space offering opportunity that, to everybody, all the young ones coming up
+T10	Premise 892 933	abroad there's new leadership and respect
+T11	Claim 939 999	Ronald Reagan is clearly the strong leader of the free world
+T12	Premise 1030 1122	It's a joy to serve with a president who does not apologize for the United States of America
+T13	Premise 1124 1204	Mr. Mondale, on the other hand, has one idea. Go out and tax the American people
+T14	Premise 1215 1403	he wants to repeal indexing, to wipe out the one protection that those at the lowest end of the economic scale have protecting them against being rammed into higher and higher tax brackets
+T15	Premise 1525 1545	I started a business
+T16	Premise 1547 1674	I know what it is to have a dream and have a job and work hard to employ others and really to participate in the American dream
+T17	Premise 1882 1903	I did serve in combat
+T18	Claim 1794 1875	we want for you America's greatest gift. And that is opportunity. And then, peace
+T19	Premise 1905 1960	I was shot down when I was a young kid, scared to death
+T20	Premise 1966 2043	all that did, saw friends die, but that heightened my convictions about peace
+T21	Claim 2045 2147	It is absolutely essential that we guarantee the young people that they will not know the agony of war
+T22	Premise 2259 2322	The world is too complex to go back to vacillation and weakness
+T23	Claim 2229 2257	We must continue to go ahead
+T24	Premise 2324 2393	We've too much going on to go back to the failed policies of the past
+T25	Claim 2754 2842	Being the candidate for vice-president of my party is the greatest honor I have ever had
+T26	Claim 2848 3014	it's not only a personal achievement for Geraldine Ferraro - and certainly not only the bond that I feel as I go across this country with women throughout the country
+T27	Claim 3016 3185	I wouldn't be standing here if Fritz Mondale didn't have the courage and my party didn't stand for the values that it does - the values of fairness and equal opportunity
+T28	Claim 3187 3223	Those values make our country strong
+T29	Claim 3228 3316	the future of this country and how strong it will be is what this election is all about.
+T30	Premise 3317 3421	Over the last two months I've been traveling all over the country talking to the people about the future
+T31	Premise 3423 3474	I was in Kentucky and I spoke to the Dyhouse family
+T32	Premise 3476 3593	He works for a car dealer and he's worried about the deficits and how high interest rates are going to affect his job
+T33	Premise 3595 3725	Every place I go I see young parents with their children and they say to me what are we going to do to stop this nuclear arms race
+T34	Premise 3727 3967	I was in Dayton, Ohio, a week and a half ago and I sat with the Allen family who live next door to a toxic dump and they're very, very concerned about the fact that those toxics are seeping into the water that they and their neighbors drink
+T35	Premise 3973 4025	those people love this country and they're patriotic
+T36	Premise 4031 4127	it's not the patriotism that you're seeing in the commercials as you watch television these days
+T37	Premise 4129 4189	Their patriotism is not only a pride in the country as it is
+T38	Claim 4195 4277	a pride in this country that is strong enough to meet the challenges of the future
+T39	Premise 4279 4458	Do you know when we find jobs for the eight and a half million people who are unemployed in this country, you know we'll make our economy stronger and that will be a patriotic act
+T40	Claim 4460 4513	When we reduce the deficits and we cut interest rates
+T41	Claim 4519 4560	I know the president doesn't believe that
+T42	Premise 4576 4631	we cut those interest rates young people can buy houses
+T43	Premise 4633 4650	that's pro-family
+T44	Premise 4655 4683	that will be a patriotic act
+T45	Claim 4685 4713	When we educate our children
+T46	Premise 4727 4808	they're going to be able to compete in a world economy and that makes us stronger
+T47	Premise 4813 4835	that's a patriotic act
+T48	Claim 4837 4863	When we stop the arms race
+T49	Premise 4865 4898	we make this a safer, saner world
+T50	Premise 4904 4926	that's a patriotic act
+T51	Premise 4932 4974	when we keep the peace young men don't die
+T52	Premise 4980 5002	that's a patriotic act
+T53	Premise 5080 5232	hen Walter Mondale was attorney general of Minnesota, he led the fight for a man who could not afford to get justice because he couldn't afford a lawyer
+T54	Premise 5234 5398	when he was in the Senate he fought for child nutrition programs, he wrote the Fair Housing Act, he even investigated the concerns and the abuses of migrant workers
+T55	Premise 5424 5452	Those weren't popular causes
+T56	Premise 5454 5530	You know, no one had ever heard of Clarence Gideon, the man without a lawyer
+T57	Premise 5532 5612	Children don't vote and migrant workers exactly a powerful lobby in this country
+T58	Premise 5618 5627	he did it
+T59	Claim 5636 5648	it was right
+T60	Premise 5650 5751	Fritz Mondale has said that he would rather lose a battle for decency than win one over self-interest
+R1	Attack Arg1:T1 Arg2:T2	
+T61	Premise 418 479	Ronald Reagan and I have put our trust in the American people
+R2	Support Arg1:T61 Arg2:T3	
+R3	Support Arg1:T3 Arg2:T4	
+R4	Support Arg1:T4 Arg2:T5	
+R5	Support Arg1:T5 Arg2:T6	
+R6	Support Arg1:T6 Arg2:T7	
+R7	Support Arg1:T7 Arg2:T8	
+R8	Support Arg1:T9 Arg2:T8	
+R9	Support Arg1:T10 Arg2:T11	
+R10	Support Arg1:T8 Arg2:T11	
+R11	Attack Arg1:T12 Arg2:T13	
+T62	Claim 1405 1476	We just owe our country too much to go back to that kind of an approach
+R12	Attack Arg1:T62 Arg2:T14	
+R13	Support Arg1:T13 Arg2:T14	
+R14	Support Arg1:T15 Arg2:T16	
+R15	Support Arg1:T16 Arg2:T18	
+R16	Support Arg1:T17 Arg2:T19	
+R17	Support Arg1:T19 Arg2:T20	
+R18	Support Arg1:T20 Arg2:T21	
+R19	Support Arg1:T18 Arg2:T21	
+R20	Support Arg1:T22 Arg2:T23	
+R21	Support Arg1:T24 Arg2:T23	
+T63	Premise 2395 2448	The future is too bright not to give it our best shot
+T64	Claim 2450 2524	Together we can go forward and lift America up to meet her greatest dreams
+R22	Support Arg1:T63 Arg2:T64	
+R23	Support Arg1:T23 Arg2:T64	
+R24	Support Arg1:T25 Arg2:T26	
+R25	Support Arg1:T26 Arg2:T27	
+R26	Support Arg1:T27 Arg2:T28	
+R27	Support Arg1:T28 Arg2:T29	
+R28	Support Arg1:T30 Arg2:T31	
+R29	Support Arg1:T31 Arg2:T32	
+R30	Support Arg1:T33 Arg2:T34	
+R31	Support Arg1:T34 Arg2:T35	
+R32	Support Arg1:T32 Arg2:T35	
+R33	Attack Arg1:T35 Arg2:T36	
+R34	Support Arg1:T37 Arg2:T38	
+R35	Support Arg1:T39 Arg2:T38	
+R36	Attack Arg1:T40 Arg2:T41	
+R37	Support Arg1:T42 Arg2:T40	
+R38	Support Arg1:T43 Arg2:T42	
+R40	Support Arg1:T46 Arg2:T45	
+R41	Support Arg1:T47 Arg2:T46	
+R39	Support Arg1:T44 Arg2:T43	
+R42	Support Arg1:T49 Arg2:T48	
+R43	Support Arg1:T50 Arg2:T49	
+R44	Support Arg1:T52 Arg2:T51	
+R45	Support Arg1:T51 Arg2:T48	
+R46	Support Arg1:T53 Arg2:T54	
+R47	Support Arg1:T54 Arg2:T55	
+R48	Support Arg1:T55 Arg2:T56	
+R49	Support Arg1:T56 Arg2:T58	
+R50	Support Arg1:T57 Arg2:T58	
+R51	Support Arg1:T58 Arg2:T59	
+R52	Support Arg1:T60 Arg2:T59	
+T65	Premise 5753 5774	Now I agree with him.
+R53	Support Arg1:T65 Arg2:T60	

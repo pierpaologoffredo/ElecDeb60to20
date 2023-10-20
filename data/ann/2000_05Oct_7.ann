@@ -1,0 +1,71 @@
+T314	Claim 1891 1993	I don't think you can afford to have a man like Saddam Hussein with nuclear weapons in the Middle East
+T315	Claim 247 276	We might have no other choice
+T316	Claim 278 311	We'll have to see if that happens
+T317	Claim 1352 1450	We're in a situation today where our posture with Iraq is weaker than it was at the end of the war
+T318	Claim 1452 1468	It's unfortunate
+T319	Claim 1470 1598	I also think it's unfortunate we find ourselves in a position where we don't know for sure what might be transpiring inside Iraq
+T320	Premise 1680 1889	if in fact Saddam Hussein were taking steps to try to rebuild nuclear capability or weapons of mass destruction, you would have to give very serious consideration to military action to -- to stop that activity
+T321	Premise 1006 1117	Recently the United Arab Emirates and Bahrain, two Gulf States, have reopened diplomatic relations with Baghdad
+T322	Premise 1119 1254	The Russians and French are flying commercial airliners back into Baghdad and thumbing their nose at the international sanctions regime
+T323	Premise 1270 1348	U.N. inspectors have been kicked out and there  's been absolutely no response
+T325	Claim 629 859	it was able to do a good job of stripping out the capacity to build weapons of mass destruction, the work he had been doing that had not been destroyed during the war in biological and chemical agents, as well as a nuclear program
+T326	Premise 522 624	effective economic sanctions, and a very robust inspection regime was in place under the U.N. auspices
+T327	Premise 463 520	We had a strong international coalition raid against them
+T328	Premise 417 461	We had put them back in the box, so to speak
+T329	Claim 350 415	at the end of the war we had pretty well decimated their military
+T330	Claim 875 1004	now we find ourselves in a situation where that started to fray on us, where the coalition now no longer is tied tightly together
+T331	Claim 2288 2524	I think that's a matter of such critical national security importance that it ought to be left to the Commander in Chief, leaders of the military, Secretary of State to make that kind of decision without the heat of a political campaign
+T332	Claim 2187 2286	I don't think a political campaign is the occasion to declare exactly what we would do in that case
+T333	Claim 3387 3476	I have kept in touch with the indigenous Iraqi opposition, broad based, to Saddam Hussein
+T334	Claim 3309 3382	I was proud to co-sponsor the Iraq Liberation Act with Senator Trent Lott
+T335	Premise 2023 2071	It would, of course, be a very serious situation
+T336	Premise 2072 2173	if we had evidence, credible evidence, that Saddam Hussein was developing weapons of mass destruction
+T337	Claim 2543 2623	we will not enjoy real stability in the Middle East until Saddam Hussein is gone
+T338	Premise 2625 2657	The Gulf War was a great victory
+T339	Premise 2677 2817	Al Gore and I were two of the ten Democrats in the Senate who crossed party lines to support President Bush and Secretary Cheney in that war
+T340	Premise 2819 2852	We're both very proud we did that
+T341	Claim 2859 2899	the war did not end with a total victory
+T342	Premise 2901 2930	Saddam Hussein remained there
+T343	Premise 2945 2992	we have had almost ten years now of instability
+T344	Premise 2994 3087	We have continued to operate almost all of this time military action to enforce a no-fly zone
+T345	Premise 3089 3145	We have been struggling with Saddam about the inspectors
+T346	Premise 3147 3232	We ought to do, and we're doing everything we can to get the inspectors back in there
+T347	Claim 3238 3292	in the end there's not going to be peace until he goes
+T348	Premise 3478 3528	The Vice President met with them earlier this year
+T350	Claim 3721 3787	We'll welcome you back into the family of nations where you belong
+T1	Question 47 237	If Iraq's president Saddam Hussein were found to be developing weapons of mass destruction, Governor Bush has said he would, quote, "Take him out." Would you agree with such a deadly policy?
+R1	Support Arg1:T326 Arg2:T325
+R3	Support Arg1:T328 Arg2:T329
+R4	Support Arg1:T327 Arg2:T329
+R2	Support Arg1:T321 Arg2:T330
+R6	Support Arg1:T322 Arg2:T330
+R7	Attack Arg1:T330 Arg2:T327
+R8	Attack Arg1:T322 Arg2:T326
+R9	Support Arg1:T323 Arg2:T317
+R10	Support Arg1:T317 Arg2:T315
+R5	Support Arg1:T325 Arg2:T329
+R12	Support Arg1:T318 Arg2:T317
+R13	Support Arg1:T319 Arg2:T315
+R14	Support Arg1:T320 Arg2:T314
+R11	Support Arg1:T314 Arg2:T315
+R15	Support Arg1:T316 Arg2:T315
+R16	Support Arg1:T331 Arg2:T332
+R17	Support Arg1:T335 Arg2:T332
+R18	Support Arg1:T336 Arg2:T332
+R19	Support Arg1:T339 Arg2:T338
+R20	Support Arg1:T340 Arg2:T339
+R21	Attack Arg1:T341 Arg2:T338
+R22	Support Arg1:T337 Arg2:T341
+R23	Support Arg1:T342 Arg2:T341
+R24	Support Arg1:T343 Arg2:T341
+R25	Support Arg1:T344 Arg2:T341
+R26	Support Arg1:T345 Arg2:T341
+R27	Support Arg1:T346 Arg2:T345
+R28	Support Arg1:T347 Arg2:T341
+R34	Support Arg1:T348 Arg2:T333
+T2	Claim 3530 3719	We are supporting them in their efforts and will continue to support them until the Iraqi people rise up and do what the people of Serbia have done in the last few days, get rid of a despot
+R31	Support Arg1:T350 Arg2:T2	
+R32	Support Arg1:T333 Arg2:T2	
+R29	Support Arg1:T2 Arg2:T347	
+R33	Support Arg1:T334 Arg2:T333	
+R30	Support Arg1:T337 Arg2:T314	

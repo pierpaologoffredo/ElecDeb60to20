@@ -1,0 +1,86 @@
+T220	Claim 1353 1430	it seems to me what we need to do is to talk about not only tobacco but drugs
+T221	Premise 1440 1534	drug use between 12- and 17-year-olds has doubled in this administration in the last 44 months
+T222	Premise 1536 1566	Marijuana use is up 141percent
+T223	Premise 1568 1594	Cocaine use up 160 percent
+T224	Claim 1615 1656	It's all happening in this administration
+T225	Premise 1665 1707	they cut funding and they cut interdiction
+T226	Premise 1596 1613	They're your kids
+T227	Premise 550 635	the first vote we had was whether or not you should put a little notice on cigarettes
+T228	Premise 659 699	I voted I for everything since that time
+T229	Premise 701 816	In fact, 1992 we had a bill come before us that all the states had to comply or they're going to lose certain money
+T230	Claim 818 877	We sent it to the Clinton Administration for implementation
+T231	Claim 883 917	they waited three and a half years
+T232	Claim 923 990	during that period about 3,000 young kids every day started smoking
+T233	Premise 1010 1036	That's about three million
+T234	Premise 1038 1094	Not until again in 1996 -- I don't want anybody to smoke
+T235	Premise 1096 1149	My brother probably died partly because of cigarettes
+T236	Claim 1709 1862	When I'm President of the United States, we're going to use the National Guard and whatever sources we need to stop some of the drugs coming into America
+T237	Claim 1864 1919	If you stop the drugs, nobody is going to use the drugs
+T238	Claim 1921 1965	so don't smoke, don't drink, don't use drugs
+T239	Premise 2002 2164	the question of what the federal government should do to limit the access of tobacco to young people is one of the biggest differences between Senator Dole and me
+T240	Claim 2166 2256	We did propose a regulation six months after I became President under the law he mentioned
+T241	Claim 2258 2329	It simply says all these states -- it made it illegal for kids to smoke
+T242	Premise 2335 2401	they have to try harder if they want to keep getting federal funds
+T243	Premise 2553 2786	we started the -- also in '93 to look into whether cigarettes were addictive enough for the Federal Food and Drug Administration to ban the ability of cigarette companies to advertise, market and distribute their products to our kids
+T244	Claim 2788 2843	No president had ever taken on the tobacco lobby before
+T245	Claim 2845 2850	I did
+T246	Claim 2852 2875	Senator Dole opposed me
+T247	Premise 2877 2972	He went down and made a speech to people who were on his side saying that I did the wrong thing
+T248	Claim 2974 3003	I think I did the right thing
+T249	Claim 3005 3082	On drugs, I have repeatedly said drugs are wrong and illegal and can kill you
+T250	Premise 3084 3116	We have strengthened enforcement
+T251	Premise 3122 3188	everybody in San Diego knows we strengthened control of the border
+T252	Premise 3190 3213	We have done a lot more
+T253	Premise 3219 3258	I hope we get a chance to talk about it
+T254	Claim 3273 3406	they also know if they live in San Diego, Mr. President, if you're caught with 125 pounds of marijuana or less, you go back to Mexico
+T255	Premise 3408 3429	You're not prosecuted
+T256	Claim 3431 3521	You have a U.S. attorney here that sends `em back home, so I think that's pretty important
+T257	Claim 3620 3720	The President in the election year decided I ought to do something, I haven't done anything on drugs
+T258	Premise 3523 3548	That's a lot of marijuana
+T259	Premise 3550 3569	That's a big supply
+T260	Premise 3722 3750	I've been AWOL for 44 months
+T261	Premise 3782 3807	they haven't even done it
+T262	Claim 3979 4012	Nobody should smoke, young or old
+T263	Claim 4018 4060	particularly young people should not smoke
+T264	Claim 4066 4084	my record is there
+T265	Claim 4086 4101	It's been there
+T266	Claim 4103 4141	I've voted eight, ten times since 1965
+T267	Premise 3809 3849	They haven't said what's going to happen
+T268	Premise 3851 3902	whether they're going to have it declared addictive
+T269	Premise 3904 3977	Once it's a drug, does it apply only to teenagers or everybody in America
+R1	Support Arg1:T229 Arg2:T230	
+R2	Support Arg1:T231 Arg2:T230	
+R3	Support Arg1:T227 Arg2:T228	
+R4	Support Arg1:T233 Arg2:T232	
+R5	Support Arg1:T235 Arg2:T234	
+R6	Support Arg1:T221 Arg2:T220	
+R7	Support Arg1:T222 Arg2:T220	
+R8	Support Arg1:T223 Arg2:T220	
+R9	Support Arg1:T226 Arg2:T220	
+R10	Support Arg1:T225 Arg2:T224	
+R11	Support Arg1:T237 Arg2:T238	
+R12	Support Arg1:T224 Arg2:T220	
+R13	Support Arg1:T239 Arg2:T240	
+R14	Support Arg1:T241 Arg2:T240	
+R15	Support Arg1:T243 Arg2:T244	
+R16	Support Arg1:T244 Arg2:T245	
+R17	Attack Arg1:T246 Arg2:T234	
+R18	Support Arg1:T247 Arg2:T246	
+R19	Support Arg1:T248 Arg2:T245	
+R20	Support Arg1:T250 Arg2:T249	
+R21	Support Arg1:T251 Arg2:T249	
+R22	Support Arg1:T252 Arg2:T249	
+R23	Support Arg1:T253 Arg2:T249	
+R24	Support Arg1:T255 Arg2:T254	
+R25	Support Arg1:T258 Arg2:T256	
+*	Equivalent T259 T258
+R26	Support Arg1:T261 Arg2:T257	
+R27	Support Arg1:T260 Arg2:T257	
+R28	Support Arg1:T268 Arg2:T267	
+R29	Support Arg1:T267 Arg2:T257	
+R30	Support Arg1:T269 Arg2:T267	
+R31	Support Arg1:T265 Arg2:T264	
+R32	Support Arg1:T266 Arg2:T264	
+R33	Support Arg1:T263 Arg2:T264	
+R34	Support Arg1:T262 Arg2:T264	
+R35	Attack Arg1:T254 Arg2:T250	

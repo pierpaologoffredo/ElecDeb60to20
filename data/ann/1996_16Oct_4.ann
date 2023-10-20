@@ -1,0 +1,73 @@
+T131	Claim 1024 1079	I think anybody who wears a uniform is a great American
+T132	Claim 354 433	we have 17,000 men and women today wearing our uniform that receive food stamps
+T133	Claim 435 465	It shouldn't happen in America
+T134	Claim 467 531	We have men and women wearing our uniform in substandard housing
+T136	Claim 569 611	it's time we take a look at the pay scales
+T137	Premise 613 651	Did get a 3 percent increase this year
+T138	Claim 657 674	that's not enough
+T139	Premise 676 768	If we're going to ask young men and young women to protect us and defend us around the world
+T140	Premise 774 851	we've had more deployments under this administration than any time in history
+T141	Premise 853 900	Fifty times we deployed troops around the world
+T142	Premise 902 940	Every time you do that you take a risk
+T143	Premise 962 1018	maybe your son, maybe your grandson, maybe somebody else
+T144	Premise 1081 1097	Remember Vietnam
+T145	Premise 1099 1217	Remember when people almost used to walk across the street rather than have a contact with somebody who was in Vietnam
+T146	Claim 1219 1243	That's all behind us now
+T147	Claim 1249 1271	it should be behind us
+T148	Claim 1516 1545	I'm in the United States Navy
+T149	Claim 1618 1642	I have an Amway business
+T150	Claim 1712 1913	I just signed a bill that we got through Congress to increase the amount of pay increase we could give for military personnel and to make sure the pay increase this year was above the rate of inflation
+T151	Claim 1915 2012	I also presented to the Congress and they adopted a large package of quality-of-life improvements
+T152	Claim 2551 2628	this is a commitment I think that all Americans share without regard to party
+T153	Premise 2040 2179	I spent a lot of time talking to military families as well as military members all over the world and in bases all across the United States
+T154	Premise 2185 2308	I became convinced after talking to the families and the personnel in uniform that we needed to not only have the pay raise
+T155	Premise 2313 2486	we needed to invest more in child care, housing, and other things to support families, especially when there are longer deployments because of the downsizing of the military
+T156	Premise 2494 2518	we're going to do better
+T157	Claim 2524 2545	we'll do better still
+T158	Premise 2637 2739	I don't disagree with anything that the President said, except he waited four years to do these things
+T159	Claim 2745 2796	my view is it ought to be, it will be done on Day 1
+T160	Claim 2798 2859	We'll start working on Day 1 in the Dole- Kemp administration
+T161	Premise 2880 2910	We only have ten divisions now
+T162	Premise 2912 2930	We used to have 18
+T163	Premise 2932 2955	We had 25 fighter wings
+T164	Premise 2957 2973	We're down to 13
+T165	Premise 2975 2991	We had 536 ships
+T166	Premise 2993 3016	We're down to 336 ships
+T167	Claim 3020 3080	mean, we've cut defense spending too much in the first place
+T168	Premise 3082 3138	The President told you in '92 he would cut it 67 billion
+T169	Premise 3140 3166	He cut 112 billion dollars
+T170	Claim 3171 3204	we're right on the edge right now
+T171	Claim 3225 3285	we ought to do is make those who wear the uniforms sacrifice
+T1	Claim 533 563	It shouldn't happen in America
+R1	Support Arg1:T132 Arg2:T133	
+R2	Support Arg1:T134 Arg2:T1	
+*	Equivalent T1 T133
+R3	Support Arg1:T1 Arg2:T136	
+R4	Support Arg1:T137 Arg2:T138	
+R5	Support Arg1:T138 Arg2:T136	
+R6	Support Arg1:T140 Arg2:T139	
+R7	Support Arg1:T141 Arg2:T140	
+R8	Support Arg1:T139 Arg2:T142	
+R9	Support Arg1:T143 Arg2:T142	
+R10	Support Arg1:T145 Arg2:T144	
+R11	Support Arg1:T144 Arg2:T146	
+R12	Support Arg1:T147 Arg2:T146	
+R13	Support Arg1:T139 Arg2:T136	
+R14	Support Arg1:T153 Arg2:T151	
+R15	Support Arg1:T154 Arg2:T153	
+R16	Support Arg1:T155 Arg2:T154	
+R17	Support Arg1:T156 Arg2:T157	
+R18	Support Arg1:T152 Arg2:T157	
+R19	Support Arg1:T158 Arg2:T159	
+R20	Support Arg1:T159 Arg2:T160	
+R21	Support Arg1:T161 Arg2:T162	
+R22	Support Arg1:T163 Arg2:T164	
+R23	Support Arg1:T165 Arg2:T166	
+R24	Support Arg1:T166 Arg2:T167	
+R25	Support Arg1:T164 Arg2:T167	
+R26	Support Arg1:T162 Arg2:T167	
+R27	Support Arg1:T168 Arg2:T169	
+R28	Support Arg1:T169 Arg2:T167	
+R29	Support Arg1:T167 Arg2:T171	
+R30	Support Arg1:T170 Arg2:T171	
+R31	Support Arg1:T171 Arg2:T136	

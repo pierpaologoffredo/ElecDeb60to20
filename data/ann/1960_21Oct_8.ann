@@ -1,0 +1,73 @@
+T359	Claim 571 698	the issue will stay with us as a campaign issue just as long as Senator Kennedy persists in what I think is a fundamental error
+T360	Premise 700 744	He says he supports the President's position
+T361	Premise 746 786	He says that he voted for the resolution
+T362	Premise 821 973	he voted for the resolution in 1955 which gave the president the power to use the forces of the United States to defend Formosa and the offshore islands
+T363	Premise 979 1228	he also voted then for an amendment - which was lost, fortunately - an amendment which would have drawn a line and left out those islands and denied the p- right to the president to defend those islands if he thought that it was an attack on Formosa
+T364	Premise 1230 1288	He repeated that error in 1959, in the speech that he made
+T365	Premise 1290 1345	He repeated it again in a television debate that we had
+T366	Claim 1370 1415	Senator Kennedy has got to be consistent here
+T367	Premise 1417 1744	Either he's for the President and he's against the position that those who opposed the President in fifty-five and fifty-nine - and the Senator's position itself, stated the other day in our debate - either he is for the President and against that position or we simply have a disagreement here that must continue to be debated
+T368	Claim 1750 2138	if the Senator in his answer to this question will say "I now will depart, or retract my previous views; I think I was wrong in I 955; I think I was wrong in 1959; and I think I was wrong in our television debate to say that we should draw a line leaving out Quemoy and Matsu - draw a line in effect abandoning these islands to the Communists;" then this will be right out of the campaign
+T369	Premise 2147 2180	there will be no issue between us
+T370	Premise 2182 2216	I support the President's position
+T371	Claim 2218 2254	I have always opposed drawing a line
+T372	Claim 2256 2285	I have opposed drawing a line
+T373	Premise 2294 2467	I know that the moment you draw a line, that is an encouragement for the Communists to attack - to step up their blackmail and to force you into the war that none of us want
+T374	Premise 2476 2547	I would hope that Senator Kennedy in his answer today would clear it up
+T375	Claim 2549 2650	It isn't enough for him to say "I support the President's position, that I voted for the resolution."
+T376	Premise 2651 2718	Of course, he voted for the resolution - it was virtually unanimous
+T377	Premise 2738 2882	what about his error in voting for the amendment, which was not adopted, and then persisting in it in fifty-nine, persisting in it in the debate
+T378	Premise 2884 2923	It's very simple for him to clear it up
+T379	Premise 2925 3048	He can say now that he no longer believes that a line should be drawn leaving these islands out of the perimeter of defense
+T380	Claim 3050 3115	If he says that, this issue will not be discussed in the campaign
+T381	Claim 4541 4555	I support that
+T382	Premise 3202 3370	The resolution commits the president in the United States, which I supported, to defend uh - Formosa, the Pescadores, and if it was his military judgment, these islands
+T383	Premise 3372 3569	Then the President sent a mission, composed of Admiral Radford and Mr. Robertson, to persuade Chiang Kai-shek in the spring of fifty-five to withdraw from the two islands, because they were exposed
+T384	Premise 3571 3601	The President was unsuccessful
+T385	Premise 3603 3637	Chiang Kai-shek would not withdraw
+T386	Premise 3639 3855	I refer to the fact that in 1958, as a member of the Senate Foreign Relations Committee, I'm very familiar with the position that the United States took in negotiating with the Chinese Communists on these two islands
+T387	Premise 3857 3941	General Twining, in January, fifty-nine, described the position of the United States
+T388	Claim 3943 4053	The position of the United States has been that this build-up, in the words of the president, has been foolish
+T389	Premise 4055 4105	Mr. Herter has said these islands are indefensible
+T390	Premise 4107 4140	Chiang Kai-shek will not withdraw
+T391	Premise 4150 4170	he will not withdraw
+T392	Premise 4180 4211	he's committed to these islands
+T393	Premise 4221 4266	we've been unable to persuade him to withdraw
+T394	Claim 4268 4303	we are in a very difficult position
+T395	Premise 4320 4539	the President's judgment has been that we should defend the islands if, in his military judgment and the judgment of the commander in the field, the attack on these islands should be part of an overall attack on Formosa
+T396	Claim 4557 4722	In view of the difficulties we've had with the islands, in view of the difficulties and disputes we've had with Chiang Kai-shek, that's the only position we can take
+T397	Claim 4724 4756	That's not the position you took
+T398	Premise 4767 4932	The first position you took, when this matter first came up, was that we should draw the line and commit ourselves, as a matter of principle, to defend these islands
+T399	Premise 4934 4990	Not as part of the defense of Formosa and the Pescadores
+T400	Premise 4992 5135	You showed no recognition of the Administration program to try to persuade Chiang Kai-shek for the last five years to withdraw from the islands
+R1	Support Arg1:T362 Arg2:T366	
+R2	Support Arg1:T363 Arg2:T366	
+R3	Support Arg1:T366 Arg2:T359	
+R4	Support Arg1:T361 Arg2:T360	
+R5	Equivalent Arg1:T372 Arg2:T371	
+R6	Support Arg1:T373 Arg2:T372	
+R7	Support Arg1:T376 Arg2:T375	
+R8	Support Arg1:T367 Arg2:T366	
+R9	Support Arg1:T379 Arg2:T378	
+R10	Support Arg1:T385 Arg2:T384	
+R11	Support Arg1:T382 Arg2:T362	
+R12	Equivalent Arg1:T390 Arg2:T385	
+R13	Support Arg1:T391 Arg2:T394	
+R14	Support Arg1:T392 Arg2:T394	
+R15	Support Arg1:T393 Arg2:T394	
+R16	Support Arg1:T389 Arg2:T394	
+R17	Support Arg1:T388 Arg2:T394	
+R18	Support Arg1:T398 Arg2:T397	
+R19	Support Arg1:T396 Arg2:T381	
+R20	Support Arg1:T394 Arg2:T395	
+R21	Support Arg1:T399 Arg2:T397	
+R22	Support Arg1:T400 Arg2:T397	
+R23	Attack Arg1:T397 Arg2:T371	
+R24	Support Arg1:T364 Arg2:T366	
+R25	Support Arg1:T365 Arg2:T366	
+R26	Support Arg1:T370 Arg2:T371	
+R27	Support Arg1:T374 Arg2:T375	
+R28	Support Arg1:T378 Arg2:T374	
+R29	Support Arg1:T374 Arg2:T366	
+R30	Support Arg1:T386 Arg2:T385	
+R31	Equivalent Arg1:T391 Arg2:T390	

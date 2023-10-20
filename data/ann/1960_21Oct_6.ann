@@ -1,0 +1,46 @@
+T289	Premise 429 496	the conditions I laid out in one of our previous television debates
+T290	Premise 502 558	it's rather difficult to be much more specific than that
+T291	Claim 579 639	we have to have adequate preparation for a summit conference
+T292	Premise 641 714	This means at the secretary of state level and at the ambassadorial level
+T293	Premise 716 863	By adequate preparation I mean that at that level we must prepare an agenda, an agenda agreed upon with the approval of the heads of state involved
+T294	Claim 869 975	this agenda should delineate those issues on which there is a possibility of some agreement or negotiation
+T295	Claim 977 1182	I don't believe we should go to a summit conference unless we have such an agenda, unless we have some reasonable insur- assurance from Mr. Khrushchev that he intends seriously to negotiate on those points
+T296	Claim 1189 1235	his may seem like a rigid, inflexible position
+T298	Claim 1283 1544	If we build up the hopes of the world by having a summit conference that is not adequately prepared, and then, if Mr. Khrushchev finds some excuse for breaking it up - as he did this one - because he isn't going to get his way - we'd set back the cause of peace
+T299	Claim 1546 1563	We do not help it
+T300	Premise 1565 1671	We can, in other words, negotiate many of these items of difference between us without going to the summit
+T301	Claim 1673 1840	I think we have to make a greater effort than we have been making at the secretary of state level, at the ambassadorial level, to work out the differences that we have
+T302	Claim 1846 2166	so far as the summit conference is concerned, it should only be entered in upon, it should only be agreed upon, if the negotiations have reached the point that we have some reasonable assurance that something is going to come out of it, other than some phony spirit - a spirit of Geneva, or Camp David, or whatever it is
+T304	Premise 2269 2334	the Soviet Union simply doesn't intend to carry out what they say
+T303	Claim 2386 2420	I cannot be more precise than that
+T305	Premise 2430 2531	until we see what Mr. Khrushchev does and what he says uh - we cannot indicate what our plans will be
+T306	Premise 2587 2799	I think the president of the United States last winter indicated that before he'd go to the summit in May he did last fall, he indicated that there should be some agenda, that there should be some prior agreement
+T307	Premise 2801 2876	He hoped that there would be uh - b- be an agreement in part in disarmament
+T308	Premise 2878 2979	He also expressed the hope that there should be some understanding of the general situation in Berlin
+T309	Premise 2981 3071	The Soviet Union refused to agree to that, and we went to the summit and it was disastrous
+T310	Claim 3073 3273	I believe we should not go to the summit until there is some reason to believe that a meeting of minds can be obtained on either Berlin, outer space, or general disarmament - including nuclear testing
+T311	Claim 3288 3404	I believe the next president in January and February should go to work in building the strength of the United States
+T312	Premise 3406 3447	The Soviet Union does understand strength
+T313	Premise 3449 3503	We arm to parley, Winston Churchill said ten years ago
+T314	Premise 3505 3819	If we are strong, particularly as we face a crisis over Berlin - which we may in the spring, or in the winter - it's important that we maintain our determination here; that we indicate that we're building our strength; that we are determined to protect our position; that we're determined to protect our commitment
+T315	Claim 3830 3901	I believe we should indicate our desire to live at peace with the world
+T316	Claim 3907 3999	until we're strong here, until we're moving here, I believe a summit could not be successful
+T317	Premise 4001 4174	I hope that before we do meet, there will be preliminary agreements on those four questions, or at least two of them, or even one of them, which would warrant such a meeting
+T318	Claim 4176 4276	I think if we had stuck by that position last winter, we would have been in a better position in May
+R1	Support Arg1:T298 Arg2:T295	
+R2	Support Arg1:T299 Arg2:T298	
+R3	Support Arg1:T304 Arg2:T302	
+R4	Support Arg1:T305 Arg2:T303	
+R6	Support Arg1:T308 Arg2:T310	
+R5	Support Arg1:T309 Arg2:T310	
+R7	Support Arg1:T312 Arg2:T311	
+R8	Support Arg1:T313 Arg2:T311	
+R10	Support Arg1:T316 Arg2:T302	
+R11	Support Arg1:T314 Arg2:T315	
+R12	Support Arg1:T300 Arg2:T295	
+R13	Support Arg1:T298 Arg2:T301	
+R14	Attack Arg1:T296 Arg2:T295	
+R15	Attack Arg1:T298 Arg2:T296	
+R9	Support Arg1:T316 Arg2:T311	
+R16	Support Arg1:T317 Arg2:T318	
+R17	Support Arg1:T318 Arg2:T311	

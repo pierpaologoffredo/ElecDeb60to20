@@ -1,0 +1,108 @@
+T977	Claim 1081 1102	I think they're right
+T978	Claim 889 1071	on the big questions, about whether or not we should have gone into Afghanistan, the big question about whether we should have removed somebody in Iraq, I'll stand by those decisions
+T979	Claim 1844 1885	I made some mistakes in appointing people
+T980	Claim 2023 2105	I'm fully prepared to accept any mistakes that history judges to my administration
+T981	Premise 2115 2148	the president makes the decisions
+T982	Premise 2150 2194	the president has to take the responsibility
+T983	Claim 838 871	I'll take responsibility for them
+T984	Premise 639 655	some of them big
+T985	Premise 566 633	some of them little, like appointments to boards you never heard of
+T986	Premise 530 560	I have made a lot of decisions
+T987	Premise 661 794	in a war, there's a lot of -- there's a lot of tactical decisions that historians will look back and say: He shouldn't have done that
+T988	Premise 796 832	He shouldn't have made that decision
+T989	Premise 873 882	I'm human
+T990	Claim 1305 1330	It was the right decision
+T991	Premise 1333 1381	The Duelfer report confirmed that decision today
+T992	Premise 1391 1498	what Saddam Hussein was doing was trying to get rid of sanctions so he could reconstitute a weapons program
+T993	Claim 1504 1584	the biggest threat facing America is terrorists with weapons of mass destruction
+T994	Premise 1587 1606	We knew he hated us
+T995	Premise 1608 1652	We knew he'd been -- invaded other countries
+T996	Premise 1654 1688	We knew he tortured his own people
+T997	Claim 1728 1752	I did the right decision
+T998	Premise 1691 1726	On the tax cut, it's a big decision
+T999	Premise 1754 1811	Our recession was one of the shallowest in modern history
+T1000	Claim 2249 2514	I believe the president made a huge mistake, a catastrophic mistake, not to live up to his own standard, which was: build a true global coalition, give the inspectors time to finish their job and go through the U.N. process to its end and go to war as a last resort
+T1001	Premise 2650 2720	The president rushed our nation to war without a plan to win the peace
+T1002	Premise 2726 2752	simple things weren't done
+T1003	Premise 2755 2825	That's why Senator Lugar says: incompetent in the delivery of services
+T1004	Premise 2827 2942	That's why Senator Hagel, Republican, says, you know: beyond pitiful, beyond embarrassing, in the zone of dangerous
+T1005	Premise 2945 2981	We didn't guard 850,000 tons of ammo
+T1006	Premise 2983 3027	That ammo is now being used against our kids
+T1007	Premise 3029 3078	Ten thousand out of 12,000 Humvees aren't armored
+T1008	Premise 3080 3182	I visited some of those kids with no limbs today, because they didn't have the armor on those vehicles
+T1009	Premise 3184 3221	They didn't have the right body armor
+T1010	Premise 3224 3299	I've met parents who've on the Internet gotten the armor to send their kids
+T1011	Claim 3302 3400	There is no bigger judgment for a president of the United states than how you take a nation to war
+T1012	Claim 3406 3489	you can't say, because Saddam might have done it 10 years from now, that's a reason
+T1013	Claim 3491 3507	that's an excuse
+T1014	Claim 4008 4084	Saddam would still be in power if he were the president of the United States
+T1015	Premise 3541 3683	He complains about the fact our troops don't have adequate equipment, yet he voted against the $87 billion supplemental I sent to the Congress
+T1016	Premise 3688 3821	then issued one of the most amazing quotes in political history: "I actually did vote for the $87 billion before I voted against it."
+T1017	Claim 3822 3862	Saddam Hussein was a risk to our country
+T1018	Claim 4256 4299	I made a mistake in the way I talk about it
+T1019	Claim 4301 4335	He made a mistake in invading Iraq
+T1020	Claim 4370 4464	I voted the way I voted because I saw that he had the policy wrong and I wanted accountability
+T1021	Premise 4466 4515	I didn't want to give a slush fund to Halliburton
+T1022	Claim 4517 4584	I also thought the wealthiest people in America ought to pay for it
+T1023	Claim 4608 4640	He wants your kids to pay for it
+T1024	Claim 4642 4667	I wanted us to pay for it
+T1025	Premise 4675 4687	we're at war
+T1026	Claim 4689 4724	I don't think that's a bad decision
+R1	Support Arg1:T986 Arg2:T985	
+R2	Support Arg1:T985 Arg2:T984	
+R3	Support Arg1:T984 Arg2:T987	
+R4	Support Arg1:T988 Arg2:T987	
+R6	Support Arg1:T989 Arg2:T983	
+R7	Support Arg1:T977 Arg2:T978	
+R5	Support Arg1:T987 Arg2:T983	
+R8	Attack Arg1:T978 Arg2:T987	
+T1	Premise 1224 1304	, "Did you make a mistake going into Iraq?" And the answer is, "Absolutely not."
+R9	Support Arg1:T990 Arg2:T1	
+R10	Support Arg1:T1 Arg2:T978	
+R11	Support Arg1:T992 Arg2:T991	
+R12	Support Arg1:T993 Arg2:T992	
+R13	Support Arg1:T994 Arg2:T995	
+R14	Support Arg1:T995 Arg2:T996	
+R15	Support Arg1:T996 Arg2:T1	
+R16	Support Arg1:T991 Arg2:T990	
+R17	Support Arg1:T998 Arg2:T997	
+R18	Support Arg1:T999 Arg2:T997	
+R19	Support Arg1:T983 Arg2:T980	
+R20	Support Arg1:T981 Arg2:T980	
+R21	Support Arg1:T982 Arg2:T980	
+T2	Premise 2602 2648	Was this really going to war as a last resort?
+R22	Attack Arg1:T1000 Arg2:T980	
+R23	Support Arg1:T2 Arg2:T1001	
+R24	Support Arg1:T1001 Arg2:T1000	
+R25	Support Arg1:T1002 Arg2:T1003	
+R26	Support Arg1:T1003 Arg2:T1004	
+R27	Support Arg1:T1005 Arg2:T1003	
+R28	Support Arg1:T1006 Arg2:T1005	
+R29	Support Arg1:T1001 Arg2:T1000	
+R30	Attack Arg1:T1013 Arg2:T1012	
+R31	Attack Arg1:T1011 Arg2:T1012	
+R32	Support Arg1:T1003 Arg2:T1000	
+R33	Support Arg1:T1004 Arg2:T1000	
+R34	Support Arg1:T1008 Arg2:T1007	
+R35	Support Arg1:T1009 Arg2:T1008	
+R36	Support Arg1:T1010 Arg2:T1009	
+R37	Support Arg1:T1007 Arg2:T1003	
+R38	Attack Arg1:T1015 Arg2:T1008	
+T3	Premise 4087 4126	And the world would be a lot better off
+R39	Attack Arg1:T1015 Arg2:T1016	
+R40	Attack Arg1:T1017 Arg2:T1013	
+T4	Premise 4179 4254	Not necessarily be in power, but here's what I'll say about the $87 billion
+R41	Attack Arg1:T4 Arg2:T1014	
+R42	Attack Arg1:T4 Arg2:T1018	
+R43	Attack Arg1:T1019 Arg2:T980	
+R44	Support Arg1:T1021 Arg2:T1020	
+R45	Attack Arg1:T1022 Arg2:T1023	
+R46	Support Arg1:T1026 Arg2:T1024	
+R47	Support Arg1:T1025 Arg2:T1024	
+R48	Attack Arg1:T1024 Arg2:T1023	
+T5	Premise 4337 4362	Which is a worse decision
+R49	Attack Arg1:T5 Arg2:T1019	
+R50	Support Arg1:T1022 Arg2:T1020	
+R51	Support Arg1:T1024 Arg2:T1022	
+R52	Support Arg1:T1026 Arg2:T1020	
+R53	Attack Arg1:T1018 Arg2:T1016	

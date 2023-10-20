@@ -1,0 +1,74 @@
+T851	Claim 225 279	I think it's fair to say we've become pretty polarized
+T852	Premise 300 320	the political season
+T853	Claim 574 650	I think in those days after 9/11, I thought the president did a terrific job
+T854	Premise 747 899	I think the hug Tom Daschle gave him at that moment was about as genuine a sense of there being no Democrats, no Republicans, we were all just Americans
+T855	Claim 1432 1486	I think we have to come together and work to change it
+T856	Premise 656 740	I really was moved, as well as impressed, by the speech that he gave to the Congress
+T857	Claim 976 1116	the president who called himself a uniter, not a divider, is now presiding over the most divided America in the recent memory of our country
+T858	Claim 1118 1197	I've never seen such ideological squabbles in the Congress of the United States
+T859	Claim 1199 1289	I've never seen members of a party locked out of meetings the way they're locked out today
+T860	Claim 1320 1365	as president, I am committed to changing that
+T861	Claim 1292 1314	We have to change that
+T862	Claim 1493 1507	I've done that
+T863	Premise 1509 1580	Over 20 years in the United States Senate, I've worked with John McCain
+T864	Premise 1602 1635	I've worked with other colleagues
+T865	Claim 1668 1704	I've tried to find the common ground
+T866	Premise 1714 1754	that's what makes us strong as Americans
+T867	Claim 2001 2096	a genuine effort to try to restore America's hope and possibilities by bringing people together
+T868	Claim 1761 1865	if Americans trust me with the presidency, I can pledge to you, we will have the most significant effort
+T869	Premise 1877 1938	not secret meetings in the White House with special interests
+T870	Premise 1940 1993	not ideologically driven efforts to push people aside
+T871	Claim 2144 2320	I'm going to work with my friend, John McCain, to further campaign finance reform so we get these incredible amounts of money out of the system and open it up to average people
+T872	Claim 2325 2388	America is really represented by the people who make up America
+T873	Claim 2425 2492	My biggest disappointment in Washington is how partisan the town is
+T874	Claim 3642 3677	John McCain is for me for president
+T875	Premise 3686 3789	he understands I have the right view in winning the war on terror and that my plan will succeed in Iraq
+T877	Claim 3795 3851	my opponent has got a plan of retreat and defeat in Iraq
+T878	Premise 2665 2796	The No Child Left Behind Act, incredibly enough, was good work between me and my administration and people like Senator Ted Kennedy
+T879	Claim 3295 3364	I'll continue, in the four years, to continue to try to work to do so
+T880	Premise 2494 2575	I had a record of working with Republicans and Democrats as the governor of Texas
+T881	Premise 2581 2627	I was hopeful I'd be able to do the same thing
+T882	Premise 2803 2957	we worked together with Democrats to relieve the tax burden on the middle class and all who pay taxes in order to make sure this economy continues to grow
+T883	Premise 3136 3275	they spend enormous sums of money and they convince different senators to taut their way or different congressmen to talk about their issue
+T884	Premise 2996 3131	the way I view it is there's a lot of entrenched special interests there, people who are, you know, on one side of the issue or another
+T885	Premise 4176 4247	what is the most important thing you've learned from these strong women
+T886	Claim 4257 4274	To listen to them
+T887	Claim 4288 4322	To stand up straight and not scowl
+T888	Claim 4787 4830	I think people understand what she's saying
+T889	Claim 5239 5287	I guess you would say it was love at first sight
+T890	Claim 4337 4370	I love the strong women around me
+T891	Premise 4837 4901	they see a compassionate, strong, great first lady in Laura Bush
+T892	Claim 5331 5416	I guess the president and you and I are three examples of lucky people who married up
+T893	Claim 6420 6449	I think we're both very lucky
+T894	Claim 5965 6066	my daughters and my wife are people who just are filled with that sense of what's right, what's wrong
+T895	Claim 6240 6309	I'm blessed, as I think the president is blessed, as I said last time
+T896	Premise 6311 6393	I've watched him with the first lady, who I admire a great deal, and his daughters
+T897	Claim 6395 6414	He's a great father
+T898	Premise 6069 6157	They also kick me around. They keep me honest. They don't let me get away with anything.
+R1	Support Arg1:T856 Arg2:T853	
+R2	Support Arg1:T854 Arg2:T853	
+R3	Support Arg1:T858 Arg2:T857	
+R4	Support Arg1:T859 Arg2:T857	
+R5	Support Arg1:T857 Arg2:T861	
+R6	Support Arg1:T861 Arg2:T860	
+R7	Equivalent Arg1:T855 Arg2:T861	
+R8	Support Arg1:T862 Arg2:T855	
+R9	Support Arg1:T863 Arg2:T862	
+R10	Support Arg1:T864 Arg2:T862	
+R11	Support Arg1:T866 Arg2:T865	
+R12	Support Arg1:T865 Arg2:T862	
+R13	Attack Arg1:T869 Arg2:T868	
+R14	Attack Arg1:T870 Arg2:T868	
+R15	Support Arg1:T867 Arg2:T868	
+R16	Equivalent Arg1:T860 Arg2:T868	
+R17	Support Arg1:T871 Arg2:T867	
+R18	Support Arg1:T872 Arg2:T867	
+R19	Support Arg1:T878 Arg2:T880	
+R20	Support Arg1:T882 Arg2:T880	
+R21	Support Arg1:T884 Arg2:T873	
+R22	Support Arg1:T883 Arg2:T873	
+R23	Support Arg1:T880 Arg2:T879	
+R24	Support Arg1:T875 Arg2:T874	
+R25	Attack Arg1:T874 Arg2:T863	
+R26	Attack Arg1:T877 Arg2:T875	
+R27	Support Arg1:T898 Arg2:T894	

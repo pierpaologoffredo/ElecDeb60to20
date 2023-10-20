@@ -1,0 +1,120 @@
+T1	Claim 1422 1549	I think the principal that separates me is that 5 and a half million people came together on their own and put me on the ballot
+T2	Premise 1551 1605	I was not put on the ballot by either of the 2 parties
+T3	Premise 1607 1713	I was not put on the ballot by any PAC money, by any foreign lobbyist money, by any special interest money
+T4	Claim 1715 1759	This is a movement that came from the people
+T5	Premise 1761 1879	This is the way the framers of the Constitution intended our government to be, a government that comes from the people
+T6	Claim 1881 1976	Over time we have developed a government that comes at the people, that comes from the top down
+T7	Premise 1978 2166	where the people are more or less treated as objects to be programmed during the campaign with commercials and media events and fear messages and personal attacks and things of that nature
+T8	Premise 2168 2369	The thing that separates my candidacy and makes it unique is that this came from millions of people in 50 states all over this country who wanted a candidate that worked and belonged to nobody but them
+T9	Claim 2434 2460	this comes from the people
+T10	Premise 2371 2429	I go into this race as their servant, and I belong to them
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T1	
+R3	Support Arg1:T7 Arg2:T6	
+R4	Support Arg1:T10 Arg2:T9	
+R5	Support Arg1:T8 Arg2:T9	
+R6	Equivalent Arg1:T4 Arg2:T9	
+R7	Support Arg1:T1 Arg2:T4	
+T11	Claim 2522 2714	The most important distinction in this campaign is that I represent real hope for change, a departure from trickle-down economics, a departure from tax and spend economics, to invest in growth
+T12	Claim 2891 2932	You've had your chance and it didn't work
+T13	Premise 2844 2889	Mr. Bush, for 12 years you've had it your way
+R8	Support Arg1:T13 Arg2:T12	
+T14	Claim 2934 2953	It's time to change
+R9	Support Arg1:T12 Arg2:T14	
+T15	Claim 3161 3211	I think one thing that distinguishes is experience
+T16	Claim 3213 3257	I think we've dramatically changed the world
+R10	Attack Arg1:T16 Arg2:T12	
+T17	Premise 3351 3411	Kids go to bed at night without the same fear of nuclear war
+R11	Support Arg1:T17 Arg2:T16	
+T18	Claim 3413 3452	And change for change sake isn't enough
+R12	Attack Arg1:T18 Arg2:T14	
+T19	Premise 3454 3585	We saw that message in the late 70s when heard a lot about change, and what happened, that misery index went right through the roof
+R13	Support Arg1:T19 Arg2:T18	
+T20	Claim 3591 3640	my economic program is the kind of change we want
+T21	Claim 3646 3724	the way we're going to get it done is we're going to have a brand new Congress
+T22	Premise 3726 3782	A lot of them are thrown out because of all the scandals
+R14	Support Arg1:T22 Arg2:T21	
+T23	Claim 3958 3995	I think it's experience at this level
+R15	Equivalent Arg1:T23 Arg2:T15	
+T24	Claim 4201 4228	I believe experience counts
+T25	Claim 4234 4253	it's not everything
+R16	Attack Arg1:T25 Arg2:T24	
+T26	Premise 4255 4351	Values, judgment, and the record that I have amassed in my state also should count for something
+T27	Premise 4353 4411	I've worked hard to create good jobs and to educate people
+T28	Premise 4413 4608	My state now ranks first in the country in job growth this year, fourth in income growth, fourth in reduction of poverty, third in overall economic performance, according to a major news magazine
+T29	Claim 4610 4673	That's because we believe in investing in education and in jobs
+T30	Premise 4714 4896	You know, my wife, Hillary, gave me a book about a year ago in which the author defined insanity as just doing the same old thing over and over again and expecting a different result
+T31	Claim 4679 4712	we have to change in this country
+T32	Claim 4898 4939	We have got to have the courage to change
+T33	Claim 4941 4969	Experience is important, yes
+T34	Premise 4971 5068	I've gotten a lot of good experience in dealing with ordinary people over the last year and month
+T35	Premise 5070 5217	I've touched more people's lives and seen more heartbreak and hope, more pain and more promise, than anybody else who's run for president this year
+T36	Claim 5219 5282	I think the American people deserve better than they're getting
+T37	Premise 5284 5412	We have gone from first to thirteenth in wages in the world in the last twelve years, since Mr. Bush and Mr. Reagan have been in
+T38	Premise 5414 5473	Personal income has dropped while people have worked harder
+T39	Premise 5475 5561	In the last four years, there have been twice as many bankruptcies as new jobs created
+T40	Claim 5563 5585	We need a new approach
+T41	Claim 5587 5626	The same old experience is not relevant
+T42	Premise 5628 5952	We're living in a new world after the Cold War, and what works in this new world is not trickle down, not government for the benefit of the privileged few, not tax and spend, but a commitment to invest in American jobs and American education, controlling American health care costs, and bringing the American people together
+T43	Claim 5954 5972	That is what works
+T44	Premise 5978 6052	you can have the right kind of experience and the wrong kind of experience
+T45	Premise 6054 6101	Mine is rooted in the real lives of real people
+T46	Claim 6107 6166	it will bring real results if we have the courage to change
+T47	Premise 6406 6479	He thinks, I think he said, that the country is coming apart at the seams
+T48	Claim 6486 6581	I know that the only way he can win is to make everybody believe the economy's worse than it is
+R17	Attack Arg1:T48 Arg2:T47	
+T49	Claim 6587 6652	this country is not coming apart at the seams, for heaven's sakes
+R18	Attack Arg1:T49 Arg2:T47	
+T50	Premise 6654 6688	We're the United States of America
+T51	Premise 6690 6774	In spite of the economic problems, we're the most respected economy around the world
+T52	Premise 6776 6799	Many would trade for it
+T53	Premise 6801 6842	We've been caught up in a global slowdown
+T54	Claim 6844 6871	We can do much, much better
+T55	Claim 6877 6984	we ought not try to convince the American people that America is a country that's coming apart at the seams
+T56	Claim 7123 7179	Yes, there are big problems, and yes, people are hurting
+T57	Claim 7185 7262	I believe that this Agenda for American renewal I have is the answer to do it
+T58	Claim 7268 7331	I believe we can get it done now, whereas we didn't in the past
+T59	Premise 7341 7489	you're going to have a whole brand new bunch of people in the Congress that are going to have to listen to the same American people I'm listening to
+T60	Premise 7570 7630	I don't have any experience in running up a $4 trillion debt
+T61	Premise 7644 7777	I don't have any experience in gridlock government where nobody takes responsibility for anything and everybody blames everybody else
+T62	Premise 7779 7944	I don't have any experience in creating the worst public school system in the industrialized world, the most violent crime-ridden society in the industrialized world
+T63	Claim 7950 8002	I do have a lot of experience in getting things done
+T64	Premise 8008 8087	if we're at a point in history where we want to stop talking about it and do it
+T65	Claim 8089 8218	I've got a lot of experience in figuring out how to solve problems, making the solutions work, and then moving on to the next one
+T66	Claim 8220 8300	I've got a lot of experience in not taking 10 years to solve a 10-minute problem
+T67	Premise 8306 8329	if it's time for action
+T68	Claim 8331 8368	I think I have experience that counts
+T69	Premise 8370 8451	If there's more time for gridlock and talk and finger pointing, I'm the wrong man
+T70	Claim 2955 3005	I want to bring that change to the American people
+R19	Support Arg1:T14 Arg2:T70	
+T71	Premise 3304 3349	the changes are mind-boggling for world peace
+R20	Support Arg1:T71 Arg2:T16	
+R21	Attack Arg1:T25 Arg2:T23	
+R22	Support Arg1:T26 Arg2:T25	
+R23	Support Arg1:T27 Arg2:T26	
+R24	Support Arg1:T28 Arg2:T27	
+R25	Support Arg1:T28 Arg2:T29	
+R26	Support Arg1:T30 Arg2:T32	
+R27	Support Arg1:T35 Arg2:T36	
+R28	Support Arg1:T37 Arg2:T36	
+R29	Support Arg1:T34 Arg2:T35	
+R30	Support Arg1:T38 Arg2:T36	
+R31	Support Arg1:T39 Arg2:T36	
+R32	Support Arg1:T36 Arg2:T40	
+R33	Support Arg1:T41 Arg2:T40	
+R34	Support Arg1:T42 Arg2:T41	
+R35	Support Arg1:T40 Arg2:T43	
+R36	Support Arg1:T45 Arg2:T46	
+R37	Support Arg1:T50 Arg2:T49	
+R38	Support Arg1:T51 Arg2:T49	
+R39	Support Arg1:T52 Arg2:T49	
+R40	Attack Arg1:T56 Arg2:T55	
+R41	Support Arg1:T59 Arg2:T58	
+R42	Support Arg1:T64 Arg2:T65	
+R43	Support Arg1:T67 Arg2:T68	
+R44	Support Arg1:T69 Arg2:T68	
+R45	Support Arg1:T65 Arg2:T63	
+R46	Support Arg1:T62 Arg2:T63	
+R47	Support Arg1:T61 Arg2:T63	
+R48	Support Arg1:T60 Arg2:T63	
+R49	Support Arg1:T66 Arg2:T68	

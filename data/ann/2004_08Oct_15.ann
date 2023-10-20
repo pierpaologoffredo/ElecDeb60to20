@@ -1,0 +1,107 @@
+T925	Claim 484 534	I respect the belief about life and when it begins
+T926	Premise 536 569	I'm a Catholic, raised a Catholic
+T927	Premise 571 589	I was an altar boy
+T928	Premise 591 631	Religion has been a huge part of my life
+T929	Premise 633 664	It helped lead me through a war
+T930	Premise 666 680	leads me today
+T931	Claim 867 882	I can't do that
+T932	Claim 687 865	I can't take what is an article of faith for me and legislate it for someone who doesn't share that article of faith, whether they be agnostic, atheist, Jew, Protestant, whatever
+T933	Claim 1256 1381	I believe that you can take that position and not be pro- abortion, but you have to afford people their constitutional rights
+T934	Claim 1662 1684	I think it's important
+T935	Claim 1697 1898	I think it's important for the United States, for instance, not to have this rigid ideological restriction on helping families around the world to be able to make a smart decision about family planning
+T936	Premise 1901 1925	You'll help prevent AIDS
+T937	Premise 1928 1987	You'll help prevent unwanted children, unwanted pregnancies
+T938	Claim 2111 2129	I truly respect it
+T939	Claim 1990 2105	You'll actually do a better job, I think, of passing on the moral responsibility that is expressed in your question
+T940	Claim 889 909	I can counsel people
+T941	Premise 911 968	I can talk reasonably about life and about responsibility
+T942	Premise 970 1143	I can talk to people, as my wife Teresa does, about making other choices, and about abstinence, and about all these other things that we ought to do as a responsible society
+T943	Premise 1150 1214	as a president, I have to represent all the people in the nation
+T944	Premise 1220 1248	I have to make that judgment
+T945	Claim 1387 1492	that means being smart about allowing people to be fully educated, to know what their options are in life
+T946	Claim 1498 1648	making certain that you don't deny a poor person the right to be able to have whatever the constitution affords them if they can't afford it otherwise
+T947	Claim 2225 2278	we're not going to spend taxpayers' money on abortion
+T948	Claim 2566 2618	I think there ought to be parental notification laws
+T949	Claim 2928 3024	I think it is a worthy goal in America to have every child protected by law and welcomed in life
+T950	Claim 3027 3116	I also think we ought to continue to have good adoption law as an alternative to abortion
+T951	Claim 3123 3163	we need to promote maternity group homes
+T952	Claim 3200 3257	Culture of life is really important for a country to have
+T953	Premise 3258 3298	if it's going to be a hospitable society
+T954	Claim 2491 2528	It's one way to help reduce abortions
+T955	Premise 2402 2465	I signed the partial-birth -- the ban on partial-birth abortion
+T956	Premise 2467 2489	It's a brutal practice
+T957	Premise 2530 2563	My opponent voted against the ban
+T958	Premise 2620 2637	He's against them
+T959	Premise 2640 2697	I signed a bill called the Unborn Victims of Violence Act
+T960	Premise 2700 2823	In other words, if you're a mom and you're pregnant and you get killed, the murderer gets tried for two cases, not just one
+T961	Premise 2825 2853	My opponent was against that
+T962	Claim 2856 2926	These are reasonable ways to help promote a culture of life in America
+T963	Claim 3533 3540	I'm not
+T964	Claim 3502 3527	it's just not that simple
+T965	Claim 3542 3580	I'm against the partial-birth abortion
+T966	Claim 3586 3729	you've got to have an exception for the life of the mother and the health of the mother under the strictest test of bodily injury to the mother
+T967	Claim 3781 3908	I'm not going to require a 16-or 17-year-old kid who's been raped by her father and who's pregnant to have to notify her father
+T968	Claim 3913 3952	you got to have a judicial intervention
+T969	Premise 3958 4068	because they didn't have a judicial intervention where she could go somewhere and get help, I voted against it
+T970	Claim 4070 4134	It's never quite as simple as the president wants you to believe
+T971	Premise 4284 4330	he was given a chance to vote, and he voted no
+T972	Premise 4336 4361	that's just the way it is
+T973	Premise 4363 4376	That's a vote
+T974	Premise 4378 4394	It came right up
+T975	Premise 4396 4427	It's clear for everybody to see
+T976	Claim 4444 4486	You can run but you can't hide the reality
+R1	Support Arg1:T926 Arg2:T927	
+R2	Support Arg1:T927 Arg2:T928	
+R3	Support Arg1:T928 Arg2:T929	
+R4	Support Arg1:T929 Arg2:T930	
+R5	Support Arg1:T930 Arg2:T925	
+R6	Support Arg1:T931 Arg2:T932	
+R7	Support Arg1:T940 Arg2:T931	
+R8	Attack Arg1:T925 Arg2:T932	
+R9	Attack Arg1:T928 Arg2:T932	
+R10	Support Arg1:T941 Arg2:T942	
+R11	Attack Arg1:T943 Arg2:T942	
+R12	Support Arg1:T943 Arg2:T944	
+R13	Support Arg1:T944 Arg2:T933	
+R14	Support Arg1:T943 Arg2:T933	
+R15	Support Arg1:T940 Arg2:T933	
+R16	Support Arg1:T945 Arg2:T933	
+R17	Support Arg1:T946 Arg2:T933	
+R18	Support Arg1:T934 Arg2:T933	
+R19	Support Arg1:T933 Arg2:T935	
+R20	Support Arg1:T936 Arg2:T935	
+R21	Support Arg1:T937 Arg2:T935	
+R22	Support Arg1:T939 Arg2:T935	
+R23	Support Arg1:T938 Arg2:T935	
+T1	Premise 2324 2399	certainly reasonable people can agree on how to reduce abortions in America
+R24	Support Arg1:T1 Arg2:T954	
+R25	Support Arg1:T956 Arg2:T955	
+R26	Support Arg1:T955 Arg2:T954	
+R27	Support Arg1:T947 Arg2:T954	
+R28	Attack Arg1:T954 Arg2:T957	
+R29	Attack Arg1:T948 Arg2:T958	
+R30	Support Arg1:T959 Arg2:T960	
+R31	Attack Arg1:T960 Arg2:T961	
+R32	Support Arg1:T948 Arg2:T962	
+R33	Support Arg1:T959 Arg2:T962	
+R34	Support Arg1:T960 Arg2:T962	
+R35	Support Arg1:T962 Arg2:T949	
+R36	Support Arg1:T950 Arg2:T962	
+R37	Support Arg1:T951 Arg2:T962	
+R38	Support Arg1:T952 Arg2:T950	
+R39	Support Arg1:T953 Arg2:T952	
+T2	Premise 3419 3491	categorically, my opponent is against this, my opponent is against that.
+R41	Attack Arg1:T964 Arg2:T2	
+R40	Attack Arg1:T965 Arg2:T957	
+R42	Attack Arg1:T966 Arg2:T965	
+R43	Support Arg1:T967 Arg2:T968	
+R44	Attack Arg1:T968 Arg2:T958	
+R45	Support Arg1:T969 Arg2:T968	
+R46	Support Arg1:T968 Arg2:T970	
+R47	Support Arg1:T970 Arg2:T964	
+R48	Support Arg1:T972 Arg2:T971	
+R49	Support Arg1:T973 Arg2:T971	
+R50	Support Arg1:T974 Arg2:T971	
+R51	Support Arg1:T975 Arg2:T971	
+R52	Support Arg1:T971 Arg2:T976	
+R53	Attack Arg1:T976 Arg2:T964	

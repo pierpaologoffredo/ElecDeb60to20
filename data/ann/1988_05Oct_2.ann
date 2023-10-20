@@ -1,0 +1,37 @@
+T53	Claim 813 875	we have a contract with the American people on Social Security
+T55	Premise 2029 2109	When they talk about the fact that they are going to continue to cut this budget
+T56	Claim 2111 2152	I know too well what their rack record is
+T57	Claim 1937 2027	I think it's very important that we not see these kinds of end runs by this administration
+T58	Claim 1542 1561	the record is clear
+T59	Premise 1567 1665	we saw Vice President Bush fly back from the west coast to break a tie in the United States Senate
+T60	Premise 1667 1714	He doesn't get to vote very often in the Senate
+T61	Premise 1720 1798	he made a special trip to come back and vote against a cost-of-living increase
+T63	Claim 1805 1931	when you talk about Social Security, the people that are going to protect it are the Democrats that brought forth that program
+T64	Premise 1466 1535	At that point they tried a $40-billion end run to cut Social Security
+T66	Premise 881 1464	Social Security is an issue where Senator Quayle voted eight times to cut the benefits on Social Security, where this administration came in and tried to cut the benefits, the minimum benefits, $122 a month for widows, for retirees, tried to cut the benefits for 62-year-old retirees by 40 percent, tried to do an end run on Social Security when they first came in after promising not to cut it - to cut it by some 20 billion, and while we were working together to reform the Social Security system and to be certain that that money was going to be there for people when they retired
+T67	Premise 2390 2493	What I have voted for and what Senator Bentsen has voted for is to delay the cost-of-living adjustments
+T68	Premise 2299 2388	Senator Bentsen, you know that I did not vote to cut Social Security benefits eight times
+T69	Claim 2721 2779	John, you are right: they use this for political advantage
+T71	Premise 2495 2594	Senator Bentsen two times in the United States Senate voted to delay the cost-of-living adjustments
+T72	Premise 2596 2714	The governor of Massachusetts at a governors' conference supported a resolution to delay the cost-of-living adjustment
+T73	Claim 2781 2863	What they try to do time and time again is to scare the old people of this country
+T74	Claim 3199 3260	that program is actuarially sound to the turn of this century
+T75	Claim 3024 3065	Republicans and Democrats banded together
+T76	Claim 3074 3193	we know that this program is not a Republican program, it's not a Democrat program - it's a program for older Americans
+R1	Support Arg1:T64 Arg2:T58
+R2	Support Arg1:T63 Arg2:T57
+R3	Support Arg1:T60 Arg2:T57
+R4	Support Arg1:T61 Arg2:T57
+R5	Support Arg1:T59 Arg2:T57
+R6	Support Arg1:T58 Arg2:T63
+R7	Support Arg1:T55 Arg2:T56
+R8	Support Arg1:T56 Arg2:T63
+R9	Attack Arg1:T68 Arg2:T66
+R10	Support Arg1:T67 Arg2:T68
+R11	Support Arg1:T72 Arg2:T69
+R12	Support Arg1:T71 Arg2:T69
+R13	Support Arg1:T73 Arg2:T69
+T1	Premise 2898 3022	In 1983 Republicans and Democrats dropped their political swords and in a bipartisan effort saved the Social Security system
+T2	Premise 2865 2896	That's the politics of the past
+R14	Support Arg1:T1 Arg2:T75
+R15	Support Arg1:T75 Arg2:T76

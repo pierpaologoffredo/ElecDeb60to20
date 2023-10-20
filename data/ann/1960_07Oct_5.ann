@@ -1,0 +1,60 @@
+T147	Claim 446 530	no matter how well we're doing in the cold war, we're not doing as well as we should
+T148	Claim 3072 3131	we've got to get help from the Congress in order to do this
+T149	Claim 2987 3006	It must be economic
+T150	Claim 3008 3032	it must be technological
+T151	Claim 3034 3066	above all it must be ideological
+T152	Claim 2812 2867	I'm not satisfied with what we're doing in the cold war
+T153	Claim 2876 2985	I believe we have to step up our activities and launch an offensive for the minds and hearts and souls of men
+T154	Claim 2692 2774	it is well that they recognize that they have to stand up for their record as well
+T155	Claim 2022 2063	we need, for example, economic assistance
+T156	Claim 2065 2093	we need technical assistance
+T157	Claim 2095 2111	we need exchange
+T158	Claim 2113 2200	we need programs of diplomatic and other character which will be effective in that area
+T159	Claim 1982 2015	What tools do we need to fight us
+T160	Claim 1778 1893	In this cold war we have to recognize where it is being fought and then we have to develop programs to deal with it
+T161	Premise 1895 1963	It's being fought primarily in Asia, in Africa, and in Latin America
+T162	Premise 2507 2593	They also have cut four billion dollars off of mutual security in these last six years
+T163	Premise 2595 2648	They also have cut two billion dollars off of defense
+T165	Claim 747 851	I think it's time that we nail a few of these distortions about the United States that have been put out
+T167	Claim 1254 1321	Now that, of course, is just one factor, but it's a significant one
+T168	Claim 1582 1607	That's a test of prestige
+T169	Premise 1504 1580	Look at the votes in the United Nations over the past seven and a half years
+T170	Premise 1441 1502	There were seventy votes for our position and none for theirs
+T171	Claim 1728 1776	Now looking to what we ought to do in the future
+T172	Claim 1609 1726	Every time the United States has been an one side and they've been on the other side, our position has been sustained
+T173	Claim 5039 5083	the American people should be told the facts
+T175	Claim 5016 5033	we should know it
+T176	Premise 4465 4566	Governor Rockefeller has been far more critical in June of our position in the world than I have been
+T177	Claim 4139 4191	We have not maintained our position and our prestige
+T179	Claim 3168 3327	Of course Mr. Nixon is wholly inaccurate when he says that the Congress has not provided more funds in fact than the President recommended for national defense
+T180	Premise 3329 3423	Nineteen fifty-three we tried to put an appropriation of five billion dollars for our defenses
+T178	Claim 4027 4137	tomorrow when the preliminary vote is held you will see a strengthening of that position or very closely to it
+T181	Premise 3990 4022	Last year there were twenty-nine
+R1	Support Arg1:T167 Arg2:T165	
+R2	Equivalent Arg1:T169 Arg2:T170	
+R3	Support Arg1:T169 Arg2:T168	
+R4	Support Arg1:T170 Arg2:T172	
+R5	Equivalent Arg1:T160 Arg2:T171	
+R6	Support Arg1:T161 Arg2:T160	
+R7	Support Arg1:T155 Arg2:T159	
+R8	Support Arg1:T156 Arg2:T159	
+R9	Support Arg1:T157 Arg2:T159	
+R10	Support Arg1:T158 Arg2:T159	
+R12	Equivalent Arg1:T162 Arg2:T163	
+R13	Support Arg1:T163 Arg2:T154	
+R14	Support Arg1:T162 Arg2:T154	
+R15	Support Arg1:T153 Arg2:T152	
+R20	Attack Arg1:T179 Arg2:T148	
+R21	Support Arg1:T180 Arg2:T179	
+R22	Support Arg1:T181 Arg2:T178	
+R23	Support Arg1:T178 Arg2:T177	
+R24	Support Arg1:T176 Arg2:T177	
+R25	Equivalent Arg1:T175 Arg2:T173	
+T1	Claim 536 695	that will always be the case as long as the Communists are on the international scene, in the aggressive tac- uh - tendencies that they presently are following
+T2	Claim 981 1252	I would suggest that after Premier Kush- Khrushchev's uh - performance in the United Nations, compared with President Eisenhower's eloquent speech, that at the present time Communist prestige in the world is at an all-time low and American prestige is at an all-time high
+R16	Support Arg1:T1 Arg2:T147	
+T3	Premise 853 914	First of all, we hear that our prestige is at an all-time low
+T4	Premise 916 979	Senator Kennedy has been hitting that point over and over again
+R26	Support Arg1:T4 Arg2:T3	
+R27	Attack Arg1:T2 Arg2:T3	
+R28	Support Arg1:T2 Arg2:T167	

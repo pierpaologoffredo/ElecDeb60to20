@@ -1,0 +1,77 @@
+T1000	Claim 398 421	we have our differences
+T1001	Claim 423 453	We should have our differences
+T1002	Claim 1259 1372	President Clinton opposes term limits, President Clinton opposes a constitutional amendment to balance the budget
+T1003	Claim 1374 1426	President Clinton opposes voluntary prayer amendment
+T1004	Claim 455 478	Mentioned other parties
+T1005	Claim 480 507	They have their differences
+T1007	Claim 1428 1500	Opposes an amendment to protect the flag of the United States of America
+T1008	Claim 2223 2273	We're going into the next century a better America
+T1009	Claim 2178 2221	We're going to have a good economic package
+T1010	Claim 2128 2176	I promise you the economy is going to get better
+T1011	Claim 2112 2126	I keep my word
+T1012	Premise 2056 2110	Democrats and Republicans said Bob Dole's word is good
+T1013	Premise 2007 2054	I'll just make you one promise, my word is good
+T1014	Claim 1605 1674	We ought to protect the American flag with a constitutional amendment
+T1015	Premise 1807 1852	I want the voters to do is to make a decision
+T1016	Premise 1858 1914	I want them to be proud of their vote in the years ahead
+T1017	Premise 1916 1961	Proud that they voted for the right candidate
+T1018	Premise 1963 2001	Proud that they voted hopefully for me
+T1019	Premise 1502 1525	People give their lives
+T1020	Premise 1527 1553	Couple of service men here
+T1021	Claim 2763 2852	This election is about two different visions about how we should go into the 21st Century
+T1022	Premise 2854 2889	Would we be better off as I believe
+T1023	Premise 2891 2988	working together to give each other the tools we need to make the most of our God-given potential
+T1024	Premise 2993 3037	are we better off saying, you're on your own
+T1025	Premise 3039 3172	Would we be better off building that bridge to the future together so we can all walk across it or saying you can get across yourself
+T1026	Claim 3174 3238	If you don't agree -- leave this room with anything else tonight
+T1027	Claim 3243 3332	if the people watching us don't leave with anything else, I hope you will leave with this
+T1028	Claim 3369 3477	The world is changing dramatically in how we work and how we live, how we relate to each other, huge changes
+T1029	Claim 3483 3546	the decisions we make will have enormous practical consequences
+T1030	Premise 3728 3796	you're going to decide whether we're going to balance the budget now
+T1031	Claim 3665 3718	Your responsibility is to show up on November the 5th
+T1032	Premise 3802 3859	protect Medicare, Medicaid, education and the environment
+T1033	Claim 3861 3994	You will decide whether we're going to keep fighting crime with a Brady Bill, assault weapons and finish putting those 100,000 police
+T1034	Claim 3996 4061	Whether we're going to move a million people from welfare to work
+T1035	Claim 4063 4179	Whether we're going to give our families more protection for their kids against drugs and tobacco and gangs and guns
+T1036	Claim 4181 4245	Whether we're going to give our children a world-class education
+T1037	Claim 4247 4282	Where every eight-year-old can read
+T1038	Claim 4284 4328	Every 12-year-old can log in on the Internet
+T1039	Claim 4330 4365	Every 18-year-old can go to college
+T1040	Claim 4439 4491	the greatest country in history will be even greater
+T1041	Claim 4367 4434	If we do those things we will build that bridge to the 21st Century
+R1	Support Arg1:T1004 Arg2:T1005	
+R2	Support Arg1:T1005 Arg2:T1000	
+R3	Support Arg1:T1001 Arg2:T1000	
+R4	Support Arg1:T1019 Arg2:T1014	
+R5	Support Arg1:T1020 Arg2:T1014	
+R6	Attack Arg1:T1014 Arg2:T1007	
+T1	Claim 1197 1257	There are some very fundamental differences in this campaign
+R7	Support Arg1:T1002 Arg2:T1	
+R8	Support Arg1:T1003 Arg2:T1	
+R9	Support Arg1:T1007 Arg2:T1	
+R10	Support Arg1:T1016 Arg2:T1015	
+R11	Support Arg1:T1017 Arg2:T1015	
+R12	Support Arg1:T1018 Arg2:T1017	
+R14	Support Arg1:T1012 Arg2:T1011	
+R13	Support Arg1:T1013 Arg2:T1011	
+R15	Support Arg1:T1011 Arg2:T1010	
+R16	Support Arg1:T1009 Arg2:T1010	
+R17	Support Arg1:T1010 Arg2:T1008	
+R18	Support Arg1:T1022 Arg2:T1021	
+R19	Support Arg1:T1023 Arg2:T1022	
+R20	Support Arg1:T1024 Arg2:T1021	
+R21	Support Arg1:T1025 Arg2:T1021	
+R22	Support Arg1:T1027 Arg2:T1026	
+R23	Support Arg1:T1028 Arg2:T1029	
+R24	Support Arg1:T1029 Arg2:T1031	
+R25	Support Arg1:T1030 Arg2:T1031	
+R26	Support Arg1:T1032 Arg2:T1031	
+R27	Support Arg1:T1033 Arg2:T1031	
+R28	Support Arg1:T1034 Arg2:T1031	
+R29	Support Arg1:T1035 Arg2:T1031	
+R30	Support Arg1:T1036 Arg2:T1031	
+R31	Support Arg1:T1037 Arg2:T1031	
+R32	Support Arg1:T1038 Arg2:T1031	
+R33	Support Arg1:T1039 Arg2:T1031	
+R34	Support Arg1:T1041 Arg2:T1031	
+R35	Support Arg1:T1040 Arg2:T1031	

@@ -1,0 +1,161 @@
+T93	Claim 1020 1074	Muslims have to report the problems when they see them
+T94	Premise 993 1018	They’ll never be the same
+T95	Claim 565 683	whether we like it or not, and we could be very politically correct, but whether we like it or not, there is a problem
+T96	Claim 689 772	we have to be sure that Muslims come in and report when they see something going on
+T97	Claim 774 827	When they see hatred going on, they have to report it
+T98	Premise 843 973	in San Bernardino, many people saw the bombs all over the apartment of the two people that killed 14 and wounded many, many people
+T99	Premise 975 991	Horribly wounded
+T100	Claim 1853 1927	I’ve heard this question from a lot of Muslim-Americans across our country
+T101	Premise 1938 2020	unfortunately, there’s been a lot of very divisive, dark things said about Muslims
+T102	Claim 2527 2549	That’s what America is
+T103	Claim 2551 2623	That’s what we want America to be for our children and our grandchildren
+T104	Premise 2381 2525	My vision of America is an America where everyone has a place, if you’re willing to work hard, you do your part, you contribute to the community
+T106	Claim 4117 4174	if I were president at that time, he would be alive today
+T105	Claim 4184 4293	unlike her, who voted for the war without knowing what she was doing, I would not have had our people in Iraq
+T107	Premise 4079 4111	Captain Khan is an American hero
+T109	Claim 4319 4349	he would have been alive today
+T110	Claim 5214 5268	This is going to be the great Trojan horse of all time
+T111	Premise 5049 5180	People are coming into our country like we have no idea who they are, where they are from, what their feelings about our country is
+T112	Premise 5186 5212	she wants 550 percent more
+T113	Premise 4983 5047	Hillary Clinton wants to allow a 550 percent increase over Obama
+T114	Premise 4872 4977	We are going to areas like Syria where they’re coming in by the tens of thousands because of Barack Obama
+T115	Claim 5975 6002	That’s not a perfect system
+T116	Premise 5941 5973	We know you want tougher vetting
+T117	Claim 6007 6071	why take the risk of having those refugees come into the country
+T118	Claim 6102 6172	I will not let anyone into our country that I think poses a risk to us
+T119	Claim 7646 7670	That’s not been debunked
+T120	Claim 7700 7726	That has not been debunked
+T121	Premise 6226 6374	think of that picture we all saw of that 4-year-old boy with the blood on his forehead because he’d been bombed by the Russian and Syrian air forces
+T122	Claim 7805 7834	I was against the war in Iraq
+T123	Claim 7836 7857	Has not been debunked
+T124	Premise 7863 7879	you voted for it
+T125	Claim 7885 7903	you shouldn’t have
+T231	Claim 9242 9252	he doesn’t
+R1	Support Arg1:T98 Arg2:T99	
+R2	Support Arg1:T99 Arg2:T94	
+R3	Support Arg1:T96 Arg2:T95	
+R4	Support Arg1:T97 Arg2:T96	
+R5	Support Arg1:T95 Arg2:T93	
+R6	Attack Arg1:T93 Arg2:T94	
+T1	Premise 1130 1299	If they don’t do that, it’s a very difficult situation for our country, because you look at Orlando and you look at San Bernardino and you look at the World Trade Center
+T2	Claim 1328 1386	Look at that horrible — these are radical Islamic terrorists
+R7	Support Arg1:T1 Arg2:T2	
+T3	Claim 1391 1451	she won’t even mention the word and nor will President Obama
+T4	Claim 1453 1502	He won’t use the term “radical Islamic terrorism.
+T5	Claim 1504 1602	Now, to solve a problem, you have to be able to state what the problem is or at least say the name
+T6	Claim 1604 1665	She won’t say the name and President Obama won’t say the name
+T7	Claim 1723 1768	before you solve it, you have to say the name
+R8	Support Arg1:T4 Arg2:T3	
+R9	Attack Arg1:T5 Arg2:T3	
+R10	Support Arg1:T6 Arg2:T3	
+R11	Attack Arg1:T7 Arg2:T6	
+R12	Support Arg1:T101 Arg2:T100	
+T8	Premise 2026 2180	even someone like Captain Khan, the young man who sacrificed himself defending our country in the United States Army, has been subject to attack by Donald
+R13	Support Arg1:T8 Arg2:T101	
+T9	Premise 2227 2279	we’ve had Muslims in America since George Washington
+T10	Premise 2285 2318	we’ve had many successful Muslims
+R14	Support Arg1:T104 Arg2:T102	
+R15	Support Arg1:T9 Arg2:T10	
+R16	Support Arg1:T10 Arg2:T104	
+R17	Support Arg1:T102 Arg2:T103	
+T11	Claim 2624 2750	It’s also very short-sighted and even dangerous to be engaging in the kind of demagogic rhetoric that Donald has about Muslims
+T12	Claim 2752 2827	We need American Muslims to be part of our eyes and ears on our front lines
+R18	Attack Arg1:T12 Arg2:T11	
+T13	Premise 2829 2893	I’ve worked with a lot of different Muslim groups around America
+T14	Claim 3097 3193	t’s also important I intend to defeat ISIS, to do so in a coalition with majority Muslim nations
+T15	Claim 2895 3096	I’ve met with a lot of them, and I’ve heard how important it is for them to feel that they are wanted and included and part of our country, part of our homeland security, and that’s what I want to see.
+R19	Support Arg1:T13 Arg2:T15	
+T16	Premise 3195 3316	Right now, a lot of those nations are hearing what Donald says and wondering, why should we cooperate with the Americans?
+T17	Premise 3321 3420	this is a gift to ISIS and the terrorists, violent jihadist terrorists.We are not at war with Islam
+T18	Claim 3426 3512	it is a mistake and it plays into the hands of the terrorists to act as though we are.
+T19	Claim 3516 3607	I want a country where citizens like you and your family are just as welcome as anyone else
+R20	Attack Arg1:T16 Arg2:T14	
+R21	Support Arg1:T17 Arg2:T16	
+R22	Attack Arg1:T18 Arg2:T17	
+R23	Attack Arg1:T19 Arg2:T18	
+T20	Claim 3686 3862	“Donald J. Trump is calling for a total and complete shutdown of Muslims entering the United States until our country’s representatives can figure out what the hell is going on
+T21	Claim 3864 3882	We have no choice.
+T22	Claim 3883 3901	We have no choice.
+R24	Support Arg1:T21 Arg2:T20	
+*	Equivalent T22 T21
+R25	Attack Arg1:T20 Arg2:T19	
+R26	Support Arg1:T107 Arg2:T106	
+R27	Support Arg1:T106 Arg2:T105	
+R28	Support Arg1:T109 Arg2:T105	
+T23	Premise 4350 4462	The Muslim ban is something that in some form has morphed into a extreme vetting from certain areas of the world
+T24	Premise 4843 4870	It’s called extreme vetting
+R29	Support Arg1:T23 Arg2:T24	
+R30	Support Arg1:T24 Arg2:T114	
+R31	Support Arg1:T114 Arg2:T113	
+R32	Support Arg1:T113 Arg2:T111	
+R33	Support Arg1:T111 Arg2:T112	
+R34	Support Arg1:T112 Arg2:T110	
+T25	Claim 5269 5308	We have enough problems in this country
+R35	Attack Arg1:T25 Arg2:T110	
+T26	Premise 5310 5342	I believe in building safe zones
+T27	Premise 5344 5515	I believe in having other people pay for them, as an example, the Gulf states, who are not carrying their weight, but they have nothing but money, and take care of people.
+T28	Claim 5516 5713	But I don’t want to have, with all the problems this country has and all of the problems that you see going on, hundreds of thousands of people coming in from Syria when we know nothing about them.
+T29	Premise 5714 5802	We know nothing about their values and we know nothing about their love for our country.
+R36	Support Arg1:T29 Arg2:T28	
+R37	Support Arg1:T26 Arg2:T27	
+R38	Attack Arg1:T118 Arg2:T28	
+T30	Premise 6375 6479	There are children suffering in this catastrophic war, largely, I believe, because of Russian aggression
+T31	Claim 6485 6507	we need to do our part
+T32	Premise 6509 6586	We by no means are carrying anywhere near the load that Europe and others are
+T33	Claim 6588 6707	But we will have vetting that is as tough as it needs to be from our professionals, our intelligence experts and others
+T34	Claim 6708 6835	But it is important for us as a policy, you know, not to say, as Donald has said, we’re going to ban people based on a religion
+T35	Claim 6857 6914	We are a country founded on religious freedom and liberty
+T36	Premise 6837 6856	How do you do that?
+R39	Support Arg1:T36 Arg2:T35	
+R40	Support Arg1:T121 Arg2:T31	
+R41	Support Arg1:T30 Arg2:T121	
+R42	Attack Arg1:T31 Arg2:T32	
+R43	Attack Arg1:T33 Arg2:T34	
+T37	Premise 6916 7003	How do we do what he has advocated without causing great distress within our own county
+R44	Support Arg1:T37 Arg2:T35	
+R45	Attack Arg1:T35 Arg2:T34	
+T38	Premise 7005 7074	Are we going to have religious tests when people fly into our country
+R46	Support Arg1:T38 Arg2:T37	
+T39	Claim 7127 7197	So I thought that what he said was extremely unwise and even dangerous
+T40	Premise 7080 7126	how do we expect to be able to implement those
+R47	Support Arg1:T40 Arg2:T38	
+T41	Claim 7211 7390	you can look at the propaganda on a lot of the terrorist sites, and what Donald Trump says about Muslims is used to recruit fighters, because they want to create a war between us.
+R48	Attack Arg1:T39 Arg2:T40	
+T42	Claim 7558 7636	It’s been debunked, but it never stops him from saying whatever he wants to sa
+R49	Attack Arg1:T41 Arg2:T34	
+T43	Claim 7423 7496	this is the 10th or 12th time that he’s denied being for the war in Iraq.
+T44	Claim 7497 7515	We have it on tape
+R50	Support Arg1:T44 Arg2:T43	
+R51	Support Arg1:T42 Arg2:T43	
+R52	Attack Arg1:T119 Arg2:T43	
+R53	Support Arg1:T120 Arg2:T119	
+R54	Support Arg1:T122 Arg2:T120	
+T45	Claim 8213 8298	in terms of having people come into our country, we have many criminal illegal aliens
+T46	Claim 8300 8386	When we want to send them back to their country, their country says we don’t want them
+T47	Claim 8388 8447	In some cases, they’re murderers, drug lords, drug problems
+T49	Claim 8582 8653	Let me tell you, I’m going to force them right back into their country.
+R55	Support Arg1:T45 Arg2:T46	
+R56	Support Arg1:T46 Arg2:T47	
+T48	Claim 8449 8473	And they don’t want them
+R57	Support Arg1:T47 Arg2:T48	
+T50	Claim 8478 8580	Hillary Clinton, when she was secretary of state, said that’s OK, we can’t force it into their country
+R58	Attack Arg1:T49 Arg2:T50	
+R59	Support Arg1:T48 Arg2:T50	
+T51	Claim 8654 8921	They’re murderers and some very bad people.And I will tell you very strongly, when Bernie Sanders said she had bad judgment, she has really bad judgment, because we are letting people into this country that are going to cause problems and crime like you’ve never seen
+R60	Attack Arg1:T51 Arg2:T50	
+T52	Claim 8923 8997	We’re also letting drugs pour through our southern border at a record clip
+T53	Claim 8999 9016	At a record clip.
+T54	Claim 9017 9076	And it shouldn’t be allowed to happen.ICE just endorsed me.
+T55	Claim 9077 9125	They’ve never endorsed a presidential candidate.
+T56	Claim 9126 9240	The Border Patrol agents, 16,500, just recently endorsed me, and they endorsed me because I understand the border.
+R61	Support Arg1:T52 Arg2:T53	
+R62	Attack Arg1:T54 Arg2:T53	
+R63	Support Arg1:T55 Arg2:T54	
+R64	Attack Arg1:T56 Arg2:T231	
+T57	Claim 9254 9286	She wants amnesty for everybody.
+T59	Claim 9354 9454	She’s got bad judgment, and honestly, so bad that she should never be president of the United States
+T58	Claim 9287 9318	Come right in. Come right over.
+T60	Claim 9319 9352	It’s a horrible thing she’s doing
+R65	Support Arg1:T57 Arg2:T58	
+R66	Attack Arg1:T60 Arg2:T58	
+R67	Support Arg1:T59 Arg2:T60	

@@ -1,0 +1,119 @@
+T699	Claim 1495 1532	We've got a good, common-sense policy
+T700	Claim 1303 1330	this is a reasonable policy
+T701	Premise 1331 1492	to protect old stands of trees and at the same time make sure our forests aren't vulnerable to the forest fires that have destroyed acres after acres in the West
+T702	Premise 284 402	Off-road diesel engines -- we have reached an agreement to reduce pollution from off-road diesel engines by 90 percent
+T703	Claim 404 457	I've got a plan to increase the wetlands by 3 million
+T704	Claim 459 566	We've got an aggressive brown field program to refurbish inner-city sore spots to useful pieces of property
+T705	Claim 569 701	I proposed to the United States Congress a Clear Skies Initiative to reduce sulfur dioxide, nitrogen oxide and mercury by 70 percent
+T706	Claim 704 882	I have -- was fought for a very strong title in the farm bill for the conservation reserve program to set aside millions of acres of land to help improve wildlife and the habitat
+T707	Claim 885 1047	We proposed and passed a healthy forest bill which was essential to working with -- particularly in Western states -- to make sure that our forests were protected
+T708	Premise 1050 1173	What happens in those forests, because of lousy federal policy, is they grow to be -- they are not -- they're not harvested
+T709	Premise 1175 1200	They're not taken care of
+T710	Premise 1206 1243	as a result, they're like tinderboxes
+T711	Premise 1250 1293	over the last summers I've flown over there
+T712	Premise 1562 1692	what I really think is going to happen over time is technology is going to change the way we live for the good for the environment
+T713	Claim 1970 2000	I'm a good steward of the land
+T714	Claim 1856 1900	I'm a big proponent of clean coal technology
+T715	Premise 1902 1949	to make sure we can use coal but in a clean way
+T716	Claim 1706 1771	I proposed a hydrogen automobile -- hydrogen-generated automobile
+T717	Premise 1773 1842	We're spending $1 billion to come up with the technologies to do that
+T718	Claim 2003 2065	The quality of the air's cleaner since I've been the president
+T719	Claim 2067 2119	Fewer water complaints since I've been the president
+T720	Claim 2121 2175	More land being restored since I've been the president
+T721	Claim 2285 2378	the president, I don't think, is living in a world of reality with respect to the environment
+T722	Claim 2916 3021	when it comes to the issue of the environment, this is one of the worst administrations in modern history
+T723	Premise 3024 3224	The Clear Skies bill that he just talked about, it's one of those Orwellian names you pull out of the sky, slap it onto something, like "No Child Left Behind" but you leave millions of children behind
+T724	Claim 2526 2552	Labels don't mean anything
+T725	Premise 2555 2581	I supported welfare reform
+T726	Premise 2583 2644	I led the fight to put 100,000 cops on the streets of America
+T727	Premise 2646 2745	I've been for faith-based initiatives helping to intervene in the lives of young children for years
+T728	Premise 2747 2867	I was -- broke with my party in 1985, one of the first three Democrats to fight for a balanced budget when it was heresy
+T729	Claim 2870 2886	Labels don't fit
+T730	Claim 3226 3283	Here they're leaving the skies and the environment behind
+T731	Claim 3364 3431	the air would be cleaner than it is if you pass the Clear Skies act
+T732	Premise 3286 3362	If they just left the Clean Air Act all alone the way it is today, no change
+T733	Claim 3433 3454	We're going backwards
+T734	Premise 3466 3653	his environmental enforcement chief air-quality person at the EPA resigned in protest over what they're doing to what they are calling the new source performance standards for air quality
+T735	Claim 3656 3710	They're going backwards on the definition for wetlands
+T736	Claim 3712 3756	They're going backwards on the water quality
+T737	Claim 3849 3900	I'm going to be a president who believes in science
+T738	Premise 3759 3796	They pulled out of the global warming
+T739	Premise 3798 3814	declared it dead
+T740	Premise 3816 3846	didn't even accept the science
+T741	Claim 4181 4218	I think there's a better way to do it
+T742	Claim 3940 4045	had we joined the Kyoto treaty, which I guess he's referring to, it would have cost America a lot of jobs
+T743	Premise 4047 4142	It's one of these deals where, in order to be popular in the halls of Europe, you sign a treaty
+T744	Claim 4225 4250	I just told you the facts
+T745	Claim 4257 4341	The quality of the air is cleaner since I've been the president of the United States
+T746	Claim 4347 4404	we'll continue to spend money on research and development
+T747	Premise 4414 4616	I truly believe that's the way to get from how we live today to being able to live a standard of living that we're accustomed to and being able to protect our environment better, the use of technologies
+T748	Claim 4680 4707	the Kyoto treaty was flawed
+T749	Premise 4709 4723	I was in Kyoto
+T750	Premise 4729 4747	I was part of that
+T751	Premise 4749 4769	I know what happened
+T752	Claim 4775 4810	this president didn't try to fix it
+T753	Premise 4812 4836	He just declared it dead
+T754	Premise 4864 4921	we walked away from the work of 160 nations over 10 years
+T755	Claim 5060 5105	The president's done nothing to try to fix it
+T756	Claim 5107 5113	I will
+R1	Support Arg1:T708 Arg2:T707	
+R2	Support Arg1:T709 Arg2:T708	
+R3	Attack Arg1:T708 Arg2:T710	
+R4	Support Arg1:T701 Arg2:T700	
+R5	Support Arg1:T700 Arg2:T707	
+R6	Support Arg1:T699 Arg2:T700	
+R7	Support Arg1:T712 Arg2:T716	
+R8	Support Arg1:T717 Arg2:T716	
+R9	Support Arg1:T715 Arg2:T714	
+R10	Support Arg1:T714 Arg2:T717	
+R11	Support Arg1:T714 Arg2:T713	
+R12	Support Arg1:T716 Arg2:T713	
+R13	Support Arg1:T700 Arg2:T713	
+R14	Support Arg1:T707 Arg2:T713	
+R15	Support Arg1:T706 Arg2:T713	
+R16	Support Arg1:T713 Arg2:T720	
+R17	Support Arg1:T705 Arg2:T718	
+R18	Support Arg1:T704 Arg2:T720	
+R19	Support Arg1:T703 Arg2:T713	
+R20	Support Arg1:T702 Arg2:T718	
+T1	Premise 2380 2420	Now, if you're a Red Sox fan, that's OK.
+T2	Claim 2421 2456	But if you're a president, it's not
+R21	Attack Arg1:T2 Arg2:T1	
+R22	Support Arg1:T1 Arg2:T721	
+R23	Attack Arg1:T721 Arg2:T720	
+R24	Attack Arg1:T721 Arg2:T713	
+R25	Attack Arg1:T721 Arg2:T718	
+R26	Attack Arg1:T721 Arg2:T719	
+R27	Support Arg1:T724 Arg2:T729	
+R28	Support Arg1:T725 Arg2:T724	
+R29	Support Arg1:T726 Arg2:T724	
+R30	Support Arg1:T727 Arg2:T724	
+R31	Support Arg1:T728 Arg2:T724	
+R32	Support Arg1:T722 Arg2:T721	
+R33	Attack Arg1:T723 Arg2:T718	
+R34	Support Arg1:T723 Arg2:T730	
+R35	Attack Arg1:T731 Arg2:T732	
+R36	Support Arg1:T731 Arg2:T733	
+R37	Support Arg1:T734 Arg2:T733	
+R38	Attack Arg1:T731 Arg2:T734	
+R39	Support Arg1:T735 Arg2:T733	
+R40	Support Arg1:T736 Arg2:T733	
+R41	Support Arg1:T740 Arg2:T738	
+R42	Support Arg1:T739 Arg2:T738	
+R43	Support Arg1:T738 Arg2:T733	
+R44	Attack Arg1:T737 Arg2:T738	
+R45	Attack Arg1:T742 Arg2:T743	
+R46	Support Arg1:T742 Arg2:T741	
+R47	Support Arg1:T744 Arg2:T741	
+R48	Support Arg1:T745 Arg2:T744	
+R49	Support Arg1:T746 Arg2:T744	
+R50	Support Arg1:T747 Arg2:T746	
+R51	Attack Arg1:T748 Arg2:T742	
+R52	Support Arg1:T749 Arg2:T750	
+R53	Support Arg1:T750 Arg2:T751	
+R54	Support Arg1:T751 Arg2:T748	
+R55	Attack Arg1:T748 Arg2:T752	
+R56	Attack Arg1:T752 Arg2:T753	
+R57	Attack Arg1:T752 Arg2:T754	
+R58	Attack Arg1:T756 Arg2:T755	
+R59	Support Arg1:T755 Arg2:T752	

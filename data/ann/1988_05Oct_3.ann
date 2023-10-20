@@ -1,0 +1,49 @@
+T1	Claim 443 517	I have a very strong record on the environment in the United States Senate
+T2	Premise 530 589	I have a record where I voted for the superfund legislation
+T3	Premise 591 680	I have a record where I voted against my president on the override of the Clean Water Act
+T4	Premise 682 810	I have voted for the major pieces of environmental legislation that have come down and been voted on in the United States Senate
+T5	Claim 812 971	This administration - and I support this administration and its environmental efforts - has moved in the area for the first time to deal with the ozone problem
+T6	Premise 973 1072	We now have an international treaty, the treaty that is commonly referred to as the Montreal Treaty
+T7	Premise 1074 1150	For the first time we are talking about the impact of CO2 to the ozone layer
+T8	Claim 1152 1188	That's progress with the environment
+T9	Claim 1190 1225	We are committed to the environment
+T10	Premise 1227 1305	I take my children hiking and fishing, walking in the woods, in the wilderness
+T11	Claim 1307 1365	Believe me, we have a commit to preserving the environment
+T12	Premise 1367 1485	You bring up the environment, you can't help but think about the environmental policy of the governor of Massachusetts
+T13	Premise 1487 1527	He talks about being an environmentalist
+T14	Premise 1577 1708	The Boston Harbor - the Boston Harbor, which is the dirtiest waterway in America, tons of raw sewage go in there each and every day
+T15	Claim 1710 1783	What has the governor of Massachusetts done about that? Virtually nothing
+T16	Premise 1789 1904	then he has the audacity to go down to New Jersey and tell the people of New Jersey that he's against ocean dumping
+T17	Premise 1906 2021	This is the same governor that applied for a license to dump Massachusetts sewage waste off the coast of New Jersey
+T18	Claim 2023 2113	Who has the environmental record? Who has the environmental interest? George Bush and I do
+T19	Premise 2218 2372	I must say, when they talk about Boston Harbor and he says he hasn't done anything, the facts are he has a $6-billion program under way on waste treatment
+T20	Premise 2378 2556	it was this administration, their administration, that cut out the money early on to be able to clean up water, and made it impossible to move ahead at that time on Boston Harbor
+T21	Claim 2558 2646	We are the authors, the Democratic Party, of Clean Air, of Clean Water, of the superfund
+T22	Premise 2648 2722	I am one who played a very major role in passing the superfund legislation
+T23	Premise 2728 2834	every environmental organization that I know, every major one, has now endorsed the Dukakis-Bentsen ticket
+T24	Premise 2840 2994	I am one who has just received the environmental award in Texas for the work I've done to clean up the bays, to clean up the water, off the coast of Texas
+T25	Claim 3000 3066	I think we know well who's going to help clean up this environment
+T26	Premise 3068 3109	The record is there, the history is there
+T27	Claim 3115 3160	Dukakis and Bentsen will be committed to that
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T1	
+R3	Support Arg1:T4 Arg2:T1	
+R4	Support Arg1:T6 Arg2:T8	
+R5	Support Arg1:T7 Arg2:T8	
+R6	Support Arg1:T8 Arg2:T9	
+R7	Support Arg1:T10 Arg2:T11	
+R8	Support Arg1:T9 Arg2:T11	
+R10	Support Arg1:T12 Arg2:T15	
+R9	Attack Arg1:T18 Arg2:T13	
+R11	Support Arg1:T16 Arg2:T15	
+R12	Support Arg1:T17 Arg2:T15	
+R13	Equivalent Arg1:T18 Arg2:T11	
+R14	Attack Arg1:T19 Arg2:T15	
+R15	Support Arg1:T20 Arg2:T25	
+R16	Support Arg1:T22 Arg2:T21	
+R17	Support Arg1:T23 Arg2:T21	
+R18	Support Arg1:T24 Arg2:T21	
+R19	Support Arg1:T21 Arg2:T25	
+R20	Support Arg1:T26 Arg2:T25	
+R21	Support Arg1:T25 Arg2:T27	
+R22	Attack Arg1:T27 Arg2:T18	

@@ -1,0 +1,89 @@
+T599	Claim 430 529	I think the areas that I would bring are the things that Governor Bush emphasized when he picked me
+T600	Premise 141 194	We clearly come from different political perspectives
+T601	Premise 196 230	Joe is a Democrat from New England
+T602	Premise 232 276	I'm a Republican from the west, from Wyoming
+T603	Claim 282 324	I think that weighs into it to some extent
+T604	Premise 326 428	Clearly we're both in the positions we're in because of our personal relationships with our principals
+T605	Claim 775 876	I think that where there are differences between Joe and myself in terms of background and experience
+T606	Premise 878 1013	I clearly have spent a lot of time in executive positions running large organizations both in private business as well as in government
+T607	Claim 1019 1106	that is a set of qualifications that Governor Bush found attractive when he selected me
+T608	Premise 536 619	I have been White House Chief of Staff and ran the White House under President Ford
+T609	Premise 621 682	Spent ten years in the House, eight of that in the leadership
+T610	Premise 684 773	Served as Secretary of Defense, and then had significant experience in the private sector
+T611	Claim 1481 1573	I think what I would bring to the office of the vice presidency is a lifetime  's experience
+T612	Claim 3017 3054	I think that's what this is all about
+T613	Claim 3060 3095	I'm so proud to be his running mate
+T614	Claim 2720 2825	As vice president I think he's been the most effective vice president in the history of the United States
+T615	Claim 2830 3015	he has the right program to use the prosperity all the American people have earned to help particularly hard working middle-class families raise up their children to enjoy a better life
+T616	Premise 1575 1611	Growing up in a working class family
+T617	Premise 1613 1673	having the opportunity to go to a great public school system
+T618	Premise 1675 1748	then to go on to college and then to be drawn really by President Kennedy
+T619	Premise 1750 1818	as well as the values of service my family gave me, into public life
+T620	Premise 2108 2270	for the last 12 years as a member of the Senate of the United States focusing on national security questions, environmental protection, economic growth and values
+T621	Premise 2631 2718	In Congress he's been willing to take on the big interests and fight for average people
+T622	Premise 2573 2629	He volunteered for service in Vietnam from the beginning
+T623	Premise 2513 2543	His life is built on his faith
+T624	Premise 2440 2511	He's an outstanding person as a public official and as a private person
+T625	Claim 4686 4750	you haven't been as -- as consistent as you had been in the past
+T626	Premise 4562 4649	I know you're not responsible for having uttered any words of criticism of his religion
+T627	Claim 3834 3910	the view now that having joined with Al Gore on the ticket on the other side
+T628	Claim 3917 4021	the depth of conviction that we had admired before isn't quite as strong as it was, perhaps, in the past
+T629	Premise 3573 3682	Joe established an outstanding record, I thought, in his work on this whole question of violence in the media
+T630	Premise 3688 3750	the kinds of materials that were being peddled to our children
+T631	Premise 3756 3810	many of us on the Republican side admired him for that
+T632	Premise 4413 4560	We were especially disturbed, Joe, at a recent fundraiser you attended where there was a comedian that got up and criticized George Bush's religion
+T633	Claim 4766 4953	your good friends like Bill Bennett and others of us who had admired your firmness of purpose over the years have felt that you're not quite the crusader for that cause that you once were
+T634	Claim 5121 5322	if anybody has devoted his life to respecting the role of religion in American life and understands that Americans from the beginning of our history have turned to God for strength and purpose, it's me
+T635	Premise 5328 5370	any offense that was done, I apologize for
+T636	Premise 5490 5588	Al Gore and I have felt for a long time, first as parents and then only second as public officials
+T637	Claim 5595 5787	we cannot let America's parents stand alone in this competition that they feel they're in with Hollywood to raise their own kids and give their kids the faith and values they want to give them
+T638	Claim 5837 5947	John McCain and I actually requested the Federal Trade Commission report that came out three or four weeks ago
+T639	Premise 5948 6056	which proved conclusively that the entertainment industry was marketing adult-rated products to our children
+T640	Claim 6508 6599	We won't stop until the entertainment industry stops marketing its products to our children
+T641	Claim 5789 5835	I've been a consistent crusader on that behalf
+T642	Claim 6435 6487	We repeated that message when we went to Los Angeles
+T643	Premise 6489 6506	I repeat it today
+T644	Claim 6720 6758	Al Gore and I agree on most everything
+T645	Claim 6895 6983	I have not changed a single position since Al Gore nominated me to be his vice president
+T646	Premise 6796 6889	he said to me, be yourself, that  's why I chose you, don't change a single position you have
+T647	Premise 6216 6273	Al Gore and I said to the entertainment industry, stop it
+T648	Premise 6275 6376	If you don't stop it in six months, we'll ask the Federal Trade Commission to take action against you
+T649	Claim 6378 6433	There was no similar strong response from our opponents
+R1	Support Arg1:T608 Arg2:T599	
+R2	Support Arg1:T609 Arg2:T599	
+R3	Support Arg1:T610 Arg2:T599	
+R4	Support Arg1:T606 Arg2:T605	
+R5	Equivalent Arg1:T599 Arg2:T607	
+R6	Support Arg1:T616 Arg2:T611	
+R7	Support Arg1:T617 Arg2:T611	
+R8	Support Arg1:T618 Arg2:T611	
+R9	Support Arg1:T619 Arg2:T611	
+T1	Premise 1850 2102	I have had extraordinary opportunities, thanks again to those folks back home in Connecticut, Â as a state senator, attorney general trying to enforce the law to protect them and the environment and consumers, and to litigate on behalf of humans rights
+R10	Support Arg1:T624 Arg2:T614	
+R11	Support Arg1:T622 Arg2:T614	
+R12	Support Arg1:T621 Arg2:T614	
+R13	Support Arg1:T623 Arg2:T614	
+R14	Support Arg1:T615 Arg2:T614	
+R15	Attack Arg1:T628 Arg2:T631	
+R16	Support Arg1:T627 Arg2:T628	
+R17	Support Arg1:T630 Arg2:T631	
+R18	Support Arg1:T629 Arg2:T631	
+R19	Support Arg1:T632 Arg2:T628	
+R20	Support Arg1:T626 Arg2:T632	
+R21	Support Arg1:T625 Arg2:T628	
+R22	Support Arg1:T633 Arg2:T625	
+T2	Premise 5031 5103	et me talk about that joke about religion which I found very distasteful
+R23	Attack Arg1:T2 Arg2:T632	
+R24	Support Arg1:T635 Arg2:T634	
+R25	Attack Arg1:T634 Arg2:T632	
+R26	Support Arg1:T636 Arg2:T637	
+R27	Support Arg1:T638 Arg2:T637	
+R28	Support Arg1:T641 Arg2:T637	
+R29	Support Arg1:T639 Arg2:T638	
+R30	Support Arg1:T647 Arg2:T637	
+R31	Support Arg1:T648 Arg2:T637	
+R32	Support Arg1:T643 Arg2:T642	
+R33	Support Arg1:T642 Arg2:T637	
+R34	Support Arg1:T640 Arg2:T637	
+R35	Support Arg1:T645 Arg2:T644	
+R36	Support Arg1:T646 Arg2:T644	

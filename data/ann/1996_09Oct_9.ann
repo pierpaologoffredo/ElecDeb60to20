@@ -1,0 +1,134 @@
+T1	Question 8 286	Mr. Kemp, uh some are saying these days that something's gone terribly wrong with the American soul, that we've become too mean, too selfish, too uncaring and the spitting incident, how it was handled, the baseball players used as a recent example. What do you think about that?
+T2	Claim 294 493	Civility, responsibility, racial reconciliation, healing the wounds of our country has to be one of the greatest, most singularly important goals for this country here on the edge of the 21st Century
+T3	Premise 495 688	How in the name of American democracy can we say to eastern Europe that democratic capitalism will work there if we can't make it work in East L.A. or East Harlem or East Palo Alto, California?
+R1	Support Arg1:T3 Arg2:T2	
+T4	Premise 689 929	How can we tell South Africa and the new Mandela government that democracy and private property and limited government and the rule of law and civility will work there if it's not working in our own backyard here at home or the South Bronx?
+R2	Support Arg1:T4 Arg2:T2	
+T5	Premise 930 1003	How can America go into the next century and leave so many people behind?
+R3	Support Arg1:T5 Arg2:T2	
+T6	Claim 1516 1727	We need to create more jobs and more access to credit and capital and educational choice and opportunity for any man or woman and child to be what God meant them to be, not what Washington, D.C. wants them to be
+T7	Claim 1485 1514	We need to create more wealth
+R4	Support Arg1:T7 Arg2:T6	
+T8	Claim 1413 1483	We need more chairs, we need a bigger table, we need a greater banquet
+R5	Support Arg1:T8 Arg2:T7	
+T9	Claim 1387 1411	That's not America folks
+R6	Support Arg1:T9 Arg2:T8	
+T10	Premise 1210 1385	Kind of like musical chairs when we were young boys and girls growing up. And it seemed like when the music stopped the big guy elbowed out the little guy from that last chair
+R7	Support Arg1:T10 Arg2:T8	
+T11	Claim 1165 1208	It is a giant, in my opinion, zero sum game
+R8	Support Arg1:T11 Arg2:T8	
+T12	Premise 1004 1163	"USA Today," just few weeks ago did a study. They said the affluent are doing very well in America, the haves, the have-nots and the poor are being left behind
+R9	Support Arg1:T12 Arg2:T11	
+T13	Claim 1736 1918	I think Mr. Lehrer, that throughout much of his career, Jack Kemp has been a powerful and needed voice against the kind of coarseness and incivility that you refer to in the question
+R10	Support Arg1:T13 Arg2:T2	
+T14	Claim 1920 2041	I think it's an extremely valuable service to have a voice within the Republican party who says we ought to be one nation
+R11	Support Arg1:T14 Arg2:T13	
+T15	Claim 2043 2111	We ought to cross all of the racial and ethnic and cultural barriers
+T16	Claim 2113 2164	I think that is a very important message to deliver
+R12	Support Arg1:T16 Arg2:T15	
+T17	Claim 2170 2247	we ought to speak out against these violations of civility when they do occur
+R13	Support Arg1:T17 Arg2:T16	
+T18	Claim 2347 2427	I think he should have been severely disciplined, suspended perhaps, immediately
+T19	Premise 2429 2570	I don't understand why that action was not taken, but the same could be said of so many incidents in all kinds of institutions in our society
+R14	Support Arg1:T19 Arg2:T18	
+T20	Claim 2576 2674	I compliment Mr. Kemp for the leadership he has shown in moving us away from that kind of attitude
+R15	Support Arg1:T20 Arg2:T13	
+T21	Claim 2779 2898	That civility cannot return to our country unless every person feels that they have an equal shot at the American dream
+T22	Premise 2900 3088	That if you're born in this country to be a mezzo-soprano or a master carpenter or a school teacher, like my daughter, or a professional football quarterback, nothing should be in your way
+R16	Support Arg1:T22 Arg2:T21	
+R17	Attack Arg1:T21 Arg2:T17	
+T23	Claim 3094 3201	removing those barriers is what Bob Dole is all about, moving our country forward and leaving no one behind
+R18	Support Arg1:T21 Arg2:T23	
+T24	Question 3212 3416	Mr. Vice President, do you agree with that thesis that in order to solve the problem of civility, the problems of the American soul, you have to -- it's an economic problem more than it is something else?
+T25	Claim 3424 3504	I think that economics is one of the single most important parts of this problem
+T26	Claim 3506 3614	That's why we're focusing on tax credits, to hire 1 million more people coming off welfare in the inner city
+R19	Support Arg1:T26 Arg2:T25	
+T27	Claim 3616 3838	That's why we're focusing on an economic policy that has already created ten and a half million new jobs and is going to create millions more within the context, again, of a balanced budget that protects important programs
+T28	Claim 3840 3895	We have focused especially on the most distressed areas
+T29	Premise 3905 3934	we cannot leave anyone behind
+R20	Support Arg1:T27 Arg2:T25	
+R21	Support Arg1:T28 Arg2:T27	
+R22	Support Arg1:T29 Arg2:T28	
+T30	Premise 3936 4200	Our empowerment zones and enterprise communities, the tax credits that will encourage the formation of new businesses, the new approach by the small business administration to get more loans out to individuals that have not had equal access to capital in the past.
+R23	Support Arg1:T30 Arg2:T28	
+T31	Premise 4302 4494	And the -- and the law that says deposits that are made in a community, in the inner cities say, should be kept in the community, not entirely, but some percentage of them should be kept there
+T32	Premise 4496 4620	That prevents that money being taken from the community and invested in some go-go investment on the other side of the world
+R24	Support Arg1:T31 Arg2:T32	
+T33	Premise 4626 4767	when they invest in the community, they find that there's a better payback rate, more small businesses are created and the community improves
+R25	Support Arg1:T32 Arg2:T33	
+R26	Support Arg1:T33 Arg2:T28	
+T34	Claim 4900 4977	There really is no separation between a strong community and a strong economy
+T35	Claim 4983 5061	you can't have a strong economy without strong communities and strong families
+T36	Premise 5063 5150	The word "economics" in Greek came from the word family, or law or custom of the family
+R27	Support Arg1:T36 Arg2:T35	
+T37	Premise 5152 5603	A family without a job where both breadwinners are away from home and cannot spend time with their children or can't send the child to the school of their choice rather than just the choice of the federal bureaucracy, cannot possibly be as strong as a family that has the nurture, the love, the dignity and the justice that goes along with one breadwinner, a strong job, and if that man or woman wants to work, it's their choice, not just to pay taxes
+R28	Support Arg1:T37 Arg2:T35	
+T38	Claim 5622 5760	We need strong commun -- we need strong schools, we need schools that nurture the type of discipline and respect from teachers and parents
+T39	Claim 5766 5836	Bob Dole wants to empower the public school districts and the teachers
+R29	Support Arg1:T34 Arg2:T35	
+R30	Support Arg1:T38 Arg2:T39	
+R31	Support Arg1:T34 Arg2:T25	
+R32	Support Arg1:T35 Arg2:T39	
+T40	Premise 5911 5985	Senator Dole has said that he wants to abolish the Department of Education
+T41	Premise 5987 6030	He voted against the creation of Head Start
+T42	Premise 6032 6154	He vigorously opposed the Family and Medical Leave Act, which was the first law that President Clinton signed as president
+T43	Premise 6161 6285	Senator Dole has suggested he would repeal the Family and Medical Leave Act if he had the chance if he was elected president
+T44	Claim 6287 6405	We believe in more educational opportunity and measures to strengthen families, not restrict their access to education
+R33	Attack Arg1:T40 Arg2:T39	
+T45	Claim 5838 5896	not the federal bureaucracy at the Department of Education
+R34	Attack Arg1:T39 Arg2:T45	
+R35	Attack Arg1:T41 Arg2:T39	
+R36	Attack Arg1:T42 Arg2:T39	
+R37	Support Arg1:T43 Arg2:T42	
+R38	Attack Arg1:T44 Arg2:T39	
+T46	Question 6416 6539	Mr. Kemp, speaking of the family, where do you come down on it? Do you believe it should be repealed? The Family Leave Act?
+T47	Claim 6547 6575	I wouldn't have voted for it
+T48	Premise 6592 6687	Their answer, this administration to every single problem is another regulation and another tax
+R39	Support Arg1:T48 Arg2:T47	
+T49	Premise 6721 6843	I am astounded to think that you can have a strong Family Leave Act or policy by a business if they're not making a profit
+T50	Premise 6845 6874	If there aren't a lot of jobs
+T51	Premise 6876 7064	if there isn't the types of policies that will enhance the formation of the seed corn and the oxygen and the capital that would allow that company not only retain that profit but invest it
+R40	Support Arg1:T50 Arg2:T49	
+R41	Support Arg1:T51 Arg2:T49	
+R42	Support Arg1:T49 Arg2:T47	
+T52	Premise 7069 7361	I said earlier, Dana Crist of Lancaster, Pennsylvania who runs a small little manufacturing or distribution center in Lancaster, said that she as an entrepreneur, would start a whole new factory if the federal government would cut the cost of capital. She wants the capital gains rate reduced
+R43	Support Arg1:T52 Arg2:T47	
+T53	Claim 7371 7438	to Al Gore and Bill Clinton that is somehow, trickle-down economics
+R44	Attack Arg1:T52 Arg2:T53	
+T54	Premise 7440 7538	Tell that to Dana Crist, tell it to Van Woods, tell it to the men and women I met in South Central
+R45	Attack Arg1:T54 Arg2:T53	
+T55	Premise 7540 7614	Tell it to anybody who understands how to makes democratic capitalism work
+R46	Attack Arg1:T55 Arg2:T53	
+T56	Claim 7648 7985	The real excitement of a Dole/Kemp Administration would be to get out of this current tax code that redistributes wealth and create a brand new system for the 21st Century that's pro-family, pro-growth and stops the double, triple and quadruple taxation of income from work, savings, investment and entrepreneurial risk taking in America
+R47	Support Arg1:T47 Arg2:T56	
+T57	Premise 8080 8296	If you have a child who is critically ill or has been seriously injured and you have to stay with that child in the hospital, some employers, have said you can't take too much time off in spite of these circumstances
+T58	Premise 8298 8394	I personally know people who have been fired because they made the choice to be with their child
+T59	Premise 8431 8470	It happens all across the United States
+T60	Premise 8476 8656	since Bill Clinton made this the first law he signed, it has been use 12 million times by American families to reconcile the demands of work with the responsibilities to the family
+R48	Support Arg1:T59 Arg2:T60	
+R49	Support Arg1:T58 Arg2:T60	
+R50	Support Arg1:T57 Arg2:T60	
+T61	Claim 8658 8733	We now want to extend it to PTA meetings and scheduled doctors appointments
+R51	Support Arg1:T60 Arg2:T61	
+T62	Claim 8735 8759	It shouldn't be repealed
+T63	Claim 8761 8784	It ought to be extended
+T64	Premise 8786 8867	75 percent of businesses who have been -- had experience with it say they like it
+T65	Claim 8869 8877	It works
+R52	Support Arg1:T64 Arg2:T65	
+R53	Support Arg1:T65 Arg2:T63	
+R54	Support Arg1:T65 Arg2:T61	
+R55	Support Arg1:T61 Arg2:T62	
+R56	Support Arg1:T61 Arg2:T63	
+T66	Claim 8892 8962	it was here before Bill Clinton and it will be here after Bill Clinton
+T67	Premise 8964 9143	Senator Tsongas a good friend of Senator Gore, Vice President Gore suggested that he was afraid his party was falling into the trap of loving the employee, but hating the employer
+T68	Claim 9145 9185	You cannot love labor and hate employers
+R57	Attack Arg1:T68 Arg2:T67	
+T69	Claim 9187 9245	You cannot drive this wedge between workers and management
+T70	Premise 9251 9289	businesses were providing family leave
+R58	Attack Arg1:T69 Arg2:T67	
+T71	Claim 9324 9527	They've got to make a profit and the tax on business, capital, labor and families is too high and it will -- we want to reduce that regulatory burden and that tax burden in a new Dole/Kemp Administration
+R59	Support Arg1:T70 Arg2:T71	
+T72	Claim 9291 9309	They will continue
+R60	Support Arg1:T72 Arg2:T71	
+T73	Claim 9311 9322	They should
+R61	Support Arg1:T73 Arg2:T71	

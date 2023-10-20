@@ -1,0 +1,38 @@
+T1	Premise 825 904	Gov. Dukakis and I have disagreed on the contra program; no question about that
+T2	Claim 910 1032	my big difference with this Administration is, they look at the contra aid program as the only way to resolve that problem
+T3	Claim 1064 1109	I really think we have to give peace a chance
+T4	Claim 1115 1256	that's why I have been a strong supporter of the Arias plan, a plan that won the Nobel Prize for President Arias, the President of Costa Rica
+R1	Support Arg1:T3 Arg2:T4	
+T5	Claim 1258 1506	I believe you have to work with the leaders of those other Central American countries to try to bring about the democratization of Nicaragua - by negotiation, by pressure, by counseling, by diplomatic pressure, that we ought to be trying that first
+T6	Premise 1512 1638	in concentrating so much just on the Contras, this Administration has not paid enough attention to the rest of Central America
+R2	Attack Arg1:T6 Arg2:T5	
+R3	Support Arg1:T5 Arg2:T4	
+T7	Premise 1640 1871	The concern I have is that we have a country with 85 million people sharing a 2,000mile border with us, with half of those people under the age of 15, a country that's had its standard of living cut 50 percent in the last six years
+T8	Claim 1877 1941	we ought to be concerned about that, and we ought to be involved
+T9	Premise 1943 1987	I was born and reared on that Mexican border
+T10	Premise 1989 2011	I speak their language
+T11	Premise 2013 2057	I've spent a good part of my life down there
+T12	Premise 2059 2091	Gov. Dukakis speaks Spanish, too
+T13	Premise 2093 2152	He's spent a good deal of time in Central and South America
+T14	Claim 2158 2430	we believe that we ought to be working with a new Alliance for Progress, bringing in other countries to help; bring in Europeans, the Spanish, who have a real affinity for that area; bringing in the Japanese who have a great surplus now and looking for places to invest it
+T15	Claim 2432 2644	Those are the positive things I think we could do to bring about peace in that area, to help raise that standard of living and give them the kind of stability where democracy can proceed and can prosper and bloom
+T16	Claim 2646 2795	Those are the kinds of things that we'd be committed to in a Dukakis-Bentsen Administration to try to make this world a better place in which to live
+R4	Support Arg1:T7 Arg2:T5	
+T17	Claim 2846 2987	There's no doubt in a Dukakis Administration that the aid would be cut off to the democratic resistance in Nicaragua, and that is unfortunate
+T18	Premise 2989 3241	The reason it is unfortunate, because it is beyond me why it's okay for the Soviet Union to put in billions of dollars to prop up the communist Sandinistas, but somehow it's wrong for the United States to give a few dollars to the democratic resistance
+R5	Support Arg1:T18 Arg2:T17	
+T19	Premise 3243 3360	There's a thing called the Monroe Doctrine, something that the Governor of Massachusetts has said has been superseded
+T20	Claim 3362 3403	I doubt if many Americans agree with that
+T21	Claim 3405 3448	I think they believe in the Monroe Doctrine
+T22	Premise 3450 3505	Senator Bentsen talked about the entire Central America
+T23	Claim 3507 3600	There's another issue that Michael Dukakis is wrong on in Central America, and that's Grenada
+T24	Premise 3602 3672	He criticized our rescue mission in Grenada, according to a UPI report
+R6	Support Arg1:T24 Arg2:T23	
+T25	Premise 3674 3820	Criticized that, yet 85 percent of the American people supported our rescue mission, and we turned a communist country into a noncommunist country
+R7	Support Arg1:T25 Arg2:T23	
+T26	Claim 3822 3897	The Governor of Massachusetts is simply out of step with mainstream America
+R8	Support Arg1:T23 Arg2:T26	
+R9	Support Arg1:T22 Arg2:T23	
+R10	Support Arg1:T21 Arg2:T26	
+R11	Support Arg1:T20 Arg2:T26	
+R12	Support Arg1:T19 Arg2:T21	

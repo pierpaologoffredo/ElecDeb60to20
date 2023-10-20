@@ -1,0 +1,72 @@
+T92	Claim 605 677	reinstating what President Bush took away, which is called pay as you go
+T93	Premise 679 723	During the 1990s, we had pay-as-you-go rules
+T94	Premise 725 835	If you were going to pass something in the Congress, you had to show where you are going to pay for it and how
+T95	Premise 838 862	President Bush has taken
+T96	Premise 866 911	he's the only president in history to do this
+T97	Premise 913 966	He's also the only president in 72 years to lose jobs
+T98	Premise 994 1078	He's the only president to have incomes of families go down for the last three years
+T99	Premise 973 992	6 million jobs lost
+T100	Premise 1080 1121	the only president to see exports go down
+T101	Premise 1123 1218	the only president to see the lowest level of business investment in our country as it is today
+T102	Claim 1279 1343	We're going to restore the fiscal discipline we had in the 1990s
+T104	Claim 1226 1251	I'm going to reverse that
+T105	Claim 1253 1277	I'm going to change that
+T106	Premise 2461 2506	This president has never once vetoed one bill
+T107	Premise 2508 2561	the first president in a hundred years not to do that
+T108	Claim 1586 1713	we start by rolling back George Bush's unaffordable tax cut for the wealthiest people, people earning more than $200,000 a year
+T109	Premise 1719 1816	we pass, hopefully, the McCain-Kerry Commission which identified some $60 billion that we can get
+T110	Claim 2106 2161	I'm going to stand up and fight for the American worker
+T111	Claim 2167 2217	I am going to do it in a way that's fiscally sound
+T112	Claim 2219 2285	I show how I pay for the health care, how we pay for the education
+T113	Premise 1819 1913	We shut the loophole which has American workers actually subsidizing the loss of their own job
+T114	Premise 1915 1982	They just passed an expansion of that loophole in the last few days
+T115	Premise 2288 2322	I have a manufacturing jobs credit
+T116	Premise 2402 2458	I pay for it by changing the relationship with the banks
+T117	Premise 2374 2400	We raise the student loans
+T118	Premise 2324 2372	We pay for it by shutting that loophole overseas
+T119	Claim 2604 2641	his rhetoric doesn't match his record
+T120	Premise 2675 2710	He voted to increase taxes 98 times
+T121	Premise 2712 2776	When they tried to reduce taxes, he voted against that 127 times
+T122	Premise 2862 2905	he voted 277 times to waive the budget caps
+T123	Claim 3464 3491	I propose a detailed budget
+T124	Claim 3620 3716	It requires pro-growth policies that grow our economy and fiscal sanity in the halls of Congress
+T126	Premise 2643 2673	He been a senator for 20 years
+T128	Premise 2778 2839	He talks about being a fiscal conservative, or fiscally sound
+T129	Premise 2907 2945	which would have cost the taxpayers $4
+T130	Premise 2960 2980	He talks about PAYGO
+T131	Premise 3014 3147	when you're a senator from Massachusetts, when you're a colleague of Ted Kennedy, pay go means: You pay, and he goes ahead and spends
+T132	Premise 3150 3166	He's proposed $2
+T133	Premise 3168 3194	2 trillion of new spending
+T134	Premise 3204 3371	the so-called tax on the rich, which is also a tax on many small-business owners in America, raises $600 million by our account -- billion, $800 billion by his account
+T135	Claim 3374 3392	There is a tax gap
+T136	Premise 3398 3461	guess who usually ends up filling the tax gap? The middle class
+T137	Premise 3498 3537	I sent up my budget man to the Congress
+T138	Premise 3543 3618	he says, here's how we're going to reduce the deficit in half by five years
+R1	Support Arg1:T104 Arg2:T92	
+R2	Support Arg1:T105 Arg2:T92	
+R3	Support Arg1:T102 Arg2:T92	
+R4	Support Arg1:T108 Arg2:T92	
+R5	Support Arg1:T109 Arg2:T108	
+R6	Support Arg1:T113 Arg2:T108	
+R7	Support Arg1:T114 Arg2:T113	
+T1	Premise 1984 2103	$43 billion of giveaways, including favors to the oil and gas industry and the people importing ceiling fans from China
+R8	Support Arg1:T1 Arg2:T114	
+R9	Support Arg1:T94 Arg2:T93	
+R10	Support Arg1:T126 Arg2:T119	
+R11	Support Arg1:T120 Arg2:T119	
+R12	Support Arg1:T121 Arg2:T119	
+R13	Attack Arg1:T122 Arg2:T128	
+R14	Attack Arg1:T129 Arg2:T128	
+R15	Attack Arg1:T122 Arg2:T111	
+R16	Support Arg1:T115 Arg2:T111	
+R17	Support Arg1:T112 Arg2:T111	
+R18	Support Arg1:T111 Arg2:T110	
+R19	Support Arg1:T118 Arg2:T111	
+R20	Support Arg1:T117 Arg2:T111	
+R21	Support Arg1:T116 Arg2:T117	
+R22	Attack Arg1:T134 Arg2:T108	
+R23	Attack Arg1:T131 Arg2:T92	
+R24	Support Arg1:T136 Arg2:T135	
+R25	Support Arg1:T135 Arg2:T123	
+R26	Support Arg1:T137 Arg2:T123	
+R27	Attack Arg1:T124 Arg2:T138	

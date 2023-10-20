@@ -1,0 +1,39 @@
+T1	Question 8 95	Mr. Vice President, should federal government Affirmative Action programs be continued?
+T2	Claim 186 226	Diversity is a great strength in America
+T3	Premise 228 410	Look around the world at other places where they have not paid attention to the necessity of promoting harmony of, between different ethnic, racial and religious, and cultural groups
+R1	Support Arg1:T3 Arg2:T2
+T4	Claim 482 512	we've made tremendous progress
+T5	Claim 518 568	we ought to recognize that we have more work to do
+T6	Claim 575 754	the first thing that we are trying to do is to create a million new jobs in the inner cities of this country, with tax credits for employers who hire people who are now unemployed
+R2	Support Arg1:T6 Arg2:T5
+T7	Claim 756 835	We are seeking to have vigorous enforcement of the laws that bar discrimination
+T8	Premise 965 1208	it is with some sadness that I refer to the fact that the day after he joined Senator Dole's ticket, he announced that he was changing his position and was hereto, thereafter going to adopt Senator Dole's position to end all affirmative action
+T9	Claim 1210 1241	That's not good for our country
+R3	Support Arg1:T8 Arg2:T9
+T10	Claim 1243 1425	Bill Clinton and I believe that the United States of America has its brightest days ahead, and we will see them even brighter if we promote diversity and harmony among all our people
+R4	Support Arg1:T9 Arg2:T10
+T11	Claim 1458 1578	my position on Affirmative Action has been clear ever since I left the professional football career for Congress in 1970
+R5	Attack Arg1:T11 Arg2:T8
+T12	Claim 1657 1772	My life has been dedicated to equality of opportunity and our democracy should provide that, not equality of reward
+R6	Support Arg1:T12 Arg2:T11
+T13	Claim 1778 1876	Affirmative Action should be predicated upon need, not equality of reward, not equality of outcome
+T14	Claim 1878 1928	Quotas have always been against the American ideal
+T15	Claim 1930 2017	We should promote diversity and we should do it the way Bob Dole has been talking about
+R7	Support Arg1:T14 Arg2:T15
+R8	Support Arg1:T13 Arg2:T15
+T16	Premise 2019 2380	with a new civil rights agenda, based upon expanding access to credit and capital, job opportunities, educational choice in our inner cities for a young urban mother who can't get the type of an education she wants for her child, and, ultimately, the type of ownership and entrepreneurship from public housing in, D.C. to Nickerson Gardens in Watts, Los Angeles
+R9	Support Arg1:T16 Arg2:T15
+T17	Premise 2382 2400	People need to own
+T18	Premise 2406 2442	that's what Abraham Lincoln believed
+R10	Support Arg1:T17 Arg2:T15
+R11	Support Arg1:T18 Arg2:T15
+T19	Premise 2444 2515	That when people own something, they have a stake in the American dream
+T20	Claim 2517 2554	That is Affirmative Action in America
+R12	Support Arg1:T20 Arg2:T15
+T21	Claim 2614 2720	I do not believe that Abraham Lincoln would have adopted Bob Dole's position to end all affirmative action
+R13	Attack Arg1:T21 Arg2:T18
+T22	Premise 2722 3008	There is a specific measure on the ballot in California. It was embodied in legislation, introduced by Senator Dole, to apply to the whole nation. Mr. Kemp campaigned against it, spoke against it, wrote letters against it, went to California to fight against it, and now has endorsed it
+T23	Claim 3010 3043	I don't think it's a minor matter
+T24	Claim 3045 3140	I think this is one of the most important challenges that our country has to face in the future
+R14	Support Arg1:T22 Arg2:T21
+R15	Support Arg1:T23 Arg2:T24

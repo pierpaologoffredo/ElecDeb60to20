@@ -1,0 +1,38 @@
+T265	Claim 464 576	if you let me write $200 billion worth of hot checks every year, I could give you an illusion of prosperity, too
+T266	Claim 602 720	This is an administration that has more than doubled the national debt, and they've done that in less than eight years
+T267	Premise 722 832	They have taken this country from the No. 1 lender nation in the world to the No. 1 debtor nation in the world
+T268	Premise 838 1025	the interest on that debt next year, on this Reagan-Bush debt of our nation, is going to be $640 for every man, woman, and child in America because of this kind of a credit-card mentality
+T269	Claim 1030 1128	we go out and we try to sell our securities every week, and hope that the foreigners will buy them
+T270	Claim 1156 1232	every time they do, we lose some of our economic independence for the future
+T271	Premise 1134 1150	they do buy them
+T272	Claim 2052 2241	We need an administration that will turn this trade policy around and open up those markets, stand tough with our trading partners to help keep the jobs at home and send the products abroad
+T273	Claim 1862 2050	what we need in this country is someone like Mike Dukakis, who gave ten balanced budgets in a row there, and was able to do that, meet that kind of a commitment, set those tough priorities
+T274	Claim 1749 1802	The ultimate irony would be to have that happen to us
+T275	Premise 1812 1857	foreigners finally quit buying our securities
+T276	Claim 2490 2549	I don't believe that that's the kind of policy that we want
+T277	Claim 2823 2859	we are going to build on that change
+T279	Claim 3012 3117	We are proud of the record of accomplishment and the opportunities and the hope for millions of Americans
+T281	Premise 2652 2678	we have changed since 1980
+T282	Premise 2680 2817	We've got interest rates down, we've got inflation down, people are working again, America is held in respect once again around the world
+T283	Premise 2334 2488	the governor of Massachusetts has run up more debt than all the governors in the history of Massachusetts combined, going back to the days of the Pilgrims
+T284	Claim 2865 3010	as we made those positive changes of lower interest rates, lower rate of inflation, the governor of Massachusetts fought us every step of the way
+T285	Claim 3119 3291	Hope and opportunity of these Americans is because of the policies that we have had for the last eight years, and we want to build on that and change it for even the better
+R1	Support Arg1:T265 Arg2:T266
+R2	Support Arg1:T267 Arg2:T266
+R3	Support Arg1:T268 Arg2:T266
+R4	Support Arg1:T269 Arg2:T266
+R5	Support Arg1:T275 Arg2:T274
+R6	Support Arg1:T274 Arg2:T270
+R7	Support Arg1:T270 Arg2:T273
+R8	Support Arg1:T266 Arg2:T273
+R9	Support Arg1:T272 Arg2:T273
+T1	Premise 1479 1747	when we have other countries that can't manage their economy down in Central and South America, we send down the American ambassador, we send down the International Monetary Fund, and we tell them what they can buy and what they can sell and how to run their economies
+R10	Support Arg1:T1 Arg2:T274
+R11	Support Arg1:T283 Arg2:T276
+R12	Attack Arg1:T276 Arg2:T273
+R13	Support Arg1:T282 Arg2:T281
+R14	Support Arg1:T281 Arg2:T277
+R15	Support Arg1:T277 Arg2:T279
+R16	Support Arg1:T284 Arg2:T279
+R17	Support Arg1:T279 Arg2:T285
+R18	Attack Arg1:T285 Arg2:T266

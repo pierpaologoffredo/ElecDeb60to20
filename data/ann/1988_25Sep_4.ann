@@ -1,0 +1,162 @@
+T244	Premise 1154 1293	He introduced or supported legislation back then that suggested that kids of Massachusetts should be exempt from going overseas in that war
+T245	Premise 1370 1404	we have a big difference on issues
+T246	Claim 1646 1667	He is very passionate
+T248	Premise 1524 1580	Then he said, "I am a card-carrying member of the ACLU."
+T247	Claim 1703 1746	do we want this country to go that far left
+T249	Premise 1669 1701	My argument with the governor is
+T251	Claim 1794 1822	I salute him for his passion
+T252	Premise 1824 1889	We just have a big difference on where this country should be led
+T253	Claim 1895 1927	in what direction it ought to go
+T254	Premise 1467 1522	He said, "I am a strong liberal Democrat" - August, '87
+T255	Claim 1604 1644	He is out there on out of the mainstream
+T256	Claim 1415 1465	last year in the primary, he expressed his passion
+T257	Claim 2706 2728	Nothings wrong with it
+T258	Claim 4523 4664	I hope people don't think that I'm questioning his patriotism when I say he used his words to describe his participation in that organization
+T259	Claim 4470 4517	that's all I'm trying to do, is put it in focus
+T260	Claim 4235 4285	I believe that's not what the American people want
+T261	Premise 4305 4464	when he said at the convention, ideology doesn't matter, just competence, he was moving away from his own record, from what his passion has been over the years
+T262	Claim 4128 4174	I am questioning his judgment on these matters
+T263	Premise 4179 4229	where he's coming from He has every right to do it
+T264	Claim 4118 4126	I am not
+T265	Premise 4077 4116	then all the liberal columnists join in
+T266	Claim 3978 4012	I'm not questioning his patriotism
+T267	Premise 4014 4071	He goes out and says the man is questioning my patriotism
+T268	Claim 3943 3976	Governor Thompson of Illinois did
+T269	Claim 3903 3941	I'd have found a way to sign that bill
+T270	Claim 3772 3828	I think I'm more in touch with the mainstream of America
+T271	Premise 3830 3892	They raised the same thing with me on the Pledge of Allegiance
+T272	Claim 3737 3766	I come from a different point
+T273	Claim 3712 3735	I don't agree with that
+T274	Claim 3620 3662	He has every right to exercise his passion
+T275	Premise 3664 3710	as what he said, a strong, progressive liberal
+T276	Claim 3595 3618	I don't agree with them
+T277	Claim 3430 3487	I don't want to see the kiddie pornographic laws repealed
+T278	Claim 3489 3547	I don't want to see "under God" come out from our currency
+T279	Claim 3554 3589	these are all positions of the ACLU
+T280	Claim 3338 3428	I don't think they're right to try to take the tax exemption away from the Catholic Church
+T281	Claim 3308 3336	I like those ratings systems
+T282	Claim 3239 3306	I don't want my ten year old grandchild to go into an X-rated movie
+T283	Claim 3189 3237	I simply don't want to see the ratings on movies
+T284	Claim 3124 3187	I don't agree with a lot of - most of the positions of the ACLU
+T285	Claim 2997 3039	I've seen it authoritatively written twice
+T286	Claim 3098 3118	I'm very, very sorry
+T287	Premise 3045 3096	if I've done him an injustice, and he didn't say it
+T288	Claim 2964 2995	he can repudiate it, right here
+T289	Premise 2939 2962	if that quote was wrong
+T290	Claim 2812 2861	the liberals do not like me talking about liberal
+T291	Premise 2734 2779	just take a look at the positions of the ACLU
+T292	Claim 2862 2932	They don't like it when I say that he says he's a card carrying member
+T293	Claim 4832 4877	I don't think there's any question about that
+T294	Claim 4783 4830	the vice president is questioning my patriotism
+T295	Claim 4883 4894	I resent it
+T297	Premise 5071 5086	I believe in it
+T298	Premise 5020 5041	I'm in public service
+T299	Premise 5050 5069	I love this country
+T300	Claim 5381 5499	To the best of my knowledge he's never once suggested that a session of the Senate begin with the Pledge of Allegiance
+T301	Premise 5175 5266	The fact of the matter is if the Pledge of Allegiance was the acid test of one's patriotism
+T302	Premise 5268 5379	the vice president's been the presiding officer in the United States Senate for the past seven and a half years
+T303	Claim 5614 5653	I immediately said it was inappropriate
+T304	Claim 5655 5687	it had no place in this campaign
+T305	Claim 5693 5706	I rejected it
+T306	Premise 5567 5612	When you're attacked for your military record
+T307	Claim 5746 5863	we get to the issues that affect the vast majority of Americans, jobs, schools, health care, housing, the environment
+T1	Claim 4896 4907	I resent it
+T2	Premise 1052 1080	I don't question his passion
+T3	Premise 1099 1153	I don't question his concern about the war in Vietnam.
+R1	Support Arg1:T3 Arg2:T244	
+T4	Claim 1300 1324	that's a certain passion
+T5	Claim 1325 1363	that in my view it's misguided passion
+R2	Support Arg1:T2 Arg2:T4	
+R3	Attack Arg1:T5 Arg2:T4	
+R4	Attack Arg1:T5 Arg2:T244	
+R5	Support Arg1:T245 Arg2:T256	
+R6	Support Arg1:T256 Arg2:T246	
+R7	Support Arg1:T254 Arg2:T248	
+R8	Support Arg1:T248 Arg2:T255	
+R9	Support Arg1:T255 Arg2:T246	
+R10	Attack Arg1:T5 Arg2:T246	
+R11	Attack Arg1:T249 Arg2:T247	
+T6	Claim 1752 1788	I wish we had time to let me explain
+R12	Attack Arg1:T247 Arg2:T246	
+R13	Support Arg1:T251 Arg2:T246	
+R14	Support Arg1:T252 Arg2:T253	
+R15	Support Arg1:T253 Arg2:T247	
+R16	Attack Arg1:T291 Arg2:T257	
+R17	Support Arg1:T290 Arg2:T292	
+R18	Support Arg1:T289 Arg2:T287	
+R19	Support Arg1:T289 Arg2:T286	
+R20	Support Arg1:T287 Arg2:T286	
+R22	Support Arg1:T292 Arg2:T285	
+R21	Support Arg1:T285 Arg2:T287	
+R23	Attack Arg1:T288 Arg2:T289	
+R24	Attack Arg1:T284 Arg2:T257	
+R25	Attack Arg1:T284 Arg2:T291	
+R26	Support Arg1:T283 Arg2:T281	
+R27	Support Arg1:T283 Arg2:T282	
+R28	Support Arg1:T282 Arg2:T281	
+R29	Support Arg1:T281 Arg2:T284	
+R30	Support Arg1:T280 Arg2:T284	
+R31	Support Arg1:T278 Arg2:T280	
+R32	Support Arg1:T278 Arg2:T284	
+R33	Support Arg1:T277 Arg2:T284	
+R34	Attack Arg1:T276 Arg2:T279	
+R35	Attack Arg1:T284 Arg2:T279	
+R36	Support Arg1:T277 Arg2:T279	
+R37	Support Arg1:T278 Arg2:T279	
+R38	Support Arg1:T280 Arg2:T279	
+R39	Support Arg1:T283 Arg2:T279	
+R40	Support Arg1:T275 Arg2:T274	
+R41	Attack Arg1:T273 Arg2:T275	
+R42	Attack Arg1:T273 Arg2:T274	
+R43	Support Arg1:T272 Arg2:T270	
+R44	Support Arg1:T271 Arg2:T269	
+R45	Support Arg1:T268 Arg2:T269	
+R46	Support Arg1:T271 Arg2:T270	
+R47	Support Arg1:T265 Arg2:T267	
+R48	Support Arg1:T264 Arg2:T266	
+R49	Attack Arg1:T267 Arg2:T266	
+R50	Attack Arg1:T265 Arg2:T266	
+R51	Support Arg1:T263 Arg2:T262	
+R52	Support Arg1:T272 Arg2:T262	
+R53	Support Arg1:T260 Arg2:T270	
+R54	Support Arg1:T260 Arg2:T273	
+R55	Attack Arg1:T260 Arg2:T263	
+R56	Attack Arg1:T260 Arg2:T279	
+R57	Support Arg1:T261 Arg2:T263	
+R58	Support Arg1:T261 Arg2:T274	
+R59	Attack Arg1:T262 Arg2:T261	
+R60	Support Arg1:T261 Arg2:T259	
+R61	Support Arg1:T259 Arg2:T258	
+R62	Support Arg1:T258 Arg2:T266	
+R63	Support Arg1:T293 Arg2:T294	
+R64	Support Arg1:T295 Arg2:T294	
+R65	Attack Arg1:T294 Arg2:T266	
+R66	Attack Arg1:T294 Arg2:T258	
+R67	Attack Arg1:T295 Arg2:T258	
+R68	Equivalent Arg1:T1 Arg2:T295	
+R69	Support Arg1:T1 Arg2:T294	
+R70	Attack Arg1:T1 Arg2:T258	
+T7	Premise 4909 4954	My parents came to this country as immigrants
+T8	Premise 4956 5018	They taught me that this was the greatest country in the world
+T9	Claim 5092 5174	nobody's going to question my patriotism as the vice president has now repeatedly.
+R71	Support Arg1:T7 Arg2:T8	
+R72	Support Arg1:T8 Arg2:T298	
+R73	Support Arg1:T298 Arg2:T299	
+R74	Support Arg1:T299 Arg2:T297	
+R75	Support Arg1:T297 Arg2:T9	
+R76	Support Arg1:T299 Arg2:T9	
+R77	Support Arg1:T8 Arg2:T9	
+R78	Support Arg1:T301 Arg2:T302	
+R79	Attack Arg1:T302 Arg2:T300	
+R80	Attack Arg1:T300 Arg2:T271	
+T10	Premise 5523 5566	Mr. Bush, I don't question your patriotism.
+R81	Support Arg1:T10 Arg2:T306	
+R82	Support Arg1:T303 Arg2:T304	
+R83	Support Arg1:T304 Arg2:T305	
+R84	Support Arg1:T303 Arg2:T306	
+R85	Support Arg1:T304 Arg2:T306	
+R86	Support Arg1:T305 Arg2:T306	
+T11	Premise 5865 5931	Those are the concerns of the people that are watching us tonight.
+T12	Premise 5932 6025	Not labels that we attach to each other, questions about each other's patriotism and loyalty.
+R87	Support Arg1:T11 Arg2:T307	
+R88	Support Arg1:T12 Arg2:T307	

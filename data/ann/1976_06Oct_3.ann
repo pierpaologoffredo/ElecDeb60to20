@@ -1,0 +1,126 @@
+T81	Claim 1776 1822	I believe I know what this country ought to be
+T82	Claim 816 850	I have uh - an adequate background
+T83	Claim 5132 5252	I think it's very damaging to our country for Mr. Ford to have turned over this responsibility to the secretary of state
+T84	Claim 5085 5126	This is a responsibility of the president
+T85	Claim 704 754	I'm not gonna name my cabinet before I get elected
+T87	Claim 1891 1961	I believe that there's no limit placed on what we can be in the future
+T88	Claim 1963 2032	if we can harness the tremendous resources - militarily, economically
+T89	Claim 2038 2111	the stature of our people, the meaning of the Constitution, in the future
+T90	Claim 3387 3467	those are the best bases to correct the horrible mistakes of this administration
+T91	Claim 3472 3536	restore our own country to a position of leadership in the world
+T92	Claim 3261 3384	my background, my experience, my knowledge of the people of this country, my commitment to our principles that don't change
+T93	Premise 957 1119	I've served as the Governor of Georgia and have traveled extensively in foreign countries and South America, Central America, Europe, the Middle East and in Japan
+T94	Premise 1121 1194	I've traveled the last twenty-one months among the people of this country
+T95	Premise 1196 1215	I've talked to them
+T96	Premise 1220 1233	I've listened
+T100	Premise 1675 1774	our foreign policy in the last few years, uh - the American people, the Congress have been excluded
+T101	Premise 1824 1885	I've uh - been one who's loved my nation as many Americans do
+T102	Claim 2113 2171	Every time we've made a serious mistake in foreign affairs
+T103	Premise 2191 2246	the American people have been excluded from the process
+T105	Claim 2447 2520	I'm not gonna exclude the American people from that process in the future
+T106	Premise 2559 2707	This is what it takes to have a sound foreign policy strong at home, strong defense, permanent commitments, not betray the principles of our country
+T107	Premise 2713 2794	involve the American people and the Congress in the shaping of our foreign policy
+T108	Claim 2807 2992;2993 3039	Mr. Ford speaks from a position of secrecy in negotiations, in secret - in secret treaties that've been uh - pursued and achieved, in supporting dictatorships, in ignoring human rights, we are weak and the rest of the world knows it
+T109	Claim 3044 3110	these are the ways that we can restore the strength of our country
+T110	Claim 3116 3168	they don't require long experience in foreign policy
+T111	Premise 3170 3255	Nobody has that except a president who has served a long time or a secretary of state
+T112	Claim 3722 3783	I would quit conducting the decision-making process in secret
+T113	Premise 3785 3843	as has been a characteristic of Mr. Kissinger and Mr. Ford
+T114	Premise 3863 3971	we've made agreements, like in Vietnam, uh - that have uh - been revealed later on to our uh - embarrassment
+T115	Premise 3973 4119	Recently Ian Smith, the uh - president of uh - Rhodesia, announced that he had unequivocal commitments from Mr. Kissinger that he could not reveal
+T116	Claim 4121 4178	The American people don't know what those commitments are
+T117	Premise 4196 4261	in the past the destruction of elected governments, like in Chile
+T118	Premise 4267 4316	the strong support of military dictatorship there
+T119	Premise 4318 4362	These kinds of things have hurt us very much
+T120	Claim 4364 4412	I would restore the concept of the fireside chat
+T121	Claim 4490 4542	I would also restore the involvement of the Congress
+T122	Premise 4544 4631	When Harry Truman was president he was not afraid to have a strong secretary of defense
+T123	Premise 4647 4720	George Marshall were strong secretaries of uh - state - excuse me - state
+T124	Premise 4726 4779	he also made sure that there was a bipartisan support
+T125	Premise 4781 4864	The members of Congress, Arthur Vandenberg, Walter George, were part of the process
+T126	Premise 4870 4911	before our nation made a secret agreement
+T127	Premise 4916 4951	before we made a bluffing statement
+T128	Premise 4953 5083	we were sure that we had the backing not only of the president and the secretary of state, but also of the Congress and the people
+T129	Claim 5313 5354	Governor Carter again contradicts himself
+T130	Claim 5356 5382	He complains about secrecy
+T131	Premise 5391 5534	he is quoted as saying that in the attempt to find a solution in the Middle East that he would hold unpublicized meetings with the Soviet Union
+T132	Premise 5537 5623	I presume for the purpose of an - imposing a settlement on Israel and the Arab nations
+T134	Premise 5996 6064	I submitted the Sinai agreement to the Congress of the United States
+T135	Premise 6066 6145	I submitted every single document that was applicable to the Sinai II agreement
+T136	Claim 6147 6272	It was the most complete documentation by any president of any agreement signed by a president on behalf of the United States
+T137	Premise 6328 6533	during the twenty-four months that I've been the president of the United States I have averaged better than one meeting a month with responsible groups or committees of the Congress - both House and Senate
+T138	Claim 6535 6699	The secretary of state has appeared in the several years that he's been the secretary before eighty different uh - committee hearings in the House and in the Senate
+T139	Claim 6701 6821	The secretary of state has made better than fifty speeches all over the United States explaining American foreign policy
+T104	Claim 2248 2441	If we can just tap the intelligence and ability, the sound common sense and the good judgment of the American people, we can once again have a foreign policy to make us proud instead of ashamed
+T1	Premise 1239 1432	I've seen at first hand, in a very vivid way, the deep hurt that's come to this country in the aftermath of Vietnam and Cambodia, Chile, and Pakistan, and Angola, and Watergate, CIA revelations
+T2	Premise 863 956	I am a graduate of the U.S. Naval Academy, the first military graduate since uh - Eisenhower.
+R1	Support Arg1:T2 Arg2:T82	
+R2	Support Arg1:T93 Arg2:T82	
+R3	Support Arg1:T94 Arg2:T82	
+R4	Support Arg1:T95 Arg2:T82	
+R5	Support Arg1:T96 Arg2:T82	
+R6	Support Arg1:T1 Arg2:T82	
+T3	Claim 1434 1634	What we were formerly so proud of - the strength of our country, its uh - moral integrity, the representation in foreign affairs of what our people are, what our Constitution stands for, has been gone
+R7	Support Arg1:T82 Arg2:T81	
+R11	Support Arg1:T87 Arg2:T88	
+R12	Support Arg1:T88 Arg2:T89	
+R13	Support Arg1:T101 Arg2:T81	
+R14	Support Arg1:T101 Arg2:T87	
+R15	Support Arg1:T103 Arg2:T100	
+R18	Support Arg1:T87 Arg2:T81	
+R19	Support Arg1:T88 Arg2:T81	
+R20	Support Arg1:T89 Arg2:T81	
+R21	Support Arg1:T104 Arg2:T81	
+R22	Support Arg1:T105 Arg2:T81	
+R23	Support Arg1:T106 Arg2:T105	
+R24	Support Arg1:T107 Arg2:T105	
+R25	Support Arg1:T109 Arg2:T110	
+R26	Support Arg1:T110 Arg2:T81	
+R28	Attack Arg1:T105 Arg2:T108	
+R29	Support Arg1:T111 Arg2:T110	
+R30	Support Arg1:T92 Arg2:T90	
+R31	Support Arg1:T90 Arg2:T91	
+R32	Support Arg1:T91 Arg2:T110	
+R33	Support Arg1:T91 Arg2:T81	
+R34	Attack Arg1:T112 Arg2:T108	
+R35	Support Arg1:T113 Arg2:T112	
+R36	Support Arg1:T112 Arg2:T116	
+R37	Support Arg1:T114 Arg2:T112	
+R38	Support Arg1:T115 Arg2:T112	
+R39	Support Arg1:T117 Arg2:T112	
+R40	Support Arg1:T118 Arg2:T112	
+R41	Support Arg1:T119 Arg2:T112	
+R42	Support Arg1:T122 Arg2:T123	
+R43	Support Arg1:T123 Arg2:T124	
+R44	Support Arg1:T124 Arg2:T125	
+R45	Support Arg1:T125 Arg2:T121	
+R46	Support Arg1:T126 Arg2:T127	
+R47	Support Arg1:T127 Arg2:T128	
+R48	Support Arg1:T128 Arg2:T121	
+R49	Support Arg1:T121 Arg2:T84	
+R50	Support Arg1:T128 Arg2:T84	
+R51	Support Arg1:T84 Arg2:T83	
+R52	Attack Arg1:T129 Arg2:T83	
+R53	Support Arg1:T131 Arg2:T130	
+R54	Support Arg1:T130 Arg2:T129	
+R55	Attack Arg1:T130 Arg2:T112	
+R56	Support Arg1:T132 Arg2:T131	
+R59	Support Arg1:T135 Arg2:T136	
+R60	Support Arg1:T134 Arg2:T136	
+R61	Support Arg1:T138 Arg2:T139	
+R62	Support Arg1:T137 Arg2:T138	
+T4	Claim 6823 6975	I have made myself at least ten uh - speeches in various parts of the country where I have discussed with the American people defense and foreign policy
+R63	Support Arg1:T139 Arg2:T4	
+R64	Attack Arg1:T4 Arg2:T84	
+T5	Question 70 222	Governor Carter, much of what the United States does abroad is done in the name of the national interest. What is your concept of the national interest?
+T6	Question 223 281	What should the role of the United States in the world be?
+T7	Question 282 688	And in that connection, considering your limited experience in foreign affairs, and the fact that you take same pride in being a Washington outsider, don't you think it would be appropriate for you to tell the American voters before the election the people that you would like to have in key positions, such as Secretary of State, Secretary of Defense, national security affairs advisor at the White House?
+R8	Support Arg1:T100 Arg2:T3	
+R9	Support Arg1:T103 Arg2:T102	
+R10	Support Arg1:T102 Arg2:T105	
+T8	Question 3550 3698	How specifically, uh - Governor, are you going to bring the American people into the decision-making process in foreign policy? What does that mean?
+T9	Premise 5722 5968	After the United States took the initiative in working with Israel and with Egypt and achieving the Sinai II agreement - and I'm proud to say that not a single Egyptian or Israeli soldier has lost his life since the signing of the Sinai agreement
+T10	Claim 5629 5720	let me talk just a minute about what we've done to avoid secrecy in the Ford administration
+R16	Support Arg1:T9 Arg2:T10	
+R17	Attack Arg1:T10 Arg2:T108	
+R27	Support Arg1:T136 Arg2:T10	

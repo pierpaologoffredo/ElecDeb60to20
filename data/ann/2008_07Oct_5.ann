@@ -1,0 +1,118 @@
+T410	Claim 1559 1598	we can reprocess the spent nuclear fuel
+T411	Premise 1600 1643	The Japanese, the British, the French do it
+T412	Premise 579 609	we are in tough economic times
+T413	Premise 721 811	when we have an issue that we may hand our children and our grandchildren a damaged planet
+T414	Claim 813 881	I have disagreed strongly with the Bush administration on this issue
+T415	Premise 991 1025	I introduced the first legislation
+T416	Premise 1147 1233	we kept this issue to -- to posing to Americans the danger that climate change opposes
+T417	Premise 1258 1290	what's the best way of fixing it
+T418	Claim 1292 1305	Nuclear power
+T419	Claim 1307 1385	Senator Obama says that it has to be safe or disposable or something like that
+T420	Claim 1990 2004	We can do that
+T421	Premise 2031 2056	we're the best innovators
+T422	Premise 2058 2082	we're the best producers
+T423	Premise 2088 2176	95 percent of the people who are our market live outside of the United States of America
+T424	Premise 1399 1448	I was on Navy ships that had nuclear power plants
+T425	Claim 1450 1471	Nuclear power is safe
+T426	Claim 1477 1487	it's clean
+T427	Claim 1493 1533	it creates hundreds of thousands of jobs
+T428	Claim 1649 1661	we can do it
+T429	Claim 1668 1698	Senator Obama has opposed that
+T430	Claim 1700 1874	We can move forward, and clean up our climate, and develop green technologies, and alternate -- alternative energies for -- for hybrid, for hydrogen, for battery-powered cars
+T431	Claim 1884 1987	we can clean up our environment and at the same time get our economy going by creating millions of jobs
+T432	Claim 2211 2261	This is one of the biggest challenges of our times
+T433	Claim 2350 2369	it's an opportunity
+T434	Premise 2379 2484	if we create a new energy economy, we can create five million new jobs, easily, here in the United States
+T435	Premise 2486 2629	It can be an engine that drives us into the future the same way the computer was the engine for economic growth over the last couple of decades
+T437	Claim 2654 2695	we're going to have to make an investment
+T438	Claim 2945 2979	we've got to make some investments
+T439	Premise 2984 3038	I've called for investments in solar, wind, geothermal
+T440	Claim 3089 3153	I favor nuclear power as one component of our overall energy mix
+T441	Claim 3190 3235	I think it is important to look at the record
+T442	Premise 3287 3410	He said a while back that the big problem with energy is that for 30 years, politicians in Washington haven't done anything
+T443	Premise 3413 3478	What Senator McCain doesn't mention is he's been there 26 of them
+T444	Premise 3502 3555	he voted 23 times against alternative fuels, 23 times
+T445	Claim 3619 3714	it's important for us to understand that it requires a sustained effort from the next president
+T446	Premise 3561 3613	it's easy to talk about this stuff during a campaign
+T447	Claim 3827 3917	we have three percent of the world's oil reserves and we use 25 percent of the world's oil
+T448	Claim 3947 3995	we can't simply drill our way out of the problem
+T449	Premise 4001 4135	we're not going to be able to deal with the climate crisis if our only solution is to use more fossil fuels that create global warming
+T450	Claim 4138 4186	We're going to have to come up with alternatives
+T451	Claim 4208 4419	the United States government is working with the private sector to fund the kind of innovation that we can then export to countries like China that also need energy and are setting up one coal power plant a week
+T452	Claim 4422 4545	We've got to make sure that we're giving them the energy that they need or helping them to create the energy that they need
+T453	Claim 5158 5275	I think pure research and development investment on the part of the United States government is certainly appropriate
+T454	Claim 5277 5385	I think once it gets into productive stages, that we ought to, obviously, turn it over to the private sector
+T455	Claim 6076 6176	We can bridge the gap between imported oil, which is a national security issue, as well as any other
+T456	Claim 6182 6225	it will reduce the price of a barrel of oil
+T457	Premise 6235 6312	when people know there's a greater supply, then the cost of that will go down
+T458	Premise 6502 6575	Senator Obama has approved storage and reprocessing of spent nuclear fuel
+T461	Claim 6345 6372	We've got to drill offshore
+T462	Claim 6390 6412	we've got to do it now
+T463	Claim 5411 5466	I know you grow a little weary with this back-and-forth
+T464	Claim 5468 5573	It was an energy bill on the floor of the Senate loaded down with goodies, billions for the oil companies
+T465	Premise 5579 5614	it was sponsored by Bush and Cheney
+T466	Claim 5711 5766	I have fought time after time against these pork barrel
+T467	Claim 5809 5885	they have all kinds of goodies and all kinds of things in them for everybody
+T468	Claim 5890 5912	they buy off the votes
+T469	Claim 5915 5934	I vote against them
+T471	Premise 5618 5674	ou know who voted for it? You might never know. That one
+T472	Premise 5676 5709	You know who voted against it? Me
+T475	Claim 6010 6074	oil drilling offshore now is vital so that we can bridge the gap
+T1	Claim 2636 2648	we can do it
+T2	Claim 5948 5967	I vote against them
+R1	Support Arg1:T413 Arg2:T414	
+R2	Support Arg1:T417 Arg2:T418	
+R3	Attack Arg1:T424 Arg2:T419	
+R4	Support Arg1:T425 Arg2:T418	
+R5	Support Arg1:T426 Arg2:T418	
+R6	Support Arg1:T427 Arg2:T418	
+R7	Attack Arg1:T425 Arg2:T419	
+R8	Attack Arg1:T426 Arg2:T419	
+R9	Attack Arg1:T427 Arg2:T419	
+R10	Support Arg1:T411 Arg2:T410	
+*	Equivalent T410 T428
+R11	Support Arg1:T430 Arg2:T431	
+*	Equivalent T431 T420
+R12	Support Arg1:T421 Arg2:T431	
+R13	Support Arg1:T422 Arg2:T431	
+R14	Support Arg1:T423 Arg2:T431	
+R15	Support Arg1:T434 Arg2:T433	
+R16	Support Arg1:T435 Arg2:T433	
+R17	Support Arg1:T1 Arg2:T431	
+R18	Support Arg1:T439 Arg2:T438	
+R19	Attack Arg1:T440 Arg2:T429	
+R20	Attack Arg1:T443 Arg2:T442	
+R21	Support Arg1:T444 Arg2:T446	
+R22	Support Arg1:T443 Arg2:T446	
+R23	Support Arg1:T442 Arg2:T446	
+R24	Support Arg1:T446 Arg2:T445	
+R25	Support Arg1:T447 Arg2:T448	
+R26	Support Arg1:T449 Arg2:T450	
+R27	Support Arg1:T452 Arg2:T451	
+R28	Support Arg1:T454 Arg2:T453	
+R29	Support Arg1:T465 Arg2:T464	
+*	Equivalent T471 T472
+*	Equivalent T469 T2
+R32	Support Arg1:T469 Arg2:T466	
+R33	Support Arg1:T468 Arg2:T467	
+R34	Support Arg1:T455 Arg2:T475	
+R35	Support Arg1:T456 Arg2:T475	
+R36	Support Arg1:T457 Arg2:T456	
+R37	Support Arg1:T475 Arg2:T461	
+R38	Support Arg1:T462 Arg2:T461	
+R40	Attack Arg1:T461 Arg2:T448	
+R41	Attack Arg1:T412 Arg2:T414	
+T3	Premise 883 984	I traveled all over the world looking at the effects of greenhouse gas emissions, Joe Lieberman and I
+R42	Support Arg1:T3 Arg2:T414	
+R43	Support Arg1:T415 Arg2:T414	
+T4	Premise 1031 1052	we forced votes on it
+R44	Support Arg1:T4 Arg2:T414	
+R45	Support Arg1:T416 Arg2:T417	
+R46	Support Arg1:T410 Arg2:T418	
+T5	Premise 2697 2854	The same way the computer was originally invented by a bunch of government scientists who were trying to figure out, for defense purposes, how to communicate
+T6	Claim 2856 2927	we've got to understand that this is a national security issue, as well
+R47	Support Arg1:T5 Arg2:T6	
+R48	Support Arg1:T6 Arg2:T438	
+T7	Premise 3758 3799	Senator McCain talks a lot about drilling
+R49	Attack Arg1:T448 Arg2:T7	
+R30	Support Arg1:T472 Arg2:T466	

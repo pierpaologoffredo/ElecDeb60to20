@@ -1,0 +1,73 @@
+T364	Claim 1500 1564	merit selection of judges is the most important single criterion
+T365	Claim 1570 1699	I would institute the same kind of procedure as president, not only in judicial appointments, but also in diplomatic appointments
+T366	Claim 645 755	While I was governor of Georgia, although I'm not a lawyer, we had complete reform of the Georgia court system
+T367	Premise 757 803	We uh - streamlined the structure of the court
+T368	Premise 805 835	put in administrative officers
+T369	Premise 837 866	put a unified court system in
+T370	Premise 868 934	required that all uh - severe sentences be reviewed far uniformity
+T371	Premise 941 1146	in addition to that put forward a proposal that was adopted and used throughout my own term of office of selection of - for all judges and district attorneys or prosecuting attorneys, on the basis of merit
+T372	Premise 1148 1430	Every time I had a vacancy on the Georgia Supreme Court - and I filled five of those vacancies out of seven total and about half the court of appeals judges, about 35 percent of the trial judges - I was given from an objective panel the five most highly qualified persons in Georgia
+T373	Premise 1436 1495	from those five, I always chose the first one or second one
+T374	Claim 1711 1857	I think that the Burger Court has fairly well confirmed the major and - and most far-reaching and most controversial decisions of the Warren Court
+T375	Premise 1859 1942	Civil rights - uh has been confirmed by the Burger Court, hasn't been uh - reversed
+T376	Premise 1948 2018	I don't think there's any inclination to reverse those basic decisions
+T377	Claim 2284 2385	I think the Burger Court has confirmed that basic and very controversial decision of the Warren Court
+T378	Premise 2020 2198	The one-man, one-vote rule, which is a very important one that uh - s- struck down the unwarranted influence in the legislature of parsley - uh populated areas of - of the states
+T379	Premise 2200 2277	The uh - right of indigent or very poor accused persons to uh - legal counsel
+T380	Claim 3447 3509	I answered it by saying that it would be on the basis of merit
+T381	Premise 3511 3727	Once the uh - search and analysis procedure had been completed, and once I'm given a list of the five or seven or ten uh - best qualified persons in the country, I would make a selection from among those uh - persons
+T382	Claim 3828 3967	I would undoubtedly choose someone who would most accurately reflect my own basic politi- political philosophy as best I could determine it
+T383	Premise 3729 3785	If the uh - list was, uh - in my opinion, fairly uniform
+T384	Premise 3787 3821	if there was no outstanding person
+T385	Claim 3989 4103	to continue the progress that has been made under the last two uh - courts - the Warren Court and the Burger Court
+T386	Claim 4105 4176	I would also like to uh - completely revise our criminal justice system
+T387	Claim 4182 4311	do some of the things at the federal level in court reform that I've just described, as has been done in Georgia and other states
+T388	Claim 4322 4397	I would like to appoint people who would be interested in helping with that
+T389	Premise 4399 4437	I know that uh Chief Justice Burger is
+T390	Premise 4439 4519	He hasn't had help from the administration, from the Congress, to carry this out
+T391	Claim 4521 4709	The uh - emphasis, I think, of the - of the court system uh - should be to interpret the uh - the Constitution and the laws uh - equally between property protection and personal protection
+T392	Claim 4821 4867	I think the choice should be with human rights
+T393	Premise 4715 4818	when there's uh - a very narrow decision - which quite often there's one that reaches the Supreme Court
+T394	Claim 4878 4926	that would be another factor that I would follow
+T395	Claim 4967 5051	I think the answer uh - as to the kind of person that I would select uh - is obvious
+T396	Premise 5053 5214	I had one opportunity to nominate uh - an individual to the Supreme Court and I selected the Circuit Court of Appeals judge from Illinois, uh - John Paul Stevens
+T397	Claim 5216 5230	I selected him
+T398	Premise 5231 5300	because of his outstanding record as a Circuit Court of Appeals Judge
+T399	Premise 5306 5522	I was very pleased that uh - an overwhelming Democratic United States Senate, after going into his background, came to the conclusion that he was uh - fit and should serve, and the vote in his behalf was overwhelming
+T400	Claim 5528 5660	I would say somebody in the format of uh - Justice Stevens would be the kind of an individual that I would uh - select in the future
+T401	Premise 5662 5686	as I did him in the past
+T402	Claim 6481 6557	I believe that the sale of uh - Saturday Night S- Specials should be cut out
+R1	Support Arg1:T369 Arg2:T366	
+R2	Support Arg1:T368 Arg2:T366	
+R3	Support Arg1:T367 Arg2:T366	
+R4	Support Arg1:T370 Arg2:T366	
+R5	Support Arg1:T371 Arg2:T364	
+R6	Support Arg1:T372 Arg2:T364	
+R7	Support Arg1:T373 Arg2:T364	
+R8	Support Arg1:T372 Arg2:T371	
+R9	Support Arg1:T375 Arg2:T374	
+R10	Equivalent Arg1:T377 Arg2:T374	
+R11	Support Arg1:T379 Arg2:T377	
+R12	Support Arg1:T378 Arg2:T377	
+R13	Support Arg1:T375 Arg2:T377	
+R14	Support Arg1:T379 Arg2:T374	
+R15	Support Arg1:T378 Arg2:T374	
+R16	Support Arg1:T380 Arg2:T364	
+R17	Support Arg1:T381 Arg2:T380	
+R18	Support Arg1:T384 Arg2:T382	
+R19	Support Arg1:T383 Arg2:T382	
+R20	Support Arg1:T385 Arg2:T380	
+R21	Support Arg1:T387 Arg2:T386	
+R22	Support Arg1:T388 Arg2:T386	
+R23	Support Arg1:T389 Arg2:T388	
+R24	Support Arg1:T394 Arg2:T392	
+R25	Support Arg1:T393 Arg2:T392	
+R26	Support Arg1:T396 Arg2:T395	
+R27	Support Arg1:T396 Arg2:T397	
+R28	Support Arg1:T398 Arg2:T397	
+R29	Support Arg1:T397 Arg2:T395	
+R30	Support Arg1:T399 Arg2:T396	
+R31	Support Arg1:T399 Arg2:T397	
+R32	Support Arg1:T400 Arg2:T397	
+R33	Support Arg1:T400 Arg2:T395	
+R34	Support Arg1:T401 Arg2:T397	

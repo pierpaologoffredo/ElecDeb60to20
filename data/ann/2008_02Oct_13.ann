@@ -1,0 +1,71 @@
+T779	Claim 69 97	This is such an honor for me
+T780	Claim 102 202	I appreciate, too, Senator Biden, getting to meet you, finally, also, and getting to debate with you
+T781	Claim 204 246	And I would like more opportunity for this
+T782	Premise 248 395	I like being able to answer these tough questions without the filter, even, of the mainstream media kind of telling viewers what they've just heard
+T783	Premise 397 469	I'd rather be able to just speak to the American people like we just did
+T784	Premise 471 568	And it's so important that the American people know of the choices that they have on November 4th
+T785	Claim 570 647	I want to assure you that John McCain and I, we're going to fight for America
+T786	Claim 649 735	We're going to fight for the middle-class, average, everyday American family like mine
+T787	Premise 737 752	I've been there
+T788	Premise 754 779	I know what the hurts are
+T789	Premise 781 811	I know what the challenges are
+T790	Premise 813 880	And, thank God, I know what the joys are, too, of living in America
+T791	Claim 882 899	We are so blessed
+T792	Claim 901 945	And I've always been proud to be an American
+T793	Claim 947 969	And so has John McCain
+T794	Claim 971 1055	We have to fight for our freedoms, also, economic and our national security freedoms
+T795	Premise 1057 1150	It was Ronald Reagan who said that freedom is always just one generation away from extinction
+T796	Premise 1152 1203	We don't pass it to our children in the bloodstream
+T797	Premise 1205 1480	we have to fight for it and protect it, and then hand it to them so that they shall do the same, or we're going to find ourselves spending our sunset years telling our children and our children's children about a time in America, back in the day, when men and women were free
+T798	Claim 1482 1502	We will fight for it
+T799	Premise 1508 1609	there is only one man in this race who has really ever fought for you, and that's Senator John McCain
+T800	Claim 1730 1774	it really was a pleasure getting to meet you
+T801	Claim 1788 1861	this is the most important election you've ever voted in your entire life
+T802	Premise 1863 2022	No one can deny that the last eight years, we've been dug into a very deep hole here at home with regard to our economy, and abroad in terms of our credibility
+T803	Premise 2024 2123	And there's a need for fundamental change in our economic philosophy, as well as our foreign policy
+T804	Premise 2125 2342	And Barack Obama and I don't measure progress toward that change based on whether or not we cut more regulations and how well CEOs are doing, or giving another $4 billion in tax breaks to the Exxon Mobils of the world
+T805	Premise 2344 2429	We measure progress in America based on whether or not someone can pay their mortgage
+T806	Premise 2431 2480	whether or not they can send their kid to college
+T807	Premise 2482 2705	whether or not they're able to, when they send their child, like we have abroad -- or I'm about to, abroad -- and John has as well, I might add -- to fight, that they are the best equipped and they have everything they need
+T808	Premise 2707 2818	And when they come home, they're guaranteed that they have the best health care and the best education possible
+T809	Claim 2946 3185	And in that neighborhood, it was filled with women and men, mothers and fathers who taught their children if they believed in themselves, if they were honest, if they worked hard, if they loved their country, they could accomplish anything
+T810	Premise 3187 3213	We believed it, and we did
+T811	Claim 2820 2900	You know, in the neighborhood I grew up in, it was all about dignity and respect
+T812	Claim 2902 2944	A neighborhood like most of you grew up in
+T813	Claim 3215 3256	That's why Barack Obama and I are running
+T814	Premise 3258 3309	to re-establish that certitude in our neighborhoods
+T815	Claim 3422 3468	Well, it's time for America to get up together
+T816	Premise 3470 3594	America's ready, you're ready, I'm ready, and Barack Obama is ready to be the next president of the United States of America
+T817	Premise 3311 3419	Ladies and gentlemen, my dad used to have an expression. He'd say, "champ, when you get knocked down, get up
+R1	Support Arg1:T782 Arg2:T783	
+R2	Support Arg1:T783 Arg2:T784	
+R3	Support Arg1:T784 Arg2:T785	
+R4	Support Arg1:T786 Arg2:T785	
+R5	Support Arg1:T787 Arg2:T788	
+R6	Support Arg1:T788 Arg2:T789	
+R7	Support Arg1:T789 Arg2:T790	
+R8	Support Arg1:T790 Arg2:T791	
+R9	Support Arg1:T791 Arg2:T792	
+R10	Support Arg1:T793 Arg2:T792	
+R11	Support Arg1:T792 Arg2:T794	
+R12	Support Arg1:T785 Arg2:T794	
+R13	Support Arg1:T796 Arg2:T795	
+R14	Support Arg1:T795 Arg2:T797	
+R15	Support Arg1:T797 Arg2:T798	
+R16	Support Arg1:T799 Arg2:T798	
+R17	Support Arg1:T794 Arg2:T798	
+R18	Support Arg1:T802 Arg2:T803	
+R19	Support Arg1:T803 Arg2:T804	
+R20	Support Arg1:T804 Arg2:T805	
+R21	Support Arg1:T805 Arg2:T806	
+R22	Support Arg1:T806 Arg2:T807	
+R23	Support Arg1:T807 Arg2:T808	
+R24	Support Arg1:T808 Arg2:T811	
+R25	Support Arg1:T811 Arg2:T812	
+R26	Support Arg1:T812 Arg2:T809	
+R27	Support Arg1:T810 Arg2:T809	
+R28	Support Arg1:T809 Arg2:T813	
+R29	Support Arg1:T814 Arg2:T813	
+R30	Support Arg1:T817 Arg2:T815	
+R31	Support Arg1:T816 Arg2:T815	
+R32	Support Arg1:T813 Arg2:T815	

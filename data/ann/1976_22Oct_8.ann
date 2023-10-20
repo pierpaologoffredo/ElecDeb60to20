@@ -1,0 +1,69 @@
+T237	Claim 665 704	this administration has no urban policy
+T238	Claim 706 776	It's impossible for mayors or governors to cooperate with the resident
+T239	Premise 786 832	they can't anticipate what's gonna happen next
+T240	Premise 834 1116	A mayor of a city like New York, for instance, needs to know uh - eighteen months or two years ahead of time what responsibility the city will have in administration and in financing - in things like housing, uh - pollution control, uh - crime control, education, welfare and health
+T241	Premise 1118 1155	This has not been done, unfortunately
+T242	Claim 1241 1340	I think it's very important that our cities know that they have a partner in the federal government
+T243	Premise 1157 1240	I remember the headline in the Daily News that said, "Ford to New York: Drop Dead."
+T244	Claim 2004 2200	I favor all revenue sharing money being used for local governments, and also to remove prohibitions in the use of revenue sharing money so that it can be used to improve education, and health care
+T245	Claim 2596 2657	the major - uh thrust has gotta be to put people back to work
+T246	Premise 2659 2850	We've got an extraordinarily high unemployment rate among downtown urban ghetto areas, uh - particularly among the very poor and particularly among minority groups, sometimes 50 or 60 percent
+T247	Premise 2856 3028	the concentration of employment opportunities in those areas would help greatly not only to reestablish the tax base, but also to help reduce the extraordinary welfare cost
+T248	Premise 2202 2315	We have now uh - for instance only 7 percent of the total education cost being financed by the federal government
+T249	Premise 2317 2385	When uh - the Nixon-Ford Administration started, this was 10 percent
+T250	Premise 2387 2504	That's a 30 percent reduction in the portion that the federal government contributes to education in just eight years
+T251	Premise 2523 2571	the education cost has gone up uh - tremendously
+T252	Premise 1342 1543	Quite often Congress has passed laws in the past designed to help people with uh - the ownership of homes and with the control of crime and with adequate health care and education programs and so forth
+T253	Premise 1550 1612	those uh programs were designed to help those who need it most
+T254	Premise 1618 1715	quite often this has been in the very poor people and neighborhoods in the downtown urban centers
+T255	Premise 1717 1997	Because of the uh - great -ly- greatly uh - advantaged uh - tho- per - persons who live in the suburbs, better education, better organization, more articulate, more aware of what the laws are, quite often this money has been channeled out of the downtown centers where it's needed
+T256	Premise 3030 3132	One of the major responsibilities on the shoulders of uh - New York City is to - is to finance welfare
+T257	Claim 3138 3219	I favor a shifting of the welfare cost away from the local governments altogether
+T258	Claim 3225 3349	over a longer period of time, let the federal government begin to absorb part of it that's now paid by the state governments
+T259	Claim 3351 3403	Those things would help a great deal with the cities
+T260	Claim 3528 3632	The Ford administration does have a very comprehensive program to help uh - our major metropolitan areas
+T261	Premise 3634 3935	I fought for, and the Congress finally went along with a general revenue sharing program, whereby cities and uh - states, uh - the cities two-thirds and the states one-third, get over six billion dollars a year in cash through which they can uh - provide many, many services, whatever they really want
+T262	Premise 3937 4105	In addition we uh - in the federal government make available to uh - cities about uh - three billion three hundred million dollars in what we call community development
+T263	Premise 4117 4294	in addition, uh - uh - as a result of my pressure an the Congress, we got a major mass transit program uh - over a four-year period, eleven billion eight-hundred million dollars
+T264	Premise 4296 4485	We have a good housing program, uh - that uh - will result in cutting uh - the down payments by 50 percent and uh - having mortgage payments uh lower at the beginning of any mortgage period
+T265	Premise 4487 4537	We're expanding our homestead uh - housing program
+T266	Claim 4684 4774	we will really do a first-class job in helping uh - the communities throughout the country
+T267	Premise 4797 4952	that committee under Secretary Hills released about a seventy-five-page report with specific recommendations so we can do a better job uh - the weeks ahead
+T268	Claim -1 126; -1 126	the tax program of the Ford administration will bring jobs where people are, and help to revitalize those cities as they can be
+T269	Premise 5015 5125	which provides an incentive for industry to move into our major uh - metropolitan areas, into the inner cities
+R1	Support Arg1:T239 Arg2:T238	
+R2	Support Arg1:T240 Arg2:T239	
+R3	Attack Arg1:T242 Arg2:T243	
+R4	Attack Arg1:T242 Arg2:T237	
+R5	Support Arg1:T241 Arg2:T237	
+R6	Support Arg1:T254 Arg2:T253	
+R7	Support Arg1:T253 Arg2:T252	
+R8	Support Arg1:T248 Arg2:T244	
+R9	Support Arg1:T249 Arg2:T244	
+R10	Support Arg1:T249 Arg2:T250	
+R11	Support Arg1:T248 Arg2:T250	
+R12	Support Arg1:T246 Arg2:T245	
+R13	Support Arg1:T247 Arg2:T245	
+R14	Support Arg1:T256 Arg2:T257	
+R15	Support Arg1:T257 Arg2:T258	
+R16	Support Arg1:T258 Arg2:T259	
+R17	Support Arg1:T257 Arg2:T259	
+R18	Support Arg1:T256 Arg2:T259	
+R19	Support Arg1:T245 Arg2:T259	
+R20	Support Arg1:T244 Arg2:T259	
+R21	Support Arg1:T242 Arg2:T259	
+R22	Attack Arg1:T260 Arg2:T237	
+R23	Support Arg1:T261 Arg2:T260	
+R24	Support Arg1:T262 Arg2:T260	
+R25	Support Arg1:T263 Arg2:T260	
+R26	Support Arg1:T264 Arg2:T260	
+R27	Support Arg1:T265 Arg2:T260	
+R28	Support Arg1:T260 Arg2:T266	
+R29	Support Arg1:T261 Arg2:T266	
+R30	Support Arg1:T262 Arg2:T266	
+R31	Support Arg1:T263 Arg2:T266	
+R32	Support Arg1:T264 Arg2:T266	
+R33	Support Arg1:T265 Arg2:T266	
+R34	Support Arg1:T267 Arg2:T266	
+R35	Support Arg1:T269 Arg2:T266	
+R36	Support Arg1:T269 Arg2:T260	

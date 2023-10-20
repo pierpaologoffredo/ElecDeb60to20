@@ -1,0 +1,123 @@
+T403	Claim 375 447	there are several things that I think need to be done and are being done
+T404	Claim 1328 1413	I think the most important thing we can do is have a first-class public school system
+T405	Claim 696 801	I think probably the most successful thing we can do with respect to ending poverty is to get people jobs
+T406	Claim 592 693	we think the key is to address some basic, fundamental issues that the president's already working on
+T407	Premise 449 501	We've, of course, been through a difficult recession
+T408	Premise 512 586	the aftermath of 9/11, where we lost over a million jobs after that attack
+T409	Claim 803 923	There's no better antidote to poverty than a good, well-paying job that allows somebody to take care of their own family
+T410	Claim 938 1004	we have to make America the best place in the world to do business
+T411	Premise 1021 1066	we've got to deal effectively with tax policy
+T412	Premise 1068 1140	We've got to reduce the litigation costs that are built into our society
+T413	Premise 1142 1188	We've got to provide the adequate medical care
+T414	Premise 1228 1283	create the opportunities that are vital to that process
+T415	Premise 1415 1446	I'm a product of public schools
+T416	Premise 1453 1531	the president, his first legislative priority was the No Child Left Behind Act
+T417	Premise 2345 2453	We've seen reports now of a reduction in the achievement gap between majority students and minority students
+T418	Claim 2455 2488	We're making significant progress
+T419	Premise 2331 2343	It's working
+T420	Claim 1723 1752	It establishes high standards
+T421	Premise 1776 1837	sets up a system of testing with respect to our school system
+T422	Premise 1842 1956	we can establish accountability to parents and make certain that they understand how well their students are doing
+T423	Claim 1962 2053	they have the opportunity to move students out of poorly performing schools to good schools
+T425	Premise 2164 2218	It's also important, as we go forward in the next term
+T426	Claim 2220 2328	we want to be able to take what we've done for elementary education and move it into the secondary education
+T427	Claim 4076 4142	We want to get rid of tax cuts for companies sending jobs overseas
+T428	Claim 4144 4209	We want to balance this budget, get back to fiscal responsibility
+T429	Claim 4215 4279	we want to invest in the creative, innovative jobs of the future
+T430	Premise 2851 2968	in the last four years, 1.6 million private sector jobs have been lost, 2.7 million manufacturing jobs have been lost
+T431	Premise 2974 3025	it's had real consequences in places like Cleveland
+T432	Premise 3112 3158	it has the highest poverty rate in the country
+T433	Premise 3160 3229	One out of almost two children in Cleveland are now living in poverty
+T434	Premise 3232 3360	During the time that the vice president and the president have been in office, 4 million more Americans have fallen into poverty
+T435	Claim 3777 3797	We have to do better
+T436	Claim 3799 3813	We have a plan
+T437	Claim 4057 4073	We're against it
+T438	Premise 3960 4055	The administration says over and over that the outsourcing of millions of American jobs is good
+T439	Claim 3886 3958	I want to make sure people hear that, the fundamental difference with us
+T440	Premise 3815 3884	We're going to get rid of -- by the way, they're for outsourcing jobs
+T441	Claim 4325 4410	we've got 111 million American taxpayers that have benefited from our income tax cuts
+T442	Claim 4412 4484	We've got 33 million students who've benefited from No Child Left Behind
+T443	Claim 4487 4568	We've got 40 million seniors who benefited from the reform of the Medicare system
+T444	Premise 4570 4619	The Democrats promised prescription drug benefits
+T445	Premise 4621 4659	For years they've run on that platform
+T446	Claim 4661 4683	They never got it done
+T447	Claim 4685 4710	The president got it done
+T448	Claim 5013 5056	We've added 1.7 million jobs to the economy
+T449	Premise 4791 4847	they no longer have to pay any federal income tax at all
+T450	Claim 4713 4786	We also dropped 5 million people totally off the federal income tax rolls
+T451	Premise 4942 5011	It doesn't include any of the gains that we've made in the last years
+T452	Claim 4853 4886	the story, I think, is a good one
+T453	Premise 4893 4941	the data he's using is old data. It's from 2003.
+T454	Claim 5453 5530	I don't think the country can take four more years of this kind of experience
+T455	Premise 5185 5224	Millions of people have lost their jobs
+T456	Premise 5226 5259	Millions have fallen into poverty
+T457	Premise 5261 5326	Family incomes are down, while the cost of everything is going up
+T458	Premise 5328 5403	Medical costs are up the highest they've ever been over the last four years
+T459	Premise 5405 5430	We have this mess in Iraq
+R1	Support Arg1:T406 Arg2:T403	
+R2	Support Arg1:T407 Arg2:T403	
+R3	Support Arg1:T408 Arg2:T403	
+R4	Support Arg1:T405 Arg2:T403	
+R5	Support Arg1:T409 Arg2:T405	
+R6	Support Arg1:T405 Arg2:T410	
+R7	Support Arg1:T411 Arg2:T403	
+R8	Support Arg1:T412 Arg2:T403	
+R9	Support Arg1:T413 Arg2:T403	
+R10	Support Arg1:T414 Arg2:T403	
+R11	Support Arg1:T415 Arg2:T404	
+R12	Support Arg1:T416 Arg2:T404	
+R13	Support Arg1:T421 Arg2:T420	
+R14	Support Arg1:T422 Arg2:T423	
+R15	Support Arg1:T419 Arg2:T426	
+R16	Support Arg1:T425 Arg2:T426	
+R17	Support Arg1:T417 Arg2:T418	
+R18	Support Arg1:T426 Arg2:T418	
+R19	Support Arg1:T432 Arg2:T431	
+R20	Support Arg1:T431 Arg2:T433	
+R21	Support Arg1:T433 Arg2:T430	
+R22	Support Arg1:T434 Arg2:T430	
+R23	Support Arg1:T430 Arg2:T435	
+R24	Support Arg1:T434 Arg2:T435	
+R25	Support Arg1:T435 Arg2:T436	
+R26	Support Arg1:T440 Arg2:T436	
+R27	Support Arg1:T439 Arg2:T436	
+R28	Attack Arg1:T430 Arg2:T418	
+R29	Attack Arg1:T434 Arg2:T418	
+R30	Attack Arg1:T437 Arg2:T438	
+R31	Support Arg1:T427 Arg2:T436	
+R32	Support Arg1:T428 Arg2:T436	
+R33	Support Arg1:T429 Arg2:T436	
+R34	Attack Arg1:T446 Arg2:T444	
+R36	Support Arg1:T449 Arg2:T450	
+R35	Support Arg1:T447 Arg2:T452	
+R37	Support Arg1:T450 Arg2:T452	
+R38	Support Arg1:T442 Arg2:T452	
+R39	Support Arg1:T443 Arg2:T452	
+R40	Support Arg1:T441 Arg2:T452	
+R41	Attack Arg1:T452 Arg2:T435	
+R42	Attack Arg1:T453 Arg2:T430	
+R43	Support Arg1:T453 Arg2:T451	
+R44	Support Arg1:T448 Arg2:T452	
+R45	Attack Arg1:T455 Arg2:T452	
+R46	Attack Arg1:T456 Arg2:T452	
+R47	Attack Arg1:T457 Arg2:T452	
+R48	Attack Arg1:T458 Arg2:T452	
+R49	Attack Arg1:T459 Arg2:T452	
+R50	Support Arg1:T459 Arg2:T454	
+R51	Support Arg1:T458 Arg2:T454	
+R52	Support Arg1:T457 Arg2:T454	
+R53	Support Arg1:T456 Arg2:T454	
+R54	Support Arg1:T455 Arg2:T454	
+T1	Question 7 352	Mr. Vice President, the Census Bureau ranked Cleveland as the biggest poor city in the country, 31 percent jobless rate. You two gentlemen are pretty well off. You did well for yourselves in the private sector. What can you tell the people of Cleveland, or people of cities like Cleveland, that your administration will do to better their lives?
+R55	Support Arg1:T420 Arg2:T404	
+R56	Support Arg1:T423 Arg2:T404	
+T2	Claim 2056 2161	It strikes me that that is absolutely the heart of what needs to be done from the standpoint of education
+R57	Equivalent Arg1:T2 Arg2:T404	
+T3	Premise 2687 2782	I hope we get a chance to talk about education, but that's what the vice president talked about
+R58	Attack Arg1:T3 Arg2:T404	
+T4	Premise 3363 3491	During the time that the vice president and the president have been in office, 4 million more Americans have fallen into poverty
+T5	Premise 3494 3774	And what the most striking and startling thing is, they are the first presidency in 70 years -- and I'm talking Democrats, Republican, presidents who led us through World War, through the Korean War, the Vietnam War, Cold War -- every one of them created jobs until this president
+R59	Support Arg1:T4 Arg2:T435	
+R60	Support Arg1:T5 Arg2:T435	
+R61	Support Arg1:T438 Arg2:T439	
+R62	Support Arg1:T437 Arg2:T439	

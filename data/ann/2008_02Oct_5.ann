@@ -1,0 +1,68 @@
+T198	Claim 289 306	Yes, I would have
+T199	Premise 339 556	there have been so many changes in the conditions of our economy in just even these past weeks that there has been more and more revelation made aware now to Americans about the corruption and the greed on Wall Street
+T200	Claim 557 723	We need to look back, even two years ago, and we need to be appreciative of John McCain's call for reform with Fannie Mae, with Freddie Mac, with the mortgage-lenders
+T201	Premise 730 789	who were starting to really kind of rear that head of abuse
+T202	Premise 791 858	And the colleagues in the Senate weren't going to go there with him
+T203	Claim 863 919	we have John McCain to thank for at least warning people
+T204	Claim 925 1014	we also have John McCain to thank for bringing in a bipartisan effort people to the table
+T205	Premise 1015 1159	so that we can start putting politics aside, even putting a campaign aside, and just do what's right to fix this economic problem that we are in
+T206	Claim 1161 1175	It is a crisis
+T207	Claim 1177 1247	It's a toxic mess, really, on Main Street that's affecting Wall Street
+T208	Claim 1253 1340	now we have to be ever vigilant and also making sure that credit markets don't seize up
+T209	Claim 1342 1428	That's where the Main Streeters like me, that's where we would really feel the effects
+T210	Claim 1604 1641	mortgage-holders didn't pay the price
+T211	Claim 1643 1752	Only 10 percent of the people who are -- have been affected by this whole switch from Chapter 7 to Chapter 13
+T212	Claim 1776 1842	But the point of this -- Barack Obama saw the glass as half- empty
+T213	Claim 1844 1865	I saw it as half-full
+T214	Premise 1969 2088	Barack Obama pointed out two years ago that there was a subprime mortgage crisis and wrote to the secretary of Treasury
+T215	Premise 2090 2165	And he said, "You'd better get on the stick here. You'd better look at it."
+T216	Premise 2166 2291	John McCain said as early as last December, quote -- I'm paraphrasing -- "I'm surprised about this subprime mortgage crisis,"
+T217	Claim 2421 2652	we should be allowing bankruptcy courts to be able to re-adjust not just the interest rate you're paying on your mortgage to be able to stay in your home, but be able to adjust the principal that you owe, the principal that you owe
+T218	Premise 2654 2743	That would keep people in their homes, actually help banks by keeping it from going under
+T219	Claim 2810 2867	I believe John McCain and the governor don't support that
+T220	Claim 2869 2902	There are ways to help people now
+T221	Claim 2917 3049	ways that we're offering are not being supported by -- by the Bush administration nor do I believe by John McCain and Governor Palin
+T222	Claim 3096 3110	That is not so
+T223	Claim 3379 3479	we have to consider the need to do all that we can to allow this nation to become energy independent
+T224	Claim 3481 3523	It's a nonsensical position that we are in
+T225	Premise 3524 3589	when we have domestic supplies of energy all over this great land
+T226	Premise 3595 3704	East Coast politicians who don't allow energy-producing states like Alaska to produce these, to tap into them
+T227	Premise 3710 3770	instead we're relying on foreign countries to produce for us
+T228	Premise 3781 3847	We're circulating about $700 billion a year into foreign countries
+T229	Claim 3881 3934	they certainly don't have our best interests at heart
+T230	Claim 4130 4238	Energy independence is the key to this nation's future, to our economic future, and to our national security
+T231	Premise 3938 4129	instead of those dollars circulating here, creating tens of thousands of jobs and allowing domestic supplies of energy to be tapped into and start flowing into these very, very hungry markets
+T232	Claim 4243 4330	when we talk about energy plans, it's not just about who got a tax break and who didn't
+T233	Claim 4336 4424	we're not giving oil companies tax breaks, but it's about a heck of a lot more than that
+T234	Claim 4426 4476	Energy independence is the key to America's future
+R1	Support Arg1:T205 Arg2:T204	
+R2	Support Arg1:T206 Arg2:T207	
+R3	Attack Arg1:T200 Arg2:T199	
+R4	Support Arg1:T201 Arg2:T200	
+R5	Attack Arg1:T202 Arg2:T201	
+R6	Attack Arg1:T203 Arg2:T202	
+R7	Attack Arg1:T208 Arg2:T207	
+R8	Support Arg1:T209 Arg2:T208	
+R9	Attack Arg1:T210 Arg2:T209	
+R10	Support Arg1:T211 Arg2:T210	
+R11	Attack Arg1:T213 Arg2:T212	
+R12	Support Arg1:T214 Arg2:T215	
+R13	Attack Arg1:T215 Arg2:T216	
+R14	Support Arg1:T218 Arg2:T217	
+R15	Attack Arg1:T217 Arg2:T219	
+R16	Attack Arg1:T220 Arg2:T221	
+R17	Support Arg1:T219 Arg2:T221	
+R18	Attack Arg1:T222 Arg2:T221	
+R19	Support Arg1:T225 Arg2:T226	
+R20	Support Arg1:T226 Arg2:T224	
+R21	Attack Arg1:T227 Arg2:T226	
+R22	Support Arg1:T228 Arg2:T227	
+T1	Claim 3849 3877	some who do not like America
+R23	Support Arg1:T1 Arg2:T229	
+R24	Attack Arg1:T229 Arg2:T228	
+R25	Support Arg1:T224 Arg2:T223	
+R26	Support Arg1:T232 Arg2:T233	
+R27	Support Arg1:T233 Arg2:T234	
+R28	Support Arg1:T231 Arg2:T230	
+R29	Support Arg1:T230 Arg2:T232	
+R30	Attack Arg1:T234 Arg2:T229	

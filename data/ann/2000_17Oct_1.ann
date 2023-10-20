@@ -1,0 +1,110 @@
+T1	Claim 1952 2053	I was wrong when I said Vice President Gore's campaign commercials had called Governor Bush a bumbler
+T2	Premise 2055 2164	That specific charge was made in a press statement by Gore campaign spokesman Mark Fabiani, not in a TV Guide
+T3	Claim 2711 2750	Mr. Hankins, I don't feel good about it
+T4	Claim 2756 2901	I think we ought to have a patient's bill of rights to take the medical decisions away from the HMOs and give them back to the doctors and nurses
+T5	Claim 3311 3397	I would just like to say that this debate in a way is a living tribute to Mel Carnahan
+T6	Premise 3406 3464	he loved the vigorous discussion of ideas in our democracy
+T7	Claim 3466 3505	He was a fantastic governor of Missouri
+T8	Claim 3507 3617	This state became one of the top five in the nation for health care coverage for children under his leadership
+T9	Claim 4274 4326	I support a strong national patient's bill of rights
+T10	Claim 3619 3712	One of the best in advancing all kinds of benefits for children to grow up healthy and strong
+T11	Claim 3877 4001	I would like to also extend sympathy to the families of those who have died and those who are still missing, and the injured
+T12	Premise 3718 3875	of course, this debate also takes place at a time when the tragedy of the USS Cole is on our minds and hearts and insofar as the memorial service is tomorrow
+T13	Claim 4008 4099	Mr. Hankins, I think that the situation that you describe has gotten completely out of hand
+T14	Premise 4101 4250	Doctors are giving prescriptions, they're recommending treatments, and then their recommendations are being overruled by HMOs and insurance companies
+T15	Claim 4252 4272	That is unacceptable
+T16	Claim 4328 4368	It is actually a disagreement between us
+T17	Claim 4370 4506	a national law that is pending on this, the Dingle-Norwood bill, a bipartisan bill, is one that I support and that the governor does not
+T18	Claim 4699 4719	It's a tragic moment
+T19	Premise 4564 4697	I, too, want to extend my prayers and blessings, God's blessings on the families whose lives were overturned yes -- tod -- last night
+T20	Claim 4721 4764	Actually, Mr. Vice President, it's not true
+T21	Claim 4766 4814	I do support a national patient's bill of rights
+T22	Claim 4963 5028	It requires a different kind of leadership style to do it, though
+T23	Claim 6370 6436	I don't want the law to supersede good law like we've got in Texas
+T24	Claim 6272 6317	I support a national patient's bill of rights
+T25	Claim 6319 6368	Mr. Vice President, and I want all people covered
+T26	Claim 6142 6218	It's time for our nation to come together and do what's right for the people
+T27	Claim 6224 6260	I think this is right for the people
+T28	Claim 6022 6140	if the insurance company doesn't follow the findings of the IRO, then that becomes a cause of action in a court of law
+T29	Claim 5922 6011	If the objective body rules on your behalf, the insurance company must follow those rules
+T30	Claim 5807 5920	It says if youâ€™ve got a complaint with your insurance company, you can take your complaint to an objective body
+T31	Claim 4816 4961	As a matter of fact, I brought Republicans and Democrats together to do just that in the State of Texas to get a patient's bill of rights through
+T32	Claim 5135 5165	that's what we did in my state
+T33	Claim 5039 5129	in order to get something done on behalf of the people, you have to put partisanship aside
+T34	Claim 5167 5224	We have one of the most advanced patient's bill of rights
+T35	Premise 5226 5327	It says, for example, that a woman doesn't have to go through a gate keeper to go to her gynecologist
+T36	Premise 5329 5387	It says that you can't gag a doctor, doctor can advise you
+T37	Premise 5389 5470	The HMO, the insurance company, can't gag that doctor from giving you full advice
+T38	Premise 5476 5569	this particular bill, it allows patients to choose a doctor, their own doctor if they want to
+T39	Claim 5575 5617	we did something else that was interesting
+T40	Claim 5619 5709	We're one of the first states that said you can sue an HMO for denying you proper coverage
+T41	Claim 5711 5805	Now there's what's called an Independent Review Organization that you have to go through first
+T42	Claim 6892 6906	Absolutely not
+T43	Claim 6947 7008	It is the bipartisan bill that is now pending in the Congress
+T44	Premise 6908 6945	I referred to the Dingle-Norwood bill
+T47	Premise 7505 7537	it has strong bipartisan support
+T48	Premise 7539 7603	It is being blocked by the Republican leadership in the Congress
+T49	Claim 7935 7978	the difference is is that I can get it done
+T50	Claim 8202 8217	I believe I can
+T51	Claim 8096 8167	It's not only what's your philosophy and what's your position on issues
+T52	Claim 8173 8196	can you get things done
+T53	Claim 8044 8094	That's what the question in this campaign is about
+T54	Claim 7985 8042	I can get something positive done on behalf of the people
+T55	Claim 8577 8712	If I'm the president, we're going to have emergency room care, we're going have gag orders, we're going to have direct access to OB/GYN
+T56	Claim 8714 8778	People will be able to take their HMO insurance company to court
+T57	Claim 8780 8810	That's what I've done in Texas
+T58	Claim 8815 8875	that's the kind of leadership style I'll bring to Washington
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T6 Arg2:T5	
+R3	Support Arg1:T7 Arg2:T5	
+R4	Support Arg1:T8 Arg2:T7	
+R5	Support Arg1:T10 Arg2:T7	
+R6	Support Arg1:T12 Arg2:T11	
+R7	Attack Arg1:T4 Arg2:T3	
+R8	Support Arg1:T3 Arg2:T13	
+R9	Support Arg1:T14 Arg2:T13	
+R10	Support Arg1:T15 Arg2:T13	
+R11	Support Arg1:T4 Arg2:T9	
+R12	Support Arg1:T16 Arg2:T17	
+R13	Support Arg1:T19 Arg2:T18	
+R14	Support Arg1:T18 Arg2:T11	
+R15	Attack Arg1:T20 Arg2:T17	
+R16	Support Arg1:T21 Arg2:T20	
+R17	Support Arg1:T31 Arg2:T21	
+R18	Support Arg1:T32 Arg2:T33	
+R19	Support Arg1:T22 Arg2:T33	
+R20	Support Arg1:T33 Arg2:T34	
+R21	Support Arg1:T35 Arg2:T34	
+R22	Support Arg1:T36 Arg2:T34	
+R23	Support Arg1:T37 Arg2:T34	
+R24	Support Arg1:T38 Arg2:T34	
+R25	Support Arg1:T39 Arg2:T40	
+R26	Support Arg1:T41 Arg2:T40	
+R27	Support Arg1:T30 Arg2:T41	
+R28	Support Arg1:T30 Arg2:T29	
+R29	Support Arg1:T29 Arg2:T28	
+R30	Support Arg1:T28 Arg2:T34	
+R31	Support Arg1:T40 Arg2:T34	
+R32	Support Arg1:T26 Arg2:T27	
+R33	Support Arg1:T34 Arg2:T27	
+R34	Support Arg1:T24 Arg2:T25	
+R35	Support Arg1:T27 Arg2:T25	
+R36	Support Arg1:T24 Arg2:T21	
+R37	Attack Arg1:T25 Arg2:T23	
+R38	Support Arg1:T44 Arg2:T43	
+T59	Claim 7010 7138	The HMOs and the insurance companies support the other bill that's pending, the one that the Republican majority has put forward
+T45	Claim 7140 7227	They like it because it doesn't accomplish what I think really needs to be accomplished
+T46	Premise 7228 7499	to give the decisions back to the doctors and nurses and give you a right of appeal to somebody other than the HMO or insurance company, let you go to the nearest emergency room without having to call an HMO before you call 911, to let you see a specialist if you need to
+R39	Attack Arg1:T45 Arg2:T59	
+R40	Support Arg1:T46 Arg2:T45	
+R41	Support Arg1:T47 Arg2:T46	
+R42	Attack Arg1:T48 Arg2:T47	
+R43	Support Arg1:T49 Arg2:T54	
+R44	Support Arg1:T51 Arg2:T52	
+R45	Support Arg1:T53 Arg2:T52	
+R46	Support Arg1:T50 Arg2:T52	
+R47	Support Arg1:T54 Arg2:T50	
+R48	Support Arg1:T57 Arg2:T58	
+R49	Support Arg1:T56 Arg2:T58	
+R50	Support Arg1:T55 Arg2:T58	
+R51	Support Arg1:T50 Arg2:T58	

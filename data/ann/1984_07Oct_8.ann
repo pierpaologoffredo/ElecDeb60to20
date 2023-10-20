@@ -1,0 +1,95 @@
+T403	Claim 1250 1280	I think it helped a little bit
+T404	Claim 1286 1449	now we need both that kind of discipline and the resources and the consistent leadership that allows this country to catch up in education and science and training
+T405	Claim 1840 1895	I've done what no candidate for President has ever done
+T406	Claim 1897 1939	I told you before the election what I'd do
+T408	Premise 2131 2167	Yes, we have a $263 billion deficit.
+T409	Claim 2168 2204	This is how I'm going to get it done
+T410	Premise 2039 2074	It was once called voodoo economics
+T411	Premise 2961 3085	I'll tell you what I think has been the most outrageous thing in political dialog, both in this campaign and the one in '82.
+T412	Claim 3090 3258	that is the continued discussion and claim that somehow I am the villain who is going to pull the Social Security checks out from those people who are dependent on them
+T415	Claim -1 251; -1 251	we have 2,478 specific recommendations from a commission of more than 2,000 business people in this country, through the Grace commission, that we're studying right now that are recommendations as to how to make government more efficient, more economic
+T418	Claim 4325 4417	Social Security has nothing to do with balancing a budget or erasing or lowering the deficit
+T419	Claim 4475 4582	I think I have talked in straight economic terms about a program of recovery that I was told wouldn't work.
+T421	Claim 4765 4863	As to what we might do, and find in further savings cuts, no, we're not going to starve the hungry
+T422	Claim 4022 4072	Social Security has nothing to do with the deficit
+T423	Premise 4074 4159	Social Security is totally funded by the payroll tax levied on employer and employee.
+T427	Premise 5713 5779	Remember, there was a trillion dollars in debt before we got here.
+T430	Claim 6324 6372	I did support the '76 measure that he told about
+T432	Claim 6446 6505	I will say as a Democrat, I was a real piker, Mr. President
+T433	Premise 6507 6553	In 1979 we ran a $29 billion deficit all year.
+T435	Premise 6554 6606	This administration seems to run that every morning.
+T436	Claim 6144 6251	the American people don't have the slightest clue about what President Reagan will do about these deficits.
+T437	Claim 6272 6322	that's the most important single issue of our time
+T426	Claim 5780 5859	That's got to be paid by our children and grandchildren, too, if we don't do it
+T428	Premise 6382 6440	we were in a deep recession and we needed some stimulation
+T429	Claim 6646 6687	This economy is starting to run downhill.
+T431	Claim 6688 6703	Housing is off.
+T434	Claim 6917 6952	We've got to deal with this problem
+T438	Claim 6958 7042	those of us who want to be your President should tell you now what we're going to do
+T399	Claim 790 899	I think the President has done some things to raise the sense of spirit, morale, good feeling in this country
+T616	Claim 905 937	he's entitled to credit for that
+T400	Claim 1046 1130	challenging ourselves to get on with the business of dealing with America's problems
+T401	Premise 939 1041	What I think we need, however, is not just that but to move forward, not just congratulating ourselves
+T402	Claim 1132 1217	I think in education, when he lectured the country about the importance of discipline
+T407	Claim 1744 1834	I have stood up and told the American people that that $263 billion deficit must come down
+T617	Claim 2206 2229	Don't talk about growth
+T618	Premise 2239 2285	even though we need growth, that's not helping
+T413	Claim 3269 3293	I think it is outrageous
+T414	Premise 3363 3411	for political advantage, every time they do that
+T619	Premise 3413 3496	they scare millions of senior citizens who are totally dependent on Social Security
+T620	Claim 3674 3734	I don't think that that should be a part of political dialog
+T621	Premise 3530 3669	they have to live and go to bed at night thinking, "Is this true? Is someone going to take our check away from us and leave us destitute?''
+T622	Premise 3498 3524	have no place else to turn
+T424	Claim 4205 4270	that money would not go into the general fund to reduce a deficit
+T623	Premise 4160 4203	If you reduce the out-go of Social Security
+T425	Claim 4671 4700	none of these things happened
+T420	Premise 4593 4665	after it worked, I was told that lowering taxes would increase inflation
+T624	Claim 4702 4715	It is working
+T625	Claim 4721 4762	we're going to continue on that same line
+T416	Claim 5045 5089	we've already implemented 17 percent of them
+T417	Claim 6611 6644	the result is exactly what we see
+T626	Claim 6845 6914	the flow of imports into this country is swamping the American people
+T627	Claim 6801 6839	Many people are predicting a recession
+T628	Claim 6762 6799	Growth is a little over 3 percent now
+T629	Claim 6704 6760	Last report on new purchases, it's the lowest since 1982
+T439	Claim 7047 7070	you can make a judgment
+R1	Support Arg1:T399 Arg2:T616	
+R2	Support Arg1:T401 Arg2:T400	
+R3	Support Arg1:T402 Arg2:T403	
+R4	Support Arg1:T403 Arg2:T616	
+R5	Support Arg1:T404 Arg2:T400	
+R6	Support Arg1:T406 Arg2:T405	
+R7	Support Arg1:T407 Arg2:T406	
+R8	Support Arg1:T618 Arg2:T617	
+R9	Support Arg1:T410 Arg2:T409	
+R10	Support Arg1:T408 Arg2:T409	
+R11	Support Arg1:T411 Arg2:T412	
+R12	Support Arg1:T412 Arg2:T413	
+R13	Support Arg1:T622 Arg2:T619	
+R14	Support Arg1:T619 Arg2:T414	
+R15	Support Arg1:T621 Arg2:T619	
+R16	Support Arg1:T414 Arg2:T620	
+R17	Support Arg1:T423 Arg2:T422	
+R18	Support Arg1:T623 Arg2:T424	
+R19	Support Arg1:T424 Arg2:T422	
+R20	Attack Arg1:T419 Arg2:T409	
+R21	Support Arg1:T420 Arg2:T425	
+R22	Support Arg1:T425 Arg2:T624	
+R23	Support Arg1:T624 Arg2:T625	
+R24	Support Arg1:T412 Arg2:T421	
+R25	Support Arg1:T416 Arg2:T421	
+R26	Support Arg1:T427 Arg2:T426	
+R27	Attack Arg1:T436 Arg2:T625	
+R28	Support Arg1:T436 Arg2:T437	
+R29	Support Arg1:T428 Arg2:T430	
+R30	Support Arg1:T430 Arg2:T432	
+R31	Support Arg1:T433 Arg2:T435	
+R32	Support Arg1:T429 Arg2:T417	
+R33	Support Arg1:T431 Arg2:T417	
+R34	Support Arg1:T629 Arg2:T417	
+R35	Support Arg1:T628 Arg2:T417	
+R36	Support Arg1:T627 Arg2:T417	
+R37	Support Arg1:T626 Arg2:T417	
+R38	Support Arg1:T417 Arg2:T434	
+R39	Support Arg1:T438 Arg2:T434	
+R40	Support Arg1:T439 Arg2:T438	

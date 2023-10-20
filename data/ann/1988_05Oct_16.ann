@@ -1,0 +1,46 @@
+T578	Claim 838 917	The road of Michael Dukakis comes down to this: Bigger government, higher taxes
+T579	Premise 919 998	They've always believed in higher taxes; they always have, and they always will
+T580	Claim 1139 1188	the road of George Bush is the road to the future
+T581	Premise 1194 1373	it comes down to this: An America second to none, with visions of greatness, economic expansion, tough laws, tough judges, strong values, respect for the flag and our institutions
+T582	Claim 1375 1419	George Bush will lead us to the 21st Century
+T583	Claim 1421 1461	a century that will be of hope and peace
+T584	Claim 1463 1519	Ronald Reagan and George Bush saved America from decline
+T585	Claim 1521 1539	We changed America
+T586	Claim 1541 1588	Michael Dukakis fought us every step of the way
+T587	Claim 1590 1627	It's not that they're not sympathetic
+T588	Claim 1629 1678	it's simply that they will take America backwards
+T589	Claim 1989 2019	It's a most important decision
+T590	Premise 2029 2124	there's no bigger job than governing this great country of ours, and leading it into its future
+T591	Claim 1921 1987	In just 34 days, America will elect new leadership for our country
+T593	Claim 3400 3451	The debate has been ours, but the decision is yours
+T594	Claim 3351 3398	Help us bring America to a new era of greatness
+T595	Claim 3104 3226	I've worked for the betterment of our country, both in war and peace, as a bomber pilot, as one who has been a businessman
+T596	Claim 3232 3349	a United States senator, working to make this nation the fairest and the strongest and the most powerful in the world
+T597	Claim 3044 3102	the commitment, and a contribution by all of us to do that
+T598	Claim 2977 3006	It's going to take leadership
+T599	Claim 3012 3038	it's going to take courage
+T600	Claim 2948 2975	It won't happen by accident
+T592	Claim 2705 2751	As Americans, we honor our past, and we should
+T601	Claim 2865 2882	that won't happen
+T602	Premise 2884 2946	Taking care of our economy, just putting it on automatic pilot
+T603	Claim 2757 2801	our children are going to live in the future
+T604	Claim -1 110; -1 110	George Bush has the experience, and with me a future committed to our family, a future committed to the freedom
+R1	Support Arg1:T579 Arg2:T578	
+T1	Premise 1000 1024	Cuts in national defense
+R2	Support Arg1:T1 Arg2:T578	
+T2	Premise 1026 1133	Back to the old economics of high interest rates, high inflation, and the old politics of high unemployment
+R3	Support Arg1:T2 Arg2:T578	
+R4	Support Arg1:T581 Arg2:T580	
+R5	Attack Arg1:T588 Arg2:T587	
+T3	Premise 1680 1804	George Bush has the experience, and with me, the future, a future committed to our family, a future committed to the freedom
+R6	Support Arg1:T3 Arg2:T580	
+R7	Support Arg1:T582 Arg2:T580	
+R8	Support Arg1:T583 Arg2:T582	
+R9	Support Arg1:T584 Arg2:T582	
+R10	Support Arg1:T585 Arg2:T584	
+R11	Support Arg1:T587 Arg2:T586	
+R12	Support Arg1:T590 Arg2:T589	
+T4	Claim 2126 2247	Mike Dukakis and Lloyd Bentsen offer you experience, tempered, capable leadership, to meet those challenges of the future
+R13	Attack Arg1:T4 Arg2:T586	
+T5	Claim 2249 2308	Our opposition says lower your sights, rest on your laurels
+R14	Attack Arg1:T5 Arg2:T580	

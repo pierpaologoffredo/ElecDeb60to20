@@ -1,0 +1,71 @@
+T890	Claim 299 348	I really don't have -- haven't picked anybody yet
+T891	Claim 400 493	I would pick somebody who would not allow their personal opinion to get in the way of the law
+T892	Claim 495 583	I would pick somebody who would strictly interpret the Constitution of the United States
+T893	Premise 586 670	Let me give you a couple of examples, I guess, of the kind of person I wouldn't pick
+T894	Premise 673 807	I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words "under God" in it
+T895	Premise 817 971	that's an example of a judge allowing personal opinion to enter into the decision-making process as opposed to a strict interpretation of the Constitution
+T896	Premise 974 1132	Another example would be the Dred Scott case, which is where judges, years ago, said that the Constitution allowed slavery because of personal property rights
+T897	Premise 1135 1160	That's a personal opinion
+T898	Premise 1162 1199	That's not what the Constitution says
+T899	Premise 1201 1286	The Constitution of the United States says we're all -- you know, it doesn't say that
+T900	Premise 1288 1331	It doesn't speak to the equality of America
+T901	Claim 1342 1399	I would pick people that would be strict constructionists
+T902	Claim 1602 1652	that's the kind of judge I'm going to put on there
+T903	Claim 1654 1715	No litmus test except for how they interpret the Constitution
+T904	Premise 1401 1450	We've got plenty of lawmakers in Washington, D.C.
+T905	Premise 1451 1471	Legislators make law
+T906	Premise 1473 1506	judges interpret the Constitution
+T907	Premise 1803 1951	A few years ago when he came to office, the president said -- these are his words -- "What we need are some good conservative judges on the courts."
+T908	Premise 1957 2038	he said also that his two favorite justices are Justice Scalia and Justice Thomas
+T909	Claim 2044 2124	you get a pretty good sense of where he's heading if he were to appoint somebody
+T910	Claim 2155 2204	I don't believe we need a good conservative judge
+T911	Claim 2210 2254	I don't believe we need a good liberal judge
+T912	Claim 2256 2334	I don't believe we need a good judge of that kind of definition on either side
+T913	Premise 2389 2447	He was a justice on the Supreme Court of the United States
+T914	Premise 2453 2669	he said the mark of a good judge, good justice, is that when you're reading their decision, their opinion, you can't tell if it's written by a man or woman, a liberal or a conservative, a Muslim, a Jew or a Christian
+T915	Claim 2671 2724	You just know you're reading a good judicial decision
+T916	Premise 2337 2387	I subscribe to the Justice Potter Stewart standard
+T917	Premise 3212 3243	These are constitutional rights
+T918	Claim 3249 3356	I want to make sure we have judges who interpret the Constitution of the United States according to the law
+T919	Claim 2807 2892	the Supreme Court of the United States is at stake in this race, ladies and gentlemen
+T920	Claim 2895 3038	The future of things that matter to you -- in terms of civil rights, what kind of Justice Department you'll have, whether we'll enforce the law
+T921	Premise 3040 3071	Will we have equal opportunity?
+T922	Premise 3072 3105	Will women's rights be protected?
+T923	Premise 3106 3165	Will we have equal pay for women, which is going backwards?
+T924	Premise 3166 3210	Will a woman's right to choose be protected?
+R1	Support Arg1:T891 Arg2:T892	
+R2	Support Arg1:T893 Arg2:T894	
+R3	Attack Arg1:T894 Arg2:T895	
+R4	Attack Arg1:T892 Arg2:T895	
+R5	Support Arg1:T897 Arg2:T896	
+R6	Attack Arg1:T898 Arg2:T896	
+R7	Attack Arg1:T898 Arg2:T897	
+R8	Support Arg1:T899 Arg2:T898	
+R9	Support Arg1:T900 Arg2:T898	
+R10	Attack Arg1:T901 Arg2:T900	
+R11	Support Arg1:T901 Arg2:T892	
+R12	Attack Arg1:T901 Arg2:T898	
+R13	Support Arg1:T904 Arg2:T905	
+R14	Support Arg1:T905 Arg2:T906	
+R15	Support Arg1:T906 Arg2:T902	
+R16	Support Arg1:T902 Arg2:T903	
+R17	Support Arg1:T903 Arg2:T892	
+R18	Support Arg1:T907 Arg2:T908	
+R19	Support Arg1:T908 Arg2:T909	
+R20	Attack Arg1:T909 Arg2:T903	
+R22	Support Arg1:T911 Arg2:T912	
+R23	Support Arg1:T910 Arg2:T912	
+R21	Support Arg1:T916 Arg2:T913	
+R24	Support Arg1:T913 Arg2:T914	
+R25	Support Arg1:T914 Arg2:T915	
+R26	Attack Arg1:T920 Arg2:T919	
+R27	Support Arg1:T921 Arg2:T920	
+R28	Support Arg1:T923 Arg2:T920	
+R29	Support Arg1:T922 Arg2:T920	
+R30	Support Arg1:T924 Arg2:T920	
+R31	Support Arg1:T924 Arg2:T917	
+R32	Support Arg1:T923 Arg2:T917	
+R33	Support Arg1:T922 Arg2:T917	
+R34	Support Arg1:T921 Arg2:T917	
+R35	Support Arg1:T917 Arg2:T918	
+R36	Support Arg1:T915 Arg2:T918	

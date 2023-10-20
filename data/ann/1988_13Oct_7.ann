@@ -1,0 +1,21 @@
+T1	Claim 1248 1319	I would say that the concept of the Dukakis family has my great respect
+T2	Claim 1579 1605	It's gotten a little nasty
+T3	Premise 1640 1669	I would cite again Dan Quayle
+R1	Support Arg1:T3 Arg2:T2	
+T4	Premise 1671 1803	I've been in politics a long time, and I don't remember that kind of piling on, that kind of ugly rumor that never was true, printed
+R2	Support Arg1:T4 Arg2:T3	
+T5	Premise 863 975	we used that as a role model, the way he took understandable pride in his heritage, what his family means to him
+R3	Support Arg1:T5 Arg2:T1	
+T6	Claim 1413 1532	I think the man anybody that gets into this political arena and has to face you guys everyday deserves a word of praise
+R4	Attack Arg1:T2 Arg2:T6	
+T7	Premise 1848 1865	he's in the arena
+R5	Support Arg1:T7 Arg2:T3	
+T8	Claim 2926 2943	I believe in them
+T9	Premise 2893 2924	Those are basic American values
+T10	Premise 2837 2891	They can't live in the community which they grew up in
+R6	Support Arg1:T10 Arg2:T9	
+R7	Support Arg1:T9 Arg2:T8	
+T11	Premise 2974 2999	They're not left or right
+R8	Support Arg1:T11 Arg2:T8	
+T12	Premise 3001 3031	They're decent American values
+R9	Support Arg1:T12 Arg2:T8	

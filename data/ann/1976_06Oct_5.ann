@@ -1,0 +1,130 @@
+T186	Claim 706 759	I would never single out food as a trade embargo item
+T187	Premise 761 899	If I ever decided to impose an embargo because of a crisis in international relationships, it would include all shipments of all equipment
+T188	Premise 915 1064	if the Arab countries ever again declare an embargo against our nation on oil I would consider that not a military but an economic declaration of war
+T189	Claim 1070 1107	I would respond instantly and in kind
+T190	Claim 1109 1240	I would not ship that Arab country anything - no weapons, no spare parts for weapons, no oil-drilling rigs, no oil pipe, no nothing
+T191	Claim 1242 1273	I wouldn't single out just food
+T192	Claim -1 71; -1 71	In our international trade we have become the arms merchant of the world
+T193	Premise 1433 1542	When this Republican administration came into office we were shipping about $1 billion worth of arms overseas
+T194	Premise 1544 1668	now ten to twelve billion dollars worth of arms overseas to countries that quite often use these weapons to fight each other
+T195	Premise 1756 1869	Under the last Democratic administration 60 percent of all weapons that went into the Middle East were for Israel
+T196	Claim 1990 2093	If you include Iran, our present shipment of weapons to the Middle East, only 20 percent goes to Israel
+T197	Claim 1917 1956	Now 60 percent go to the Arab countries
+T198	Claim 1962 1988	this does not include Iran
+T199	Claim 1871 1915	Nowadays - 75 percent were for Israel before
+T200	Claim 2130 2218	it's a deviation from a commitment to our major ally in the Middle East, which is Israel
+T201	Claim 2220 2298	it's a yielding to economic pressure on the part of the Arabs on the oil issue
+T202	Claim 2304 2423	it's also a tremendous indication that under the Ford administration we have not addressed the energy policy adequately
+T203	Premise 2425 2485	We still have no comprehensive energy policy in this country
+T204	Claim 2491 2523	it's an overall sign of weakness
+T205	Premise 3378 3463	Iran is gonna get eighty F-14s before we even meet our own Air Force orders for F-l4s
+T206	Premise 3469 3637	the shipment of Spruance-class destroyers to Iran are much more highly sophisticated than the Spruance-class destroyers that are present being delivered to our own Navy
+T207	Claim 3639 3684	This is ridiculous and it ought to be changed
+T208	Claim 3161 3231	Our priorities ought to be first of all to meet our own military needs
+T209	Claim 3233 3285	secondly to meet the needs of our allies and friends
+T210	Claim 3291 3355	only then should we ship military equipment to foreign countries
+T211	Premise 2530 2562	we are weak at home economically
+T212	Premise 2565 2655	high unemployment, high inflation, a confused government, a wasteful defense establishment
+T213	Claim 2657 2728	this encourages the kind of pressure that's been put on us successfully
+T214	Premise 2730 2844	It would've been inconceivable ten - fifteen years ago, for us to be brought to our knees with an Arab oil embargo
+T215	Claim 3019 3063	I believe it's not just a matter of idealism
+T216	Premise 2850 2877	it was done three years ago
+T217	Premise 2882 2976	they're still putting pressure on us from the Arab countries to our discredit around the world
+T218	Claim 3065 3093	It's a matter of being tough
+T219	Claim 3095 3124	It's a matter of being strong
+T220	Claim 3126 3159	It's a matter of being consistent
+T221	Claim -1 106; -1 106	I think they would refrain from pushing us to our knees as they did in 1973 with their previous oil embargo
+T222	Claim 4111 4226	if Saudi Arabia should declare an oil embargo against us, then I would consider that an economic declaration of war
+T223	Premise -1 103; -1 103	I would make sure that the Saudis understood this ahead of time so there would be no doubt in their mind
+T224	Premise 4572 4657	I've been president we have sold to the Israelis over $4 billion in military hardware
+T225	Premise 4659 4752	We have made available to the Israelis over 45 percent of the total economic and military aid
+T226	Claim 4814 4890	the Ford administration has done a good job in helping our good ally, Israel
+T227	Claim 4896 4950	we're dedicated to the survival and security of Israel
+T228	Claim 4952 5044	I believe that Governor Carter doesn't realize the need and necessity for arms sales to Iran
+T229	Premise 5084 5137	Iran is bordered very extensively by the Soviet Union
+T230	Premise 5139 5176	Iran has Iraq as one of its neighbors
+T231	Premise 5178 5263	The Soviet Union and the Communist-dominated government of Iraq are neighbors of Iran
+T232	Premise 5269 5305	Iran is an ally of the United States
+T233	Claim 5335 5447	we ought to sell arms to Iran for its own national security, and as an ally - a strong ally of the United States
+T234	Premise 5538 5657	he decided that it was vitally necessary for our own security as well as that of Iran, that we should help that country
+T235	Premise 5690 5753	In 1973 when there was an oil embargo, Iran did not participate
+T236	Premise 5755 5802	Iran continued to sell oil to the United States
+T237	Claim 5804 5951	I believe that it's in our interest and in the interest of Israel and Iran, and Saudi Arabia, for the United States to sell arms to those countries
+T238	Claim 5953 5992	It's for their security as well as ours
+T174	Premise 5663 5688	Iran has been a good ally
+T1	Claim 1319 1431	In our international trade, as I said in my op- opening statement, we have become the arms merchant of the world
+T2	Claim 4343 4476	I think under those circumstances they would refrain from pushing us to our knees as they did in 1973 with their previous oil embargo
+T3	Premise 4232 4341	I would make sure that the uh - Saudis understood this ahead of time so there would be no doubt in their mind
+R1	Equivalent Arg1:T191 Arg2:T186	
+R3	Support Arg1:T188 Arg2:T189	
+R5	Support Arg1:T189 Arg2:T186	
+R10	Support Arg1:T190 Arg2:T186	
+R11	Support Arg1:T193 Arg2:T1	
+R12	Support Arg1:T193 Arg2:T194	
+R13	Support Arg1:T194 Arg2:T1	
+R14	Support Arg1:T195 Arg2:T1	
+R15	Support Arg1:T194 Arg2:T195	
+R16	Support Arg1:T195 Arg2:T199	
+R17	Support Arg1:T199 Arg2:T1	
+R18	Support Arg1:T197 Arg2:T1	
+R19	Support Arg1:T198 Arg2:T196	
+R20	Support Arg1:T196 Arg2:T1	
+R21	Support Arg1:T200 Arg2:T201	
+R22	Support Arg1:T201 Arg2:T202	
+R23	Support Arg1:T203 Arg2:T202	
+R24	Support Arg1:T202 Arg2:T204	
+R25	Attack Arg1:T196 Arg2:T200	
+R26	Attack Arg1:T196 Arg2:T201	
+R27	Support Arg1:T211 Arg2:T212	
+R28	Support Arg1:T212 Arg2:T213	
+R29	Support Arg1:T204 Arg2:T213	
+R30	Support Arg1:T216 Arg2:T217	
+R31	Support Arg1:T217 Arg2:T213	
+R32	Support Arg1:T214 Arg2:T216	
+T4	Claim 2095 2128	This is a deviation from idealism
+R33	Support Arg1:T4 Arg2:T200	
+R34	Attack Arg1:T215 Arg2:T4	
+R35	Support Arg1:T218 Arg2:T215	
+R36	Support Arg1:T219 Arg2:T215	
+R37	Support Arg1:T220 Arg2:T215	
+R38	Support Arg1:T208 Arg2:T215	
+R39	Support Arg1:T209 Arg2:T215	
+R40	Support Arg1:T210 Arg2:T215	
+R41	Attack Arg1:T205 Arg2:T208	
+R42	Attack Arg1:T205 Arg2:T209	
+R43	Attack Arg1:T205 Arg2:T210	
+R44	Support Arg1:T205 Arg2:T206	
+R45	Attack Arg1:T206 Arg2:T208	
+R46	Attack Arg1:T206 Arg2:T209	
+R47	Support Arg1:T206 Arg2:T210	
+R48	Attack Arg1:T207 Arg2:T206	
+R49	Attack Arg1:T207 Arg2:T205	
+R50	Support Arg1:T3 Arg2:T222	
+R51	Support Arg1:T2 Arg2:T222	
+R52	Attack Arg1:T224 Arg2:T200	
+R53	Attack Arg1:T225 Arg2:T200	
+R54	Support Arg1:T226 Arg2:T227	
+R55	Support Arg1:T224 Arg2:T226	
+R56	Support Arg1:T225 Arg2:T226	
+R57	Support Arg1:T224 Arg2:T227	
+R58	Support Arg1:T225 Arg2:T227	
+R59	Attack Arg1:T228 Arg2:T205	
+R60	Attack Arg1:T228 Arg2:T206	
+R61	Attack Arg1:T228 Arg2:T207	
+R62	Support Arg1:T228 Arg2:T233	
+R63	Support Arg1:T229 Arg2:T233	
+R64	Support Arg1:T230 Arg2:T231	
+R65	Support Arg1:T230 Arg2:T233	
+R66	Support Arg1:T231 Arg2:T233	
+R67	Support Arg1:T232 Arg2:T233	
+R68	Support Arg1:T174 Arg2:T233	
+R69	Support Arg1:T234 Arg2:T174	
+R70	Support Arg1:T234 Arg2:T233	
+R71	Support Arg1:T235 Arg2:T174	
+R72	Support Arg1:T235 Arg2:T233	
+R73	Support Arg1:T236 Arg2:T235	
+R74	Support Arg1:T236 Arg2:T174	
+R75	Support Arg1:T236 Arg2:T233	
+R76	Support Arg1:T233 Arg2:T237	
+R77	Support Arg1:T237 Arg2:T238	
+R2	Support Arg1:T187 Arg2:T186	

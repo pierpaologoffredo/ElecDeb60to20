@@ -1,0 +1,131 @@
+T193	Claim 613 711	I've made some decisions that have caused people to not understand the great values of our country
+T194	Premise 578 595	I love our values
+T195	Premise 713 760	I remember when Ronald Reagan was the president
+T196	Premise 762 783	he stood on principle
+T197	Premise 785 814	Somebody called that stubborn
+T198	Premise 816 895	He stood on principle standing up to the Soviet Union, and we won that conflict
+T199	Premise 901 999	at the same time, he was very -- we were very unpopular in Europe because of the decisions he made
+T200	Premise 1002 1058	I recognize that taking Saddam Hussein out was unpopular
+T201	Claim 1064 1147	I made the decision because I thought it was in the right interests of our security
+T202	Claim 1160 1211	I've made some decisions on Israel that's unpopular
+T203	Claim 1213 1240	I wouldn't deal with Arafat
+T204	Premise 1250 1298	I felt like he had let the former president down
+T205	Claim 1304 1382	I don't think he's the kind of person that can lead toward a Palestinian state
+T206	Premise 1389 1431	people in Europe didn't like that decision
+T207	Premise 1437 1455	that was unpopular
+T208	Claim 1461 1489	it was the right thing to do
+T209	Claim 1492 1536	I believe Palestinians ought to have a state
+T210	Claim 1848 1883	I don't think we ought to join that
+T211	Premise 1885 1903	That was unpopular
+T212	Premise 1670 1845	I made a decision not to join the International Criminal Court in The Hague, which is where our troops could be brought to -- brought in front of a judge, an unaccounted judge
+T213	Claim 1542 1613	I know they need leadership that's committed to a democracy and freedom
+T214	Premise 1615 1667	leadership that would be willing to reject terrorism
+T215	Claim 1947 2031	sometimes in this world you make unpopular decisions because you think they're right
+T216	Claim 2234 2321	I don't think you want a president who tries to become popular and does the wrong thing
+T217	Claim 2324 2435	You don't want to join the International Criminal Court just because it's popular in certain capitals in Europe
+T218	Premise 2034 2061	We'll continue to reach out
+T219	Premise 2072 2149	there is 30 nations involved in Iraq, some 40 nations involved in Afghanistan
+T220	Premise 2152 2171	People love America
+T221	Premise 2173 2228	Sometimes they don't like the decisions made by America
+T222	Claim 2665 2765	every part of the president's answer just now promises you more of the same over the next four years
+T223	Premise 2768 2939	The president stood right here in this hall four years ago, and he was asked a question by somebody just like you, "Under what circumstances would you send people to war?"
+T224	Premise 2945 3039	his answer was, "With a viable exit strategy and only with enough forces to get the job done."
+T225	Premise 3041 3058	He didn't do that
+T226	Premise 3060 3081	He broke that promise
+T227	Claim 3083 3111	We didn't have enough forces
+T228	Premise 3114 3211	General Shinseki, the Army chief of staff, told him he was going to need several hundred thousand
+T229	Premise 3229 3279	They retired General Shinseki for telling him that
+T230	Claim 3282 3312	This president hasn't listened
+T231	Premise 3315 3398	I went to meet with the members of the Security Council in the week before we voted
+T232	Premise 3400 3418	I went to New York
+T233	Premise 3420 3525	I talked to all of them to find out how serious they were about really holding Saddam Hussein accountable
+T234	Claim -1 49; -1 49	I came away convinced that they'd be there with us
+T235	Premise 3556 3574	if we worked at it
+T236	Premise 3576 3675	if we were ready to work and letting Hans Blix do his job and thoroughly go through the inspections
+T237	Premise 3682 3703	if push came to shove
+T238	Premise 3735 3855	the president just arbitrarily brought the hammer down and said, "Nope. Sorry, time for diplomacy is over. We're going."
+T239	Premise 3857 3905	He rushed to war without a plan to win the peace
+T240	Premise 3908 3983	Ladies and gentleman, he gave you a speech and told you he'd plan carefully
+T241	Premise 3985 4006	take every precaution
+T242	Premise 4008 4031	take our allies with us
+T244	Claim 4044 4061	He broke his word
+T245	Claim 4601 4692	A president sets the strategy and relies upon good military people to execute that strategy
+T246	Claim 4571 4599	That's what a president does
+T247	Claim 4545 4569	I listen to our generals
+T248	Premise 4095 4235	I remember sitting in the White House looking at those generals, saying, "Do you have what you need in this war? Do you have what it takes?"
+T249	Premise 4236 4465	I remember going down to the basement of the White House the day we committed our troops as last resort, looking at Tommy Franks and the generals on the ground, asking them, "Do we have the right plan with the right troop level?"
+T250	Premise 4471 4533	they looked me in the eye and said, "Yes, sir, Mr. President."
+T251	Claim 5063 5106	The president did not do what was necessary
+T252	Premise 5108 5137	Didn't bring in enough nation
+T253	Premise 5139 5162	Didn't deliver the help
+T254	Premise 5164 5192	Didn't close off the borders
+T255	Premise 5194 5226	Didn't even guard the ammo dumps
+T256	Premise 5232 5295	now our kids are being killed with ammos right out of that dump
+T257	Claim 4809 4869	winning the peace is larger than just the military component
+T258	Premise 4721 4803	You rely on good military people to execute the military component of the strategy
+T259	Premise 4871 4983	General Shinseki had the wisdom to say, "You're going to need several hundred thousand troops to win the peace."
+T260	Premise 4984 5020	The military's job is to win the war
+T261	Premise 5023 5060	A president's job is to win the peace
+T1	Premise 4033 4042	He didn't
+R1	Attack Arg1:T193 Arg2:T194	
+R2	Support Arg1:T195 Arg2:T196	
+R3	Support Arg1:T196 Arg2:T197	
+R4	Support Arg1:T197 Arg2:T198	
+R5	Support Arg1:T198 Arg2:T199	
+R6	Support Arg1:T200 Arg2:T201	
+R7	Support Arg1:T203 Arg2:T202	
+R8	Support Arg1:T204 Arg2:T203	
+R9	Support Arg1:T205 Arg2:T203	
+R10	Support Arg1:T206 Arg2:T202	
+R11	Support Arg1:T207 Arg2:T206	
+R12	Attack Arg1:T208 Arg2:T202	
+R14	Support Arg1:T214 Arg2:T213	
+R15	Support Arg1:T209 Arg2:T213	
+R13	Support Arg1:T212 Arg2:T210	
+R16	Support Arg1:T211 Arg2:T210	
+R17	Support Arg1:T210 Arg2:T215	
+R18	Support Arg1:T208 Arg2:T215	
+R19	Support Arg1:T202 Arg2:T215	
+R20	Support Arg1:T219 Arg2:T221	
+R21	Support Arg1:T220 Arg2:T221	
+R22	Support Arg1:T221 Arg2:T216	
+R23	Support Arg1:T217 Arg2:T216	
+R24	Support Arg1:T223 Arg2:T222	
+R25	Support Arg1:T224 Arg2:T223	
+R26	Attack Arg1:T225 Arg2:T224	
+R27	Support Arg1:T226 Arg2:T225	
+R28	Attack Arg1:T227 Arg2:T224	
+R29	Support Arg1:T226 Arg2:T227	
+R30	Support Arg1:T225 Arg2:T227	
+R31	Support Arg1:T228 Arg2:T229	
+R32	Support Arg1:T229 Arg2:T230	
+R33	Support Arg1:T231 Arg2:T232	
+R34	Support Arg1:T232 Arg2:T233	
+T2	Claim 3705 3728	they'd be there with us
+R35	Support Arg1:T235 Arg2:T236	
+R36	Support Arg1:T236 Arg2:T237	
+R37	Support Arg1:T237 Arg2:T2	
+R38	Support Arg1:T233 Arg2:T2	
+R39	Attack Arg1:T238 Arg2:T2	
+R40	Support Arg1:T240 Arg2:T239	
+R41	Support Arg1:T241 Arg2:T240	
+R42	Support Arg1:T242 Arg2:T240	
+R43	Attack Arg1:T1 Arg2:T240	
+R44	Support Arg1:T1 Arg2:T244	
+R45	Attack Arg1:T1 Arg2:T241	
+R46	Attack Arg1:T1 Arg2:T242	
+R47	Support Arg1:T248 Arg2:T249	
+R48	Support Arg1:T249 Arg2:T250	
+R49	Support Arg1:T250 Arg2:T247	
+R50	Support Arg1:T246 Arg2:T247	
+R51	Support Arg1:T247 Arg2:T245	
+R52	Support Arg1:T246 Arg2:T245	
+R53	Attack Arg1:T257 Arg2:T258	
+R54	Support Arg1:T260 Arg2:T259	
+R55	Support Arg1:T261 Arg2:T259	
+R56	Attack Arg1:T251 Arg2:T259	
+R57	Support Arg1:T252 Arg2:T251	
+R58	Support Arg1:T253 Arg2:T251	
+R59	Support Arg1:T254 Arg2:T251	
+R60	Support Arg1:T255 Arg2:T251	
+R61	Support Arg1:T256 Arg2:T255	

@@ -1,0 +1,114 @@
+T925	Claim 1281 1325	I believe we're all children of the same God
+T926	Claim 1327 1385	I believe we have a responsibility to care for one another
+T927	Premise 570 692	some campaigns are focused on attacking a person rather than prescribing their own future and the things they'd like to do
+T928	Claim 717 830	I think the president's campaign has tried to characterize me as -- as someone who's very different than who I am
+T929	Claim 833 880	I care about 100 percent of the American people
+T930	Premise 882 962	I want 100 percent of the American people to have a bright and prosperous future
+T931	Claim 964 985	I care about our kids
+T932	Premise 987 1070	I understand what it takes to make a bright and prosperous future for America again
+T933	Premise 1072 1128	I spent my life in the private sector, not in government
+T934	Claim 1130 1205	I'm a guy who wants to help with the experience I have, the American people
+T935	Premise 1214 1275	my passion probably flows from the fact that I believe in God
+T936	Claim 2454 2507	If I become president, I'll get America working again
+T937	Claim 2509 2552	I will get us on track to a balanced budget
+T938	Premise 2554 2574	The president hasn't
+T940	Claim 2584 2691	I'll make sure we can reform Medicare and Social Security to preserve them for coming -- coming generations
+T941	Premise 2693 2720	The president said he would
+T942	Claim 2722 2731	He didn't
+T943	Premise 1392 1430	I served as a missionary for my church
+T944	Premise 1434 1490	served as a pastor in my congregation for about 10 years
+T945	Claim 1718 1838	as governor of my state, I was able to get 100 percent of my people insured, all my kids, about 98 percent of the adults
+T946	Claim 1840 1979	I was able also to get our schools ranked number one in the nation, so 100 percent of our kids would have a bright opportunity for a future
+T947	Claim 1991 2046	I understand that I can get this country on track again
+T948	Premise 1635 1712	I went to the Olympics when they were in trouble to try and get them on track
+T949	Premise 1492 1632	I've sat across the table from people who were out of work and worked with them to try and find new work or to help them through tough times
+T950	Claim 2048 2100	We don't have to settle for what we're going through
+T951	Premise 2102 2152	We don't have to settle for gasoline at four bucks
+T952	Premise 2154 2222	We don't have to settle for unemployment at a chronically high level
+T953	Premise 2224 2284	We don't have to settle for 47 million people on food stamps
+T954	Premise 2286 2375	We don't have to settle for 50 percent of kids coming out of college not able to get work
+T955	Premise 2377 2452	We don't have to settle for 23 million people struggling to find a good job
+T956	Claim 2765 2788	I'll get our incomes up
+T957	Premise 2806 2828	I've done these things
+T958	Premise 2830 2883	I served as governor and showed I could get them done
+T959	Claim 2957 3122	I think a lot of this campaign, maybe over the last four years, has been devoted to this nation that I think government creates jobs, that that somehow is the answer
+T960	Premise 3124 3149	That's not what I believe
+T961	Claim 3151 3252	I believe that the free enterprise system is the greatest engine of prosperity the world's ever known
+T962	Claim 3344 3482	I also believe that everybody should have a fair shot and everybody should do their fair share and everybody should play by the same rules
+T963	Premise 3492 3522	that's how our economy's grown
+T964	Claim 3255 3338	I believe in self-reliance and individual initiative and risk takers being rewarded
+T965	Claim 3722 3761	I believe Governor Romney is a good man
+T966	Premise 3524 3577	That's how we built the world's greatest middle class
+T967	Premise 3763 3802	Loves his family, cares about his faith
+T968	Claim 3808 3994	I also believe that when he said behind closed doors that 47 percent of the country considered themselves victims who refuse personal responsibility, think about who he was talking about
+T969	Premise 3997 4051	Folks on Social Security who've worked all their lives
+T970	Premise 4053 4096	Veterans who've sacrificed for this country
+T971	Premise 4098 4169	Students who are out there trying to hopefully advance their own dreams
+T972	Premise 4203 4254	Soldiers who are overseas fighting for us right now
+T973	Premise 4175 4201	also this country's dreams
+T974	Claim 4387 4438	That's what I've been doing for the last four years
+T975	Premise 4256 4324	People who are working hard every day, paying payroll tax, gas taxes
+T976	Premise 4330 4354	don't make enough income
+T977	Claim 4361 4385	I want to fight for them
+T978	Premise 4448 4495	if they succeed, I believe the country succeeds
+T979	Claim 4700 4773	I want to make sure that the next generation has those same opportunities
+T980	Claim 4786 4859	I'm asking for your vote and that's why I'm asking for another four years
+T981	Premise 4503 4574	my grandfather fought in World War II and he came back and he got a G.I
+T982	Premise 4576 4641	Bill and that allowed him to go to college, that wasn't a handout
+T983	Premise 4643 4694	That was something that advanced the entire country
+T1	Claim 2576 2582	I will
+R1	Support Arg1:T930 Arg2:T929	
+R2	Support Arg1:T931 Arg2:T929	
+R3	Support Arg1:T932 Arg2:T934	
+R4	Support Arg1:T935 Arg2:T934	
+R5	Support Arg1:T933 Arg2:T934	
+R6	Support Arg1:T929 Arg2:T928	
+R7	Support Arg1:T934 Arg2:T928	
+R8	Support Arg1:T925 Arg2:T928	
+R9	Support Arg1:T926 Arg2:T928	
+R10	Support Arg1:T943 Arg2:T925	
+R11	Support Arg1:T944 Arg2:T925	
+R12	Support Arg1:T949 Arg2:T926	
+R13	Support Arg1:T948 Arg2:T926	
+R14	Support Arg1:T946 Arg2:T947	
+R15	Support Arg1:T945 Arg2:T947	
+R16	Support Arg1:T926 Arg2:T947	
+R17	Support Arg1:T925 Arg2:T947	
+R18	Support Arg1:T934 Arg2:T947	
+R19	Support Arg1:T929 Arg2:T947	
+R20	Support Arg1:T951 Arg2:T950	
+R21	Support Arg1:T952 Arg2:T950	
+R22	Support Arg1:T953 Arg2:T950	
+R23	Support Arg1:T954 Arg2:T950	
+R24	Support Arg1:T955 Arg2:T950	
+R25	Support Arg1:T950 Arg2:T936	
+R26	Support Arg1:T937 Arg2:T936	
+R27	Support Arg1:T938 Arg2:T1	
+*	Equivalent T1 T936
+R28	Support Arg1:T941 Arg2:T942	
+R29	Support Arg1:T940 Arg2:T936	
+R30	Support Arg1:T957 Arg2:T956	
+R31	Support Arg1:T958 Arg2:T956	
+R32	Support Arg1:T956 Arg2:T936	
+R33	Support Arg1:T960 Arg2:T959	
+R34	Support Arg1:T964 Arg2:T961	
+R35	Support Arg1:T962 Arg2:T961	
+R36	Support Arg1:T963 Arg2:T961	
+R37	Support Arg1:T966 Arg2:T961	
+R38	Support Arg1:T967 Arg2:T965	
+R39	Attack Arg1:T965 Arg2:T928	
+R40	Support Arg1:T969 Arg2:T977	
+R41	Support Arg1:T973 Arg2:T971	
+R42	Support Arg1:T970 Arg2:T977	
+R43	Support Arg1:T971 Arg2:T977	
+R44	Support Arg1:T972 Arg2:T977	
+R45	Support Arg1:T976 Arg2:T975	
+R46	Support Arg1:T975 Arg2:T977	
+R47	Support Arg1:T974 Arg2:T977	
+R48	Support Arg1:T978 Arg2:T974	
+R49	Support Arg1:T981 Arg2:T982	
+R50	Support Arg1:T982 Arg2:T983	
+R51	Support Arg1:T983 Arg2:T979	
+R52	Support Arg1:T979 Arg2:T974	
+R53	Support Arg1:T977 Arg2:T980	
+R54	Support Arg1:T974 Arg2:T980	

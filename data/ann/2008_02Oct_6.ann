@@ -1,0 +1,112 @@
+T235	Claim 326 402	Alaska feels and sees impacts of climate change more so than any other state
+T236	Premise 254 324	as the nation's only Arctic state and being the governor of that state
+T237	Claim 408 430	we know that it's real
+T238	Claim 516 632	There is something to be said also for man's activities, but also for the cyclical temperature changes on our planet
+T239	Claim 634 684	But there are real changes going on in our climate
+T240	Claim 825 860	We have got to clean up this planet
+T241	Claim 862 962	We have got to encourage other nations also to come along with us with the impacts of climate change
+T242	Premise 1004 1099	I was the first governor to form a climate change sub-cabinet to start dealing with the impacts
+T243	Claim 1101 1130	We've got to reduce emissions
+T244	Premise 1132 1230	John McCain is right there with an "all of the above" approach to deal with climate change impacts
+T245	Claim 1232 1286	We've got to become energy independent for that reason
+T246	Premise 1293 1487	as we rely more and more on other countries that don't care as much about the climate as we do, we're allowing them to produce and to emit and even pollute more than America would ever stand for
+T247	Claim 1492 1717	even in dealing with climate change, it's all the more reason that we have an "all of the above" approach, tapping into alternative sources of energy and conserving fuel, conserving our petroleum products and our hydrocarbons
+T248	Premise 1718 1782	so that we can clean up this planet and deal with climate change
+T249	Claim 1865 1886	I think it is manmade
+T250	Claim 1888 1916	I think it's clearly manmade
+T251	Claim 1918 2085	And, look, this probably explains the biggest fundamental difference between John McCain and Barack Obama and Sarah Palin and Joe Biden -- Governor Palin and Joe Biden
+T252	Premise 2086 2181	If you don't understand what the cause is, it's virtually impossible to come up with a solution
+T253	Claim 2183 2208	We know what the cause is
+T254	Claim 2210 2230	The cause is manmade
+T255	Claim 2232 2248	That's the cause
+T256	Claim 2250 2288	That's why the polar icecap is melting
+T257	Premise 2414 2562	John McCain has voted 20 times in the last decade-and-a-half against funding alternative energy sources, clean energy sources, wind, solar, biofuels
+T258	Premise 2564 2627	The way in which we can stop the greenhouse gases from emitting
+T259	Premise 2320 2365	We have 3 percent of the world's oil reserves
+T260	Premise 2367 2412	We consume 25 percent of the oil in the world
+T261	Claim 2643 2708	Barack Obama believes by investing in clean coal and safe nuclear
+T262	Claim 2710 2799	we can not only create jobs in wind and solar here in the United States, we can export it
+T263	Premise 2801 2881	China is building one to three new coal-fired plants burning dirty coal per week
+T264	Premise 2883 2961	It's polluting not only the atmosphere but the West Coast of the United States
+T265	Claim 2963 3032	We should export the technology by investing in clean coal technology
+T266	Claim 3034 3060	We should be creating jobs
+T267	Premise 3062 3135	John McCain has voted 20 times against funding alternative energy sources
+T268	Premise 3148 3195	I guess, the only answer is drill, drill, drill
+T269	Claim 3197 3210	Drill we must
+T270	Premise 3212 3327	but it will take 10 years for one drop of oil to come out of any of the wells that are going to begun to be drilled
+T271	Claim 3329 3383	In the meantime, we're all going to be in real trouble
+T272	Claim 3596 3622	I have always supported it
+T273	Claim 3725 3762	Yes, Senator McCain does support this
+T274	Claim 3624 3637	That's a fact
+T275	Claim 3764 3796	The chant is "drill, baby, drill
+T276	Claim 3803 3861	that's what we hear all across this country in our rallies
+T277	Premise 3862 3945	because people are so hungry for those domestic sources of energy to be tapped into
+T278	Premise 3947 4102	They know that even in my own energy-producing state we have billions of barrels of oil and hundreds of trillions of cubic feet of clean, green natural gas
+T279	Premise 4104 4300	And we're building a nearly $40 billion natural gas pipeline which is North America's largest and most you expensive infrastructure project ever to flow those sources of energy into hungry markets
+T280	Claim 4301 4434	Barack Obama and Senator Biden, you've said no to everything in trying to find a domestic solution to the energy crisis that we're in
+T281	Premise 4436 4550	You even called drilling -- safe, environmentally-friendly drilling offshore as raping the outer continental shelf
+T282	Claim 4552 4667	There -- with new technology, with tiny footprints even on land, it is safe to drill and we need to do more of that
+T283	Claim 4669 4814	But also in that "all of the above" approach that Senator McCain supports, the alternative fuels will be tapped into: the nuclear, the clean coal
+T284	Claim 4816 4856	I was surprised to hear you mention that
+T285	Premise 4857 4933	because you had said that there isn't anything -- such a thing as clean coal
+T286	Premise 4939 5002	I think you said it in a rope line, too, at one of your rallies
+T289	Claim 5410 5468	My record for 25 years has supported clean coal technology
+T290	Claim 5470 5524	A comment made in a rope line was taken out of context
+T291	Claim 5526 5580	I was talking about exporting that technology to China
+T292	Premise 5581 5655	so when they burn their dirty coal, it won't be as dirty, it will be clean
+T293	Premise 5826 5866	the governor says John is for everything
+T294	Claim 5902 5980	Maybe he's for everything as long as it's not helped forward by the government
+T295	Claim 5982 6043	Maybe he's for everything if the free market takes care of it
+T296	Premise 6059 6123	But he voted 20 times against funding alternative energy sources
+R1	Support Arg1:T236 Arg2:T235	
+R2	Support Arg1:T235 Arg2:T237	
+T1	Claim 431 515	I'm not one to attribute every man -- activity of man to the changes in the climate.
+R3	Support Arg1:T1 Arg2:T238	
+R4	Attack Arg1:T237 Arg2:T1	
+R5	Attack Arg1:T239 Arg2:T238	
+R6	Support Arg1:T240 Arg2:T241	
+R7	Support Arg1:T242 Arg2:T241	
+R8	Support Arg1:T241 Arg2:T243	
+R9	Support Arg1:T244 Arg2:T245	
+R10	Support Arg1:T243 Arg2:T245	
+R11	Attack Arg1:T245 Arg2:T246	
+R12	Support Arg1:T248 Arg2:T247	
+R13	Support Arg1:T247 Arg2:T245	
+R14	Support Arg1:T249 Arg2:T250	
+R15	Attack Arg1:T250 Arg2:T251	
+R17	Support Arg1:T253 Arg2:T254	
+R18	Support Arg1:T254 Arg2:T255	
+R16	Support Arg1:T255 Arg2:T256	
+R19	Attack Arg1:T252 Arg2:T251	
+R20	Support Arg1:T259 Arg2:T260	
+R21	Support Arg1:T261 Arg2:T262	
+R22	Attack Arg1:T256 Arg2:T251	
+R23	Attack Arg1:T260 Arg2:T257	
+R24	Attack Arg1:T258 Arg2:T257	
+R25	Support Arg1:T263 Arg2:T264	
+R26	Attack Arg1:T265 Arg2:T264	
+R27	Support Arg1:T266 Arg2:T265	
+R28	Support Arg1:T262 Arg2:T265	
+R29	Support Arg1:T267 Arg2:T268	
+R30	Attack Arg1:T269 Arg2:T270	
+R31	Attack Arg1:T265 Arg2:T267	
+R32	Support Arg1:T270 Arg2:T271	
+R33	Support Arg1:T274 Arg2:T272	
+R34	Support Arg1:T277 Arg2:T276	
+R35	Support Arg1:T275 Arg2:T276	
+R36	Support Arg1:T273 Arg2:T275	
+R37	Support Arg1:T286 Arg2:T285	
+R38	Attack Arg1:T284 Arg2:T285	
+R39	Support Arg1:T279 Arg2:T278	
+R40	Support Arg1:T278 Arg2:T277	
+R41	Attack Arg1:T276 Arg2:T280	
+R42	Support Arg1:T281 Arg2:T280	
+R43	Attack Arg1:T282 Arg2:T281	
+R44	Attack Arg1:T289 Arg2:T290	
+R45	Support Arg1:T292 Arg2:T291	
+R46	Support Arg1:T291 Arg2:T290	
+T2	Premise 5868 5901	Well, why did John vote 20 times?
+R47	Attack Arg1:T2 Arg2:T293	
+R48	Support Arg1:T294 Arg2:T295	
+R49	Attack Arg1:T295 Arg2:T296	
+R50	Support Arg1:T296 Arg2:T2	

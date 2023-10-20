@@ -1,0 +1,83 @@
+T43	Claim 1333 1420	There's no doubt about it that many American people have lost their faith in government
+T44	Claim 2124 2185	I think we have a real obligation, obviously public officials
+T45	Claim 2187 2218	I'm no longer a public official
+T46	Claim 2522 2582	When I'm President of the United States, I will keep my word
+T47	Premise 2584 2602	My word is my bond
+T48	Claim 1858 2084	If you think the Republican party is some place for you to come if you're narrow minded or bigoted or don't like certain people in America, the exits are clearly marked for you to walk out of as I stand here without compromise
+T49	Premise 2094 2122	this is the party of Lincoln
+T50	Premise 1422 1463	They see scandals almost on a daily basis
+T51	Premise 1465 1514	They see ethical problems in the Whitehouse today
+T52	Premise 1516 1603	They see 900 FBI files, private person, being gathered up by somebody in the Whitehouse
+T53	Claim 1689 1756	I've always tried in whatever I've done is to bring people together
+T54	Premise 1758 1856	I said in my acceptance speech in San Diego about two months ago that the exits are clearly marked
+T55	Premise 2220 2268	I left public life on June the 11th of this year
+T56	Premise 2472 2520	it seems to me that there are opportunities here
+T57	Claim 2296 2326	Young people are looking to us
+T58	Claim 2328 2364	They're looking to us for leadership
+T59	Claim 2366 2393	They're watching what we do
+T60	Claim 2395 2406	what we say
+T61	Claim 2408 2423	what we promise
+T62	Claim 2428 2451	what we finally deliver
+T63	Claim 2638 2751	One of the reasons that I ran for president, Sandy, is because not just children, a lot of grownups felt that way
+T64	Premise 2773 2854	four years ago, we had not only rising unemployment, but a lot of rising cynicism
+T65	Premise 2856 2911	I had never worked in Washington as an elected official
+T66	Premise 2913 3027	It seemed to me that most of the arguments were partisan, Republican, Democrat, left, right, liberal, conservative
+T67	Claim 3055 3104	I'm for opportunity, responsibility and community
+T68	Claim 3110 3164	we've gotten some real progress in the last four years
+T69	Claim 3389 3419	We have to respect one another
+T70	Claim 3525 3618	It's important we go beyond those old partisan arguments and focus on people and their future
+T71	Claim 3620 3779	When we do that, instead of shutting the government down over a partisan fight over the budget, we're a better country and that's why we're making progress now
+T72	Premise 3166 3387	I've also done everything I could at every moment of division in this country, after Oklahoma City, when these churches were burned, to bring people together and remind people that we are stronger because of our diversity
+T73	Premise 3421 3457	You mentioned Washington and Lincoln
+T74	Premise 3459 3497	They were presidents at historic times
+T75	Premise 3499 3523	This is an historic time
+T76	Claim 4408 4448	I think now that trust is being violated
+T77	Premise 4453 4493	it seems to me we ought to face up to it
+T78	Claim 4499 4642	the president ought to say tonight that he's not going to pardon anybody that he was involved in business with who might implicate him later on
+T79	Claim 4077 4099	We don't talk about it
+T80	Claim 4101 4140	We try to help people with disabilities
+T81	Claim 4142 4192	Bring them back into the mainstream of public life
+T82	Claim 4246 4356	When you're the president of the United States, you have a public trust and you have to keep that public trust
+T83	Premise 4358 4402	as George Washington, as Abraham Lincoln did
+T84	Premise 4197 4244	it seems to me that there's also a public trust
+T85	Claim 3806 3886	Well, bringing people together, again, is obviously a responsibility we all have
+T86	Premise 3888 3904	I know you do it
+T87	Premise 3906 3928	Everybody here does it
+T88	Premise 3930 3971	You do a lot of things nobody knows about
+T89	Claim 3973 4043	I have a little foundation for the disabled called the Dole Foundation
+T90	Claim 4045 4075	We've raised about $10 million
+R1	Support Arg1:T50 Arg2:T43	
+R2	Support Arg1:T51 Arg2:T43	
+R3	Support Arg1:T52 Arg2:T43	
+R4	Support Arg1:T43 Arg2:T53	
+R5	Support Arg1:T54 Arg2:T53	
+R6	Support Arg1:T49 Arg2:T48	
+R7	Support Arg1:T48 Arg2:T53	
+R8	Support Arg1:T45 Arg2:T44	
+R9	Support Arg1:T55 Arg2:T45	
+R10	Support Arg1:T58 Arg2:T57	
+R11	Support Arg1:T62 Arg2:T57	
+R12	Support Arg1:T61 Arg2:T57	
+R13	Support Arg1:T60 Arg2:T57	
+R14	Support Arg1:T59 Arg2:T57	
+R15	Support Arg1:T56 Arg2:T57	
+R16	Support Arg1:T47 Arg2:T46	
+R17	Support Arg1:T66 Arg2:T67	
+R18	Support Arg1:T65 Arg2:T66	
+R19	Support Arg1:T64 Arg2:T67	
+R20	Support Arg1:T72 Arg2:T69	
+R21	Support Arg1:T73 Arg2:T74	
+R22	Support Arg1:T74 Arg2:T75	
+R23	Support Arg1:T75 Arg2:T70	
+R24	Support Arg1:T71 Arg2:T70	
+R25	Support Arg1:T85 Arg2:T67	
+R26	Support Arg1:T86 Arg2:T85	
+R27	Support Arg1:T87 Arg2:T86	
+R28	Support Arg1:T88 Arg2:T86	
+R29	Support Arg1:T90 Arg2:T89	
+R30	Support Arg1:T79 Arg2:T90	
+R31	Support Arg1:T80 Arg2:T89	
+R32	Support Arg1:T81 Arg2:T80	
+R33	Support Arg1:T83 Arg2:T82	
+R34	Support Arg1:T77 Arg2:T76	
+R35	Support Arg1:T76 Arg2:T78	

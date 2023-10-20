@@ -1,0 +1,69 @@
+T1	Claim 288 366	I think this is the most exciting time in the history of the world to be alive
+T2	Premise 368 460	We have lived through what Jean Kirpatrick called the bloodiest century in mankind's history
+T3	Premise 462 612	We have defeated in this system of ours fascism, Nazism, communism, socialism is defunct or debunked around the world, the evil of apartheid has ended
+R1	Support Arg1:T2 Arg2:T1
+R2	Support Arg1:T3 Arg2:T1
+T4	Claim 1002 1087	With all due respect to this administration, they've got a foreign policy in disarray
+T5	Premise 1089 1137	They have a lack of credibility around the world
+T6	Premise 1139 1356	Weakness, I said earlier, is provocative and clearly, this economy is not performing up to the standards that we would expect from this great nation going into the most exciting global economy the world has ever known
+R3	Support Arg1:T6 Arg2:T5
+R4	Support Arg1:T5 Arg2:T4
+T7	Premise 1383 1430	Our culture seems to be weakening all around us
+T8	Premise 1432 1470	Families are under tremendous pressure
+T9	Premise 1472 1520	People do not -- do not feel safe in their homes
+T10	Premise 1522 1576	A mother doesn't feel safe sending her child to school
+T11	Premise 1578 1607	Our schools are not educating
+T12	Claim 1609 1645	It's not the problem of the teachers
+T13	Premise 1647 1696	They are overworked and my daughter will tell you
+T14	Premise 1698 1733	they are underpaid and we know that
+T15	Claim 1735 1760	they need to be empowered
+T16	Claim 1762 1789	We need to reform education
+T17	Claim 1791 1816	We need to reform welfare
+T18	Claim 1818 1861	We need to reform litigation and regulation
+T19	Claim 1867 1987	we certainly need to reform this tax code that is a product of this terrible century of war and recession and inflations
+T20	Premise 2005 2074	We need somebody who understands the potential of the American people
+T21	Premise 2076 2117	who are not just doing well for ourselves
+T22	Claim 2119 2163	we need to do well for the rest of the world
+T23	Premise 2173 2194	they're looking at us
+T24	Claim 2376 2531	Bob Dole, as I said earlier, is a man of courage, a man of principles, a man who crawled out of a fox hole on Riva Ridge in 1945 to save a wounded brethren
+T25	Premise 2533 2596	The bible says no greater love hath a man than he gave his life
+T26	Premise 2604 2753	Bob Dole did, just about, he'd been through the valley of the shadow and he as Commander-in-Chief can take this country with the courage of Churchill
+T27	Premise 2755 2929	The principles of Lincoln and the indefatigable optimism and spirit that this nation expects from its Commander-in-Chief and the next President of the United States, Bob Dole
+R5	Support Arg1:T13 Arg2:T12
+R6	Support Arg1:T14 Arg2:T12
+R7	Support Arg1:T15 Arg2:T16
+R8	Support Arg1:T13 Arg2:T16
+R9	Support Arg1:T14 Arg2:T16
+R10	Support Arg1:T11 Arg2:T16
+R11	Support Arg1:T10 Arg2:T16
+R12	Support Arg1:T20 Arg2:T24
+R13	Support Arg1:T21 Arg2:T24
+R14	Support Arg1:T23 Arg2:T22
+R15	Support Arg1:T22 Arg2:T24
+R16	Support Arg1:T25 Arg2:T26
+R17	Support Arg1:T26 Arg2:T24
+R18	Support Arg1:T27 Arg2:T24
+T28	Claim 3149 3178	I don't agree with their plan
+T29	Claim 3403 3766	We have a plan that will create millions more jobs, bring the deficits down further and balance the budget, while protecting Medicare, protecting Medicaid, protecting and preserving the environment, our air, our water, the Everglades, the Tongas, the Mojave Desert in California, the Utah-Red Rocks area, all of which have been protected by President Bill Clinton
+T30	Claim 3768 3817	We also have a plan to expand access to education
+T31	Premise 3819 4025	There's a family in the audience tonight, the McNeil family, who lives right here in St Petersburg. Both parents are teachers, they're not rich in money, but they have strong values and they value education
+T32	Premise 4027 4106	They're oldest son is a freshman at St Petersburg Junior High -- Junior College
+T33	Premise 4108 4314	Their younger son, Roderick, is a sophomore in the same high school that Don McNeil teaches at. Roderick is concerned that he may not be able to get the tuition he needs to go to college when the time comes
+T34	Claim 4316 4394	Our plan gives a $1500 tax credit to make that junior college essentially free
+R19	Support Arg1:T33 Arg2:T34	
+R20	Support Arg1:T32 Arg2:T34	
+R21	Support Arg1:T31 Arg2:T34	
+R22	Support Arg1:T34 Arg2:T30	
+T35	Claim 4400 4548	a $10,000 tax deduction to make it so that no American family, or almost no family, will have to pay taxes on the money they pay for college tuition
+R23	Support Arg1:T35 Arg2:T30	
+T36	Claim 4550 4638	This plan also gives tax breaks on the sale of a home, up to $500,000 in profit tax free
+T37	Claim 4640 4742	It gives the new break for first-time home buyers, and, again, all in the context of a balanced budget
+T38	Premise 4744 4792	We have seen progress during the last four years
+T39	Claim 4801 4838	policies like these have been working
+R24	Support Arg1:T37 Arg2:T36	
+R25	Support Arg1:T38 Arg2:T39	
+T40	Premise 4840 4941	This risky scheme that I've described tonight has been said by many objective observers to not add up
+T41	Claim 4943 4969	it would be a serious risk
+R26	Support Arg1:T40 Arg2:T41	
+T42	Claim 4971 5029	Our plan, by contrast, has been working and will work more
+R27	Equivalent Arg1:T39 Arg2:T42	

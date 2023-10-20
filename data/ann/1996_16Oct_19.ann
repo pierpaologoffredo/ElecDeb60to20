@@ -1,0 +1,77 @@
+T885	Claim 412 597	since we did that, in the areas where we concluded, trade agreements or exports to Japan have gone up by 85 percent in the last four years and our trade deficit with Japan has gone down
+T886	Premise 333 406	We have concluded with Japan 21 -- about to be 22 -- trade agreements now
+T887	Premise 599 671	Until about five months ago the Japanese economy was in a deep recession
+T888	Premise 673 738	It's coming back now, so they can buy even more American products
+T889	Claim 744 772	I think it will go down more
+T890	Claim 790 856	that's one of the real success stories here of the work we've done
+T891	Claim 858 920	We're selling Japanese rice from California for the first time
+T892	Premise 922 962	I visited a Chrysler dealership in Tokyo
+T893	Premise 964 1107	I visited a Jeep plant, oldest plant in America, a plant in Toledo, Ohio, where they're going to export 41,000 right hand drive Jeeps this year
+T894	Claim 1113 1151	they've got 700 new jobs because of it
+T895	Premise 1153 1302	There's no easy way to do this when you're dealing with an economy that's traditionally been more closed than one that's traditionally been more open
+T896	Claim 1304 1351	You have to gut it out, issue by issue by issue
+T897	Claim 1353 1401	We agreed in principle on an insurance agreement
+T898	Claim 1407 1453	we're working on three or four other areas now
+T899	Claim 1459 1516	the way you have to do it is make sure you're competitive
+T900	Claim 1518 1569	We're the most competitive country in the world now
+T901	Claim 1580 1640	just fight to open those markets and go try to make the sale
+T902	Claim 1646 1765	that's what our trade ambassador our commerce secretary and all the other people in our administration are trying to do
+T903	Claim 1780 1834	the bottom line is we have to stop exporting jobs here
+T904	Claim 1836 1902	There are 357, 000 good jobs -- manufacturing jobs, which are lost
+T905	Claim 1908 1966	I assume some of those are because of our trading partners
+T906	Premise 1968 2006	We didn't have access to their markets
+T907	Premise 2008 2036	We ought to insist on access
+T908	Claim 2038 2157	If we don't have access to their markets the same way they've access our markets, we ought to say, "Wait, that's enough
+T909	Claim 2169 2281	When you give us access, we'll give you access." It's very hard to get into the Japan market, as everybody knows
+T910	Premise 2283 2315	They want to get into our market
+T911	Premise 2317 2400	They sell a lot of automobiles here, create a lot of jobs -- those who sell exports
+T912	Claim 2448 2479	I think we want to make certain
+T913	Premise 2406 2442	that's very important to the economy
+T914	Premise 2481 2521	I supported the President's trade policy
+T915	Claim 2527 2555	we got to be more aggressive
+T916	Claim 2557 2646	Once you have a policy, then you have to go out and be aggressive and enforce that policy
+T917	Claim 2648 2691	There are American jobs that are being lost
+T918	Premise 2804 2826	We're the reform party
+T919	Claim 2832 2929	we're going to make things better, and one of the things we're going to do is stop exporting jobs
+T920	Claim 2959 3026	we've had over 200 separate trade agreements in the last four years
+T921	Premise 3036 3114	the largest number in American history -- not just the big ones you read about
+T922	Premise 3120 3141	a lot of smaller ones
+T923	Claim 3151 3256	what we have to do is to focus on those things we're real good at and make sure we're getting a fair deal
+T924	Claim 3258 3305	We just had a pretty serious dispute with China
+T925	Premise 3314 3396	they were copying our CDs, and costing thousands of jobs in places like California
+T926	Claim 3424 3541	if you want to keep doing business and selling your products over here, you're going to have to quit pirating our CDs
+T927	Claim 3547 3645	they agreed to do things and verify that they had done it, which will make the problem much better
+T928	Claim 3677 3820	You have to work on this day in and day out, every month ,every year, every issue, to make sure that we have not only free trade but fair trade
+T929	Premise 3837 3889	we're better off on that than we were four years ago
+R1	Support Arg1:T886 Arg2:T885	
+R2	Support Arg1:T888 Arg2:T889	
+R3	Support Arg1:T887 Arg2:T888	
+R4	Support Arg1:T889 Arg2:T890	
+R5	Support Arg1:T885 Arg2:T890	
+R6	Support Arg1:T891 Arg2:T890	
+R7	Support Arg1:T893 Arg2:T894	
+R8	Support Arg1:T894 Arg2:T890	
+R9	Support Arg1:T895 Arg2:T896	
+R10	Support Arg1:T901 Arg2:T902	
+R11	Support Arg1:T899 Arg2:T902	
+R12	Support Arg1:T900 Arg2:T902	
+R13	Support Arg1:T898 Arg2:T902	
+R14	Support Arg1:T897 Arg2:T902	
+R15	Attack Arg1:T904 Arg2:T890	
+R16	Support Arg1:T904 Arg2:T903	
+R17	Support Arg1:T905 Arg2:T904	
+R18	Support Arg1:T906 Arg2:T905	
+R19	Support Arg1:T907 Arg2:T906	
+R20	Support Arg1:T908 Arg2:T903	
+R21	Support Arg1:T911 Arg2:T910	
+R22	Support Arg1:T914 Arg2:T915	
+R23	Support Arg1:T916 Arg2:T915	
+R24	Support Arg1:T917 Arg2:T915	
+R25	Support Arg1:T918 Arg2:T919	
+R26	Support Arg1:T921 Arg2:T920	
+R27	Support Arg1:T922 Arg2:T921	
+R28	Support Arg1:T925 Arg2:T924	
+R29	Support Arg1:T924 Arg2:T923	
+R30	Attack Arg1:T923 Arg2:T915	
+R31	Support Arg1:T926 Arg2:T927	
+R32	Support Arg1:T929 Arg2:T890	

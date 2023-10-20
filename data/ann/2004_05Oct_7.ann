@@ -1,0 +1,62 @@
+T1	Question 58 415	I want to read something you said four years ago at this very setting: "Freedom means freedom for everybody." You said it again recently when you were asked about legalizing same-sex unions. And you used your family's experience as a context for your remarks.  Can you describe then your administration's support for a constitutional ban on same-sex unions?
+T2	Premise 502 578	I said then and I believe today that freedom does mean freedom for everybody
+T3	Claim 580 639	People ought to be free to choose any arrangement they want
+R1	Support Arg1:T2 Arg2:T3	
+T4	Premise 641 675	It's really no one else's business
+R2	Support Arg1:T4 Arg2:T3	
+T5	Premise 677 846	That's a separate question from the issue of whether or not government should sanction or approve or give some sort of authorization, if you will, to these relationships
+T6	Premise 849 899	Traditionally, that's been an issue for the states
+T7	Premise 901 944	States have regulated marriage, if you will
+T8	Claim 946 973	That would be my preference
+T9	Premise 976 1248	In effect, what's happened is that in recent months, especially in Massachusetts, but also in California, but in Massachusetts we had the Massachusetts Supreme Court direct the state of -- the legislature of Massachusetts to modify their constitution to allow gay marriage
+T10	Premise 1255 1387	the fact is that the president felt that it was important to make it clear that that's the wrong way to go, as far as he's concerned
+T11	Premise 1395 1437	he sets the policy for this administration
+T12	Claim 1443 1466	I support the president
+R3	Support Arg1:T11 Arg2:T12	
+R4	Support Arg1:T10 Arg2:T12	
+R5	Support Arg1:T9 Arg2:T12	
+R6	Attack Arg1:T5 Arg2:T3	
+R7	Support Arg1:T6 Arg2:T8	
+R8	Support Arg1:T7 Arg2:T8	
+T13	Premise 2344 2498	you can't have anything but respect for the fact that they're willing to talk about the fact that they have a gay daughter, the fact that they embrace her
+T14	Premise 2528 2628	there are millions of parents like that who love their children, who want their children to be happy
+T15	Claim 2635 2711	I believe that marriage is between a man and a woman, and so does John Kerry
+T16	Claim 2714 2836	I also believe that there should be partnership benefits for gay and lesbian couples in long-term, committed relationships
+T17	Premise 2903 2985	No state for the last 200 years has ever had to recognize another state's marriage
+T18	Premise 2988 3038	This is using the Constitution as a political tool
+T19	Claim 3044 3054	it's wrong
+T20	Claim 2843 2900	we should not use the Constitution to divide this country
+R9	Support Arg1:T19 Arg2:T20	
+R10	Support Arg1:T18 Arg2:T20	
+R11	Support Arg1:T17 Arg2:T20	
+R12	Attack Arg1:T20 Arg2:T8	
+T21	Question 3097 3349	As the vice president mentioned, John Kerry comes from the state of Massachusetts, which has taken as big a step as any state in the union to legalize gay marriage. Yet both you and Senator Kerry say you oppose it.  Are you trying to have it both ways?
+T22	Claim 3365 3413	I think we've both said the same thing all along
+T23	Claim 3415 3555	We both believe that -- and this goes onto the end of what I just talked about -- we both believe that marriage is between a man and a woman
+T24	Claim 3562 3742	we also believe that gay and lesbians and gay and lesbian couples, those who have been in long-term relationships, deserve to be treated respectfully, they deserve to have benefits
+T25	Premise 3745 3854	For example, a gay couple now has a very difficult time, one, visiting the other when they're in the hospital
+T26	Premise 3860 3967	for example, if, heaven forbid, one of them were to pass away, they have trouble even arranging the funeral
+T27	Premise 3970 4043	I mean, those are not the kind of things that John Kerry and I believe in
+T28	Claim 4045 4106	I suspect the vice president himself does not believe in that
+T29	Claim 4125 4188	we do believe that marriage should be between a man and a woman
+T30	Claim 4297 4444	I want to make sure people understand that the president is proposing a constitutional amendment to ban gay marriage that is completely unnecessary
+T31	Premise 4447 4565	Under the law of this country for the last 200 years, no state has been required to recognize another state's marriage
+T32	Premise 4602 4721	My state of North Carolina would not be required to recognize a marriage from Massachusetts, which you just asked about
+T33	Claim 4840 4945	it's being used in an effort to divide this country on an issue that we should not be dividing America on
+T34	Premise 4724 4799	There is absolutely no purpose in the law and in reality for this amendment
+T35	Claim 4801 4834	It's nothing but a political tool
+T36	Premise 4948 5127	We ought to be talking about issues like health care and jobs and what's happening in Iraq, not using an issue to divide this country in a way that's solely for political purposes
+T37	Claim 5129 5139	It's wrong
+R13	Equivalent Arg1:T23 Arg2:T29	
+R14	Support Arg1:T26 Arg2:T24	
+R15	Support Arg1:T25 Arg2:T24	
+R16	Support Arg1:T24 Arg2:T22	
+R17	Support Arg1:T23 Arg2:T22	
+R18	Support Arg1:T27 Arg2:T24	
+R19	Support Arg1:T31 Arg2:T30	
+R20	Support Arg1:T32 Arg2:T30	
+R21	Support Arg1:T34 Arg2:T30	
+R22	Support Arg1:T35 Arg2:T30	
+R23	Support Arg1:T33 Arg2:T35	
+R24	Support Arg1:T37 Arg2:T35	
+R25	Support Arg1:T36 Arg2:T33	

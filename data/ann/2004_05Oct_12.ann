@@ -1,0 +1,70 @@
+T840	Claim 1365 1416	We believe in a strong middle-class in this country
+T841	Claim 1595 1621	we have a health care plan
+T842	Claim 1634 1694	we have a plan to keep you safe and to fix this mess in Iraq
+T843	Claim 704 722	I was also hopeful
+T844	Premise 732 802	I knew that I lived in a country where I could get a college education
+T845	Claim 823 869	I have grown up in the bright light of America
+T846	Claim 1258 1314	they're going to give you is four more years of the same
+T847	Claim 1317 1363	John Kerry and I believe that we can do better
+T848	Claim 1429 1519	we have a plan to create jobs, getting rid of tax cuts for companies outsourcing your jobs
+T849	Claim 1521 1581	give tax cuts to companies that'll keep jobs here in America
+T850	Claim 2434 2516	We believe that all Americans ought to have access to available -- to medical care
+T851	Claim 2526 2586	they ought to have access to the finest schools in the world
+T852	Claim 2589 2643	We'll do everything we can to preserve Social Security
+T853	Claim 2648 2702	to make certain that it's there for future generations
+T854	Premise 2223 2283	We've cut taxes, added 1.7 million new jobs in the last year
+T855	Claim 2289 2357	we'll continue to provide opportunities for business and for workers
+T856	Premise 2360 2431	We won't be happy until every American who wants to work can find a job
+T857	Premise 2966 3038	we find ourselves in the midst of a conflict unlike any we've ever known
+T858	Claim 3205 3255	the presidential leadership needed to deal with it
+T859	Premise 3040 3183	faced with the possibility that terrorists could smuggle a deadly biological agent or a nuclear weapon into the middle of one of our own cities
+T860	Claim 3378 3469	The only viable option for winning the war on terrorism is the one the president has chosen
+T861	Claim 3471 3625	to use the power of the United States to aggressively go after the terrorists wherever we find them and also to hold to account states that sponsor terror
+T862	Claim 3637 3744	we've captured or killed thousands of Al Qaida and taken down the regimes of Saddam Hussein and the Taliban
+T863	Claim 3746 3915	it's important that we stand up democratically elected governments as the only guarantee that they'll never again revert to terrorism or the production of deadly weapons
+T864	Claim 3918 3952	This is the task of our generation
+T865	Premise 2705 2768	I've worked for four presidents and watched two others up close
+T866	Claim 2774 2843	I know that there's no such thing as a routine day in the Oval Office
+T867	Claim 2846 2959	We saw on 9/11 that the next president -- next decision a president has to make can affect the lives of all of us
+T868	Claim 1697 1749	The truth is that every four years you get to decide
+T869	Premise 1751 1809	You have the ability to decide where America's going to go
+T870	Claim 1811 1880	John Kerry and I are asking you to give us the power to fight for you
+T871	Claim 1882 2001	to fight to keep that dream in America, that I saw as a young man, alive for every parent sitting at that kitchen table
+T872	Premise 375 411	I'd see my father sitting at a table
+T873	Premise 479 528	What he was doing was learning math on television
+T874	Premise 536 570	he didn't have a college education
+T875	Premise 576 653	he was doing what he could do to get a better job in the mill where he worked
+T876	Claim 655 673	I was proud of him
+T877	Claim 913 974	I know that the vice president and the president don't see it
+T878	Claim 980 986	you do
+T879	Claim 989 1120	You see it when your incomes are going down and the cost of everything -- college tuition, health care -- is going through the roof
+T880	Claim 1122 1251	You see it when you sit at your table each night and there's an empty chair because a loved one is serving in Iraq or Afghanistan
+R1	Support Arg1:T873 Arg2:T875	
+R2	Support Arg1:T872 Arg2:T875	
+R3	Support Arg1:T875 Arg2:T876	
+R4	Support Arg1:T844 Arg2:T843	
+R5	Support Arg1:T843 Arg2:T845	
+R6	Support Arg1:T876 Arg2:T845	
+T1	Claim 871 905	But that light is flickering today
+R7	Support Arg1:T878 Arg2:T1	
+R8	Support Arg1:T879 Arg2:T878	
+R9	Support Arg1:T880 Arg2:T878	
+R10	Support Arg1:T846 Arg2:T1	
+R11	Support Arg1:T1 Arg2:T847	
+R12	Support Arg1:T840 Arg2:T847	
+R13	Support Arg1:T848 Arg2:T847	
+R14	Support Arg1:T849 Arg2:T847	
+R15	Support Arg1:T841 Arg2:T847	
+R16	Support Arg1:T842 Arg2:T847	
+R17	Support Arg1:T869 Arg2:T868	
+R18	Support Arg1:T868 Arg2:T870	
+R19	Support Arg1:T871 Arg2:T870	
+R20	Support Arg1:T854 Arg2:T855	
+*	Equivalent T853 T852
+R21	Support Arg1:T865 Arg2:T866	
+R22	Support Arg1:T859 Arg2:T857	
+R23	Support Arg1:T857 Arg2:T858	
+R24	Support Arg1:T858 Arg2:T866	
+R25	Support Arg1:T861 Arg2:T860	
+R26	Support Arg1:T862 Arg2:T863	
+R27	Support Arg1:T863 Arg2:T864	

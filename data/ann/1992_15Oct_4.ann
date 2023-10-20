@@ -1,0 +1,45 @@
+T155	Claim 2118 2202	I'll take your point and think we ought to discuss child care or whatever else it is
+T157	Premise 2057 2091	This is what a president has to do
+T158	Premise 2014 2055	That's not specific in terms of a program
+T159	Claim 2323 2343	I'll take the pledge
+T160	Premise 2352 2431	I know the American people want to talk about issues and not tabloid journalism
+T161	Claim 2436 2484	I'll take the pledge and will stay on the issues
+T163	Claim 2857 2885	The ideas I express are mine
+T164	Premise 2591 2632	I make those charts you see on television
+T165	Premise 2887 2927	I've worked on these things for 12 years
+T166	Claim 2932 3027	I'm the only person up here who hasn't been part of Washington in any way for the last 20 years
+T167	Claim 3032 3152	I don't want the implication to be that somehow everything we say is just cooked up and put in our head by somebody else
+T168	Premise 3154 3231	I worked 12 years very hard as a governor on the real problems of real people
+T169	Premise 3233 3327	I'm just as sick as you are by having to wake up and figure out how to defend myself every day
+T170	Premise 3329 3387	I never thought I'd ever be involved in anything like this
+T171	Claim 3505 3550	I don't have any foreign money in my campaign
+T172	Claim 3552 3610	I don't have any foreign lobbyists on leave in my campaign
+T173	Claim 3612 3653	I don't have any PAC money in my campaign
+T174	Premise 3655 3720	I've got 5.5 million hard-working people who put me on the ballot
+T175	Claim 3726 3742	I belong to them
+T176	Premise 3748 3795	they're interested in what you're interested in
+T177	Claim 3797 3814	I take the pledge
+T178	Claim 3816 3876	I've already taken the pledge on cutting the deficit in half
+T180	Premise 3903 4017	There's a great young group, Lead or Leave, college students, young people, who don't want us to spend their money
+T181	Claim 4019 4052	I took the pledge we'd cut it out
+R1	Support Arg1:T160 Arg2:T159	
+R2	Equivalent Arg1:T159 Arg2:T161	
+T1	Premise 2543 2573	I don't have any speechwriters
+T2	Premise 2512 2541	I don't have any spin doctors
+R3	Support Arg1:T165 Arg2:T163	
+R4	Support Arg1:T166 Arg2:T167	
+R5	Support Arg1:T168 Arg2:T167	
+R6	Support Arg1:T169 Arg2:T167	
+R7	Support Arg1:T170 Arg2:T167	
+R8	Support Arg1:T163 Arg2:T167	
+R9	Support Arg1:T174 Arg2:T175	
+R10	Attack Arg1:T163 Arg2:T164	
+R11	Attack Arg1:T163 Arg2:T1	
+R12	Attack Arg1:T163 Arg2:T2	
+T3	Claim 2639 2682	you don't have to wonder if it's me talking
+R13	Support Arg1:T164 Arg2:T3	
+R14	Support Arg1:T1 Arg2:T3	
+R15	Support Arg1:T2 Arg2:T3	
+R16	Support Arg1:T178 Arg2:T177	
+R17	Equivalent Arg1:T181 Arg2:T178	
+R18	Support Arg1:T180 Arg2:T181	

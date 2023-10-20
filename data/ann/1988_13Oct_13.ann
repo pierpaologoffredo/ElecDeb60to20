@@ -1,0 +1,126 @@
+T1	Premise 1053 1112	Mr. Bush tried to cut their cost of living increase in 1985
+T2	Premise 913 1016	two-thirds of the people in this country who receive Social Security checks live entirely on that check
+T3	Premise 1018 1043	they have no other income
+R1	Support Arg1:T3 Arg2:T2	
+T4	Claim 1114 1152	Medicare is not getting less expensive
+T5	Premise 1154 1400	medical care for the elderly is getting more expensive, with greater deductibles, with fewer benefits, the kinds of things we've had under this Administration that have cut and chopped and reduced the kind of benefits that one gets under Medicare
+T6	Claim 1407 1448	we now have catastrophic health insurance
+T7	Claim 1454 1537	it's going to cost, and that's going to be an additional burden on elderly citizens
+T8	Premise 1539 1564	It had bipartisan support
+T9	Premise 1566 1603	it should have had bipartisan support
+T10	Claim 1609 1720	I suggest that we understand that those are going to be additional costs on senior citizens across this country
+T11	Claim 2031 2196	if we continue to spend billions on them, will force us to cut Social Security, to cut Medicare, to cut these basic entitlements to people of very, very modest means
+T12	Claim 1753 2018	I'm not going to go to entitlements as a means for cutting that deficit when we're spending billions on something like Star Wars, when we're spending billions on other weapon systems which apparently the Vice President wants to keep in his back pocket or some place
+R2	Attack Arg1:T11 Arg2:T12	
+T13	Premise 2313 2440	I talked in our first debate about the possibilities of helping millions and millions of welfare families to get off of welfare
+T14	Premise 2544 2863	hundreds of thousands of welfare mothers in this country and in my state and across the country who today are working and earning are examples of what can happen when you provide training to those welfare mothers, some daycare for their children so that those mothers can go into a training program and get a decent job
+T15	Claim 2889 2996	That's the way you bring a deficit down and help to improve the quality of life for people at the same time
+T16	Premise 3076 3137	let me simply say for the record, I did not vote to cut COLAs
+T17	Premise 3143 3231	I voted the same way that he did three months before in a national governors' conference
+T18	Premise 3237 3318	he said at that time, in a quote, and this is a paraphrase, a freeze, that's easy
+T19	Claim 3323 3384	I don't believe that we need to do what you've suggested here
+T20	Claim 3390 3486	I've said that I'm going to keep this Social Security entitlement, to keep that trust fund sound
+T21	Premise 3492 3604	I do think there are flexible ways to solve some of the pressing problems, particularly that affect our children
+T22	Claim 3610 3647	I have made some good sound proposals
+T23	Premise 3660 3711	we have a big difference on child care, for example
+T24	Premise 3722 3760	I want the families to have the choice
+T25	Premise 3762 3827	I don't want to see the Federal Government licensing grandmothers
+T26	Premise 3829 3969	I don't want to see the Federal Government saying to communities, well, you can't do this any more. We're going to tell you how to do it all
+T27	Claim 3971 3989	I want flexibility
+T28	Premise 3995 4063	I do you know, these people laugh about the thousand points of light
+T29	Premise 4065 4181	You ought to go out and see around this country what's happening in the volunteer section: Americans helping America
+T30	Premise 4187 4250	I want to keep it alive in child care and in other entitlements
+T31	Claim 4805 4832	That is absolutely not true
+T32	Claim 4893 4920	That is absolutely not true
+T33	Claim 4922 4977	It had nothing to do with the debate on Social Security
+T34	Premise 4979 5086	It had to do with the discussion we had had the previous day on the overall question of reducing the budget
+T35	Claim 5244 5266	That simply isn't true
+T36	Premise 5273 5339	we're not a parliamentary body, the National Governors Association
+T37	Premise 5341 5363	We vote on resolutions
+T38	Premise 5365 5429	If you don't get a two-thirds, then your resolution doesn't pass
+T39	Premise 5435 5537	everybody knew that those of us who voted against the freezing of COLAs did so, we did so emphatically
+T40	Claim 5543 5583	I never made that statement; never would
+T41	Premise 5716 5773	The Vice President talks about a thousand points of light
+T42	Premise 5775 5820	I'm interested in 240 million points of light
+T43	Premise 5822 5951	I'm interested in 240 million citizens in this country who share in the American dream, all of them in every part of this country
+T44	Premise 6056 6362	I just don't believe the place you go first is those programs, those so-called entitlements, which provide a basic floor of income and a modest amount of medical care for the elderly, the disabled, for people who can't make their way on their own, and in many cases, have given a great deal to this country
+T45	Premise 6364 6462	The Vice President did call Social Security a few years ago basically or largely a welfare program
+T46	Claim 6464 6472	It isn't
+R3	Attack Arg1:T46 Arg2:T45	
+T47	Claim 6474 6509	It's a contract between generations
+T48	Premise 6511 6651	It's something that we pay into now so that we will have a secure retirement, and our parents and grandparents will have a secure retirement
+R4	Support Arg1:T48 Arg2:T47	
+R5	Support Arg1:T47 Arg2:T46	
+T49	Premise 6653 6680	It's a very sacred contract
+T50	Claim 6686 6701	I believe in it
+R6	Support Arg1:T49 Arg2:T50	
+R7	Support Arg1:T46 Arg2:T50	
+T51	Claim 6706 6737	that's not where we ought to go
+R8	Support Arg1:T50 Arg2:T51	
+T52	Claim 6739 6772	There are plenty of places to cut
+R9	Support Arg1:T52 Arg2:T51	
+T53	Premise 6774 6911	There's lots we can do in the Pentagon where dishonest contractors have been lining their pockets at the expense of the American taxpayer
+R10	Support Arg1:T53 Arg2:T52	
+T54	Premise 6980 7104	Give our farm families a decent income with spending $20to $25 billion a year on farm subsidies, and I'm sure we can do that
+T55	Claim 7106 7133	That's where we ought to go
+T56	Claim 7139 7186	those are the programs we ought to review first
+R11	Support Arg1:T56 Arg2:T55	
+R12	Support Arg1:T54 Arg2:T56	
+T57	Claim 7296 7353	We have a fundamental difference, approach on agriculture
+T58	Claim 7355 7411	He favors this supply maintenance or production controls
+T59	Premise 7413 7425	He said that
+T60	Premise 7427 7487	He's been out in the state saying that, in Midwestern states
+T61	Claim 7489 7496	I don't
+T62	Claim 7498 7584	I think the farm bill that he criticizes was good legislation, outstanding legislation
+T63	Claim 7590 7715	I believe the answer to the agricultural economy is not to get the government further involved, but to do what I'm suggesting
+T64	Claim 7717 7783	In the first place, never go back to that Democratic grain embargo
+T65	Premise 7785 7959	that liberal Democrat grain embargo that knocked the markets right out from under us and made Mr. Gorbachev say to me when I was here, how do I know you're reliable suppliers
+T66	Claim 7961 7992	We never should go back to that
+T67	Claim 7998 8035	we ought to expand our markets abroad
+T68	Claim 8037 8076	We ought to have rural enterprise zones
+T69	Claim 8078 8228	We ought to move forward swiftly on my ideas of ethanol which would use more corn, and therefore, create a bigger market for our agricultural products
+T70	Claim 8234 8344	let's not go back and keep assailing a farm bill that passed with overwhelming Democrat and Republican support
+T71	Premise 8378 8458	The farm payments are going down because the agricultural economy is coming back
+R13	Attack Arg1:T2 Arg2:T1	
+R14	Support Arg1:T5 Arg2:T4	
+R15	Support Arg1:T10 Arg2:T12	
+R16	Support Arg1:T7 Arg2:T10	
+R17	Support Arg1:T13 Arg2:T12	
+R18	Support Arg1:T14 Arg2:T12	
+R19	Attack Arg1:T16 Arg2:T1	
+R20	Support Arg1:T17 Arg2:T16	
+R21	Support Arg1:T18 Arg2:T19	
+R22	Support Arg1:T20 Arg2:T19	
+R23	Support Arg1:T21 Arg2:T20	
+R24	Support Arg1:T22 Arg2:T20	
+R25	Support Arg1:T23 Arg2:T22	
+R26	Support Arg1:T25 Arg2:T24	
+R28	Support Arg1:T26 Arg2:T24	
+R27	Support Arg1:T24 Arg2:T23	
+R29	Support Arg1:T27 Arg2:T22	
+R30	Attack Arg1:T28 Arg2:T27	
+R31	Attack Arg1:T29 Arg2:T28	
+R32	Support Arg1:T29 Arg2:T27	
+R33	Support Arg1:T30 Arg2:T27	
+R34	Support Arg1:T33 Arg2:T32	
+R35	Support Arg1:T34 Arg2:T33	
+R36	Support Arg1:T36 Arg2:T35	
+R37	Support Arg1:T37 Arg2:T35	
+R38	Support Arg1:T38 Arg2:T35	
+R39	Support Arg1:T39 Arg2:T35	
+R40	Support Arg1:T40 Arg2:T35	
+R41	Attack Arg1:T42 Arg2:T41	
+R42	Support Arg1:T43 Arg2:T42	
+R43	Attack Arg1:T57 Arg2:T55	
+R44	Support Arg1:T58 Arg2:T57	
+R45	Support Arg1:T59 Arg2:T58	
+R46	Support Arg1:T60 Arg2:T59	
+R47	Support Arg1:T61 Arg2:T57	
+R48	Support Arg1:T62 Arg2:T61	
+R49	Support Arg1:T64 Arg2:T63	
+R50	Support Arg1:T65 Arg2:T64	
+R51	Equivalent Arg1:T66 Arg2:T64	
+R52	Support Arg1:T67 Arg2:T63	
+R53	Support Arg1:T68 Arg2:T63	
+R54	Support Arg1:T69 Arg2:T63	
+R55	Support Arg1:T70 Arg2:T66	

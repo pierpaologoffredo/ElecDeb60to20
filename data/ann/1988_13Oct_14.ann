@@ -1,0 +1,66 @@
+T1	Premise 917 1001	90 percent reductions in lead since I chaired that regulatory task force; 90 percent
+T2	Premise 1003 1062	It's almost you remember that expression, get the lead out?
+T3	Claim 1063 1078	It's almost out
+T4	Claim 1106 1125	I'm for clean water
+T5	Claim 1131 1222	what I'm not for what I'm not for is measuring it the way that the Democratic Congress does
+T6	Claim 1224 1290	We sent up a good bill on clean water, a sound bill on clean water
+T7	Claim 1296 1433	the only way you can express your love for clean water is to double the appropriations for clean water, and then rant against the deficit
+T8	Claim 1435 1455	I am for clean water
+T9	Premise 1457 1509	I've been an outdoorsman and a sportsman all my life
+T10	Premise 1511 1544	I've been to these national parks
+T11	Premise 1546 1604	I led for the Earl Wallop bill or formerly Dingell-Johnson
+T12	Premise 1606 1740	I headed the task force when I was a member of the Congress way back in the late '60s on these kinds of things, on the Republican side
+T13	Premise 1742 1756	I led for that
+T14	Claim 1765 1851	I refuse to measure one's commitment as to whether you're going to double the spending
+T15	Premise 1853 1932	That is the same old argument that's gotten us into trouble on the deficit side
+T16	Premise 1970 2080	I'm not going to go down there and try to dump the sludge from Massachusetts off the beaches off of New Jersey
+T17	Premise 2082 2106	I'm not going to do that
+T18	Premise 2253 2277	I'm not going to do that
+T19	Claim 2279 2302	I'm an environmentalist
+T20	Claim 2304 2326	I believe in our parks
+T21	Claim 2328 2379	I believe in the President's commission on outdoors
+T22	Claim 2385 2403	I'll do a good job
+T23	Premise 2413 2427	I am committed
+T24	Premise 2560 2611	we have supply management today under the 1985 bill
+T25	Claim 2647 2690	if you were so opposed to the grain embargo
+T26	Premise 2692 2788	why did you ask the godfather of the grain embargo to be one of your top foreign policy advisers
+T27	Claim 2790 2819	I'm against the grain embargo
+T28	Claim 2821 2836	it was a mistak
+T29	Claim 2839 2876	I'm also against the pipeline embargo
+T30	Premise 2878 2913	which you folks attempted to impose
+T31	Claim 2915 2941	That was a mistake as well
+T32	Premise 2947 3050	it cost thousands of jobs for American workers in the Midwest and all over the United States of America
+T33	Premise 3143 3363	The George Bush who was the charter member of the environmental wrecking crew that went to Washington in the early '80s and did a job on the EPA, or the one we've been seeing and listening to the past two or three months
+T34	Claim 3074 3141	I don't know which George Bush I'm talking about here or looking at
+R1	Support Arg1:T33 Arg2:T34	
+T35	Premise 3394 3482	he spent millions and millions of dollars of advertising on the subject of Boston Harbor
+R2	Support Arg1:T35 Arg2:T34	
+T36	Premise 3492 3532	Boston Harbor was polluted for 100 years
+T37	Premise 3534 3571	I'm the first governor to clean it up
+T38	Premise 3609 3649	We've been cleaning it up for four years
+T39	Premise 3651 3688	We passed landmark legislation in '84
+T40	Premise 3708 3764	You did everything you could to kill the Clean Water Act
+T41	Premise 3790 3905	And those grants which make it possible for states and local communities to clean up rivers and harbors and streams
+R3	Support Arg1:T2 Arg2:T3	
+R4	Support Arg1:T1 Arg2:T3	
+R5	Equivalent Arg1:T4 Arg2:T8	
+R6	Support Arg1:T6 Arg2:T4	
+R7	Support Arg1:T9 Arg2:T8	
+R8	Support Arg1:T10 Arg2:T8	
+R9	Support Arg1:T11 Arg2:T8	
+R10	Support Arg1:T12 Arg2:T8	
+R11	Support Arg1:T13 Arg2:T8	
+R12	Support Arg1:T15 Arg2:T14	
+R13	Equivalent Arg1:T18 Arg2:T17	
+R14	Equivalent Arg1:T17 Arg2:T16	
+R15	Support Arg1:T20 Arg2:T19	
+R16	Support Arg1:T22 Arg2:T19	
+R17	Support Arg1:T23 Arg2:T22	
+R18	Support Arg1:T21 Arg2:T22	
+R19	Attack Arg1:T26 Arg2:T25	
+R20	Support Arg1:T28 Arg2:T27	
+R21	Support Arg1:T31 Arg2:T29	
+R22	Support Arg1:T32 Arg2:T31	
+R23	Support Arg1:T36 Arg2:T35	
+R24	Support Arg1:T40 Arg2:T34	
+R25	Attack Arg1:T34 Arg2:T19	

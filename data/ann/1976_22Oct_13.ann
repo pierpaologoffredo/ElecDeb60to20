@@ -1,0 +1,129 @@
+T403	Claim 489 530	I violently disagree with your assessment
+T404	Claim 536 602	I don't think the record justifies the conclusion that you come to
+T405	Claim 2091 2143	the American buyer is getting a better bargain today
+T406	Premise 2152 2169	inflation is less
+T407	Premise 609 698	let me uh - talk about uh - the economic announcements that were made just this past week
+T408	Premise 705 789	it was announced that the uh - GNP real growth in the third quarter was at 4 percent
+T409	Premise 815 913	over the last ten years that's a higher figure than the average growth during that ten-year period
+T410	Premise 919 995	it's lower than the nine-point-point-two percent growth in the first quarter
+T411	Premise 1001 1062	it's lower than the uh 5 percent growth in the second quarter
+T412	Premise 1068 1282	every economist - liberal, conservative that I'm familiar with - recognizes that in the fourth quarter of this year and in the fifth quar- uh - the first quarter of next year that we'll have an increase in real GNP
+T413	Claim 1292 1343	let's talk about the pluses that came out this week
+T414	Premise 1345 1392	We had an 18 percent increase in housing starts
+T415	Premise 1394 1450	We had a substantial increase in new permits for housing
+T416	Premise 1473 1604	based on the announcement this week, there will be at an annual rate of a million, eight hundred and some thousand new houses built
+T417	Premise 1606 1713	which is a tremendous increase over last year and a substantial increase over the earlier part of this year
+T418	Premise 1719 1809	in addition, we had a very - some very good news in the reduction in the rate of inflation
+T419	Premise 1893 1967	The rate of inflation, as announced just the other day, is under 5 percent
+T420	Premise 1973 2075	the uh - 4.4 percent that was indicated at the time of the 4 percent GNP was less than the 5.4 percent
+T421	Claim 2220 2301	there has been an increase in layoffs and that's something that bothers everybody
+T422	Premise 2310 2379	even people that have a job are afraid that they're going to be fired
+T423	Claim 3083 3151	there is a growing public confidence in the strength of this economy
+T424	Premise 2855 2921	Since the depths of the recession, we have added four million jobs
+T425	Premise 2927 3065	most importantly, consumer confidence as surveyed by the reputable organization at the University of Michigan is at the highest since 1972
+T426	Claim 3173 3211	there will be more industrial activity
+T427	Claim 3227 3278	there will be a reduction in the uhh - unemployment
+T428	Claim 3294 3323	there will be increased hires
+T429	Claim 3339 3373	there will be increased employment
+T430	Premise 3405 3646	most economists, regardless of their political philosophy, uh - indicate that this pause for a month or two was healthy, because we could not have honestly sustained a 9.2 percent rate of growth which we had in the first quarter of this year
+T431	Claim 3932 4041	The United States is leading the free world out of the recession that was serious a year, year and a half ago
+T432	Premise 3693 3856	the United States' economic recovery from the recession of a year ago is well ahead of the economic recovery of any major free industrial nation in the world today
+T433	Premise 3858 3908	We're ahead of all of the Western European country
+T434	Premise 3910 3930	We're ahead of Japan
+T435	Claim 4043 4085	We're going to see unemployment going down
+T436	Claim 4087 4106	more jobs available
+T437	Claim 4112 4144	the rate of inflation going down
+T438	Claim 4150 4235	I think this is a record that uh - the American people understand and will appreciate
+T439	Claim 4314 4373	I think he ought to be ashamed of mentioning that statement
+T440	Premise 4383 4542	we have the highest unemployment rate now than we had at any time between the Great Depression caused by Herbert Hoover and the time President Ford took office
+T441	Premise 4544 4597	We've got seven and a half million people out of jobs
+T442	Premise 4599 4690	Since he's been in office, two and a half million more American people have lost their jobs
+T443	Premise 4692 4789	In the last four months alone, five hundred thousand Americans have gone on the unemployment roll
+T444	Premise 4791 4875	In the last month, we've had a net loss of one hundred and sixty-three thousand jobs
+T445	Claim 5254 5277	Inflation is robbing us
+T446	Premise 5194 5252	Savings accounts are losing money instead of gaining money
+T447	Claim 4877 4970	Anybody who says that the inflation rate is in good shape now ought to talk to the housewives
+T448	Premise 4972 5079	One of the overwhelming results that I've seen in the polls is that people feel that you can't plan anymore
+T449	Premise 5081 5192	There's no way to make a prediction that my family might be able to own a home or to put my kid through college
+T450	Claim 5900 5984	I think this shows a callous indifference to the families that have suffered so much
+T451	Claim 5598 5615	I don't blame him
+T452	Premise 5625 5721	in 1975 we had fewer housing starts in this country, fewer homes built, than any year since 1940
+T453	Premise 5986 6111	He has vetoed bills passed by Congress within the congressional budget guidelines job opportunities for two million Americans
+T454	Claim 6113 6147	We'll never have a balanced budget
+T455	Claim 6149 6189	we'll never meet the needs of our people
+T456	Claim 6191 6234	we'll never control the inflationary spiral
+T457	Premise 6236 6333	as long as we have seven and a half or eight million people out of work, who are looking for jobs
+T458	Claim 6339 6430	we've probably got two and a half more million people who are not looking for jobs any more
+T459	Premise 6440 6461	they've given up hope
+T460	Claim 6463 6519	That is a very serious indictment of this administration
+T461	Claim 6521 6555	It's probably the worst one of all
+T462	Premise 5723 5747	That's thirty-five years
+T463	Premise 5753 5850	we've got a 35 percent unemployment rate in many areas of this country among construction workers
+T464	Claim 5856 5894	Mr. Ford hasn't done anything about it
+T465	Premise 5279 5441	Under the present administration - Nixon's and Ford's - we've had three times the inflation rate that we experienced under President Johnson and President Kennedy
+T466	Premise 5443 5528	The economic growth is less than half today what it was at the beginning of this year
+T467	Premise 5534 5596	housing starts - he compares the housing starts with last year
+R1	Support Arg1:T404 Arg2:T403	
+R2	Support Arg1:T408 Arg2:T407	
+R3	Support Arg1:T409 Arg2:T407	
+R4	Support Arg1:T409 Arg2:T404	
+R5	Support Arg1:T409 Arg2:T403	
+R6	Support Arg1:T411 Arg2:T409	
+R7	Support Arg1:T410 Arg2:T409	
+R8	Support Arg1:T414 Arg2:T413	
+R9	Support Arg1:T415 Arg2:T413	
+R10	Support Arg1:T416 Arg2:T413	
+R11	Support Arg1:T417 Arg2:T416	
+R12	Support Arg1:T419 Arg2:T418	
+R14	Support Arg1:T420 Arg2:T418	
+R13	Support Arg1:T406 Arg2:T405	
+R15	Support Arg1:T418 Arg2:T405	
+R16	Support Arg1:T420 Arg2:T405	
+R17	Equivalent Arg1:T420 Arg2:T406	
+R18	Support Arg1:T422 Arg2:T421	
+R19	Support Arg1:T425 Arg2:T423	
+R20	Support Arg1:T423 Arg2:T426	
+R21	Support Arg1:T423 Arg2:T427	
+R22	Support Arg1:T423 Arg2:T428	
+R23	Support Arg1:T423 Arg2:T429	
+R24	Support Arg1:T433 Arg2:T432	
+R25	Support Arg1:T434 Arg2:T432	
+R26	Support Arg1:T432 Arg2:T431	
+R27	Support Arg1:T437 Arg2:T431	
+R28	Support Arg1:T436 Arg2:T431	
+R29	Support Arg1:T435 Arg2:T431	
+R30	Support Arg1:T440 Arg2:T439	
+R31	Support Arg1:T441 Arg2:T440	
+R32	Support Arg1:T441 Arg2:T439	
+R33	Attack Arg1:T439 Arg2:T431	
+R34	Attack Arg1:T439 Arg2:T437	
+R35	Attack Arg1:T439 Arg2:T436	
+R36	Attack Arg1:T439 Arg2:T435	
+R37	Attack Arg1:T440 Arg2:T436	
+R38	Attack Arg1:T441 Arg2:T436	
+R39	Support Arg1:T442 Arg2:T439	
+R40	Support Arg1:T442 Arg2:T440	
+R41	Support Arg1:T443 Arg2:T440	
+R42	Support Arg1:T444 Arg2:T440	
+R43	Attack Arg1:T447 Arg2:T437	
+R44	Attack Arg1:T447 Arg2:T405	
+R45	Support Arg1:T448 Arg2:T445	
+R46	Support Arg1:T449 Arg2:T445	
+R47	Support Arg1:T446 Arg2:T445	
+R48	Support Arg1:T445 Arg2:T439	
+R49	Attack Arg1:T445 Arg2:T437	
+R50	Attack Arg1:T445 Arg2:T431	
+R51	Support Arg1:T465 Arg2:T445	
+R52	Support Arg1:T452 Arg2:T451	
+R53	Support Arg1:T462 Arg2:T452	
+R54	Support Arg1:T464 Arg2:T439	
+R55	Support Arg1:T463 Arg2:T464	
+R56	Support Arg1:T452 Arg2:T464	
+R57	Support Arg1:T464 Arg2:T450	
+R58	Support Arg1:T453 Arg2:T450	
+R59	Support Arg1:T457 Arg2:T456	
+R60	Support Arg1:T457 Arg2:T455	
+R61	Support Arg1:T457 Arg2:T454	
+R62	Support Arg1:T459 Arg2:T458	
+R63	Support Arg1:T460 Arg2:T461	
+R64	Support Arg1:T460 Arg2:T439	

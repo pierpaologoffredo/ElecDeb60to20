@@ -1,0 +1,43 @@
+T1	Premise 651 709	you left out one other exception, the health of the mother
+T2	Premise 790 854	Barb and I lost a child, you know that we lost a daughter, Robin
+T3	Premise 856 1024	I was over running records in west Texas, and I got a call from her, come home; went to the doctor; the doctor said, beautiful child, your child has a few weeks to live
+T4	Premise 1063 1129	He said, no, she has leukemia, acute leukemia, a few weeks to live
+T5	Premise 1131 1271	We took the child to New York. Thanks to the miraculous sacrifice of doctors and nurses, the child stayed alive for six months and then died
+T6	Premise 1273 1457	If that child were here today, and I was told the same thing, my granddaughter, Noel for example that child could stay alive for ten or fifteen years, or maybe for the rest of her life
+T7	Claim 1466 1545	I don't think that you make an exception based on medical knowledge at the time
+T8	Claim 1547 1588	I think human life is very, very precious
+T9	Premise 1601 1649	this hasn't been an easy decision for me to meet
+T10	Premise 1687 1904	when I was in that little church across the river from Washington and saw our grandchild christened in our faith, I was very pleased indeed that the mother had not aborted that child, and put the child up for adoption
+T11	Premise 1913 1954	I just feel this is where I'm coming from
+T12	Premise 1960 1974	it is personal
+T13	Premise 2043 2087	that's the way I, George Bush, feel about it
+T14	Premise 2168 2241	Kitty and I had very much the same kind of experience that the Bushes had
+T15	Premise 2243 2303	we lost a baby, lived about twenty minutes after it was born
+T16	Claim 2309 2387	isn't the real question that we have to answer not how many exceptions we make
+T17	Premise 2397 2454	the vice president himself is prepared to make exceptions
+T18	Premise 2456 2539	It's who makes the decision, who makes this very difficult, very wrenching decision
+T19	Claim 2556 2673	I think it has to be the woman, in the exercise of her own conscience and religious beliefs, that makes that decision
+T20	Premise 2675 2784	Who are we to say, well, under certain circumstances, it's all right, but under other circumstances it isn't?
+T21	Premise 2785 2829	That's a decision that only a woman can make
+T22	Premise 2831 2902	after consulting her conscience and consulting her religious principles
+R1	Support Arg1:T2 Arg2:T7	
+R2	Support Arg1:T3 Arg2:T7	
+R3	Support Arg1:T4 Arg2:T7	
+R4	Support Arg1:T5 Arg2:T7	
+R5	Support Arg1:T6 Arg2:T7	
+R6	Support Arg1:T7 Arg2:T8	
+R7	Support Arg1:T10 Arg2:T7	
+R8	Support Arg1:T9 Arg2:T7	
+R9	Support Arg1:T11 Arg2:T7	
+R10	Support Arg1:T12 Arg2:T7	
+R11	Support Arg1:T13 Arg2:T7	
+R12	Support Arg1:T15 Arg2:T14	
+R13	Support Arg1:T17 Arg2:T16	
+R14	Attack Arg1:T16 Arg2:T14	
+R15	Support Arg1:T16 Arg2:T19	
+R16	Support Arg1:T18 Arg2:T19	
+R17	Support Arg1:T20 Arg2:T19	
+R18	Support Arg1:T21 Arg2:T19	
+R19	Support Arg1:T22 Arg2:T19	
+T23	Claim 2908 2996	I would hope that we would give to women in this country the right to make that decision
+R20	Support Arg1:T19 Arg2:T23	

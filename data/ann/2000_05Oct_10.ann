@@ -1,0 +1,102 @@
+T490	Premise 1099 1179	I've been so tremendously impressed with what he's done as the Governor of Texas
+T491	Claim 1804 1839	I think it will take new leadership
+T492	Claim 290 318	I agree with your assessment
+T493	Claim 2215 2294	I think George W. Bush has done it in Texas and can do it at the national level
+T494	Claim 2134 2213	I think you have to be able to reach out and work together and build coalitions
+T495	Premise 1439 1530	he didn't point the finger of blame looking for scapegoats he was quick to share the credit
+T496	Claim 1841 2032	I don't think you can do it, with all due respect to Al Gore, with somebody who spent all the last 24 years in that Washington environment and who campaigns on the basis of castigating others
+T497	Premise 2034 2132	pointing the finger of blame at others in terms of blaming business or various groups for failings
+T498	Premise 320 435	I've been out of Washington for the last eight years and spent the last five years running a company global concern
+T499	Premise 441 521	been out in the private sector building a business, hiring people, creating jobs
+T500	Claim 523 607	I have a different perspective on Washington than I had when I was there in the past
+T501	Premise 609 645	I'm proud of my service for 25 years
+T502	Claim 662 724	I had the opportunity to go out and get a different experience
+T503	Premise 730 753	you're absolutely right
+T504	Claim 755 772	People are fed up
+T505	Claim 774 907	They've had enough with the bickering and the partisanship that seems to characterize the debate that goes on in the nation's capital
+T507	Claim 1021 1087	I was eager to sign on when he asked me to become his running mate
+T508	Premise 1260 1323	He managed to reach across partisan lines and unite republicans
+T509	Premise 1329 1422	democrats and independents and put them to work to achieve good things for the State of Texas
+T510	Premise 1181 1258	He came in when he had a legislature completely controlled by the other party
+T511	Premise 1714 1802	It is possible to get people to work together and to begin to focus on achieving results
+T512	Premise 2308 2331	You're absolutely right
+T513	Claim 2333 2376	There's too much partisanship in Washington
+T514	Claim 2809 2934	I certainly think that would be an asset that I could bring to the vice presidency should I be fortunate enough to be elected
+T515	Claim 4119 4224	that's exactly the kind of bipartisan leadership that he and I can bring to Washington to get things done
+T516	Premise 2936 2993	In my senate career I  've worked with Bob Dole on Bosnia
+T517	Premise 2995 3039	I worked with John McCain on cultural values
+T518	Premise 3041 3084	I worked with Connie Mack on foreign policy
+T519	Premise 3086 3140	Don Nichols on the International Religious Freedom Act
+T520	Claim 3204 3234	That's the way things get done
+T521	Claim 3302 3381	In his years in the house and Senate, he formed similar bipartisan partnerships
+T522	Claim 3427 3582	the most significant accomplishments of this administration in which Al Gore was centrally involved were the result, most of them, of bipartisan agreements
+T523	Premise 3595 3755	the Welfare Reform Act, which Al Gore promised to lead the effort on to get people off of welfare to set time limits, to get people to enjoy the dignity of work
+T524	Claim 3757 3799	That was a bipartisan act that was adopted
+T525	Premise 3801 3899	The Anti-Crime Act that has helped to lower crime more than 20% in our country was also bipartisan
+T528	Premise 3901 4105	The Balanced Budget Act of 1997 which was critical to getting our economy to the point and our government to the point of unprecedented surplus we enjoy today also was bipartisan, and Al Gore was involved
+T529	Claim 4262 4381	there's an awful lot of evidence that there hasn't been any bipartisan leadership out of this administration or Al Gore
+T530	Claim 5116 5162	They haven't lead from a bipartisan standpoint
+T531	Claim 5167 5207	I think Al Gore's record isn't very good
+T532	Claim 5004 5058	the administration set it up and pulled the plug on it
+T533	Premise 5067 5114	they would rather have an issue, not a solution
+T534	Premise 4399 4440	Medicare problems have not been addressed
+T535	Premise 4442 4521	We have had eight years of problems with prescription drugs not being addressed
+T536	Premise 4523 4569	Social Security problem  's not been addressed
+T537	Premise 4571 4617	The educational problem has not been addressed
+T538	Claim 4619 4664	We  've had eight years of talk but no action
+T539	Premise 4825 4851	Medicare is a good example
+T540	Premise 4853 4990	The Breaux Commission, a good effort at a bipartisan solution for Medicare whether you bought or didn't buy the answer that was generated
+T541	Premise 5221 5326	Dick Cheney must be one of the few people who think nothing has been accomplished in the last eight years
+T542	Claim 5671 5851	I think if you asked most people in America today that famous question that Ronald Reagan asked, "Are you better off today than you were eight years ago?" Most people would say yes
+T543	Claim 5328 5369	Promises were made and promises were kept
+T544	Premise 5530 5553	the 22 million new jobs
+T545	Premise 5567 5591	4 million new businesses
+T546	Premise 5601 5669	the lower interest rates, low rate of inflation, high rate of growth
+T547	Claim 5988 6039	the government had absolutely nothing to do with it
+T1	Question 47 215	Washington is a caldron of political bickering and partisanship. The American people, gentleman, have had enough. How would you elevate political discourse and purpose?
+T2	Premise 1532 1678	He ended up, as a result of that activity of his first term, having the top Democrat in the state, Bob Bulloch, endorse George Bush for reelection
+R1	Support Arg1:T2 Arg2:T509
+R2	Support Arg1:T495 Arg2:T509
+R3	Support Arg1:T509 Arg2:T508
+R4	Support Arg1:T508 Arg2:T490
+R5	Support Arg1:T490 Arg2:T507
+R6	Support Arg1:T505 Arg2:T504
+R7	Support Arg1:T511 Arg2:T491	
+R8	Support Arg1:T496 Arg2:T491	
+R9	Support Arg1:T497 Arg2:T496	
+R10	Support Arg1:T494 Arg2:T491	
+R11	Support Arg1:T493 Arg2:T491	
+R12	Support Arg1:T512 Arg2:T513	
+R13	Support Arg1:T516 Arg2:T514	
+R14	Support Arg1:T517 Arg2:T514	
+R15	Support Arg1:T518 Arg2:T514	
+R16	Support Arg1:T519 Arg2:T514	
+R17	Support Arg1:T520 Arg2:T514	
+R18	Support Arg1:T522 Arg2:T521	
+R19	Attack Arg1:T521 Arg2:T496	
+R20	Support Arg1:T523 Arg2:T524	
+R21	Support Arg1:T524 Arg2:T522	
+R22	Support Arg1:T525 Arg2:T522	
+R23	Support Arg1:T528 Arg2:T522	
+R24	Support Arg1:T515 Arg2:T522	
+R25	Attack Arg1:T529 Arg2:T522	
+R26	Support Arg1:T534 Arg2:T529	
+R27	Support Arg1:T535 Arg2:T529	
+R28	Support Arg1:T536 Arg2:T529	
+R29	Support Arg1:T537 Arg2:T529	
+R30	Support Arg1:T538 Arg2:T529	
+R31	Support Arg1:T540 Arg2:T539	
+R32	Support Arg1:T532 Arg2:T538	
+R33	Support Arg1:T539 Arg2:T538	
+R34	Support Arg1:T533 Arg2:T538	
+R35	Support Arg1:T530 Arg2:T531	
+R36	Equivalent Arg1:T531 Arg2:T529	
+R37	Attack Arg1:T541 Arg2:T529	
+R38	Attack Arg1:T543 Arg2:T538	
+R39	Support Arg1:T544 Arg2:T543	
+R40	Support Arg1:T545 Arg2:T543	
+R41	Support Arg1:T546 Arg2:T543	
+R42	Support Arg1:T542 Arg2:T543	
+R43	Attack Arg1:T547 Arg2:T3	
+T3	Premise 5853 5956	I'm pleased to see, Dick, from the newspapers that you're better off than you were eight years ago, too
+R44	Support Arg1:T3 Arg2:T542	

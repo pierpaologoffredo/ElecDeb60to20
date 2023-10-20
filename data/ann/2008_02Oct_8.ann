@@ -1,0 +1,115 @@
+T320	Claim 290 417	I am very thankful that we do have a good plan and the surge and the counterinsurgency strategy in Iraq that has proven to work
+T321	Claim 419 584	I am thankful that that is part of the plan implemented under a great American hero, General Petraeus, and pushed hard by another great American, Senator John McCain
+T322	Claim 585 702	I know that the other ticket opposed this surge, in fact, even opposed funding for our troops in Iraq and Afghanistan
+T323	Premise 704 791	Barack Obama voted against funding troops there after promising that he would not do so
+T324	Claim 821 868	I respected you when you called him out on that
+T325	Premise 870 939	You said that his vote was political and you said it would cost lives
+T326	Premise 941 992	And Barack Obama at first said he would not do that
+T327	Claim 994 1035	He turned around under political pressure
+T328	Premise 1040 1075	he voted against funding the troops
+T329	Claim 1077 1109	We do have a plan for withdrawal
+T330	Claim 1111 1153	We don't need early withdrawal out of Iraq
+T331	Claim 1155 1253	We cannot afford to lose there or we're going to be no better off in the war in Afghanistan either
+T332	Claim 1255 1281	We have got to win in Iraq
+T333	Premise 1286 1359	with the surge that has worked we're now down to presurge numbers in Iraq
+T334	Claim 1361 1383	That's where we can be
+T335	Claim 1385 1432	We can start putting more troops in Afghanistan
+T336	Premise 1436 1500	we also work with our NATO allies who are there strengthening us
+T337	Claim 1505 1533	we need to grow our military
+T338	Claim 1535 1639	We cannot afford to lose against al Qaeda and the Shia extremists who are still there, still fighting us
+T339	Premise 1645 1687	we're getting closer and closer to victory
+T340	Claim 1689 1738	And it would be a travesty if we quit now in Iraq
+T341	Claim 2046 2117	The only odd man out here, only one left out is John McCain, number one
+T342	Claim 1794 1814	I didn't hear a plan
+T343	Claim 1816 1853	Barack Obama has offered a clear plan
+T344	Premise 1855 1913	Shift responsibility to the Iraqis over the next 16 months
+T345	Premise 1915 1942	Draw down our combat troops
+T346	Premise 1944 2044	Ironically the same plan that Maliki, the prime minister of Iraq and George Bush are now negotiating
+T348	Claim 2235 2370	John McCain voted against funding the troops because of an amendment he voted against had a timeline in it to draw down American troops
+T349	Premise 2376 2448	John said I'm not going to fund the troops if in fact there's a timeline
+T350	Claim 2450 2603	Barack Obama and I agree fully and completely on one thing: You've got to have a time line to draw down the troops and shift responsibility to the Iraqis
+T351	Premise 2604 2683	We're spending $10 billion a month while the Iraqis have an $80 billion surplus
+T352	Claim 2906 2971	this is a fundamental difference between us, we will end this war
+T353	Claim 2973 3053	For John McCain, there's no end in sight to end this war, fundamental difference
+T354	Claim 3055 3075	We will end this war
+T355	Claim 2685 2889	Barack says it's time for them to spend their own money and have the 400,000 military weâ€™ve trained for them begin to take their own responsibility and gradually over six months -- 16 months, withdrawal
+T356	Claim 3104 3218	Your plan is a white flag of surrender in Iraq and that is not what our troops need to hear today, that's for sure
+T357	Claim 3220 3277	And it's not what our nation needs to be able to count on
+T358	Claim 3279 3305	You guys opposed the surge
+T359	Claim 3307 3323	The surge worked
+T360	Claim 3325 3371	Barack Obama still can't admit the surge works
+T361	Claim 3372 3515	We'll know when we're finished in Iraq when the Iraqi government can govern its people and when the Iraqi security forces can secure its people
+T362	Claim 3517 3598	And our commanders on the ground will tell us when those conditions have been met
+T363	Premise 3753 3874	Now, you said regarding Senator McCain's military policies there, Senator Biden, that you supported a lot of these things
+T364	Premise 3876 3972	In fact, you said in fact that you wanted to run, you'd be honored to run with him on the ticket
+T365	Claim 3974 4085	and that's an indication I think of some of the support that you had at least until you became the VP pick here
+T366	Premise 4087 4157	You also said that Barack Obama was not ready to be commander in chief
+T367	Premise 4163 4255	I know again that you opposed the move that he made to try to cut off funding for the troops
+T368	Claim 4284 4406	I don't know how you can defend that position now, but I know that you know especially with your son in the National Guard
+T369	Claim 4411 4493	I have great respect for your family also and the honor that you show our military
+T370	Claim 4537 4630	Anyone I think who can cut off funding for the troops after promising not to is another story
+T374	Claim 4740 4956	John McCain voted against an amendment containing $1 billion, $600 million that I had gotten to get MRAPS, those things that are protecting the governor's son and pray god my son and a lot of other sons and daughters
+T375	Claim 4957 4976	He voted against it
+T371	Claim 4664 4715	John McCain voted to cut off funding for the troops
+T372	Premise 5011 5095	he said the amendment had a time line in it to end this war, and he didn't like that
+T373	Claim 5543 5574	John McCain has been dead wrong
+T376	Claim 5630 5711	he's been dead wrong on the fundamental issues relating to the conduct of the war
+T377	Claim 5576 5586	I love him
+T378	Premise 5150 5360	John McCain and Dick Cheney said when I was saying we would not be greeted as liberators, we would not - this war would take a decade, not a day, not a week, not six months, we would not be out of there quickly
+T379	Premise 5362 5481	John McCain was saying the Sunnis and Shias got along with each other without reading the history of the last 700 years
+T380	Premise 5483 5541	John McCain said there would be enough oil to pay for this
+T381	Claim 5713 5740	Barack Obama has been right
+T382	Claim 5742 5761	There are the facts
+R1	Support Arg1:T320 Arg2:T321	
+R2	Attack Arg1:T321 Arg2:T322	
+R3	Support Arg1:T323 Arg2:T322	
+R4	Support Arg1:T325 Arg2:T324	
+R5	Support Arg1:T328 Arg2:T327	
+R6	Attack Arg1:T327 Arg2:T326	
+R7	Support Arg1:T326 Arg2:T323	
+R8	Support Arg1:T329 Arg2:T330	
+R9	Support Arg1:T330 Arg2:T331	
+R10	Support Arg1:T331 Arg2:T332	
+R11	Support Arg1:T333 Arg2:T332	
+R12	Support Arg1:T334 Arg2:T332	
+R13	Support Arg1:T336 Arg2:T335	
+R14	Attack Arg1:T337 Arg2:T338	
+R15	Attack Arg1:T339 Arg2:T338	
+R16	Support Arg1:T332 Arg2:T340	
+R17	Attack Arg1:T343 Arg2:T342	
+R18	Support Arg1:T345 Arg2:T344	
+R19	Support Arg1:T344 Arg2:T343	
+R20	Support Arg1:T346 Arg2:T343	
+T1	Premise 2119 2195	Number two, with regard to Barack Obama not -- quote -- "funding the troops,
+T2	Claim 2197 2234	John McCain voted the exact same way.
+R21	Attack Arg1:T2 Arg2:T1	
+R22	Support Arg1:T349 Arg2:T348	
+R23	Support Arg1:T348 Arg2:T2	
+R24	Attack Arg1:T350 Arg2:T351	
+R25	Support Arg1:T355 Arg2:T350	
+R26	Support Arg1:T352 Arg2:T353	
+R27	Support Arg1:T354 Arg2:T352	
+R28	Support Arg1:T356 Arg2:T357	
+R29	Attack Arg1:T357 Arg2:T358	
+R30	Attack Arg1:T359 Arg2:T358	
+R31	Attack Arg1:T360 Arg2:T359	
+R32	Support Arg1:T362 Arg2:T361	
+R33	Support Arg1:T361 Arg2:T359	
+R34	Support Arg1:T363 Arg2:T364	
+R35	Support Arg1:T364 Arg2:T365	
+R36	Support Arg1:T366 Arg2:T367	
+R37	Support Arg1:T369 Arg2:T368	
+T3	Premise 4495 4536	Barack Obama though, another story there.
+R38	Support Arg1:T367 Arg2:T365	
+R39	Attack Arg1:T365 Arg2:T368	
+R40	Attack Arg1:T3 Arg2:T370	
+R41	Attack Arg1:T370 Arg2:T369	
+R42	Support Arg1:T374 Arg2:T371	
+R43	Support Arg1:T375 Arg2:T374	
+R44	Support Arg1:T372 Arg2:T375	
+R45	Attack Arg1:T378 Arg2:T379	
+R46	Support Arg1:T379 Arg2:T380	
+R47	Attack Arg1:T373 Arg2:T380	
+R48	Support Arg1:T382 Arg2:T381	
+R49	Attack Arg1:T381 Arg2:T376	
+R50	Support Arg1:T376 Arg2:T373	

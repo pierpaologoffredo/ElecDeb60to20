@@ -1,0 +1,163 @@
+T1	Premise 3173 3254	it is the economic recovery program that we presented when I took office in 1981.
+T3	Premise 3539 3578	the stagflation that we were undergoing
+T9	Claim 4432 4517	Our tax cut, we think, was very instrumental in bringing about this economic recovery
+T10	Claim 4519 4577	We have reduced inflation to about a third of what it was.
+T12	Premise 4672 4738	In the last 21 months, more than 6 million people have gotten jobs
+T13	Premise 4742 4844	there have been created new jobs for those people to where there are now 105 million civilians working
+T14	Premise 4852 4917	there were only 99 million before; 107, if you count the military
+T15	Claim -1 155; -1 155	we believe that as we continue to reduce the level of government spending -- the increase, rate of increase in government spending those two lines will meet
+T16	Premise 5056 5215	which has come down from 17 to 6 percent, and, at the same time, as the growth in the economy increases the revenues the Government gets, without raising taxes
+T17	Claim 5433 5493	They project that the budget deficit will continue to climb.
+T18	Premise 5494 5557	In the year 1989 they project a budget deficit of $273 billion.
+T20	Claim 6101 6171	we have the rate of increase in government spending down to 6 percent.
+T22	Premise 6172 6361	If the rate of increase in government spending can be held at 5 percent -- we're not far from there -- by 1989 that would have reduced the budget deficits down to a $30 or $40 billion level
+T24	Claim 7719 7836	every estimate by this administration about the size of the deficit has been off by billions and billions of dollars.
+T25	Claim 7858 7919	over 4 years, they've missed the mark by nearly $600 billion.
+T26	Claim 7920 7972	We were told we would have a balanced budget in 1983
+T27	Claim 7974 8010	It was $200 billion deficit instead.
+T28	Premise 8167 8429	Virtually every economic analysis that I've heard of, including the distinguished Congressional Budget Office, which is respected by, I think, almost everyone, says that even with historically high levels of economic growth, we will suffer a $263 billion deficit
+T30	Claim 8447 8493	it doesn't converge as the President suggests.
+T31	Claim 8494 8526	It gets larger even with growth.
+T33	Claim 8618 8673	This is the worst trade year in American history by far
+T34	Claim 8675 8734	Our rural and farm friends will have continued devastation.
+T38	Premise 10812 10905	as a matter of fact, the biggest single tax increase in our nation's history took place 1977.
+T49	Claim 11037 11092	there is no ratio between taxing and balancing a budget
+T207	Claim 7201 7274	That still is an enormous deficit that will be running for these 4 years.
+T208	Premise 6975 7199	You have proposed a plan combining tax increases and budgetary cuts and other changes in the administration of the Government that would reduce the projected budget deficit by two-thirds, to approximately $87 billion in 1989
+T209	Claim 7673 7694	I think he knows that
+T210	Premise 7618 7642	I respect the President;
+T211	Premise 7643 7667	I respect the Presidency
+T212	Claim 9345 9415	one other way to attack the deficit is further reductions in spending.
+T213	Premise 9416 9493	The President has submitted a number of proposals to Congress to do just that
+T214	Claim 9499 9573	in many instances the House, controlled by the Democrats, has opposed them
+T215	Claim 9757 9839	I proposed over a hundred billion dollars in cuts in Federal spending over 4 years
+T217	Claim 10054 10085	I'm not going to do it that way
+T218	Premise 9975 10048	These people depend upon all of us for the little security that they have
+T219	Claim 10087 10138	The rate of defense spending increase can be slowed
+T223	Claim 10359 10468	that's why the Congress, including the Republicans, have not gone along with the President's recommendations.
+T224	Claim 11434 11472	A President should never say "never.''
+T225	Claim 11477 11525	I'm going to violate that rule and say "never.''
+T226	Claim 11526 11632	I will never stand for a reduction of the Social Security benefits to the people that are now getting them
+T227	Premise 11674 11749	that's exactly the commitment that was made to the American people in 1980:
+T228	Claim 11750 11780	He would never reduce benefits
+T2	Claim 3116 3129	I have a plan
+T5	Claim 3367 3449	an economic program that I thought could rectify the great problems confronting us
+T6	Premise 3453 3479	the double-digit inflation
+T4	Claim 3505 3537	I think were hurting the economy
+T475	Premise 3481 3499	the high tax rates
+T7	Claim 3835 3862	that was no longer possible
+T476	Premise 3688 3827	the economy was so worsened that I was openly saying that what we had thought on the basis of our plan could have brought a balanced budget
+T8	Claim 3869 4083	the plan that we have had and that we are following is a plan that is based on growth in the economy, recovery without inflation, and reducing the share that the Government is taking from the gross national product
+T477	Claim 4085 4123	which has become a drag on the economy
+T478	Claim 4215 4246	we can now call it an expansion
+T479	Premise 4135 4209	we have a recovery that has been going on for about 21 months to the point
+T480	Premise 4248 4429	Under that, this year, we have seen a $21 billion reduction in the deficit from last year, based mainly on the increased revenues the Government is getting without raising tax rates
+T11	Claim 4638 4670	we think, must come down further
+T481	Premise 4578 4632	The interest rates have come down about 9 or 10 points
+T21	Claim 5842 5924	I do not, very frankly, take seriously the Congressional Budget Office projections
+T482	Premise 5934 5979	they have been wrong on virtually all of them
+T483	Premise 5981 6058	including the fact that our recovery wasn't going to take place to begin with
+T484	Claim 5248 5289	when they meet, that is a balanced budget
+T485	Claim 5369 5399	The lines aren't about to meet
+T486	Premise 5401 5431	according to their projections
+T19	Claim 5782 5840	The deficit is the result of excessive government spending
+T23	Premise -1 132; -1 132	if we can have a 4-percent recovery continue through that same period of time that will mean $400 billion more in government revenues
+T205	Claim 6579 6610	I think that the lines can meet
+T206	Claim 6680 6753	there has been no spending increase in the 4 years that we have been here
+T487	Premise 6623 6678	in constant dollars, in the domestic side of the budget
+T29	Claim 8552 8616	we will continue to have devastating problems with foreign trade
+T32	Claim 8735 8814	Real interest rates -- the real cost of interest -- will remain very, very high
+T488	Claim 8820 8902	many economists are predicting that we're moving into a period of very slow growth
+T489	Premise 8911 8961	the economy is tapering off and may be a recession
+T490	Claim 8963 9055	I get it down to a level below 2 percent of gross national product with a policy that's fair
+T35	Claim 9057 9132	I've stood up and told the American people that I think it's a real problem
+T491	Claim 9139 9179	it can destroy long-term economic growth
+T36	Claim 9229 9265	I think this is a test of leadership
+T492	Claim 9271 9318	I think the American people know the difference
+T216	Claim -1 110; -1 110	I am not going to cut it out of Social Security and Medicare and student assistance and things that people need
+T220	Claim 10140 10211	Certainly we can find a coffeepot that costs something less than $7,000
+T221	Premise 10217 10353	there are other ways of squeezing this budget without constantly picking on our senior citizens and the most vulnerable in American life
+T37	Claim 10774 10805	he has a plan for raising taxes
+T222	Claim 10704 10772	I don't believe that Mr. Mondale has a plan for balancing the budget
+T39	Claim 10997 11031	the budgets increased $318 billion
+T493	Claim 10910 10991	for the 5 years previous to our taking office, taxes doubled in the United States
+T50	Premise 11094 11172	Whether you borrow the money or whether you simply tax it away from the people
+T494	Claim 11174 11238	you're taking the same amount of money out of the private sector
+T495	Claim 11240 11311	unless and until you bring down government's share of what it is taking
+T52	Claim 12127 12151	Everybody remembers that
+T496	Claim 12153 12178	people know what happened
+T497	Claim 12180 12200	There's a difference
+T498	Premise 11797 11898	what happened right after the election is they proposed to cut Social Security benefits by 25 percent
+T499	Premise 11902 11939	reducing the adjustment for inflation
+T500	Premise 11941 12004	cutting out minimum benefits for the poorest on Social Security
+T501	Premise 12006 12125	removing educational benefits for dependents whose widows were trying -- with widows trying to get them through college
+T51	Claim 12202 12309	I have fought for Social Security and Medicare and for things to help people who are vulnerable all my life
+T502	Claim 12315 12361	I will do it as President of the United States
+R1	Support Arg1:T1 Arg2:T2	
+R2	Support Arg1:T6 Arg2:T4	
+R3	Support Arg1:T475 Arg2:T4	
+R4	Support Arg1:T3 Arg2:T4	
+R5	Support Arg1:T476 Arg2:T7	
+R6	Support Arg1:T1 Arg2:T5	
+R7	Support Arg1:T479 Arg2:T478	
+R8	Support Arg1:T480 Arg2:T9	
+R9	Support Arg1:T481 Arg2:T10	
+R10	Support Arg1:T481 Arg2:T11	
+R11	Support Arg1:T16 Arg2:T484	
+R12	Support Arg1:T13 Arg2:T8	
+R13	Support Arg1:T12 Arg2:T8	
+R14	Support Arg1:T14 Arg2:T8	
+R15	Support Arg1:T486 Arg2:T485	
+R16	Support Arg1:T486 Arg2:T17	
+R17	Support Arg1:T18 Arg2:T17	
+R18	Support Arg1:T19 Arg2:T477	
+R19	Support Arg1:T482 Arg2:T21	
+R20	Support Arg1:T483 Arg2:T482	
+R21	Support Arg1:T487 Arg2:T206	
+R22	Attack Arg1:T205 Arg2:T485	
+R23	Support Arg1:T205 Arg2:T484	
+R24	Support Arg1:T208 Arg2:T207	
+R25	Equivalent Arg1:T211 Arg2:T210	
+R26	Support Arg1:T210 Arg2:T209	
+R27	Support Arg1:T25 Arg2:T24	
+R28	Support Arg1:T26 Arg2:T27	
+R29	Support Arg1:T27 Arg2:T24	
+R30	Support Arg1:T28 Arg2:T30	
+R31	Support Arg1:T24 Arg2:T30	
+R32	Attack Arg1:T30 Arg2:T205	
+R33	Support Arg1:T31 Arg2:T29	
+R34	Support Arg1:T34 Arg2:T33	
+R35	Support Arg1:T32 Arg2:T33	
+R36	Support Arg1:T488 Arg2:T33	
+R37	Support Arg1:T489 Arg2:T488	
+R38	Support Arg1:T35 Arg2:T492	
+R39	Support Arg1:T492 Arg2:T36	
+R40	Support Arg1:T213 Arg2:T212	
+R41	Support Arg1:T213 Arg2:T214	
+T40	Claim 9841 9974	but I am not going to cut it out of Social Security and Medicare and student assistance and things -- [applause] -- that people need.
+R42	Support Arg1:T218 Arg2:T40	
+R43	Support Arg1:T40 Arg2:T215	
+R44	Equivalent Arg1:T217 Arg2:T40	
+R45	Support Arg1:T40 Arg2:T219	
+R46	Support Arg1:T221 Arg2:T40	
+R47	Support Arg1:T220 Arg2:T219	
+R48	Support Arg1:T221 Arg2:T223	
+R49	Support Arg1:T37 Arg2:T222	
+R50	Support Arg1:T38 Arg2:T37	
+R51	Support Arg1:T493 Arg2:T37	
+R52	Support Arg1:T39 Arg2:T49	
+R53	Support Arg1:T493 Arg2:T49	
+R54	Support Arg1:T50 Arg2:T494	
+R55	Support Arg1:T49 Arg2:T495	
+R56	Support Arg1:T224 Arg2:T225	
+R57	Support Arg1:T226 Arg2:T225	
+R58	Support Arg1:T227 Arg2:T228	
+R59	Support Arg1:T228 Arg2:T52	
+R60	Support Arg1:T498 Arg2:T496	
+R61	Support Arg1:T499 Arg2:T496	
+R62	Support Arg1:T500 Arg2:T496	
+R63	Support Arg1:T501 Arg2:T496	
+R64	Support Arg1:T52 Arg2:T497	
+R65	Support Arg1:T496 Arg2:T497	
+R66	Support Arg1:T51 Arg2:T502	
+R67	Attack Arg1:T227 Arg2:T225	

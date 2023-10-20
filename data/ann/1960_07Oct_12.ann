@@ -1,0 +1,88 @@
+T415	Claim 519 563	I believe strongly in the defense of Formosa
+T417	Claim 799 867	We say we will defend it if it's part of a general attack on Formosa
+T418	Claim 718 797	We have never said flatly that we will defend Quemoy and Matsu if it's attacked
+T419	Claim 873 919	it's extremely difficult to make that judgment
+T421	Premise 1159 1198	General Ridgway has said the same thing
+T422	Premise 1027 1157	Admirals Spruance and Callins in 1955 said that we should not attempt to defend these islands, in their conference in the Far East
+T423	Premise 921 1025	Now, Mr. Herter in 1958, when he was Under Secretary of State, said they were strategically undefensible
+T424	Claim 1340 1478	One of the problems, I think, at the time of South Korea was the question of whether the United States would defend it if it were attacked
+T425	Claim 1480 1519	I believe that we should defend Formosa
+T426	Claim 1521 1550	We should come to its defense
+T427	Premise 1552 1649	To leave this rather in the air, that we will defend it under some conditions but not under other
+T428	Claim 1651 1671	I think is a mistake
+T430	Claim 2558 2674	I do not believe that that line in case of war should be drawn on those islands but instead on the island of Formosa
+T432	Claim 2463 2552	I believe we should meet our commitments to every country whose security we've guaranteed
+T433	Claim 2364 2408	I believe strongly we should do so in Berlin
+T435	Claim 1990 2309	with General Ridgway, Mr. Herter, General Collins, Admiral Spruance and many others, I think it's unwise to take the chance of being dragged into a war which may lead to a world war over two islands which are not strategically defensible, which are not, according to their testimony, essential to the defense of Formosa
+T436	Claim 1816 1941	I believe that we should consult with them and attempt to work out a plan by which the line is drawn at the island of Formosa
+T437	Premise 1943 1984	It leaves a hundred miles between the sea
+T438	Claim 1753 1811	It is a decision finally that the Nationalists should make
+T439	Claim 1683 1751	I would not suggest the withdrawal at the point of the Communist gun
+T440	Claim 2940 2996	I disagree completely with Senator Kennedy on this point
+T441	Claim 3425 3444	it didn't mean that
+T442	Premise 3340 3419	I suppose it was hoped when he made that speech that we wouldn't get into a war
+T443	Premise 3143 3338	Secretary Acheson made a very famous speech at the Press Club, early in the year that k- Korean War started, indicating in effect that South Korea was beyond the defense zone of the United States
+T444	Premise 2998 3109	I remember in the period immediately before the Korean War, South Korea was supposed to be indefensible as well
+T445	Premise 3111 3137	Generals testified to that
+T446	Claim 4154 4213	I would never tolerate it as president of the United States
+T447	Claim 4219 4296	I will hope that Senator Kennedy will change his mind if he should be elected
+T448	Claim 4137 4152	I am against it
+T449	Claim 4039 4135	In my opinion this is the same kind of woolly thinking that led to disaster for America in Korea
+T450	Claim 3910 3949	If we do that we start a chain reaction
+T453	Premise 3446 3479	We had to go in when they came in
+T454	Premise 3481 3621	Now I think as far as Quemoy and Matsu are concerned, that the question is not these two little pieces of real estate - they are unimportant
+T455	Premise 3623 3692	It isn't the few people who live on them - they are not too important
+T456	Claim 3694 3721	It's the principle involved
+T457	Premise 3723 3767	These two islands are in the area of freedom
+T458	Premise 3769 3808	The Nationalists have these two islands
+R1	Support Arg1:T417 Arg2:T418	
+R3	Equivalent Arg1:T426 Arg2:T425	
+R4	Equivalent Arg1:T425 Arg2:T415	
+R5	Equivalent Arg1:T426 Arg2:T415	
+R6	Equivalent Arg1:T425 Arg2:T417	
+R7	Equivalent Arg1:T417 Arg2:T426	
+R8	Support Arg1:T421 Arg2:T419	
+R9	Support Arg1:T422 Arg2:T419	
+R10	Support Arg1:T423 Arg2:T419	
+R11	Support Arg1:T427 Arg2:T428	
+R12	Support Arg1:T439 Arg2:T428	
+R13	Attack Arg1:T428 Arg2:T418	
+R14	Attack Arg1:T428 Arg2:T417	
+R15	Equivalent Arg1:T436 Arg2:T438	
+R16	Equivalent Arg1:T432 Arg2:T433	
+R20	Support Arg1:T430 Arg2:T428	
+R21	Support Arg1:T445 Arg2:T444	
+R22	Support Arg1:T443 Arg2:T444	
+R23	Attack Arg1:T442 Arg2:T441	
+R24	Support Arg1:T453 Arg2:T441	
+R25	Support Arg1:T454 Arg2:T440	
+R28	Support Arg1:T450 Arg2:T448	
+R30	Equivalent Arg1:T446 Arg2:T448	
+R31	Equivalent Arg1:T447 Arg2:T440	
+T1	Premise 371 517	the United States uh - has on occasion attempted uh - mostly in the middle fifties, to persuade Chiang Kai-shek to pull his troops back to Formosa
+T2	Premise 565 716	These islands are a few miles - five or six miles - off the coast of Red China, within a general harbor area and more than a hundred miles from Formosa
+T3	Claim 1200 1338	I believe that when you get into a w- if you're going to get into war for the defense of Formosa, it ought to be on a clearly defined line
+T4	Claim 2410 2458	I believe strongly we should d- do so in Formosa
+T5	Claim 3810 3908	We should not uh - force our Nationalist allies to get off of them and give them to the Communists
+T6	Premise 3959 4037	the Communists aren't after Quemoy and Matsu, they're a- they're after Formosa
+R34	Support Arg1:T2 Arg2:T417	
+R2	Support Arg1:T415 Arg2:T417	
+R32	Support Arg1:T1 Arg2:T415	
+R33	Attack Arg1:T419 Arg2:T417	
+R35	Attack Arg1:T419 Arg2:T3	
+R36	Attack Arg1:T437 Arg2:T435	
+T7	Premise 2680 2739	as long as they are not essential to the defense of Formosa
+T8	Claim 2741 2902	it's been my judgment ever since 1954, at the time of the Eisenhower Doctrine for the Far East, that our line should be drawn in the sea around the island itself
+R17	Support Arg1:T7 Arg2:T8	
+R18	Support Arg1:T8 Arg2:T430	
+T9	Claim 2311 2362	I think that uh - we should protect our commitments
+R19	Support Arg1:T9 Arg2:T4	
+R37	Support Arg1:T432 Arg2:T433	
+R38	Support Arg1:T432 Arg2:T4	
+R39	Attack Arg1:T440 Arg2:T3	
+R40	Support Arg1:T444 Arg2:T440	
+R41	Support Arg1:T5 Arg2:T456	
+R27	Support Arg1:T458 Arg2:T5	
+R26	Support Arg1:T457 Arg2:T5	
+R42	Support Arg1:T6 Arg2:T450	
+R29	Support Arg1:T449 Arg2:T448	

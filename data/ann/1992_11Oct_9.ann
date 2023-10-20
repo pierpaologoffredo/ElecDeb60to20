@@ -1,0 +1,121 @@
+T400	Claim 376 399	you're not a superpower
+T401	Claim 475 532	we've got to have the money to be able to pay for defense
+T402	Claim 538 567	we've got to manufacture here
+T403	Claim 594 624	you can't ship it all overseas
+T404	Claim 658 722	you can't convert from potato chips to airplanes in an emergency
+T405	Premise 729 817	Willow Run could be converted from cars to airplanes in World War II because it was here
+T406	Claim 819 848	We've got to make things here
+T407	Claim 850 886	You can't ship them overseas anymore
+T408	Claim 953 1028	We've got to help Russia succeed in its revolution and all of its republics
+T409	Claim 1103 1125	We've got to help them
+T410	Premise 1127 1189	That's pennies on the dollar compared to renewing the cold war
+T411	Claim 1393 1423	It's a very unstable situation
+T412	Premise 1198 1240	we've got all kinds of agreements on paper
+T413	Premise 1311 1391	Russia and its republics are out of control or at best in weak control right now
+T414	Premise 1425 1510	You've got every rich Middle Eastern country over there trying to buy nuclear weapons
+T415	Claim 1534 1601	that will lead to another five star migraine headache down the road
+T416	Claim 1603 1712	We really need to nail down the big intercontinental ballistic missiles, the ones that can hit us from Russia
+T417	Claim 1918 1952	we've got to be financially strong
+T418	Claim 1966 2094	we've got to take care of this missile situation and try to get the nuclear war behind us and give this thing very high priority
+T419	Claim 2114 2232	we need to help and support Russia and the republics in every possible way to become democratic capitalistic societies
+T420	Premise 1718 1747	we've focused on the tactical
+T421	Premise 1749 1779	We've made real progress there
+T422	Premise 1781 1865	We've got some agreement on the nuclear, but we don't have those things put away yet
+T423	Premise 1867 1888	The sooner the better
+T424	Premise 2309 2356	they could go back worse than things used to be
+T425	Premise 2373 2474	there are a lot of old boys in the K.G.B. and the military that liked it better the way it used to be
+T427	Claim 2626 2664	There are three fundamental challenges
+T428	Premise 2680 2730	the world is still a dangerous and uncertain place
+T429	Claim 2732 2836	We need a new military and a new national security policy equal to the challenges of a post cold war era
+T430	Claim 2948 3083	We need to continue the negotiations to reduce the nuclear arsenals in the Soviet Union, the former Soviet Union, and the United States
+T431	Claim 3085 3150	We need to stop this proliferation of weapons of mass destruction
+T432	Claim 3160 3249	we have to face that in this world, economic security is a whole lot of national security
+T433	Premise 3251 3314	Our dollar's at an all time low against some foreign currencies
+T434	Claim 3316 3339	We're weak in the world
+T435	Claim 3341 3383	We must rebuild America's strength at home
+T436	Claim 3398 3463	we ought to be promoting the democratic impulses around the world
+T437	Premise 3465 3493	Democracies are our partners
+T438	Premise 3495 3531	They don't go to war with each other
+T439	Premise 3533 3571	They're reliable friends in the future
+T440	Claim 3672 3731	we still are the envy of the world in terms of our military
+T441	Claim 3765 3816	We're the envy of the world in terms of our economy
+T442	Premise 3889 3920	Our exports are dramatically up
+T443	Claim 3969 3993	you might have missed it
+T444	Premise 4003 4042	there's so much fascination with trivia
+T445	Premise 4048 4210	I worked out a deal with Boris Yeltsin to eliminate, get rid of entirely, the most destabilizing weapons of all, the SS-18, the intercontinental ballistic missile
+T446	Claim 4372 4397	We made dramatic progress
+T447	Claim 4407 4432	we've got a good military
+T448	Claim 4506 4515	we got it
+T449	Premise 4521 4548	theyâ€™re keeping the peace
+T450	Premise 4554 4588	they're respected around the world
+T451	Claim 4594 4614	we're more respected
+T452	Premise 4663 4707	We didn't listen to the nuclear freeze crowd
+T453	Premise 4709 4743	We said, "Peace through strength,"
+T454	Claim 4818 4883	we're so, turned so inward we don't understand the global picture
+T455	Claim 4889 4913	we are helping democracy
+T456	Premise 4921 4984	The Freedom Support Act is something I got through the Congress
+T457	Claim 4990 5012	it's a very good thing
+T458	Premise -1 53; -1 53	it does exactly what you say to help Russian democracy
+T459	Claim 5116 5149	we're going to keep on doing that
+T556	Claim 626 652	you've got to make it here
+T634	Premise 356 374	if you're not rich
+T635	Premise 1246 1309	some that are being executed on getting rid of nuclear warheads
+T636	Claim 2238 2299	not just sit back and let those countries continue in turmoil
+T637	Claim 2838 2946	a smaller permanent military force, but one that is more mobile, well trained with high technology equipment
+T638	Premise 4615 4661	because of the way we have conducted ourselves
+T639	Premise 4748 4757	it worked
+T640	Premise 4762 4782	the cold war is over
+R1	Support Arg1:T634 Arg2:T400	
+R2	Support Arg1:T403 Arg2:T556	
+R3	Equivalent Arg1:T402 Arg2:T556	
+R4	Support Arg1:T405 Arg2:T404	
+R5	Support Arg1:T404 Arg2:T556	
+R6	Equivalent Arg1:T556 Arg2:T406	
+R7	Equivalent Arg1:T407 Arg2:T403	
+R8	Equivalent Arg1:T409 Arg2:T408	
+R9	Support Arg1:T410 Arg2:T409	
+R10	Support Arg1:T635 Arg2:T412	
+R11	Support Arg1:T413 Arg2:T411	
+R12	Support Arg1:T412 Arg2:T411	
+R13	Support Arg1:T414 Arg2:T411	
+R14	Support Arg1:T414 Arg2:T415	
+R15	Support Arg1:T420 Arg2:T416	
+R16	Support Arg1:T421 Arg2:T420	
+R17	Support Arg1:T423 Arg2:T422	
+R18	Support Arg1:T400 Arg2:T417	
+R19	Support Arg1:T416 Arg2:T418	
+R20	Equivalent Arg1:T409 Arg2:T419	
+R21	Support Arg1:T411 Arg2:T636	
+R22	Support Arg1:T424 Arg2:T636	
+R23	Support Arg1:T425 Arg2:T424	
+T1	Claim 2525 2624	In order to keep America the strongest nation in the world, we need some continuity and some change
+R24	Support Arg1:T428 Arg2:T429	
+R25	Support Arg1:T637 Arg2:T429	
+R26	Support Arg1:T429 Arg2:T427	
+R27	Support Arg1:T430 Arg2:T427	
+R28	Support Arg1:T431 Arg2:T430	
+R29	Support Arg1:T432 Arg2:T427	
+R30	Support Arg1:T433 Arg2:T434	
+R31	Support Arg1:T434 Arg2:T432	
+R32	Support Arg1:T434 Arg2:T435	
+R33	Support Arg1:T437 Arg2:T436	
+R34	Support Arg1:T436 Arg2:T427	
+R35	Support Arg1:T438 Arg2:T436	
+R36	Support Arg1:T439 Arg2:T436	
+R37	Support Arg1:T442 Arg2:T441	
+R38	Support Arg1:T444 Arg2:T443	
+R39	Equivalent Arg1:T448 Arg2:T447	
+R40	Support Arg1:T449 Arg2:T448	
+R41	Support Arg1:T450 Arg2:T448	
+R42	Support Arg1:T638 Arg2:T451	
+R43	Support Arg1:T452 Arg2:T451	
+R44	Support Arg1:T453 Arg2:T639	
+R45	Support Arg1:T639 Arg2:T640	
+R46	Support Arg1:T640 Arg2:T451	
+R47	Support Arg1:T455 Arg2:T454	
+R48	Support Arg1:T456 Arg2:T457	
+R49	Support Arg1:T457 Arg2:T459	
+R50	Support Arg1:T459 Arg2:T455	
+R51	Support Arg1:T445 Arg2:T446	
+T2	Premise 5022 5110	it does exactly what you say, and I think you agree with that, to help Russian democracy
+R52	Support Arg1:T2 Arg2:T457	

@@ -1,0 +1,75 @@
+T1031	Claim 641 724	America is stronger and more prosperous and more secure than we were four years ago
+T1032	Claim 549 611	I've done my best to be faithful to the charge you've given me
+T1033	Premise 362 470	I am profoundly grateful for the chance that you have given me to serve as president for the last four years
+T1034	Premise 472 543	I never could have dreamed anything like this would come my way in life
+T1035	Claim 739 773	we're going in the right direction
+T1036	Claim 933 1076	the things I do as president are basically driven by the people whose lives I have seen affected by what does or doesn't happen in this country
+T1037	Premise 1078 1215	The auto worker in Toledo who was unemployed when I was elected and now has a great job because we're number one in auto production again
+T1038	Premise 1217 1313	All the people I've met who used to be on welfare who are now working and raising their children
+T1039	Premise 1319 1431	I think what others could do for our country and themselves if we did the welfare reform thing in the proper way
+T1040	Premise 1433 1689	I think of the man who grabbed me by the shoulder once with tears in his eyes and said his daughter was dying of cancer and he thanked me for giving him a chance to spend some time with her without losing his job because of the Family and Medical Leave Act
+T1041	Premise 1691 1881	I think of all the people I grew up with and went to school with and who I stay in touch with and who nerve let me forget how what we do in Washington affects all of you out there in America
+T1042	Claim 1890 1934	we can build that bridge to the 21st Century
+T1043	Claim 1936 1993	big enough and strong enough for all of us to walk across
+T1044	Claim 2454 2496	You're not going to have the opportunities
+T1045	Claim 2498 2601	there are going to be more deficits, more drugs, more crime, and less confidence in the American people
+T1046	Premise 2607 2636	that's what you're faced with
+T1047	Premise 2638 2664	the parents are faced with
+T1048	Premise 2670 2702	the grand parents are faced with
+T1049	Claim 2704 2718	It's important
+T1050	Premise 2720 2737	it's their future
+T1051	Claim 2874 2962	if you care about the future of America, if you care about your future, just don't do it
+T1052	Premise 2771 2846	there are more young people experimenting with drugs today than ever before
+T1053	Premise 2848 2868	drug use has gone up
+T1054	Claim 3138 3180	in America the possibilities are unlimited
+T1055	Claim 3267 3319	We are the greatest country on the face of the earth
+T1056	Premise 3321 3427	We do more good things for more people in our communities, our neighborhoods, than anywhere that I know of
+T1057	Claim 2178 2237	I want to address my remarks to the young people of America
+T1058	Premise 2247 2326	they're the ones that are going to spend most of their life in the 21st Century
+T1059	Premise 2328 2368	They're the ones who have the challenges
+T1060	Premise 2373 2452	they are people out there making predictions that it's not going to be the same
+T1061	Premise 3106 3123	I'm standing here
+T1062	Claim 3429 3455	This is important business
+T1063	Claim 3457 3483	This election is important
+T1064	Premise 2980 3006	I'm someone older than you
+T1065	Premise 3012 3050	I've had my anxious moments in my life
+T1066	Premise 3052 3104	I've learned to feed myself and to walk and to dress
+R1	Support Arg1:T1033 Arg2:T1034	
+R2	Support Arg1:T1034 Arg2:T1032	
+R3	Support Arg1:T1032 Arg2:T1031	
+R4	Support Arg1:T1031 Arg2:T1035	
+T1	Claim 779 887	I've done my best tonight to lay out my plans for going forward to an even better future in the next century
+R5	Support Arg1:T1035 Arg2:T1	
+R6	Support Arg1:T1037 Arg2:T1036	
+R7	Support Arg1:T1038 Arg2:T1036	
+R8	Support Arg1:T1039 Arg2:T1036	
+R9	Support Arg1:T1040 Arg2:T1036	
+R10	Support Arg1:T1041 Arg2:T1036	
+R11	Support Arg1:T1 Arg2:T1036	
+R12	Support Arg1:T1036 Arg2:T1042	
+R13	Support Arg1:T1043 Arg2:T1042	
+T2	Premise 1999 2032	I hope you will help me build it.
+R14	Support Arg1:T2 Arg2:T1043	
+R15	Support Arg1:T1058 Arg2:T1057	
+R16	Support Arg1:T1059 Arg2:T1060	
+R17	Support Arg1:T1058 Arg2:T1059	
+R18	Support Arg1:T1044 Arg2:T1045	
+R19	Support Arg1:T1060 Arg2:T1044	
+R20	Support Arg1:T1046 Arg2:T1047	
+R21	Support Arg1:T1047 Arg2:T1048	
+R22	Support Arg1:T1047 Arg2:T1048	
+R23	Support Arg1:T1048 Arg2:T1049	
+R24	Support Arg1:T1050 Arg2:T1049	
+R25	Support Arg1:T1045 Arg2:T1049	
+R26	Support Arg1:T1052 Arg2:T1045	
+R27	Attack Arg1:T1051 Arg2:T1052	
+R28	Support Arg1:T1064 Arg2:T1065	
+R29	Support Arg1:T1065 Arg2:T1066	
+R30	Support Arg1:T1066 Arg2:T1061	
+R31	Support Arg1:T1061 Arg2:T1054	
+T3	Premise 3182 3265	I know who I am, and I know where I'm from, and I know where I want to take America
+R32	Support Arg1:T3 Arg2:T1055	
+R33	Support Arg1:T1054 Arg2:T1055	
+R34	Support Arg1:T1056 Arg2:T1055	
+R35	Support Arg1:T1056 Arg2:T1062	
+R36	Support Arg1:T1062 Arg2:T1063	

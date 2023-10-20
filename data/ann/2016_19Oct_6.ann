@@ -1,0 +1,99 @@
+T152	Claim 824 827	Yes
+T380	Premise 62 130	you were both asked about the situation in the Syrian city of Aleppo
+T381	Claim 136 163	I want to follow up on that
+T382	Premise 173 231	you said several things in that debate which were not true
+T383	Premise 238 279	You said that Aleppo has basically fallen
+T384	Claim 328 346	It's a catastrophe
+T386	Claim 906 972	you also said that -- that Syria and Russia are busy fighting ISIS
+T387	Premise 983 1054	they have been the ones who've been bombing and shelling eastern Aleppo
+T388	Premise 1060 1170	they just announced a humanitarian pause, in effect, admitting that they have been bombing and shelling Aleppo
+T389	Claim 1172 1203	Would you like to clear that up
+T390	Premise 678 758	there are a quarter of a million people still living there and being slaughtered
+T391	Claim 785 811	they are being slaughtered
+T392	Premise 840 864	because of bad decisions
+T393	Claim 626 642	it hasn't fallen
+T394	Claim 411 422	it's a mess
+T395	Claim 1223 1243	Aleppo is a disaster
+T396	Claim 1245 1274	It's a humanitarian nightmare
+T397	Claim 1280 1325	it has fallen from the -- from any standpoint
+T398	Premise 1335 1371	what do you need, a signed document?
+T400	Premise 1395 1436	It is so sad when you see what's happened
+T401	Premise 1468 1532	in many cases, ISIS-aligned, and we now have them in our country
+T402	Claim 1538 1602	wait until you see -- this is going to be the great Trojan horse
+T403	Premise 1608 1659	wait until you see what happens in the coming years
+T404	Claim 1921 1959	President Obama has refused to do that
+T405	Premise 1968 2033	he fears it's going to draw us closer or deeper into the conflict
+T406	Premise 1748 1919	you have talked about -- and in the last debate and again today -- that you would impose a no-fly zone to try to protect the people of Aleppo and to stop the killing there
+T407	Claim 2071 2150	I think a no-fly zone could save lives and could hasten the end of the conflict
+T408	Claim 2408 2428	she will defeat ISIS
+T409	Premise 2430 2485	We should have never let ISIS happen in the first place
+T410	Claim 2491 2525	right now, they're in 32 countries
+T411	Premise 2582 2619	They had a cease-fire three weeks ago
+T412	Premise 2621 2671	A cease-fire, the United States, Russia, and Syria
+T413	Premise 2677 2738	during the cease-fire, Russia took over vast swatches of land
+T414	Claim 2749 2795	they said we don't want the cease-fire anymore
+T415	Claim 2971 2990	I say they're wrong
+T416	Premise 3000 3035	I'm going to create tremendous jobs
+T417	Claim 3214 3262	I actually think we can go higher than 4 percent
+T418	Claim 3264 3308	I think you can go to 5 percent or 6 percent
+T419	Premise 3041 3108	we're bringing GDP from, really, 1 percent, which is what it is now
+T420	Premise 3114 3154	if she got in, it will be less than zero
+T421	Premise 3160 3208	we're bringing it from 1 percent up to 4 percent
+T422	Claim 3314 3369	if we do, you don't have to bother asking your question
+T423	Premise 3379 3407	we have a tremendous machine
+T424	Premise 3409 3470	We will have created a tremendous economic machine once again
+T425	Premise 3472 3506	To do that, we're taking back jobs
+T426	Claim 3508 3600	We're not going to let our companies be raided by other countries where we lose all our jobs
+T427	Claim 3602 3635	we don't make our product anymore
+T428	Claim 3637 3650	It's very sad
+T429	Claim 3656 3747	I'm going to create a -- the kind of a country that we were from the standpoint of industry
+T430	Premise 3749 3768	We used to be there
+T431	Premise 3770 3787	We've given it up
+T432	Premise 3789 3819	We've become very, very sloppy
+T433	Claim 4091 4182	I think it's important to recognize that he has been criticizing our government for decades
+T434	Premise 4261 4314	I started off with -- my dad was a small-business man
+T435	Premise 3871 4003	when I hear Donald talk like that and know that his slogan is "Make America Great Again," I wonder when he thought America was great
+T436	Premise 4009 4088	before he rushes and says, "You know, before you and President Obama were there
+T437	Claim 4361 4476	I think it -- you know, it's a difference that affects how we see the world and what we want to do with the economy
+T438	Claim 4618 4674	I did disagree with Ronald Reagan very strongly on trade
+T439	Claim 4676 4696	I disagreed with him
+T440	Premise 4698 4749	We should have been much tougher on trade even then
+T441	Premise 4751 4778	I've been waiting for years
+T442	Claim 4780 4800	Nobody does it right
+T443	Claim 4826 4865	frankly, now we're going to do it right
+R1	Support Arg1:T382 Arg2:T381	
+R2	Support Arg1:T383 Arg2:T382	
+*	Equivalent T394 T384
+R3	Attack Arg1:T390 Arg2:T393	
+R4	Support Arg1:T391 Arg2:T393	
+R5	Support Arg1:T392 Arg2:T391	
+R6	Support Arg1:T388 Arg2:T387	
+R7	Attack Arg1:T387 Arg2:T386	
+R8	Support Arg1:T396 Arg2:T395	
+R9	Support Arg1:T398 Arg2:T397	
+R10	Support Arg1:T400 Arg2:T395	
+R11	Support Arg1:T403 Arg2:T402	
+R12	Support Arg1:T405 Arg2:T404	
+R13	Attack Arg1:T406 Arg2:T404	
+R14	Support Arg1:T409 Arg2:T410	
+R15	Support Arg1:T410 Arg2:T408	
+R16	Support Arg1:T412 Arg2:T411	
+R17	Support Arg1:T411 Arg2:T413	
+R18	Support Arg1:T416 Arg2:T415	
+R19	Support Arg1:T419 Arg2:T415	
+R20	Support Arg1:T421 Arg2:T419	
+R21	Support Arg1:T418 Arg2:T417	
+R22	Support Arg1:T423 Arg2:T422	
+R23	Support Arg1:T424 Arg2:T423	
+R24	Support Arg1:T425 Arg2:T424	
+R25	Support Arg1:T427 Arg2:T426	
+R26	Support Arg1:T430 Arg2:T429	
+R27	Support Arg1:T431 Arg2:T429	
+R28	Support Arg1:T432 Arg2:T429	
+R29	Support Arg1:T435 Arg2:T433	
+R30	Support Arg1:T436 Arg2:T433	
+R31	Support Arg1:T434 Arg2:T437	
+*	Equivalent T439 T438
+R32	Support Arg1:T441 Arg2:T442	
+R33	Support Arg1:T440 Arg2:T442	
+R34	Support Arg1:T438 Arg2:T442	

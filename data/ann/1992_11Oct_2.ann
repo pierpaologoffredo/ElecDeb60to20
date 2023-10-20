@@ -1,0 +1,73 @@
+T83	Claim 186 241	I think the American people should be the judge of that
+T84	Claim 243 289	I think character is a very important question
+T85	Claim 412 538	I think it's wrong to demonstrate against your own country or organize demonstrations against your own country in foreign soil
+T86	Premise 291 389	I said something the other day where I was accused of being like Joe McCarthy because I questioned
+T87	Claim 540 563	I just think it's wrong
+T88	Premise 582 741	they say, "Well, it was a youthful indiscretion." I was 19 or 20 flying off an aircraft carrier and that shaped me to be Commander-in-Chief of the armed forces
+T89	Claim 762 812	demonstrating -- it's not a question of patriotism
+T90	Claim 814 855	It's a question of character and judgment
+T91	Premise 857 953	They get on me -- Bill's gotten on me about, "read my lips." When I make a mistake I'll admit it
+T92	Premise 959 996	he has made -- not admitted a mistake
+T93	Claim 1302 1333	I just don't think that's right
+T94	Premise 1237 1296	Some say, "well, you're a little old fashioned." Maybe I am
+T95	Claim 1496 1514	I couldn't do that
+T96	Claim 1520 1562	I don't think most Americans could do that
+T97	Premise 1340 1438	whether it's character or judgment -- whatever it is -- I have a big difference here on this issue
+T98	Premise 1675 1892	How could you be Commander-in-Chief of the armed forces and have some kid say -- when you have to make a tough decision, as I did in Panama or Kuwait and then have some kid jump up and say, "Well, I'm not going to go.
+T99	Premise 1893 1989	The Commander-in-Chief was organizing demonstrations halfway around the world during another era
+T100	Claim 2210 2280	I think the American people will make their own decisions on character
+T101	Claim 2338 2408	I think they need to clearly understand the backgrounds of each person
+T102	Claim 2410 2526	I think the press can play a huge roll in making sure that the backgrounds are clearly presented in an objective way
+T103	Premise 2561 2624	anyone in the White House should have the character to be there
+T104	Claim 2631 2700	I think it's very important to measure when and where things occurred
+T105	Premise 2850 3043	When youâ€™re a senior official in the federal government spending billions of dollars in taxpayerâ€™s money and youâ€™re a mature individual and you make a mistake, then that was on our ticket
+T106	Premise 3045 3087	If you make it as a young man, time passes
+T107	Premise 3092 3143	I would say just, you know, look at all three of us
+T108	Premise 3145 3181	Decide who you think will do the job
+T109	Claim 3254 3306	The party's over and it's time for the clean-up crew
+T110	Claim 3313 3338	we do have to have change
+T111	Claim 4151 4236	when Joe McCarthy went around this country attacking people's patriotism he was wrong
+T112	Claim 4238 4250	He was wrong
+T113	Premise 4256 4318	a senator from Connecticut stood up to him named Prescott Bush
+T114	Premise 4320 4369	Your father was right to stand up to Joe McCarthy
+T115	Claim 4371 4409	you were wrong to attack my patriotism
+T116	Premise 3691 3724	You have questioned my patriotism
+T117	Premise 3756 3915	You even brought some right-wing congressman into the White House to plot how to attack me for going to Russia in 1969-70, when over 50,000 other Americans did
+T118	Premise 3922 3958	I honor your service in World War II
+T119	Premise 3960 4145	I honor Mr. Perot's service in uniform and the service of every man and woman who ever served, including Admiral Crowe, who was your Chairman of the joint Chiefs and who's supporting me
+T120	Premise 4411 4458	I was opposed to the war but I loved my country
+T121	Claim 4463 4534	we need a president who will bring this country together, not divide it
+T122	Premise 4536 4561	We've had enough division
+T123	Premise 4563 4595	I want to lead a unified country
+T573	Premise 1001 1114	I just find it impossible to understand how an American can demonstrate against his own country in a foreign land
+T574	Premise 1118 1235	organizing demonstrations against it when young men are held prisoner in Hanoi or kids out of the ghetto were drafted
+T575	Premise 1446 1485	we'll just have to see how it plays out
+R1	Support Arg1:T84 Arg2:T83	
+R2	Equivalent Arg1:T87 Arg2:T85	
+R3	Attack Arg1:T90 Arg2:T89	
+R4	Support Arg1:T573 Arg2:T85	
+R5	Support Arg1:T574 Arg2:T573	
+R6	Attack Arg1:T93 Arg2:T94	
+R7	Support Arg1:T93 Arg2:T85	
+R9	Support Arg1:T97 Arg2:T575	
+R10	Support Arg1:T96 Arg2:T95	
+R11	Support Arg1:T95 Arg2:T93	
+R12	Support Arg1:T99 Arg2:T98	
+R13	Support Arg1:T102 Arg2:T101	
+R14	Support Arg1:T101 Arg2:T100	
+R16	Support Arg1:T106 Arg2:T104	
+R17	Support Arg1:T105 Arg2:T104	
+R18	Support Arg1:T107 Arg2:T108	
+R19	Support Arg1:T103 Arg2:T108	
+R20	Support Arg1:T109 Arg2:T110	
+R21	Support Arg1:T108 Arg2:T110	
+R22	Equivalent Arg1:T111 Arg2:T112	
+R23	Support Arg1:T113 Arg2:T114	
+R25	Support Arg1:T120 Arg2:T115	
+R27	Support Arg1:T122 Arg2:T121	
+T1	Premise 1568 1613	they all say, "Well, it was a long time ago."
+T2	Premise 1614 1674	Well, let's admit it then. Say, "I made a terrible mistake."
+R8	Support Arg1:T98 Arg2:T93	
+R15	Attack Arg1:T111 Arg2:T117	
+R24	Support Arg1:T121 Arg2:T115	
+R26	Support Arg1:T123 Arg2:T121	

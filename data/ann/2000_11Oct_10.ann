@@ -1,0 +1,95 @@
+T897	Claim 379 414	education is my number one priority
+T896	Claim 424 510	I think that it's the most important big major change that we can bring in our country
+T898	Premise 279 304	This race is about values
+T899	Premise 306 323	it's about change
+T900	Premise 325 373	it's about giving choices to the American people
+T901	Claim 544 598	we should have new accountability, testing of students
+T902	Claim 600 693	I think that we should require states to test all students, test schools and school districts
+T903	Claim 699 782	I think that we should go further and require teacher testing for new teachers also
+T904	Claim 784 902	The difference is that while my plan starts with new accountability and maintains local control, it doesn't stop there
+T905	Claim 912 949	I want to give new choices to parents
+T906	Claim 954 1048	send their kids to college with a $10,000 tax deduction for college tuition per child per year
+T907	Claim 1050 1109	I want to reduce the size of the classrooms in this country
+T908	Premise 1133 1192	so that students can get more one-on-one time with teachers
+T909	Claim 1198 1250	the way to do that is first to recruit more teachers
+T910	Claim 1252 1379	I've a plan in my budget to recruit 100,000 new, highly qualified teachers and to help local school districts build new schools
+T911	Claim 1381 1455	I think that we have to put more emphasis on early learning and pre-school
+T912	Claim 1644 1685	you can't make education the top priority
+T913	Premise 1555 1637	if you squander the surplus on a huge tax cut that goes mostly to those at the top
+T914	Claim 1752 1774	you can't do education
+T915	Premise 1687 1750	If the tax cut is your number one, two, three and four priority
+T916	Claim 1776 1793	You can't do both
+T917	Claim 1795 1813	You have to choose
+T918	Claim 1815 1890	I choose education and health care, the environment and retirement security
+T919	Claim 2134 2181	I'm running to get some things done for America
+T920	Premise 2183 2222	There's too many issues left unresolved
+T921	Premise 2224 2307	There's been too much finger pointing and too much name calling in Washington, D.C.
+T922	Claim 2308 2423	I would like to unite this country to get an agenda done that will speak to the hopes and aspirations of the future
+T923	Claim 2425 2536	I want to have an education system that sets high standards, local control of schools and strong accountability
+T924	Premise 2538 2579	No child should be left behind in America
+T925	Claim 2581 2642	I want to make sure we rebuild our military to keep the peace
+T926	Premise 2644 2684	I worry about morale in today's military
+T927	Premise 2686 2713	The warning signs are clear
+T928	Claim 2715 2788	It is time to have a new commander in chief who will rebuild the military
+T929	Claim 2790 2816	pay our men and women more
+T930	Claim 2818 2849	make sure they're housed better
+T931	Claim 2854 2893	have a focused mission for our military
+T932	Claim 2913 2950	I want to do something about Medicare
+T933	Premise 2952 3029	This issue has been too long on the table because it's been a political issue
+T934	Premise 3031 3124	It's time to bring folks together to say that all seniors will get prescription drug coverage
+T935	Claim 3126 3170	I want to do something about Social Security
+T936	Claim 3172 3198	It's an important priority
+T937	Premise 3208 3230	now is the time to act
+T938	Claim 3235 3322	we're going to say to our seniors, our promises we've made to you will be promises kept
+T939	Claim 3328 3536	younger workers, in order to make sure the system exists tomorrow, younger workers ought to be able to take some of your own money and invest it in safe securities to get a better rate of return on that money
+T940	Claim 3551 3577	I do believe in tax relief
+T941	Claim 3579 3614	I believe we can set our priorities
+T942	Claim 3616 3681	I don't believe, like the vice president does, in huge government
+T943	Claim 3683 3714	I believe in limited government
+T944	Claim 3773 3839	we can send some of the money back to the people who pay the bills
+T945	Premise 3716 3771	By having a limited government and a focused government
+T946	Claim 3841 3910	I want to have tax relief for all people who pay the bills in America
+T947	Premise 3928 3996	you can spend your money more wisely than the federal government can
+R1	Support Arg1:T896 Arg2:T897	
+R2	Support Arg1:T899 Arg2:T898	
+R3	Support Arg1:T900 Arg2:T898	
+R4	Support Arg1:T901 Arg2:T897	
+R5	Support Arg1:T902 Arg2:T901	
+R6	Support Arg1:T903 Arg2:T897	
+R7	Support Arg1:T905 Arg2:T904	
+R8	Support Arg1:T904 Arg2:T897	
+R9	Support Arg1:T906 Arg2:T905	
+R10	Support Arg1:T907 Arg2:T904	
+R11	Support Arg1:T908 Arg2:T907	
+R12	Support Arg1:T909 Arg2:T907	
+R13	Support Arg1:T910 Arg2:T904	
+R14	Support Arg1:T913 Arg2:T912	
+R15	Support Arg1:T911 Arg2:T904	
+R16	Support Arg1:T915 Arg2:T914	
+R17	Support Arg1:T914 Arg2:T917	
+R18	Support Arg1:T916 Arg2:T917	
+R19	Support Arg1:T917 Arg2:T918	
+R20	Support Arg1:T920 Arg2:T919	
+R21	Support Arg1:T921 Arg2:T919	
+R22	Support Arg1:T922 Arg2:T919	
+R23	Support Arg1:T924 Arg2:T923	
+R24	Support Arg1:T923 Arg2:T919	
+R25	Support Arg1:T925 Arg2:T919	
+R26	Support Arg1:T926 Arg2:T925	
+R27	Support Arg1:T927 Arg2:T925	
+R28	Support Arg1:T929 Arg2:T928	
+R29	Support Arg1:T930 Arg2:T928	
+R30	Support Arg1:T931 Arg2:T928	
+R31	Support Arg1:T928 Arg2:T925	
+R32	Support Arg1:T933 Arg2:T932	
+R33	Support Arg1:T934 Arg2:T932	
+R34	Support Arg1:T932 Arg2:T919	
+R35	Support Arg1:T935 Arg2:T919	
+R36	Support Arg1:T937 Arg2:T936	
+R37	Support Arg1:T936 Arg2:T938	
+R38	Support Arg1:T938 Arg2:T935	
+R39	Support Arg1:T943 Arg2:T942	
+R40	Support Arg1:T945 Arg2:T944	
+R41	Support Arg1:T944 Arg2:T943	
+R42	Support Arg1:T947 Arg2:T946	
+R43	Support Arg1:T946 Arg2:T940	

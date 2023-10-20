@@ -1,0 +1,73 @@
+T773	Claim 450 493	I think we've had a very healthy discussion
+T774	Claim 653 682	America needs a new direction
+T775	Premise 541 598	these are very difficult times and challenges for America
+T776	Premise 604 650	they were graphically demonstrated again today
+T777	Claim 684 758	We cannot be satisfied with what we've been doing for the last eight years
+T778	Claim 761 786	I have a record of reform
+T779	Premise 792 1051	taking on my party, the other party, the special interests, whether it be an HMO Patients' Bill of Rights, or trying to clean up the campaign finance system in -- in this country, or whether it be establishment of a 9/11 Commission, I have a long record of it
+T780	Premise 1058 1105	I've been a careful steward of your tax dollars
+T781	Claim 1107 1159	We have to make health care affordable and available
+T782	Claim 1161 1253	We have to make quality education there for all of our citizens, not just the privileged few
+T783	Claim 1256 1284	We have to stop the spending
+T784	Premise 1316 1359	which has mortgaged your children's futures
+T785	Premise 1805 1889	I've spent my entire life in the service of this nation and putting my country first
+T786	Premise 1891 1988	Thereâ€™s a long line of McCains that have served our country for a long time in war and in peace
+T787	Premise 1990 2056	it's been the great honor of my life, and I've been proud to serve
+T788	Claim 1709 1802	I've asked you not only to examine my record, but my proposals for the future of this country
+T789	Premise 1362 1584	All of these things and all the promises and commitments that Senator Obama and I made (inaudible) made to you tonight will base -- will be based on whether you can trust us or not to be careful stewards of your tax dollar
+T790	Premise 1586 1640	to make sure America is safe and secure and prosperous
+T791	Premise 1642 1695	to make sure we reform the institutions of government
+T792	Premise 2063 2114	I hope you'll give me an opportunity to serve again
+T793	Claim 2116 2142	I'd be honored and humbled
+T795	Premise 2303 2486	The policies of the last eight years and -- and Washington's unwillingness to tackle the tough problems for decades has left us in the worst economic crisis since the Great Depression
+T794	Premise 2243 2301	we all know America is going through tough times right now
+T796	Claim 2504 2690	the biggest risk we could take right now is to adopt the same failed policies and the same failed politics that we've seen over the last eight years and somehow expect a different result
+T797	Claim 2693 2735	We need fundamental change in this country
+T798	Claim 2741 2770	that's what I'd like to bring
+T799	Premise 2783 2841	over the last 20 months, you've invited me into your homes
+T800	Premise 2843 2877	You've shared your stories with me
+T801	Premise 2883 2972	you've confirmed once again the fundamental decency and generosity of the American people
+T802	Claim 2990 3037	I'm sure that our brighter days are still ahead
+T803	Claim 3044 3102	we're going to have to invest in the American people again
+T804	Claim 3104 3136	in tax cuts for the middle class
+T805	Claim 3138 3170	in health care for all Americans
+T806	Claim 3176 3222	college for every young person who wants to go
+T807	Claim 3224 3290	In businesses that can create the new energy economy of the future
+T808	Claim 3292 3355	In policies that will lift wages and will grow our middle class
+T809	Premise 3358 3415	These are the policies I have fought for my entire career
+T810	Claim 3421 3478	these are the policies I want to bring to the White House
+T811	Claim 3485 3510	it's not going to be easy
+T812	Claim 3512 3538	It's not going to be quick
+T813	Claim 3540 3703	It is going to be requiring all of us -- Democrats, Republicans, independents -- to come together and to renew a spirit of sacrifice and service and responsibility
+T814	Claim 3706 3743	I'm absolutely convinced we can do it
+T815	Claim 3776 3968	I promise you that if you give me the extraordinary honor of serving as your president, I will work every single day, tirelessly, on your behalf and on the behalf of the future of our children
+R1	Support Arg1:T776 Arg2:T775	
+R2	Support Arg1:T775 Arg2:T774	
+R3	Support Arg1:T777 Arg2:T774	
+R4	Support Arg1:T779 Arg2:T778	
+R5	Support Arg1:T780 Arg2:T778	
+R6	Support Arg1:T784 Arg2:T783	
+T1	Claim 1286 1314	We have to stop the spending
+R7	Equivalent Arg1:T783 Arg2:T1	
+R8	Support Arg1:T785 Arg2:T788	
+R9	Support Arg1:T786 Arg2:T788	
+R10	Support Arg1:T787 Arg2:T788	
+R11	Support Arg1:T792 Arg2:T793	
+R12	Support Arg1:T795 Arg2:T796	
+R13	Support Arg1:T796 Arg2:T797	
+R14	Support Arg1:T798 Arg2:T797	
+R15	Support Arg1:T804 Arg2:T803	
+R16	Support Arg1:T805 Arg2:T803	
+R17	Support Arg1:T806 Arg2:T803	
+R18	Support Arg1:T803 Arg2:T802	
+R19	Support Arg1:T807 Arg2:T802	
+R20	Support Arg1:T808 Arg2:T802	
+R21	Support Arg1:T809 Arg2:T810	
+R22	Support Arg1:T810 Arg2:T802	
+R23	Attack Arg1:T811 Arg2:T810	
+R24	Attack Arg1:T812 Arg2:T810	
+R25	Support Arg1:T812 Arg2:T813	
+R26	Support Arg1:T811 Arg2:T813	
+R27	Support Arg1:T813 Arg2:T814	
+R28	Support Arg1:T814 Arg2:T815	
+R29	Support Arg1:T802 Arg2:T815	

@@ -1,0 +1,60 @@
+T317	Premise 118 146	if you are elected president
+T318	Claim 147 285	you'll try and push through Congress bills on medical aid to the aged, a comprehensive minimum hourly wage bill, federal aid to education.
+T319	Premise 720 808	we did pass in the Senate a bill uh - to provide a dollar twenty-five cent minimum wage.
+T320	Premise 1429 1485	we passed a federal aid to education bill in the Senate.
+T322	Premise 857 890	the House failed by eleven votes.
+T323	Premise 912 1007	two-thirds of the Republicans in the House voted against a dollar twenty-five cent minimum wage
+T324	Premise 1012 1114	a majority of the Democrats sustained it - nearly two-thirds of them voted for the dollar twenty-five.
+T321	Claim 809 818	It failed
+T325	Premise 827 852	the House did not pass it
+T326	Claim 1182 1305	it's extremely difficult with the great power that the president does to pass any bill when the president is opposed to it.
+T327	Premise 1306 1418	All the president needs to sustain his veto of any bill is one-third plus one in either the House or the Senate.
+T328	Claim 1486 1549	It failed to came to the floor of the House of Representatives.
+T329	Premise 1550 1587	It was killed in the Rules Committee.
+T330	Premise 1592 1794	it is a fact in the August session that the four members of the Rules Committee who were Republicans joining with two Democrats voted against sending the aid to education bill to the floor of the House.
+T331	Premise 1795 1823	Four Democrats voted for it.
+T332	Premise 1824 1960	Every Republican on the Rules Committee voted against sending that bill to be considered by the members of the House of Representatives.
+T333	Claim 2086 2125	We wanted to tie it to Social Security.
+T334	Premise 2126 2159	We offered an amendment to do so.
+T335	Premise 2160 2194	Forty-four Democrats voted for it,
+T336	Premise 2195 2223	one Republican voted for it.
+T337	Premise 2228 2347	we were informed at the time it came to a vote that if it was adopted the President of the United States would veto it.
+T338	Claim 2348 2494	In my judgment, a vigorous Democratic president supported by a Democratic majority in the House and Senate can win the support for these programs.
+T339	Claim 2610 2721	in my judgment you will continue what happened in the August session, which is a clash of parties and inaction.
+T340	Premise 2499 2609	if you send a Republican president and a Democratic majority and the threat of a veto hangs over the Congress,
+T341	Claim 2756 2803	Well obviously my views are a little different.
+T342	Premise 3085 3150	there are eight Democrats on that committee and four Republicans.
+T343	Claim 3182 3316	it is very difficult to blame the four Republicans for the eight Democrats' not getting a something through that particular committee.
+T344	Claim 3342 3494	to blame the President in his veto power for the inability of the Senator and his colleagues to get action in this special session uh - misses the mark.
+T345	Premise 3540 3616	he has to have the people upo- behind him, not just a third of the Congress.
+T346	Claim 3790 3875	why didn't they pass them and send to the President and get a veto and have an issue?
+T347	Premise 3644 3744	If the majority of the members of the Congress felt that these particular proposals were good issues
+T348	Claim 3876 4026	The reason why these particular bills in these various fields that have been mentioned were not passed was not because the President was against them;
+T349	Claim 4027 4071	it was because the people were against them.
+T350	Claim 4072 4109	It was because they were too extreme.
+T352	Premise 4281 4302	they are not extreme,
+T353	Premise 4311 4393	they will accomplish the end uh - without too great cost in dollars or in freedom,
+R1	Support Arg1:T325 Arg2:T321	
+R2	Support Arg1:T322 Arg2:T325	
+R3	Support Arg1:T327 Arg2:T326	
+R4	Support Arg1:T330 Arg2:T329	
+R5	Support Arg1:T329 Arg2:T328	
+R6	Support Arg1:T332 Arg2:T330	
+R7	Support Arg1:T334 Arg2:T333	
+R8	Support Arg1:T335 Arg2:T333	
+R9	Support Arg1:T348 Arg2:T341	
+R10	Support Arg1:T349 Arg2:T348	
+R11	Support Arg1:T343 Arg2:T341	
+R12	Support Arg1:T344 Arg2:T341	
+R13	Support Arg1:T345 Arg2:T344	
+R15	Support Arg1:T353 Arg2:T352	
+T1	Premise 1115 1179	We were threatened by a veto if we passed a dollar and a quarter
+R16	Support Arg1:T1 Arg2:T326	
+R17	Support Arg1:T323 Arg2:T326	
+R18	Support Arg1:T336 Arg2:T333	
+R19	Support Arg1:T337 Arg2:T338	
+R20	Support Arg1:T340 Arg2:T339	
+R21	Support Arg1:T342 Arg2:T343	
+R22	Attack Arg1:T341 Arg2:T339	
+R23	Attack Arg1:T348 Arg2:T339	
+R24	Support Arg1:T350 Arg2:T348	

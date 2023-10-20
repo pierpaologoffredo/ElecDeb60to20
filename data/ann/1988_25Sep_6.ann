@@ -1,0 +1,143 @@
+T404	Claim 288 310	I don't think there is
+T405	Premise 312 352	There are two very different issues here
+T406	Claim 358 397	they've got to be dealt with separately
+T409	Claim 399 431	I'm opposed to the death penalty
+T411	Claim 1434 1462	I don't think most people do
+T412	Claim 1401 1432	I don't think it's a good thing
+T413	Claim 1377 1399	I don't favor abortion
+T414	Premise 1464 1502	The question is who makes the decision
+T416	Claim 1246 1293	The issue of abortion is a very difficult issue
+T417	Premise 1304 1344	I think that we all have to wrestle with
+T418	Premise 1346 1375	we have to come to terms with
+T419	Claim 433 461	I think everybody knows that
+T420	Claim 463 499	I'm also very tough on violent crime
+T421	Premise 505 608	that's one of the reasons why my state has cut crime by more than any other industrial state in America
+T422	Premise 610 707	It's one of the reasons why we have the lowest murder rate of any industrial state in the country
+T423	Premise 709 847	It's one of the reasons why we have a drug education and prevention program that is reaching out and helping youngsters all over our state
+T424	Claim 849 913	the kind of thing I want to do as president of the United States
+T425	Premise 1945 1993	I know it's tough and honest people can disagree
+T426	Claim 1918 1943	I favor the death penalty
+T427	Claim 2116 2151	I do believe it would be inhibiting
+T428	Premise 1679 1724	the Massachusetts furlough program was unique
+T429	Claim 1844 1879	The federal program doesn't do that
+T430	Claim 1881 1912	No other state programs do that
+T431	Premise 1726 1842	It was the only one in the nation that furloughed murderers who had not served enough time to be eligible for parole
+T432	Claim 2069 2110	I think they ought to pay with their life
+T433	Premise 1999 2067	when a narcotics wrapped up guy goes in and murders a police officer
+T434	Claim 2160 2209	I am not going to furlough men like Willie Horton
+T435	Claim 2489 2533	we have a fundamental difference on this one
+T436	Premise 2437 2480	they didn't want him to be furloughed again
+T437	Premise 2387 2427	the man who was furloughed, the murderer
+T438	Premise 2343 2385	Maryland would not extradite Willie Horton
+T439	Premise 2215 2341	I would meet with their, the victims of his last escapade, the rape and the brutalization of the family down there in Maryland
+T440	Claim 2539 2599	I think most people know my position on the sanctity of life
+T441	Claim 2601 2617	I favor adoption
+T442	Claim 2619 2642	I do not favor abortion
+T443	Premise 3321 3355	I haven't sorted out the penalties
+T444	Claim 3372 3404	I do know that I oppose abortion
+T446	Claim 4187 4219	no, I'm for the sanctity of life
+T447	Premise 4225 4260	once that illegality is established
+T448	Premise 4267 4309	we can come to grips with the penalty side
+T449	Claim 4325 4376	there's got to be some penalties to enforce the law
+T450	Premise 4378 4398	whatever they may be
+T451	Claim 4166 4181	We certainly do
+T452	Premise 3967 4030	As I've seen abortions sometimes used as a birth control device
+T453	Claim 4102 4164	this is one where you can have an honest difference of opinion
+T454	Premise 4051 4096	See the millions of these killings accumulate
+T455	Claim 3937 3965	it's much clearer for me now
+T456	Premise 3868 3931	Sometimes people feel a little uncomfortable talking about this
+T457	Claim 3776 3866	I have had a couple of exceptions that I support - rape, incest and the life of the mother
+T458	Premise 3709 3734	it's continuing to evolve
+T459	Claim 3740 3770	it's evolving in favor of life
+T460	Premise 3675 3703	yes, my position has evolved
+T461	Premise 3464 3569	everybody should make the extraordinary effort to take these kids that are unwanted and sometimes aborted
+T462	Premise 3582 3604	let them come to birth
+T463	Premise 3610 3660	then put them in a family where they will be loved
+T464	Premise 3432 3462	if we can get this law changed
+T465	Claim 4435 4551	I think what the vice president is saying is that he's prepared to brand a woman a criminal for making this decision
+T466	Premise 4553 4575	It's as simple as that
+T467	Premise 4577 4704	I don't think it's enough to come before the American people who are watching us tonight and say, well, I haven't sorted it out
+T468	Premise 4706 4789	This is a very, very difficult and fundamental decision that all of us have to make
+T469	Claim 4853 4917	he's prepared to brand a woman a criminal for making this choice
+T470	Premise 4795 4843	what he is saying, if I understand him correctly
+T471	Claim 4983 5098	I think it has to be the woman in the exercise of her own conscience and religious beliefs that makes that decision
+T472	Claim 5104 5157	I think that's the right approach, the right decision
+T473	Claim 5163 5264	I would hope by this time that Mr. Bush had sorted out this issue and come to terms with it as I have
+T474	Premise 5266 5305	I respect his right to disagree with me
+T475	Premise 5311 5374	I think it's important that we have a position, that we take it
+T476	Claim 5380 5414	we state it to the American people
+T1	Claim 3410 3426	I favor adoption
+T2	Premise 925 1245	the vice president says he wants to impose the death penalty on drug traffickers, and yet his administration has a federal furlough program which is one of the most permissive in the country, which gave last year 7,000 furloughs to drug traffickers and drug pushers, the same people that he says he now wants to execute.
+T3	Claim 1504 1625	And I think it has to be the woman, in the exercise of her own conscience and religious beliefs, that makes that decision
+R1	Support Arg1:T405 Arg2:T406	
+R2	Support Arg1:T419 Arg2:T409	
+R3	Support Arg1:T421 Arg2:T420	
+R4	Support Arg1:T422 Arg2:T420	
+R5	Support Arg1:T423 Arg2:T420	
+R6	Support Arg1:T420 Arg2:T424	
+R7	Attack Arg1:T409 Arg2:T2	
+R8	Support Arg1:T417 Arg2:T416	
+R9	Support Arg1:T418 Arg2:T416	
+R10	Support Arg1:T416 Arg2:T413	
+R11	Support Arg1:T412 Arg2:T413	
+R12	Support Arg1:T412 Arg2:T411	
+R13	Support Arg1:T411 Arg2:T413	
+R14	Support Arg1:T413 Arg2:T414	
+R15	Support Arg1:T414 Arg2:T3	
+R16	Support Arg1:T428 Arg2:T431	
+R17	Attack Arg1:T429 Arg2:T431	
+R18	Attack Arg1:T430 Arg2:T431	
+R19	Support Arg1:T426 Arg2:T409	
+R20	Support Arg1:T425 Arg2:T426	
+R21	Support Arg1:T433 Arg2:T432	
+R22	Support Arg1:T432 Arg2:T426	
+R23	Support Arg1:T433 Arg2:T426	
+R24	Support Arg1:T432 Arg2:T427	
+R25	Support Arg1:T426 Arg2:T427	
+R26	Attack Arg1:T434 Arg2:T2	
+R27	Support Arg1:T439 Arg2:T434	
+R28	Support Arg1:T438 Arg2:T437	
+R29	Support Arg1:T437 Arg2:T436	
+R30	Support Arg1:T436 Arg2:T434	
+R31	Support Arg1:T435 Arg2:T440	
+R32	Support Arg1:T440 Arg2:T441	
+R33	Attack Arg1:T441 Arg2:T442	
+R34	Support Arg1:T442 Arg2:T413	
+R35	Attack Arg1:T1 Arg2:T444	
+R36	Support Arg1:T464 Arg2:T461	
+R37	Support Arg1:T461 Arg2:T462	
+R38	Support Arg1:T462 Arg2:T463	
+R39	Support Arg1:T463 Arg2:T1	
+R40	Support Arg1:T460 Arg2:T459	
+R41	Support Arg1:T460 Arg2:T458	
+R42	Support Arg1:T458 Arg2:T459	
+R43	Attack Arg1:T459 Arg2:T457	
+R44	Support Arg1:T456 Arg2:T455	
+R45	Support Arg1:T455 Arg2:T459	
+R46	Support Arg1:T452 Arg2:T454	
+R47	Support Arg1:T454 Arg2:T453	
+R48	Attack Arg1:T453 Arg2:T451	
+R49	Support Arg1:T459 Arg2:T446	
+R50	Attack Arg1:T446 Arg2:T452	
+R51	Attack Arg1:T446 Arg2:T454	
+R52	Support Arg1:T447 Arg2:T446	
+R53	Support Arg1:T448 Arg2:T447	
+R54	Support Arg1:T450 Arg2:T449	
+R55	Support Arg1:T448 Arg2:T449	
+R56	Support Arg1:T447 Arg2:T449	
+R57	Support Arg1:T443 Arg2:T449	
+R58	Attack Arg1:T465 Arg2:T449	
+R59	Attack Arg1:T465 Arg2:T447	
+R60	Support Arg1:T466 Arg2:T465	
+R61	Support Arg1:T467 Arg2:T468	
+R62	Support Arg1:T468 Arg2:T470	
+R63	Support Arg1:T470 Arg2:T469	
+R64	Support Arg1:T469 Arg2:T465	
+R65	Support Arg1:T471 Arg2:T472	
+R66	Support Arg1:T472 Arg2:T473	
+R67	Attack Arg1:T473 Arg2:T467	
+R68	Attack Arg1:T473 Arg2:T449	
+R69	Attack Arg1:T475 Arg2:T474	
+R70	Support Arg1:T475 Arg2:T476	
+R71	Support Arg1:T473 Arg2:T474	
+R72	Attack Arg1:T473 Arg2:T475	

@@ -1,0 +1,92 @@
+T238	Claim 303 313	Absolutely
+T294	Claim 641 672	they can take care of their oil
+T296	Claim 2526 2703	That’s something that I fought against as a senator and that I would have a trade prosecutor to make sure that we don’t get taken advantage of by China on steel or anything else
+T297	Premise 2354 2524	China is illegally dumping steel in the United States and Donald Trump is buying it to build his buildings, putting steelworkers and American steel plants out of business
+T298	Claim 4309 4348	we have to look at this comprehensively
+T299	Premise 4269 4304	the price of coal is down worldwide
+T1	Claim 351 408	because energy is under siege by the Obama administration
+T2	Claim 410 432	Under absolutely siege
+T3	Claim 434 509	The EPA, Environmental Protection Agency, is killing these energy companies
+R1	Support Arg1:T1 Arg2:T2	
+R2	Attack Arg1:T2 Arg2:T3	
+T4	Claim 515 632	foreign companies are now coming in buying our — buying so many of our different plants and then re-jiggering the plant
+T5	Claim 673 742	We are killing — absolutely killing our energy business in this country
+R3	Support Arg1:T4 Arg2:T294	
+R5	Attack Arg1:T5 Arg2:T294	
+T6	Premise 749 832	I’m all for alternative forms of energy, including wind, including solar, et cetera
+T7	Claim 834 875	But we need much more than wind and solar
+R4	Attack Arg1:T7 Arg2:T6	
+T8	Claim 904 964	Hillary Clinton wants to put all the miners out of business.
+T9	Premise 965 999	There is a thing called clean coal
+T10	Premise 1001 1047	Coal will last for 1,000 years in this country
+R6	Support Arg1:T9 Arg2:T10	
+T11	Premise 1049 1119	Now we have natural gas and so many other things because of technology
+T12	Premise 1121 1235	We have unbelievable — we have found over the last seven years, we have found tremendous wealth right under our feet
+T13	Premise 1237 1244	So good
+T14	Premise 1246 1291	Especially when you have $20 trillion in debt
+T15	Claim 1292 1330	I will bring our energy companies back
+T16	Claim 1332 1358	They’ll be able to compete
+T17	Claim 1360 1378	They’ll make money
+T18	Claim 1380 1413	They’ll pay off our national debt
+T19	Claim 1415 1483	They’ll pay off our tremendous budget deficits, which are tremendous
+T20	Claim 1485 1540	But we are putting our energy companies out of business
+T21	Claim 1542 1575	We have to bring back our workers
+T22	Claim 1576 1780	You take a look at what’s happening to steel and the cost of steel and China dumping vast amounts of steel all over the United States, which essentially is killing our steelworkers and our steel companies
+T23	Claim 1782 1819	We have to guard our energy companies
+T24	Claim 1849 1933	The EPA is so restrictive that they are putting our energy companies out of business
+T25	Claim 1821 1848	We have to make it possible
+T26	Premise 1939 2156	all you have to do is go to a great place like West Virginia or places like Ohio, which is phenomenal, or places like Pennsylvania and you see what they’re doing to the people, miners and others in the energy business
+T27	Claim 2158 2173	It’s a disgrace
+R7	Support Arg1:T10 Arg2:T11	
+R8	Support Arg1:T11 Arg2:T12	
+R9	Support Arg1:T12 Arg2:T13	
+R10	Support Arg1:T13 Arg2:T14	
+R11	Support Arg1:T14 Arg2:T15	
+R12	Support Arg1:T16 Arg2:T15	
+R13	Support Arg1:T17 Arg2:T15	
+R14	Support Arg1:T18 Arg2:T15	
+R15	Support Arg1:T19 Arg2:T15	
+R16	Attack Arg1:T15 Arg2:T20	
+R17	Attack Arg1:T21 Arg2:T22	
+R18	Support Arg1:T25 Arg2:T23	
+R19	Attack Arg1:T23 Arg2:T24	
+R20	Support Arg1:T20 Arg2:T24	
+R21	Support Arg1:T26 Arg2:T24	
+R22	Attack Arg1:T27 Arg2:T26	
+T28	Claim 2218 2243	It’s an absolute disgrace
+R23	Support Arg1:T28 Arg2:T27	
+R24	Attack Arg1:T296 Arg2:T297	
+T29	Premise 2802 2869	you know that we are now for the first time ever energy-independent
+T30	Claim 2871 2912	We are not dependent upon the Middle East
+T31	Claim 2914 2968	But the Middle East still controls a lot of the prices
+T32	Premise 2970 3007	So the price of oil has been way down
+R25	Support Arg1:T29 Arg2:T30	
+R26	Support Arg1:T32 Arg2:T31	
+R27	Attack Arg1:T30 Arg2:T31	
+T33	Premise 3013 3073	that has had a damaging effect on a lot of the oil companies
+R28	Support Arg1:T33 Arg2:T32	
+T34	Premise 3082 3179	We are, however, producing a lot of natural gas, which serves as a bridge to more renewable fuels
+T35	Claim 3185 3262	I think that’s an important transition.We’ve got to remain energy-independent
+R29	Support Arg1:T34 Arg2:T35	
+T36	Claim 3264 3360	It gives us much more power and freedom than to be worried about what goes on in the Middle East
+R30	Support Arg1:T35 Arg2:T36	
+T37	Claim 3362 3430	We have enough worries over there without having to worry about that
+R31	Attack Arg1:T37 Arg2:T36	
+T38	Claim 3434 3565	I have a comprehensive energy policy, but it really does include fighting climate change, because I think that is a serious problem
+T39	Claim 3571 3644	I support moving toward more clean, renewable energy as quickly as we can
+T40	Premise 3646 3759	because I think we can be the 21st century clean energy superpower and create millions of new jobs and businesses
+T41	Premise 3760 3820	But I also want to be sure that we don’t leave people behind
+R32	Support Arg1:T40 Arg2:T39	
+T42	Claim 3822 4038	That’s why I’m the only candidate from the very beginning of this campaign who had a plan to help us revitalize coal country, because those coal miners and their fathers and their grandfathers, they dug that coal out
+R33	Support Arg1:T41 Arg2:T42	
+T43	Premise 4040 4070	A lot of them lost their lives
+T44	Premise 4072 4151	They were injured, but they turned the lights on and they powered our factories
+T45	Premise 4153 4188	I don’t want to walk away from them
+T46	Claim 4190 4227	So we’ve got to do something for them
+R34	Support Arg1:T38 Arg2:T39	
+R35	Support Arg1:T43 Arg2:T44	
+R36	Support Arg1:T44 Arg2:T45	
+R37	Support Arg1:T45 Arg2:T46	
+R38	Support Arg1:T42 Arg2:T46	
+R39	Attack Arg1:T46 Arg2:T299	
+R40	Support Arg1:T298 Arg2:T46	

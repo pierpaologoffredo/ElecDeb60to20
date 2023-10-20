@@ -1,0 +1,56 @@
+T629	Claim 1498 1534	Iran and Iraq are now more dangerous
+T630	Claim 1538 1581	Iran and North Korea are now more dangerous
+T631	Claim 1684 1734	As president, I'll never take my eye off that ball
+T632	Premise 1736 1852	I've been fighting for proliferation the entire time -- anti-proliferation the entire time I've been in the Congress
+T633	Premise 1858 1954	we've watched this president actually turn away from some of the treaties that were on the table
+T634	Premise 1957 2125	You don't help yourself with other nations when you turn away from the global warming treaty, for instance, or when you refuse to deal at length with the United Nations
+T635	Claim 2163 2206	I think we have a lot of earning back to do
+T636	Claim 2367 2448	My attitude is you take preemptive action in order to protect the American people
+T637	Claim 2455 2499	you act in order to make this country secure
+T638	Claim 2502 2557	My opponent talks about me not signing certain treaties
+T639	Claim 2695 2743	I wouldn't join the International Criminal Court
+T640	Claim 2604 2680	I think it shows the difference of our opinion -- the difference of opinions
+T641	Premise 2745 2867	This is a body based in The Hague where unaccountable judges and prosecutors can pull our troops or diplomats up for trial
+T642	Claim 2898 2984	I understand that in certain capitals around the world that that wasn't a popular move
+T643	Claim 2990 3088	it's the right move not to join a foreign court that could -- where our people could be prosecuted
+T644	Claim 3091 3150	My opponent is for joining the International Criminal Court
+T645	Claim 3152 3215	I just think trying to be popular, kind of, in the global sense
+T646	Claim 3217 3264	if it's not in our best interest makes no sense
+T647	Claim 3266 3327	I'm interested in working with our nations and do a lot of it
+T648	Claim 3333 3399	I'm not going to make decisions that I think are wrong for America
+T1	Premise 342 503	No president, through all of American history, has ever ceded, and nor would I, the right to preempt in any way necessary to protect the United States of America
+T2	Claim 119 206	The president always has the right, and always has had the right, for preemptive strike
+T3	Premise 208 257	That was a great doctrine throughout the Cold War
+T4	Premise 263 339	it was always one of the things we argued about with respect to arms control
+R1	Support Arg1:T3 Arg2:T2	
+R2	Support Arg1:T4 Arg2:T2	
+R3	Support Arg1:T1 Arg2:T2	
+T5	Claim 538 771	you have to do it in a way that passes the test, that passes the global test where your countrymen, your people understand fully why you're doing what you're doing and you can prove to the world that you did it for legitimate reasons
+R4	Attack Arg1:T5 Arg2:T2	
+T6	Premise 774 902	Here we have our own secretary of state who has had to apologize to the world for the presentation he made to the United Nations
+T7	Premise 905 1038	I mean, we can remember when President Kennedy in the Cuban missile crisis sent his secretary of state to Paris to meet with DeGaulle
+T8	Premise 1044 1288	in the middle of the discussion, to tell them about the missiles in Cuba, he said, "Here, let me show you the photos." And DeGaulle waved them off and said, "No, no, no, no. The word of the president of the United States is good enough for me."
+T9	Claim 1290 1391	How many leaders in the world today would respond to us, as a result of what we've done, in that way?
+T10	Claim 1395 1492	what is at test here is the credibility of the United States of America and how we lead the world
+R5	Support Arg1:T7 Arg2:T5	
+R6	Support Arg1:T8 Arg2:T5	
+R7	Attack Arg1:T6 Arg2:T5	
+R8	Attack Arg1:T10 Arg2:T9	
+R9	Support Arg1:T629 Arg2:T631	
+R10	Support Arg1:T630 Arg2:T631	
+R11	Support Arg1:T632 Arg2:T633	
+R12	Support Arg1:T633 Arg2:T634	
+R13	Support Arg1:T634 Arg2:T635	
+R14	Attack Arg1:T636 Arg2:T5	
+R15	Support Arg1:T637 Arg2:T636	
+R16	Attack Arg1:T640 Arg2:T638	
+R17	Attack Arg1:T640 Arg2:T633	
+R18	Support Arg1:T641 Arg2:T639	
+T11	Claim 2874 2891	I wouldn't join i
+R19	Equivalent Arg1:T11 Arg2:T639	
+R20	Support Arg1:T643 Arg2:T639	
+R21	Attack Arg1:T639 Arg2:T644	
+R22	Support Arg1:T645 Arg2:T644	
+R23	Support Arg1:T646 Arg2:T644	
+R24	Attack Arg1:T647 Arg2:T644	
+R25	Attack Arg1:T648 Arg2:T644	

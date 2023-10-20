@@ -1,0 +1,81 @@
+T1	Claim 794 827	SALT I expires October third 1977
+T2	Claim 834 1001	Mr. Brezhnev and I met in Vladivostok in December of 1974 for the purpose of trying to take the initial step so we could have a SALT II agreement that would go to l985
+T3	Premise 1027 1120	we did agree on a twenty-four-hundred limitation on uh - uh - launchers of ballistic missiles
+T4	Premise 1127 1219	that would mean a cutback in the Soviet program; it would not interfere with our own program
+T5	Premise 1239 1298	we put a limitation of thirteen hundred and twenty on MIRVs
+T6	Premise 1300 1452	Our technicians have been working since that time in Geneva, trying to put into technical language a - an agreement that can be verified by both parties
+T7	Claim 1471 1667	there has developed the problem of the Soviet Backfire - their high-performance aircraft which they say is not a long-range aircraft and which some of our people say is a intercontinental aircraft
+T8	Claim 1685 2068	there has been the development on our part primarily, the cruise missiles; cruise missiles that could be launched from land-based mobile installations; cruise missiles that could be launched - launched from high-performance aircraft, like the B-52s or the B-1s, which I hope we proceed with; cruise missiles which could be launched from either surface or submarine uh - naval vessels
+T9	Claim 2070 2175	Those gray-area weapons systems are creating some problems in a - the agreement for a SALT II negotiation
+T10	Claim 2230 2437	I met just last week with the foreign minister of the Soviet Union, and he indicated to me that uh - the Soviet Union was interested in narrowing the differences and making a realistic and a sound compromise
+T11	Claim 2439 2558	I hope and trust, in the best interest of both countries, and in the best interests of all people throughout this globe
+T12	Claim 2565 2644	the Soviet Union and the United States can make a mutually beneficial agreement
+T13	Claim 6309 6408	That is one of the major challenges and major undertakings that I will assume as the next president
+T14	Claim 6281 6307	This has got to be stopped
+T15	Claim 6147 6279	If we continue under Mr. Ford's policy by 1985 or '90 we'll have twenty nations that have the capability of exploding atomic weapons
+T16	Claim 6079 6145	We now have five nations that have atomic bombs that we know about
+T17	Claim 5919 6077	This kind of confusion and absence of leadership has let us drift now for two years with a constantly increasing threat of atomic weapons throughout the world
+T18	Claim 5712 5917	Mr. Ford, again, under pressure from the atomic energy lobby, has insisted that this reprocessing or rather re-en- enrichment be done by private industry and not by the existing uh - government uh - plants
+T19	Claim 5648 5710	We also need to provide an adequate supply of enriched uranium
+T20	Claim 5617 5646	Mr. Ford hasn't moved on this
+T21	Premise 5505 5615	I've also advocated that we stop the sale by Germany and France of - processing plants for Pakistan and Brazil
+T22	Premise 5154 5351	I advocated last May in a speech at the United Nations that we move immediately as a nation to declare a complete moratorium on the testing of all nuclear devices, both weapons and peaceful devices
+T23	Premise 5358 5503	we not ship any more atomic fuel to a country that refuses to comply with strict controls over the waste which can be reprocessed into explosives
+T24	Claim 5094 5152	Mr. Ford taken any interest in a nonproliferation movement
+T25	Claim 4982 5034	the nonproliferation of atomic weapons is number one
+T26	Claim 4846 4901	I know the limitations and capabilities of atomic power
+T27	Claim 4680 4743	He has learned the date of the expiration of SALT I, apparently
+T28	Claim 4573 4678	He's been in office two years, and there has been absolutely no progress made toward a new SALT agreement
+T29	Claim 4502 4571	Mr. Ford acts like he's uh - running for president for the first time
+T30	Claim 4319 4456	I think good will on both parts, hard bargaining by both parties and a reasonable compromise will be in the best interests of all parties
+T31	Claim 4095 4317	I really believe that it - it's far better for us and for the Soviet Union, and more importantly for the people around the world, that these two superpowers find an answer for a SALT II agreement before October three, 1977
+T32	Claim 3829 4089	we have to make certain that the Soviet Union's Backfire, which they claim is not an intercontinental aircraft and which some of our people contend is, must also be included if we are to get the kind of agreement which is in the best interest of both countries
+T33	Premise 3716 3809	They are a new weapons system that has a great potential, both conventional and nuclear armed
+T34	Claim 3509 3714	I believe that the cruise missiles which we are now developing in research and development across the spectrum from air, from the sea, or from the land, uh - can be uh - included within a SALT II agreement
+T36	Claim 2654 2830	if we do not and SALT I expires on October three, 1977, you will unleash again an all-out nuclear arms race with the potential of a nuclear holocaust of unbelievable dimensions
+T35	Claim 2835 2887	it's the obligation of the president to do just that
+T37	Claim 2893 2910	I intend to do so
+T38	Claim 4745 4814	We've seen, in this world, a development of a tremendous threat to us
+R1	Support Arg1:T3 Arg2:T2	
+R2	Support Arg1:T4 Arg2:T2	
+R3	Support Arg1:T5 Arg2:T2	
+R4	Support Arg1:T6 Arg2:T2	
+R5	Support Arg1:T2 Arg2:T10	
+R6	Attack Arg1:T9 Arg2:T2	
+R7	Support Arg1:T7 Arg2:T9	
+R8	Support Arg1:T8 Arg2:T9	
+R9	Support Arg1:T11 Arg2:T12	
+R10	Support Arg1:T10 Arg2:T12	
+R11	Support Arg1:T12 Arg2:T35	
+R12	Support Arg1:T35 Arg2:T37	
+R13	Attack Arg1:T12 Arg2:T36	
+R14	Attack Arg1:T36 Arg2:T2	
+R15	Support Arg1:T33 Arg2:T34	
+R16	Support Arg1:T32 Arg2:T34	
+R17	Support Arg1:T34 Arg2:T31	
+R18	Support Arg1:T30 Arg2:T31	
+R19	Support Arg1:T29 Arg2:T28	
+R20	Attack Arg1:T28 Arg2:T2	
+R21	Support Arg1:T27 Arg2:T28	
+R22	Attack Arg1:T27 Arg2:T1	
+R23	Support Arg1:T38 Arg2:T26	
+R24	Support Arg1:T26 Arg2:T25	
+R25	Support Arg1:T38 Arg2:T25	
+R26	Attack Arg1:T24 Arg2:T31	
+R27	Support Arg1:T22 Arg2:T23	
+R28	Support Arg1:T22 Arg2:T25	
+R29	Support Arg1:T23 Arg2:T25	
+R30	Support Arg1:T21 Arg2:T25	
+R31	Attack Arg1:T25 Arg2:T20	
+R32	Support Arg1:T24 Arg2:T20	
+R33	Attack Arg1:T19 Arg2:T18	
+R34	Attack Arg1:T17 Arg2:T18	
+R35	Support Arg1:T20 Arg2:T18	
+R36	Attack Arg1:T16 Arg2:T15	
+R37	Support Arg1:T16 Arg2:T14	
+R38	Support Arg1:T20 Arg2:T15	
+R39	Support Arg1:T17 Arg2:T15	
+R40	Support Arg1:T14 Arg2:T13	
+R41	Attack Arg1:T13 Arg2:T15	
+R42	Attack Arg1:T13 Arg2:T17	
+R43	Support Arg1:T13 Arg2:T18	

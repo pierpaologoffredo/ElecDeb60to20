@@ -1,0 +1,140 @@
+T696	Claim 591 662	Peter, it's one of the most agonizing decisions a president has to make
+T697	Claim 664 718	These are American citizens, we care deeply about them
+T698	Premise 720 795	Their families care deeply about them, want them back and understandably so
+T699	Claim 800 850	we want to do everything we can to bring them back
+T700	Claim 907 960	you cannot make concessions to terrorists, ever, ever
+T701	Premise 970 1061	if you do, it's an open invitation to other terrorists to take hostages and to blackmail us
+T702	Claim 1067 1112	that's the tragedy of the Iran/Contra scandal
+T703	Claim 1296 1363	we never ever can make concessions to terrorists and hostage takers
+T704	Premise 1115 1286	As a matter of fact, Mr. Bush was the Chairman of a task force on international terrorism which issued a report shortly before that decision was made and said, and rightly
+T705	Claim 1516 1686	one of the most tragic, one of the most mistaken foreign policy decisions we've ever made in this country and I dare say encouraged others to take hostages as we now know
+T706	Premise 1375 1514	after sitting through meeting after meeting, he endorsed that decision, endorsed the sale of arms to the Ayatollah in exchange for hostages
+T707	Claim 1693 1744	there can be no concessions under any circumstances
+T708	Premise 1754 1811	if we do it's an open invitation to others to do the same
+T709	Claim 1813 1861	We've got to be tough on international terrorism
+T710	Claim 1863 1907	We've got to treat it as international crime
+T711	Claim 1909 1942	We've got to attack at all points
+T712	Claim 1944 1981	we've go to use undercover operations
+T713	Claim 1983 2056	We have to be prepared to use military force against terrorist base camps
+T714	Claim 2058 2245	we have to work closely with our allies to make sure that they're working with us and we with them and we can give no quarter when it comes to breaking the back of international terrorism
+T715	Claim 2248 2320	Yes, we should make every effort to try to help those hostages come home
+T718	Claim 2371 2494	That was a tragic mistake that we made, a mistake that Mr. Bush made and others made and it should never ever be made again
+T719	Claim 2588 2632	It is the best anti-terrorist report written
+T720	Premise 2533 2586	I wrote the anti-terrorist report for this government
+T721	Claim 2634 2675	Yes, we shouldn't trade arms for hostages
+T722	Claim 2681 2733	we have made vast improvements in our anti-terrorism
+T723	Claim 2740 2798	it's fine to say that sometimes you have to hit base camps
+T724	Claim 2929 2977	my opponent was unwilling to support that action
+T725	Premise 2804 2923	when the president saw this state sponsored-fingerprints of Muammar Khadaffi on the loss of American life, he hit Libya
+T726	Claim 2989 3004	That's not true
+T728	Claim 3034 3119	since that action, terrorist action against the United States citizens have gone down
+T730	Claim 3262 3368	Clearly nobody's going to think the president started out thinking he was going to trade arms for hostages
+T731	Claim 3370 3421	That is a very serious charge against the president
+T732	Premise 3423 3465	The matter has been thoroughly looked into
+T733	Claim 5119 5139	Now we have a chance
+T735	Claim 5172 5252	I think that I'd leave it right there and say that you judge on the whole record
+T737	Premise 5339 5411	I've told you what the intelligence briefing he received said about that
+T736	Claim 5452 5680	I'll make a deal with you, I will take the blame for those two incidents if you give me half the credit for all the good things that have happened in world peace since Ronald Reagan and I took over from the Carter administration
+T738	Premise 5413 5442	He can talk about Iran/Contra
+T739	Claim 6216 6256	the matter of judgment is very important
+T740	Claim 6262 6317	I think it's important to understand what happened here
+T741	Premise 6319 6474	A report on international terrorism chaired by the Vice President was released and made some very specific recommendations about how to deal with terrorism
+T742	Claim 6476 6493	They were ignored
+T743	Claim 6495 6526	The Vice President ignored them
+T744	Premise 6528 6554	He says mistakes were made
+T745	Claim 6556 6599	Very serious mistakes in judgment were made
+T746	Claim 7125 7203	It was ignored in that case and it was a very very serious mistake in judgment
+T747	Claim 7099 7123	That's a basic principle
+T748	Premise 7048 7097	If you do, you invite the taking of more hostages
+T749	Claim 7005 7046	You cannot make concessions to terrorists
+T750	Claim 6956 7003	We're not going to make those kinds of mistakes
+T751	Premise 6695 6805	Has made him a part of our foreign policy and has been funneling aid to Contras through convicted drug dealers
+T752	Claim 6811 6954	I think those are very very serious questions of judgment, which those of you who are watching us here tonight have a right to judge and review
+T1	Claim 3006 3021	That's not true
+T2	Claim 3131 3146	That's not true
+T3	Claim 5141 5161	Now we have a chance
+R1	Support Arg1:T697 Arg2:T696	
+R2	Support Arg1:T698 Arg2:T696	
+R3	Support Arg1:T696 Arg2:T699	
+R4	Support Arg1:T701 Arg2:T700	
+R5	Support Arg1:T702 Arg2:T700	
+R6	Attack Arg1:T700 Arg2:T699	
+R7	Support Arg1:T704 Arg2:T703	
+R8	Support Arg1:T703 Arg2:T700	
+R9	Attack Arg1:T706 Arg2:T703	
+R10	Attack Arg1:T706 Arg2:T700	
+R11	Support Arg1:T706 Arg2:T705	
+R12	Attack Arg1:T705 Arg2:T703	
+R13	Attack Arg1:T705 Arg2:T700	
+R14	Support Arg1:T708 Arg2:T707	
+R15	Support Arg1:T709 Arg2:T707	
+R16	Support Arg1:T710 Arg2:T707	
+R17	Support Arg1:T711 Arg2:T707	
+R18	Support Arg1:T712 Arg2:T707	
+R19	Support Arg1:T713 Arg2:T707	
+R20	Support Arg1:T714 Arg2:T707	
+T4	Premise 2327 2369	t can never be because we make concessions
+R21	Support Arg1:T4 Arg2:T715	
+R22	Support Arg1:T715 Arg2:T718	
+R23	Attack Arg1:T707 Arg2:T718	
+R24	Support Arg1:T720 Arg2:T719	
+R25	Support Arg1:T722 Arg2:T719	
+R26	Support Arg1:T1 Arg2:T726	
+R27	Attack Arg1:T726 Arg2:T724	
+R28	Attack Arg1:T721 Arg2:T706	
+R29	Attack Arg1:T723 Arg2:T725	
+R30	Support Arg1:T723 Arg2:T728	
+R31	Support Arg1:T722 Arg2:T728	
+R32	Attack Arg1:T2 Arg2:T728	
+T5	Claim 3159 3226	I have long ago said I supported the president on this other matter
+T6	Premise 3232 3260	I've said mistakes were made
+R33	Attack Arg1:T6 Arg2:T5	
+R34	Support Arg1:T6 Arg2:T730	
+R35	Support Arg1:T732 Arg2:T731	
+R36	Attack Arg1:T730 Arg2:T731	
+T7	Claim 3467 3518;3519 3621	But the point is sometimes the action- (Laughter)   BUSH: - has to be taken by the Federal Government and when we took action, it had a favorable response
+R37	Support Arg1:T5 Arg2:T7	
+R38	Support Arg1:T728 Arg2:T7	
+T8	Premise 5274 5332	all he can talk about-he goes around ranting about Noriega
+T9	Claim 4412 4445	You're judged by the whole record
+T10	Claim 4447 4482	You're judged by the entire record.
+T11	Claim 4817 4841	You judge on the record.
+T12	Premise 4483 4506	Are we closer to peace?
+T13	Premise 4507 4545	Are we doing better in anti-terrorism?
+T14	Premise 4546 4700	Should we have listened to my opponent who wanted to send the UN into the Persian Gulf or in spite of the mistakes of the past, are we doing better there?
+T15	Premise 4701 4778	How is our credibility with the GCC countries on the Western side of the Gulf
+T16	Premise 4780 4815	Is Iran talking to Iraq about peace
+R39	Support Arg1:T9 Arg2:T10	
+R40	Support Arg1:T11 Arg2:T10	
+T17	Premise 4842 4884	Are the Soviets coming out of Afghanistan?
+R41	Support Arg1:T12 Arg2:T10	
+R42	Support Arg1:T13 Arg2:T10	
+R43	Attack Arg1:T13 Arg2:T14	
+R44	Support Arg1:T15 Arg2:T10	
+R45	Support Arg1:T16 Arg2:T10	
+R46	Support Arg1:T17 Arg2:T10	
+T18	Premise 4885 5098	How does it look in a program he called or some one of these marvelous Boston adjective up there and-about Angola-now, we have a chance-several Bostonians don't like it, but the rest of the country will understand
+R47	Support Arg1:T18 Arg2:T10	
+R48	Equivalent Arg1:T3 Arg2:T733	
+R49	Support Arg1:T733 Arg2:T735	
+R50	Support Arg1:T10 Arg2:T735	
+R51	Support Arg1:T737 Arg2:T8	
+R52	Support Arg1:T8 Arg2:T738	
+R53	Attack Arg1:T736 Arg2:T738	
+R54	Attack Arg1:T736 Arg2:T8	
+R55	Support Arg1:T739 Arg2:T740	
+R56	Support Arg1:T741 Arg2:T740	
+R57	Attack Arg1:T742 Arg2:T741	
+R58	Attack Arg1:T743 Arg2:T741	
+R59	Support Arg1:T742 Arg2:T743	
+R60	Support Arg1:T744 Arg2:T745	
+R61	Attack Arg1:T745 Arg2:T740	
+T19	Premise 6613 6693	Well, let's concede that the administration has been doing business with Noriega
+R62	Support Arg1:T19 Arg2:T751	
+R63	Attack Arg1:T752 Arg2:T751	
+R64	Attack Arg1:T750 Arg2:T752	
+R65	Support Arg1:T749 Arg2:T750	
+R66	Support Arg1:T748 Arg2:T749	
+R67	Support Arg1:T747 Arg2:T749	
+R68	Attack Arg1:T749 Arg2:T746	
+R69	Support Arg1:T746 Arg2:T745	

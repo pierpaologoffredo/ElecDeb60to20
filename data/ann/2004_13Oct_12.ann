@@ -1,0 +1,39 @@
+T760	Premise 53 159	You said that if Congress would vote to extend the ban on assault weapons, that you'd sign the legislation
+T761	Claim 165 219	you did nothing to encourage the Congress to extend it
+T762	Premise 221 228	Why not
+T763	Claim 293 347	I did think we ought to extend the assault weapons ban
+T764	Premise 353 503	was told the fact that the bill was never going to move, because Republicans and Democrats were against the assault weapon ban, people of both parties
+T765	Claim 505 565	I believe law-abiding citizens ought to be able to own a gun
+T766	Claim 567 703	I believe in background checks at gun shows or anywhere to make sure that guns don't get in the hands of people that shouldn't have them
+T767	Claim 709 805	the best way to protect our citizens from guns is to prosecute those who commit crimes with guns
+T768	Claim 822 1008	early in my administration I called the attorney general and the U. S. attorneys and said: Put together a task force all around the country to prosecute those who commit crimes with guns
+T769	Premise 1014 1057	the prosecutions are up by about 68 percent
+T770	Premise 1090 1170	Neighborhoods are safer when we crack down on people who commit crimes with guns
+T771	Claim 1180 1217	that's the best way to secure America
+T772	Claim 1249 1345	I believe it was a failure of presidential leadership not to reauthorize the assault weapons ban
+T773	Premise 2224 2331	the president's decision today, law enforcement officers will walk into a place that will be more dangerous
+T774	Claim 2463 2506	that's what Osama bin Laden's handbook said
+T775	Premise 2516 2545	we captured it in Afghanistan
+T776	Claim 2547 2574	It encouraged them to do it
+T777	Claim 2580 2609	I believe America's less safe
+T778	Claim 2333 2456	Terrorists can now come into America and go to a gun show and, without even a background check, buy an assault weapon today
+T779	Premise 1883 1944	They don't want to go into a drug bust and be facing an AK-47
+T780	Claim 1761 1795	I know something about prosecuting
+T781	Claim 1802 1881	most of the law enforcement agencies in America wanted that assault weapons ban
+T782	Premise 1729 1759	I've broken up organized crime
+T783	Premise 1676 1727	I put people behind bars for the rest of their life
+T784	Premise 1587 1650	I ran one of the largest district attorney's offices in America
+T785	Premise 1544 1585	I'm also a former law enforcement officer
+R1	Support Arg1:T767 Arg2:T766	
+R2	Support Arg1:T768 Arg2:T767	
+R3	Support Arg1:T770 Arg2:T768	
+R4	Support Arg1:T771 Arg2:T767	
+R5	Attack Arg1:T772 Arg2:T763	
+R6	Support Arg1:T779 Arg2:T781	
+T1	Premise 1946 2208	 I was hunting in Iowa last year with a sheriff from one of the counties there, and he pointed to a house in back of us, and said, "See the house over? We just did a drug bust a week earlier, and the guy we arrested had an AK-47 lying on the bed right beside him
+R7	Support Arg1:T1 Arg2:T779	
+R8	Support Arg1:T773 Arg2:T772	
+R9	Support Arg1:T774 Arg2:T778	
+R10	Support Arg1:T775 Arg2:T774	
+R11	Support Arg1:T778 Arg2:T777	
+R12	Support Arg1:T781 Arg2:T777	

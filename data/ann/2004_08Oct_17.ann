@@ -1,0 +1,84 @@
+T1027	Claim 601 683	I will never cede the authority of our country or our security to any other nation
+T1028	Claim 685 801	I'll never give a veto over American security to any other entity -- not a nation, not a country, not an institution
+T1029	Claim 808 918	I know, as I think you do, that our country is strongest when we lead the world, when we lead strong alliances
+T1030	Premise 924 990	that's the way Eisenhower and Reagan and Kennedy and others did it
+T1031	Premise 993 1020	We are not doing that today
+T1032	Claim 1022 1032	We need to
+T1033	Claim 1035 1106	I have a plan that will help us go out and kill and find the terrorists
+T1034	Claim 1113 1180	I will not stop in our efforts to hunt down and kill the terrorists
+T1035	Claim 1187 1252	I'll also have a better plan of how we're going to deal with Iraq
+T1036	Premise 1254 1292	training the Iraqi forces more rapidly
+T1037	Premise 1294 1433	getting our allies back to the table with a fresh start, with new credibility, with a president whose judgment the rest of the world trusts
+T1038	Claim 1457 1584	I believe we have a crisis here at home, a crisis of the middle class that is increasingly squeezed, health-care costs going up
+T1039	Claim 1587 1640	I have a plan to provide health care to all Americans
+T1040	Claim 1643 1795	I have a plan to provide for our schools so we keep the standards but we help our teachers teach and elevate our schools by funding No Child Left Behind
+T1041	Claim 1798 1936	I have a plan to protect the environment so that we leave this place in better shape to our children than we were handed it by our parents
+T1042	Claim 1956 2001	I believe America's best days are ahead of us
+T1043	Premise 2003 2018	I'm an optimist
+T1044	Premise 2024 2126	we have to make the right choices, to be fiscally responsible and to create the new jobs of the future
+T1045	Claim 2128 2142	We can do this
+T1046	Claim 2815 2832	We're on the move
+T1047	Premise 2760 2812	Homeownership rate is at an all-time high in America
+T1048	Premise 2726 2758	Small businesses are flourishing
+T1049	Premise 2690 2724	The farm income in America is high
+T1050	Premise 2638 2688	Added 1.9 million new jobs over the past 13 months
+T1051	Claim 2502 2548	We've been through a lot together as a country
+T1052	Premise 2552 2601	been through a recession, corporate scandals, war
+T1053	Claim 2878 2935	what to do to keep this economy going: keep the taxes low
+T1054	Claim 2937 2987	don't increase the scope of the federal government
+T1055	Claim 2989 3206	keep regulations down, legal reform, a health- care policy that does not empower the federal government but empowers individuals, and an energy plan that will help us become less dependent on foreign sources of energy
+T1056	Premise 3213 3233	abroad, we're at war
+T1057	Claim 3239 3305	it requires a president who is steadfast and strong and determined
+T1058	Claim 3516 3545	There is more work to be done
+T1059	Premise 3307 3431	I vowed to the American people after that fateful day of September the 11th that we would not rest nor tire until we're safe
+T1060	Premise 3434 3514	The 9/11 Commission put out a report that said America is safer but not yet safe
+T1061	Claim 3548 3582	We'll stay on the hunt on Al Qaida
+T1062	Claim 3584 3624	We'll deny sanctuary to these terrorists
+T1063	Claim 3626 3693	We'll make sure they do not end up with weapons of mass destruction
+T1064	Claim 3816 3875	our long-term security depends on our deep faith in liberty
+T1065	Premise 3695 3715	It's the great nexus
+T1066	Premise 3717 3809	The great threat to our country is that these haters end up with weapons of mass destruction
+T1067	Claim 3881 3931	we'll continue to promote freedom around the world
+T1068	Claim 3934 3957	Freedom is on the march
+T1069	Premise 3959 4011	Tomorrow, Afghanistan will be voting for a president
+T1070	Premise 4013 4052	In Iraq, we'll be having free elections
+T1071	Claim 4058 4107	a free society will make this world more peaceful
+R1	Support Arg1:T1027 Arg2:T1028	
+R2	Support Arg1:T1029 Arg2:T1028	
+R3	Support Arg1:T1030 Arg2:T1029	
+R4	Attack Arg1:T1029 Arg2:T1031	
+R5	Attack Arg1:T1032 Arg2:T1031	
+R6	Support Arg1:T1032 Arg2:T1030	
+R7	Support Arg1:T1034 Arg2:T1033	
+R8	Support Arg1:T1036 Arg2:T1035	
+R9	Support Arg1:T1037 Arg2:T1035	
+R10	Attack Arg1:T1039 Arg2:T1038	
+R11	Support Arg1:T1043 Arg2:T1042	
+R12	Attack Arg1:T1043 Arg2:T1044	
+R13	Support Arg1:T1045 Arg2:T1042	
+R14	Support Arg1:T1039 Arg2:T1042	
+R15	Support Arg1:T1040 Arg2:T1042	
+R16	Support Arg1:T1041 Arg2:T1042	
+R17	Support Arg1:T1052 Arg2:T1051	
+R18	Support Arg1:T1047 Arg2:T1046	
+R19	Support Arg1:T1048 Arg2:T1046	
+R20	Support Arg1:T1049 Arg2:T1046	
+R21	Support Arg1:T1050 Arg2:T1046	
+R22	Support Arg1:T1053 Arg2:T1057	
+R23	Support Arg1:T1054 Arg2:T1057	
+R24	Support Arg1:T1055 Arg2:T1057	
+R26	Support Arg1:T1060 Arg2:T1059	
+R27	Attack Arg1:T1058 Arg2:T1060	
+R28	Support Arg1:T1061 Arg2:T1058	
+R29	Support Arg1:T1062 Arg2:T1058	
+R30	Support Arg1:T1063 Arg2:T1058	
+R31	Support Arg1:T1065 Arg2:T1066	
+R32	Support Arg1:T1064 Arg2:T1067	
+R33	Support Arg1:T1068 Arg2:T1067	
+R34	Attack Arg1:T1064 Arg2:T1066	
+R35	Support Arg1:T1069 Arg2:T1068	
+R36	Support Arg1:T1070 Arg2:T1068	
+R37	Support Arg1:T1068 Arg2:T1071	
+R25	Support Arg1:T1056 Arg2:T1057	
+R38	Support Arg1:T1059 Arg2:T1057	
+R39	Attack Arg1:T1058 Arg2:T1066	

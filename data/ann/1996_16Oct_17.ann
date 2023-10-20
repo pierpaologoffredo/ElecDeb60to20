@@ -1,0 +1,85 @@
+T785	Claim 899 952	I think it's important to make voting more accessible
+T786	Claim 965 1005	I strongly supported the Motor Voter law
+T787	Premise 1007 1045	There was a big story I think in U.S.A
+T788	Claim 1047 1116	Today of the millions of people who have now registered because of it
+T789	Claim 1128 1191	I think we need to look at making the elections more accessible
+T790	Premise 1202 1261	several states now are letting people vote over three weeks
+T791	Premise 1263 1337	A lot of people are busy and it's hard for them to just get there and vote
+T792	Claim 1351 1391	I think we need is more forums like this
+T793	Claim 1421 1473	I have so strongly supported campaign finance reform
+T794	Premise 1483 1553	if you want to cut the cost of campaigns, you have to open the airways
+T795	Premise 1563 1670	what drives the cost of campaigns are the cost of advertising on television, radio, newspaper, mass mailing
+T796	Premise 1676 1779	if you open the airways to more things like this, you see it's not just you that are participating here
+T797	Premise 1781 1940	For every one of you who stood up here and asked a question tonight, I promise you there's a 100,000 Americans who said I wish I could have asked that question
+T798	Claim 1945 1993	I think we have to change the nature of politics
+T799	Claim 2144 2295	I try to have a real American citizen there who is directly affected by it so that people can see the connection of what happens way across the country
+T800	Premise 2297 2341	in Washington with more police on the street
+T801	Premise 2343 2394	in San Diego, clean up the sewage here in San Diego
+T802	Claim 2010 2142	I think we should do is something I have been trying to do since I have been president, is every time I do something in a public way
+T803	Premise 2396 2450	doubling the border guards here in Southern California
+T804	Premise 2534 2566	Those are my best ideas about it
+T805	Premise 2452 2532	that there is a connection between what we do way back there and what we do here
+T806	Premise 2619 2656	I have been in politics for some time
+T807	Claim 2662 2701	I worry about the people who don't vote
+T808	Claim 2707 2756	I wonder if it's our fault, the candidates' fault
+T809	Premise 2758 2783	People say, "I don't care
+T810	Premise 2785 2819	One vote doesn't make a difference
+T811	Premise 2822 2919	I can give you hundreds of -- you can probably give me 200 cases where one vote made a difference
+T812	Claim 2921 2982	I know it made a lot of difference many times in the Congress
+T813	Premise 2984 3011	Campaign finance might help
+T814	Premise 3013 3173	It might help the contributions from coming in from Indonesia or other foreign countries, rich people in those countries, and then being sent back after the L.A
+T815	Premise 3175 3203	Times discovers it, $250,000
+T816	Claim 3515 3556	we're going to limp into the next century
+T817	Premise 3362 3397	If we don't get the economy to grow
+T818	Premise 3399 3451	if we don't cut taxes, and give people child credits
+T819	Premise 3453 3483	and cut the capital gains rate
+T820	Premise 3485 3513	and get this economy growing
+T821	Claim 3558 3615	If we grow the economy it's going to help Social Security
+T822	Claim 3617 3640	It's going to help jobs
+T823	Claim 3642 3671	It's going to help everything
+T824	Premise 3725 3741	you're a teacher
+T825	Premise 3743 3773	you can have an impact on that
+T826	Claim 3793 3938	I think that really frustrates people is that so often political campaigns seem to be more about the politicians that are running than the people
+T828	Claim 3971 4042	I think what we have to do is convince people there is a big difference
+T829	Claim 4044 4123	if you vote one way you will have a Department of Education in the 21st century
+T830	Claim 4125 4161	if you vote the other way, you won't
+T831	Claim 4163 4225	If you vote one way you will have an expansion of family leave
+T832	Claim 4227 4282	If you vote the other way, you will be lucky to save it
+T833	Claim 4346 4511	I think that the American people also need to be a little more responsible and think about whether there's a connection with their lives and what we do in Washington
+T834	Premise 4288 4317	these are important questions
+T835	Premise 4323 4344	people have to decide
+T1	Premise 3940 3965	And there is a connection
+R1	Support Arg1:T786 Arg2:T785	
+R2	Support Arg1:T787 Arg2:T786	
+R3	Support Arg1:T788 Arg2:T786	
+*	Equivalent T789 T785
+R4	Support Arg1:T792 Arg2:T793	
+R5	Support Arg1:T795 Arg2:T794	
+R6	Support Arg1:T796 Arg2:T794	
+R7	Support Arg1:T794 Arg2:T797	
+R8	Support Arg1:T800 Arg2:T799	
+R9	Support Arg1:T801 Arg2:T799	
+R10	Support Arg1:T803 Arg2:T799	
+R11	Support Arg1:T805 Arg2:T799	
+R12	Support Arg1:T799 Arg2:T802	
+R13	Support Arg1:T802 Arg2:T798	
+R14	Support Arg1:T804 Arg2:T799	
+R15	Support Arg1:T806 Arg2:T807	
+R16	Support Arg1:T808 Arg2:T807	
+R17	Support Arg1:T811 Arg2:T812	
+R18	Support Arg1:T810 Arg2:T812	
+R19	Support Arg1:T813 Arg2:T814	
+R20	Support Arg1:T820 Arg2:T816	
+R21	Support Arg1:T819 Arg2:T816	
+R22	Support Arg1:T818 Arg2:T816	
+R23	Support Arg1:T817 Arg2:T816	
+R24	Support Arg1:T822 Arg2:T821	
+R25	Support Arg1:T823 Arg2:T821	
+R26	Support Arg1:T1 Arg2:T826	
+R27	Support Arg1:T830 Arg2:T828	
+R28	Support Arg1:T829 Arg2:T828	
+R29	Support Arg1:T832 Arg2:T828	
+R30	Support Arg1:T831 Arg2:T828	
+R31	Support Arg1:T834 Arg2:T828	
+R32	Support Arg1:T835 Arg2:T828	
+R33	Support Arg1:T833 Arg2:T828	

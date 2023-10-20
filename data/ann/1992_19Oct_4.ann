@@ -1,0 +1,76 @@
+T426	Claim 431 513	In order to lead, you first have to use the White House as a bully pulpit and lead
+T427	Claim 520 580	you have to develop consensus or you can't get anything done
+T428	Claim 611 637	We can't get anything done
+T429	Claim 586 609	that's where we are now
+T430	Premise 639 873	How do you get anything done when you've got all of these political action committees, all of these thousands of registered lobbyists -- 40,000 registered lobbyists, 23,000 special interest groups -- and the list goes on and on and on
+T431	Premise 879 938	the average citizen out here is just working hard every day
+T432	Claim 940 970	You've got to go to the people
+T433	Premise 1091 1142	you will lose your right to tell them what to think
+T434	Claim 999 1068	everybody, particularly in the media, goes bonkers over the town hall
+T435	Premise 1144 1193	The point is, they'll get to decide what to think
+T436	Premise 1242 1390	people will listen to a guy with a bad accent and a poor presentation manner talking about flip charts for 30 minutes, because they want the details
+T437	Premise 1397 1524	all the folks up there at the top said the attention span of the American people is no more than 5 minutes, they won't watch it
+T438	Claim 1526 1548	They're thirsty for it
+T439	Claim 1551 1597	You want to have a new program in this country
+T440	Claim 1730 1901	that's a whole lot different from these fellows running up and down the halls whispering in their ears now and promising campaign funds for the next election if they do it
+T441	Claim 1909 1954	I think that's going back to where we started
+T442	Claim 1956 1998	That's having a government from the people
+T443	Claim 2000 2040	I think that's the essence of leadership
+T444	Claim 2042 2095	rather than cutting deals in dark rooms in Washington
+T445	Claim 2163 2198	I believe in the town hall meetings
+T446	Premise 2200 2246	they started with my campaign in New Hampshire
+T447	Claim 2252 2305	I think Ross Perot has done a good job in having them
+T448	Premise 2311 2432	I, as you know, pushed for the debate to include the 209 American citizens who were part of it in Richmond a few days ago
+T449	Claim 2463 2500	I'll continue to do them as president
+T450	Premise 2434 2457	I've done a lot of them
+T451	Claim 2933 3064	in 12 years as governor I guess I've taken on every interest group there was in my state at one time or another to fight for change
+T452	Claim 2607 2667	Of the 3 of us, I have balanced a government budget 12 times
+T453	Claim 2669 2793	I have offered and passed campaign finance reform, offered, pushed for and passed in public referendum lobbyist restrictions
+T454	Claim 2795 2926	done the kinds of things you have to do to get legislators together not only to establish consensus but to challenge them to change
+T455	Claim 3066 3080	It can be done
+T456	Claim 3093 3233	I tried to be so specific in this campaign to have a mandate, if elected, so that Congress will know what the American people have voted for
+T457	Claim 3816 3835	this will not stand
+T458	Premise 3784 3807	he moved against Kuwait
+T459	Premise 3690 3739	we failed to bring him into the family of nations
+T460	Premise 3741 3768	he had the 4th largest army
+T461	Claim 4134 4159	A president can't do that
+T462	Claim 4161 4184	Sometimes he has to act
+T463	Premise 3995 4059	Governor Clinton said, well, I might have been with the minority
+T464	Claim 4203 4218	I'm glad we did
+T465	Premise 4228 4377	if we had let sanctions work and tried to build a consensus on that, Saddam Hussein today would be in Saudi Arabia controlling the world's oil supply
+T466	Premise 4383 4428	he would be there maybe with a nuclear weapon
+T467	Premise 4430 4460	We busted the 4th largest army
+T20	Premise 3873 3957	We went to the UN, we made historic resolutions up there, the whole world was united
+R1	Support Arg1:T429 Arg2:T427	
+R2	Support Arg1:T427 Arg2:T428	
+R3	Support Arg1:T430 Arg2:T428	
+R4	Support Arg1:T431 Arg2:T432	
+R5	Support Arg1:T435 Arg2:T432	
+R6	Support Arg1:T433 Arg2:T432	
+R7	Support Arg1:T436 Arg2:T432	
+R8	Support Arg1:T437 Arg2:T438	
+R9	Support Arg1:T436 Arg2:T438	
+R10	Support Arg1:T438 Arg2:T432	
+R11	Support Arg1:T432 Arg2:T439	
+R12	Support Arg1:T441 Arg2:T440	
+R13	Support Arg1:T442 Arg2:T440	
+R14	Support Arg1:T444 Arg2:T443	
+R15	Support Arg1:T432 Arg2:T443	
+R16	Support Arg1:T446 Arg2:T445	
+R17	Support Arg1:T445 Arg2:T447	
+R18	Support Arg1:T450 Arg2:T449	
+R19	Support Arg1:T448 Arg2:T449	
+R20	Support Arg1:T445 Arg2:T449	
+R21	Support Arg1:T451 Arg2:T455	
+R22	Support Arg1:T454 Arg2:T455	
+R23	Support Arg1:T453 Arg2:T455	
+R24	Support Arg1:T452 Arg2:T455	
+R25	Attack Arg1:T455 Arg2:T428	
+R26	Support Arg1:T456 Arg2:T455	
+R27	Support Arg1:T458 Arg2:T457	
+R28	Support Arg1:T463 Arg2:T461	
+R29	Support Arg1:T462 Arg2:T461	
+R30	Support Arg1:T462 Arg2:T464	
+R31	Support Arg1:T460 Arg2:T467	
+R32	Support Arg1:T465 Arg2:T466	
+R33	Support Arg1:T466 Arg2:T464	

@@ -1,0 +1,70 @@
+T145	Claim 267 285	the people need it
+T146	Claim 140 143	yes
+T147	Claim 1561 1580	It's a good package
+T148	Claim 305 338	This is not a Wall Street tax cut
+T149	Claim 340 364	This is a family tax cut
+T150	Premise 366 473	This is a Main Street tax cut, 15 percent across -- let's take a family making $30,000 a year, that's $1261
+T151	Premise 480 739	maybe to some in this Bushnell Memorial that it's not a lot of money, but people watching tonight with a couple of kids, a working family, that's four or five months of day care, maybe a personal computer; it's may be three or four months of mortgage payments
+T152	Claim 741 780	This economic package is about families
+T153	Claim 785 809	it's a six-point package
+T154	Premise 825 910	it's a balanced budget amendment to the Constitution which President Clinton defeated
+T155	Premise 912 996	He twisted arms and got six Democrats to vote the other way, but we lost by one vote
+T156	Premise 998 1038	It's balancing a budget by the year 2002
+T157	Premise 1040 1088	It's a tax cut, cutting capital gains 50 percent
+T158	Premise 1090 1151	So you can go out and create more jobs and more opportunities
+T159	Premise 1153 1176	It's a state tax relief
+T160	Premise 1178 1210	It's a $500 per child tax credit
+T161	Premise 1212 1241	It's about litigation reforms
+T162	Claim 1315 1354	he probably doesn't like this provision
+T163	Premise 1252 1313	the President gets millions of dollars from the trial lawyers
+T164	Premise 1365 1526	when I fell off the podium in Chico, before I lit the ground, hit the ground I had call on my cell phone from a trial lawyer saying I think we've got a case here
+T165	Premise 1532 1559	it's also regulatory reform
+T167	Premise 1698 1717	It sounds very good
+T168	Claim 1979 2234	It's a $550 billion tax scheme that will cause a big hole in the deficit which will raise interest rates and slow down the economy and cause people to pay more for home mortgages, car payments, credit card payments, college loans, and small business loans
+T169	Claim 2236 2270	It's not good to raise the deficit
+T170	Premise 2272 2302	We worked too hard to lower it
+T171	Claim 2304 2355	It will actually raise taxes on nine million people
+T172	Premise 2382 2530	it will force bigger cuts in Medicare, Medicaid, education and the environment than the ones that he and Mr. Gingrich passed that I vetoed last year
+T173	Premise 2535 2550	it sounds great
+T174	Claim 2556 2785	our targeted tax cut for education, child rearing, healthcare and home buying, which is paid for in my balanced budget plan, something that he has not done, certified by the Congressional budget office, that's the right way to go
+T175	Claim 3292 3304	It will work
+T176	Claim 3310 3373	when it does work, Mr. President, I know you'll congratulate me
+T177	Claim 2794 2869	The President wants to increase spending 20 percent over the next six years
+T178	Claim 2871 2909	I want to increase spending 14 percent
+T179	Claim 2936 3020	I want the government to pinch pennies for a change instead of the American families
+T180	Premise 3022 3078	We're talking about six percentage points over six years
+T181	Premise 3084 3138	with that money you give it back to the working people
+T182	Premise 3140 3290	You also provide opportunity scholarships so low income parents will have the same choice that others have in sending their children to better schools
+T166	Premise 1745 1977	500 economists, including seven Nobel prize winners and business periodicals like Business Week, and even Senator Dole's friends, Senator Warren Rudman, former Republican senator from New Hampshire, says it's not a practical program
+R1	Support Arg1:T145 Arg2:T149	
+R2	Support Arg1:T148 Arg2:T149	
+R3	Support Arg1:T150 Arg2:T151	
+R4	Support Arg1:T151 Arg2:T152	
+R5	Support Arg1:T152 Arg2:T149	
+R6	Support Arg1:T156 Arg2:T153	
+R7	Support Arg1:T157 Arg2:T153	
+R8	Support Arg1:T157 Arg2:T158	
+R9	Support Arg1:T159 Arg2:T153	
+R10	Support Arg1:T160 Arg2:T153	
+R11	Support Arg1:T161 Arg2:T153	
+R12	Support Arg1:T154 Arg2:T153	
+R13	Attack Arg1:T154 Arg2:T155	
+R14	Support Arg1:T163 Arg2:T162	
+R15	Attack Arg1:T162 Arg2:T161	
+R16	Attack Arg1:T164 Arg2:T162	
+R17	Support Arg1:T165 Arg2:T153	
+R18	Support Arg1:T153 Arg2:T147	
+R19	Attack Arg1:T167 Arg2:T166	
+R20	Support Arg1:T166 Arg2:T168	
+R21	Support Arg1:T168 Arg2:T169	
+R22	Support Arg1:T170 Arg2:T169	
+R23	Support Arg1:T173 Arg2:T167	
+R24	Attack Arg1:T173 Arg2:T174	
+R25	Support Arg1:T172 Arg2:T171	
+R26	Support Arg1:T171 Arg2:T169	
+R27	Attack Arg1:T178 Arg2:T177	
+R28	Support Arg1:T180 Arg2:T181	
+R29	Support Arg1:T181 Arg2:T179	
+R30	Support Arg1:T182 Arg2:T175	
+R31	Support Arg1:T175 Arg2:T176	
+R32	Attack Arg1:T176 Arg2:T169	

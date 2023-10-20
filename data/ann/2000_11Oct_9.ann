@@ -1,0 +1,62 @@
+T862	Claim 545 577	I think credibility is important
+T863	Premise 579 653	It is going to be important for the president to be credible with Congress
+T864	Premise 655 718	important for the president to be credible with foreign nations
+T865	Claim 729 780	I think it's something that people need to consider
+T866	Premise 808 969	I read a report, or a memo, from somebody in his 1988 campaign -- I forgot the fellow's name -- warning then Senator Gore to be careful about exaggerating claims
+T867	Premise 971 1069	I thought during his debate with Senator Bradley saying he authored the EITC when it didn't happen
+T868	Premise 1273 1323	he co-sponsored McCain-Feingold, and yet he didn't
+T869	Claim 1332 1356	I think this is an issue
+T870	Premise 1358 1425	I found it to be an issue in trying to defend my tax relief package
+T871	Premise 1427 1483	I thought there was some exaggerations about the numbers
+T872	Claim 1559 1667	I am going to continue to defend my record and defend my propositions against what I think are exaggerations
+T873	Premise 1669 1770	Exaggerations like, for example, only 5% of seniors receive benefits under my Medicare reform package
+T874	Premise 1772 1805	That's what he said the other day
+T875	Claim 1811 1837	that's simply not the case
+T876	Claim 1843 1908	I have every right in the world to defend my record and positions
+T877	Premise 1910 1939	That's what debates are about
+T878	Premise 1944 1975	that's what campaigns are about
+T879	Premise 2017 2094	I got some of the details wrong last week in some of the examples that I used
+T880	Premise 2105 2125	I'm sorry about that
+T881	Claim 2131 2160	I'm going to try to do better
+T882	Claim 2201 2289	getting a detail wrong interfered several times with the point that I was trying to make
+T883	Premise 2291 2523	However many days that young girl in Florida stood in her classroom, however long, even if it was only one day, doesn't change the fact that there are a lot of overcrowded classrooms in America and we need to do something about that
+T884	Premise 2525 2639	There are seniors who pay more for their prescriptions than a lot of other people, more than their pets, sometimes
+T885	Premise 2641 2688	More sometimes than people in foreign countries
+T887	Claim 2730 2881	Not with the measure that leaves the majority of them without any real basic help until the next president's term of four years is over. But right away
+T888	Claim 2935 2993	I can't promise that I will never get another detail wrong
+T889	Claim 2995 3045	I can promise you that I will try not to, and hard
+T890	Claim 2887 2933	that means doing it under the Medicare program
+T891	Claim 3051 3252	I will promise you this with all the confidence in my heart and in the world, that I will do my best if I'm elected president, I'll work my heart out to get the big things right for the American people
+T892	Claim 4496 4606	I think anybody would have a hard time explaining that clearly in a way that makes sense to the average person
+T893	Claim 4271 4494	I think the point of that is that anybody would have a hard time trying to make a tax cut plan that is so large, that would put us into such big deficits, that gives almost half the benefits to the wealthiest of the wealthy
+T894	Premise 4615 4671	That's the kind of exaggeration I was just talking about
+T895	Premise 4697 4742	I wasn't the one having trouble explaining it
+T1	Claim 2694 2728	we need to do something about that
+R1	Support Arg1:T864 Arg2:T862	
+R2	Support Arg1:T863 Arg2:T862	
+R3	Support Arg1:T865 Arg2:T862	
+R4	Support Arg1:T867 Arg2:T866	
+R5	Support Arg1:T868 Arg2:T869	
+R6	Support Arg1:T870 Arg2:T869	
+R7	Support Arg1:T871 Arg2:T869	
+R8	Support Arg1:T867 Arg2:T872	
+R9	Support Arg1:T866 Arg2:T872	
+R10	Support Arg1:T869 Arg2:T872	
+R11	Support Arg1:T874 Arg2:T873	
+R12	Support Arg1:T873 Arg2:T875	
+R13	Support Arg1:T875 Arg2:T872	
+R14	Support Arg1:T877 Arg2:T876	
+R15	Support Arg1:T878 Arg2:T876	
+R16	Support Arg1:T876 Arg2:T872	
+R17	Support Arg1:T880 Arg2:T879	
+R18	Support Arg1:T879 Arg2:T881	
+R19	Support Arg1:T882 Arg2:T881	
+R20	Support Arg1:T885 Arg2:T884	
+R21	Support Arg1:T884 Arg2:T1	
+R22	Support Arg1:T888 Arg2:T889	
+R23	Support Arg1:T889 Arg2:T891	
+R24	Support Arg1:T887 Arg2:T1	
+R25	Support Arg1:T890 Arg2:T1	
+R26	Attack Arg1:T894 Arg2:T893	
+R27	Support Arg1:T895 Arg2:T892	
+R28	Attack Arg1:T895 Arg2:T894	

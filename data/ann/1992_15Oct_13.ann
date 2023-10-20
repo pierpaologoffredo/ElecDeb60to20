@@ -1,0 +1,31 @@
+T300	Claim 883 1081	I believe that this country is electing more and more African Americans and Latinos and Asian Americans who are representing districts that are themselves not necessarily of a majority of their race
+T301	Premise 1083 1144	The American people are beginning to vote across racial lines
+T302	Premise 1187 1224	More and more women are being elected
+T303	Claim 1431 1553	I do think there are special experiences and judgments and backgrounds and understandings that women bring to this process
+T304	Claim 1838 1897	I think it would be a good thing for America if it happened
+T305	Claim 1903 1940	I think it will happen in my lifetime
+T306	Premise 1226 1280	Look at all these women Senate candidates we have here
+T308	Premise 1639 1708	women know what's it like to be paid an unequal amount for equal work
+T309	Premise 1710 1769	They know what it's like not to have flexible working hours
+T310	Premise 1771 1833	They know what it's like not to have family leave or childcare
+T311	Claim 2092 2155	I think if Barbara Bush were running this year she'd be elected
+T312	Claim 3062 3141	I think you'll see more minority candidates and women candidates coming forward
+T313	Claim 3182 3240	This is supposed to be the year of the women in the Senate
+T314	Premise 3242 3263	Let's see how they do
+T315	Claim 3440 3498	Colin Powell will be on somebody's ticket 4 years from now
+T316	Claim 3590 3626	if won't be, General Waller would be
+T317	Premise 3680 3750	These are people that I just happen to know and have a high regard for
+T318	Claim 4011 4030	I can think of many
+T319	Premise 4103 4147	How about Sandra Day O'Connor as an example?
+T307	Premise 1296 1428	according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time
+R1	Support Arg1:T301 Arg2:T300	
+R2	Support Arg1:T306 Arg2:T302	
+R3	Support Arg1:T307 Arg2:T306	
+R4	Support Arg1:T308 Arg2:T303	
+R5	Support Arg1:T309 Arg2:T303	
+R6	Support Arg1:T310 Arg2:T303	
+R7	Support Arg1:T303 Arg2:T304	
+R8	Support Arg1:T302 Arg2:T304	
+T1	Premise 3639 3678	why do you keep picking military people
+R9	Attack Arg1:T1 Arg2:T316	
+R10	Support Arg1:T316 Arg2:T315	

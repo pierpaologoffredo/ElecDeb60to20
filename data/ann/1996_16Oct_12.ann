@@ -1,0 +1,94 @@
+T517	Claim 361 427	the President didn't quite give you all of the stuff on the quotas
+T518	Premise 437 515	the Justice Department had what we called the Piscataway case up in New Jersey
+T519	Claim 517 556	It's pretty clear that was a quota case
+T520	Premise 575 691	one teacher was white and one black and they had the same qualifications, you know they decided who would stay there
+T521	Premise 693 717	It shouldn't be that way
+T522	Claim 724 782	the President can say well he wants to mend it, not end it
+T523	Claim 784 832	There are 168 federal programs that allow quotas
+T524	Claim 834 846	He ended one
+T525	Premise 909 1035	you look like the type that might be able to benefit from a 15 percent across- the-board tax cut and $500-per-child tax credit
+T526	Premise 1147 1217	If you're taking care of an elderly parent, you get a $1,000 deduction
+T527	Premise 1302 1322	How do we pay for it
+T528	Premise 1053 1111	estate tax relief which you're not interested in right now
+T529	Premise 1117 1145	capital gains rate reduction
+T530	Claim 1324 1385	You can have a constitutional amendment to balance the budget
+T531	Premise 1393 1427	the President opposed and defeated
+T532	Premise 1429 1504	He twisted arms and got six Democrats to vote with him and lost by one vote
+T533	Claim 1506 1557	We're going to balance the budget, by the year 2002
+T534	Claim 1559 1625	The President wants to spend 20 percent more in the next six years
+T535	Claim 1631 1705	I want to spend 14 percent more and give that 6 percent back to the people
+T536	Premise 1717 1732	it's your money
+T537	Premise 1734 1752	it's not his money
+T538	Premise 1758 1775	it's not my money
+T539	Premise 1777 1792	It's your money
+T540	Claim 1798 1867	you shouldn't have to apologize for wanting to keep all you can of it
+T541	Claim 1873 1928	he ought to apologize for wanting to take more and more
+T542	Claim 1930 2015	He wants to give you sort of a government tax cut, which really doesn't mean anything
+T543	Premise 2037 2186	one of the responsibilities of growing older, it seems to me, is being able to tell people something they may not want to hear just because it's true
+T544	Claim 2188 2268	When they had a 250 billion dollar tax scheme, that is half the size of this one
+T545	Claim 2270 2285	This one is 550
+T546	Premise 2287 2309	They passed the budget
+T547	Claim 2870 2966	My targeted tax cut is for child-rearing, buying a first-time home, paying for health care costs
+T548	Claim 2805 2868	It will require bigger cuts in Medicare than I vetoed last time
+T549	Claim 3026 3043	He won't tell you
+T550	Premise 3052 3060	he can't
+T551	Premise 2311 2393	They have 270 billion dollars in Medicare cuts the first education cuts in history
+T552	Premise 2395 2438	cut environmental enforcement by 25 percent
+T553	Premise 2440 2501	took away the guarantee of quality standards in nursing homes
+T554	Premise 2503 2569	took away the guarantee of health care for folks with disabilities
+T555	Claim 2650 2803	seven Nobel prize winners who said if this tax scheme passes, it will require huge cuts, 40 percent, in the environment and law enforcement and education
+T556	Claim 3069 3125	Your targeted tax cut, Mr. President, never hits anybody
+T557	Premise 3127 3153	That's the problem with it
+T558	Premise 3155 3174	Nobody ever gets it
+T559	Claim 3416 3499	My colleagues, Democrats and Republicans, will tell you that Bob Dole kept his word
+T560	Claim 3370 3414	If I have anything in politics, it's my word
+T561	Premise 3191 3233	I'm a little offended by this word "scheme
+T562	Premise 3267 3298	you talked about a risky scheme
+T563	Premise 3303 3368	Vice President Gore repeated it about ten times in St. Petersburg
+T564	Claim 3868 3948	He promised you a tax cut in 1992, and if you got one, you ought to vote for him
+T565	Premise 3820 3866	This isn't going to blow a hole in the deficit
+T566	Claim 3756 3818	The President doesn't have any ideas so he's out trashing ours
+T567	Claim 3711 3754	Social Security is going to grow 34 percent
+T568	Claim 3676 3705	It's going to grow 39 percent
+T569	Claim 3641 3674	We're not going to touch Medicare
+T570	Claim 3585 3640	We're going to tax -- cut taxes and balance the budget.
+T571	Premise 3535 3583	I'm going to keep my word to the American people
+T572	Premise 3501 3533	I'm going to keep my word to you
+R1	Support Arg1:T518 Arg2:T517	
+R2	Support Arg1:T520 Arg2:T519	
+R3	Support Arg1:T521 Arg2:T519	
+R4	Support Arg1:T523 Arg2:T524	
+R5	Support Arg1:T524 Arg2:T522	
+R6	Support Arg1:T531 Arg2:T530	
+R7	Support Arg1:T527 Arg2:T530	
+R8	Support Arg1:T532 Arg2:T531	
+R9	Support Arg1:T530 Arg2:T533	
+R10	Support Arg1:T536 Arg2:T535	
+R11	Support Arg1:T537 Arg2:T535	
+R12	Support Arg1:T535 Arg2:T534	
+R13	Support Arg1:T538 Arg2:T535	
+R14	Support Arg1:T539 Arg2:T535	
+R15	Support Arg1:T540 Arg2:T535	
+R16	Support Arg1:T534 Arg2:T541	
+R17	Support Arg1:T542 Arg2:T541	
+R18	Support Arg1:T550 Arg2:T549	
+R19	Support Arg1:T543 Arg2:T544	
+R20	Support Arg1:T545 Arg2:T544	
+R21	Support Arg1:T546 Arg2:T545	
+R22	Support Arg1:T551 Arg2:T546	
+R23	Support Arg1:T552 Arg2:T546	
+R24	Support Arg1:T553 Arg2:T546	
+R25	Support Arg1:T554 Arg2:T546	
+R26	Support Arg1:T555 Arg2:T548	
+R27	Support Arg1:T557 Arg2:T556	
+R28	Support Arg1:T558 Arg2:T556	
+R29	Support Arg1:T561 Arg2:T560	
+R30	Support Arg1:T562 Arg2:T561	
+R31	Support Arg1:T563 Arg2:T561	
+R32	Support Arg1:T559 Arg2:T560	
+R33	Support Arg1:T572 Arg2:T560	
+R34	Support Arg1:T571 Arg2:T560	
+R35	Support Arg1:T560 Arg2:T570	
+R36	Support Arg1:T569 Arg2:T568	
+R37	Attack Arg1:T566 Arg2:T549	
+R38	Attack Arg1:T549 Arg2:T533	

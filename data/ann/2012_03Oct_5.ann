@@ -1,0 +1,96 @@
+T860	Claim 443 505	my faith and confidence in the American future is undiminished
+T861	Premise 381 433	four years ago, we were going through a major crisis
+T862	Premise 525 546	because of its people
+T863	Premise 548 733	because of the woman I met in North Carolina who decided at 55 to go back to school because she wanted to inspire her daughter and now has a job from that new training that she's gotten
+T864	Premise 735 897	because a company in Minnesota who was willing to give up salaries and perks for their executives to make sure that they didn't lay off workers during a recession
+T865	Premise 900 1124	The auto workers that you meet in Toledo or Detroit take such pride in building the best cars in the world, not just because of a paycheck, but because it gives them that sense of pride, that they're helping to build America
+T866	Claim -1 276; -1 276	everything that I've tried to do, and everything that I'm now proposing for the next four years All those things are designed to make sure that the American people, their genius, their grit, their determination, is -- is channeled and -- and they have an opportunity to succeed
+T867	Premise 1301 1331	improving our education system
+T868	Premise 1335 1361	developing American energy
+T869	Premise 1365 1451	making sure that we're closing loopholes for companies that are shipping jobs overseas
+T870	Premise 1456 1547	focusing on small businesses and companies that are creating jobs here in the United States
+T871	Premise 1552 1641	closing our deficit in a responsible, balanced way that allows us to invest in our future
+T872	Claim 2314 2336	I've kept that promise
+T873	Claim 2341 2419	if you'll vote for me, then I promise I'll fight just as hard in a second term
+T874	Premise 2152 2312	I also promised that I'd fight every single day on behalf of the American people, the middle class, and all those who were striving to get into the middle class
+T875	Premise 2083 2146	that's probably a promise that Governor Romney thinks I've kept
+T876	Premise 1990 2077	four years ago, I said that I'm not a perfect man and I wouldn't be a perfect president
+T877	Premise 1831 1862	everybody's getting a fair shot
+T878	Premise 1868 1900	everybody's getting a fair share
+T879	Premise 1904 1934	everybody's doing a fair share
+T880	Premise 1940 1977	everybody's playing by the same rules
+T881	Claim 3369 3532	There's no question in my mind that if the president were to be reelected you'll continue to see a middle-class squeeze with incomes going down and prices going up
+T882	Premise 3340 3366	You can look at the record
+T883	Claim 3535 3560	I'll get incomes up again
+T884	Claim 3563 3594	You'll see chronic unemployment
+T885	Premise 3596 3658	We've had 43 straight months with unemployment above 8 percent
+T886	Claim 3661 3762	If I'm president I will create -- help create 12 million new jobs in this country with rising incomes
+T887	Claim 3765 3828	If the president's reelected, Obamacare will be fully installed
+T889	Claim 3959 3976	Many will lose it
+T890	Claim 3978 4045	You're going to see health premiums go up by some $2,500 per family
+T891	Claim 4048 4082	If I'm elected we won't have Obama
+T888	Claim 3830 3957	In my view that's going to mean a whole different way of life for people who counted on the insurance plan they had in the past
+T892	Claim 4084 4161	We'll put in place the kind of principles that I put in place in my own state
+T893	Claim 4166 4232	allow each state to craft their own programs to get people insured
+T894	Claim 4237 4288	we'll focus on getting the cost of health care down
+T895	Claim 4291 4379	If the president were to be reelected you're going to see a $716 billion cut to Medicare
+T896	Claim 4381 4442	You'll have 4 million people who will lose Medicare Advantage
+T897	Claim 4444 4521	You'll have hospital and providers that'll no longer accept Medicare patients
+T898	Claim 4524 4566	I'll restore that $716 billion to Medicare
+T899	Claim 4592 4658	The president's reelected you'll see dramatic cuts to our military
+T900	Premise 4660 4725	The secretary of defense has said these would be even devastating
+T901	Claim 4775 4801	I will keep America strong
+T902	Claim 4728 4773	I will not cut our commitment to our military
+T903	Claim 4806 4846	get America's middle class working again
+T904	Claim 2841 2885	It's an election about the course of America
+T905	Claim 2887 2962	What kind of America do you want to have for yourself and for your children
+T906	Premise 2969 3052	there really are two very different paths that we began speaking about this evening
+T907	Premise 3209 3247	they lead in very different directions
+T908	Claim 2572 2601	this is an important election
+T909	Claim 2725 2798	I know this is bigger than an election about the two of us as individuals
+T910	Claim 2800 2839	It's bigger than our respective parties
+R1	Support Arg1:T862 Arg2:T860	
+R2	Attack Arg1:T860 Arg2:T861	
+R3	Support Arg1:T863 Arg2:T860	
+R4	Support Arg1:T864 Arg2:T860	
+R5	Support Arg1:T865 Arg2:T860	
+T1	Claim 1644 1826	All those things are designed to make sure that the American people, their genius, their grit, their determination, is -- is channeled and -- and they have an opportunity to succeed.
+R6	Support Arg1:T860 Arg2:T1	
+R7	Support Arg1:T867 Arg2:T1	
+R8	Support Arg1:T868 Arg2:T1	
+R9	Support Arg1:T869 Arg2:T1	
+R10	Support Arg1:T870 Arg2:T1	
+R11	Support Arg1:T871 Arg2:T1	
+R12	Support Arg1:T877 Arg2:T878	
+R13	Support Arg1:T878 Arg2:T879	
+R14	Support Arg1:T879 Arg2:T880	
+R15	Support Arg1:T880 Arg2:T1	
+R16	Attack Arg1:T875 Arg2:T876	
+R17	Support Arg1:T876 Arg2:T874	
+R18	Support Arg1:T874 Arg2:T872	
+R19	Support Arg1:T872 Arg2:T873	
+T2	Premise 2606 2633	I'm concerned about America
+T3	Premise 2635 2718	I'm concerned about the direction America has been taking over the last four years.
+R20	Support Arg1:T3 Arg2:T2	
+R21	Support Arg1:T909 Arg2:T910	
+R22	Support Arg1:T910 Arg2:T904	
+R23	Support Arg1:T908 Arg2:T904	
+R24	Attack Arg1:T2 Arg2:T908	
+R25	Support Arg1:T904 Arg2:T905	
+R26	Support Arg1:T906 Arg2:T907	
+R27	Support Arg1:T907 Arg2:T882	
+R28	Support Arg1:T882 Arg2:T881	
+R29	Attack Arg1:T883 Arg2:T881	
+R30	Support Arg1:T885 Arg2:T884	
+R31	Attack Arg1:T886 Arg2:T884	
+R32	Support Arg1:T889 Arg2:T888	
+R33	Attack Arg1:T888 Arg2:T887	
+R34	Attack Arg1:T891 Arg2:T890	
+R35	Support Arg1:T893 Arg2:T892	
+R36	Support Arg1:T894 Arg2:T892	
+R37	Support Arg1:T895 Arg2:T896	
+R38	Support Arg1:T897 Arg2:T896	
+R39	Attack Arg1:T898 Arg2:T896	
+R40	Support Arg1:T900 Arg2:T899	
+R41	Attack Arg1:T902 Arg2:T899	
+R42	Support Arg1:T901 Arg2:T903	

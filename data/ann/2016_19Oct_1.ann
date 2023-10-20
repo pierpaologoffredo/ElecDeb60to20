@@ -1,0 +1,98 @@
+T1	Claim 911 1022	I have major disagreements with my opponent about these issues and others that will be before the Supreme Court
+T2	Claim 1028 1160	I feel that at this point in our country's history, it is important that we not reverse marriage equality, that we not reverse Roe v
+T4	Claim 1617 1660	The Supreme Court: It's what it's all about
+T6	Claim 2055 2085	I support the Second Amendment
+T7	Premise 2087 2129	I lived in Arkansas for 18 wonderful years
+T8	Premise 2131 2161	I represented upstate New York
+T9	Premise 2163 2218	I understand and respect the tradition of gun ownership
+T10	Premise 2220 2263	It goes back to the founding of our country
+T11	Claim 2698 2744	the D.C. vs. Heller decision was very strongly
+T12	Premise 2805 2841	she was very, very angry when upheld
+T13	Claim 2919 2963	Hillary was extremely upset, extremely angry
+T14	Claim 2969 3085	people that believe in the Second Amendment and believe in it very strongly were very upset with what she had to say
+T15	Premise 2883 2913	it was a well-crafted decision
+T16	Premise 2847 2877	Justice Scalia was so involved
+T18	Claim 3422 3465	Donald's been strongly supported by the NRA
+T19	Premise 3467 3494	The gun lobby's on his side
+T20	Premise 3496 3549	They're running millions of dollars of ads against me
+T21	Claim 3713 3812	we're going to do it in a way that tries to save some of these 33,000 lives that we lose every year
+T22	Premise 3583 3707	I would like to see is for people to come together and say: Of course we're going to protect and defend the Second Amendment
+T23	Premise 4075 4219	In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city
+T24	Claim 4224 4287	we have the toughest laws, and you have tremendous gun violence
+T26	Claim 4969 5021	If they overturned it, it will go back to the states
+T27	Premise 5403 5446	I am putting pro-life justices on the court
+T28	Claim 5350 5378	that'll happen automatically
+T29	Claim 5241 5344	if we put another two or perhaps three justice on, that's really what's going to be -- that will happen
+T30	Claim 5465 5541	It will go back to the states, and the states will then make a determination
+T25	Claim 4749 4897	if that would happen, because I am pro-life, and I will be appointing pro-life judges, I would think that that will go back to the individual states
+T31	Claim 5586 5610	I strongly support Roe v
+T32	Claim 5618 5779	which guarantees a constitutional right to a woman to make the most intimate, most difficult, in many cases, decisions about her health care that one can imagine
+T33	Premise 5799 5824	it's not only about Roe v
+T34	Premise 5832 5881	It is about what's happening right now in America
+T36	Claim 6106 6163	I could just not be more opposed to that kind of thinking
+T37	Premise 5927 5976	we have come too far to have that turned back now
+T38	Premise 6671 6709	I did not think that that was the case
+T39	Claim 6530 6638	there can be regulations on abortion so long as the life and the health of the mother are taken into account
+T40	Premise 6649 6669	I voted as a senator
+T41	Claim 6829 6850	I think it's terrible
+T42	Claim 6852 7015	If you go with what Hillary is saying, in the ninth month, you can take the baby and rip the baby out of the womb of the mother just prior to the birth of the baby
+T43	Claim 7338 7389	I do not believe the government should be making it
+T44	Claim 7680 7815	The government has no business in the decisions that women make with their families in accordance with their faith, with medical advice
+T45	Premise 7482 7658	I've been to countries where governments either forced women to have abortions, like they used to do in China, or forced women to bear children, like they used to do in Romania
+T46	Premise 7401 7480	I've had the great honor of traveling across the world on behalf of our country
+T47	Claim 7032 7071	that is not what happens in these cases
+T48	Premise 7077 7139	using that kind of scare rhetoric is just terribly unfortunate
+T49	Claim 7141 7247	You should meet with some of the women that I have met with, women I have known over the course of my life
+T50	Premise 7249 7332	This is one of the worst possible choices that any woman and her family has to make
+T51	Claim 7821 7851	I will stand up for that right
+T52	Claim 7953 8067	nobody has business doing what I just said, doing that, as late as one or two or three or four days prior to birth
+T17	Claim 3178 3189	I was upset
+T476	Premise 3199 3278	unfortunately, dozens of toddlers injure themselves, even kill people with guns
+T477	Premise 3289 3381	unfortunately, not everyone who has loaded guns in their homes takes appropriate precautions
+T478	Claim 3555 3568	I regret that
+T3	Claim 1173 1208	we stand up against Citizens United
+T479	Claim 1210 1263	we stand up for the rights of people in the workplace
+T480	Claim 1270 1345	we stand up and basically say: The Supreme Court should represent all of us
+T481	Claim 2752 2784	she was extremely angry about it
+T482	Premise 2786 2795	I watched
+T484	Claim 3880 3960	you oppose any limits on assault weapons, any limits on high- capacity magazines
+T483	Claim 3962 4003	You support a national right to carry law
+T485	Claim 8069 8084	Nobody has that
+R1	Support Arg1:T480 Arg2:T2	
+R2	Support Arg1:T3 Arg2:T2	
+R3	Support Arg1:T479 Arg2:T2	
+R4	Support Arg1:T7 Arg2:T6	
+R5	Support Arg1:T8 Arg2:T6	
+R6	Support Arg1:T9 Arg2:T6	
+R7	Support Arg1:T10 Arg2:T6	
+R8	Support Arg1:T481 Arg2:T11	
+R9	Support Arg1:T482 Arg2:T481	
+R10	Support Arg1:T12 Arg2:T481	
+*	Equivalent T13 T481
+R11	Attack Arg1:T14 Arg2:T6	
+R12	Support Arg1:T476 Arg2:T17	
+R13	Support Arg1:T477 Arg2:T17	
+R14	Support Arg1:T19 Arg2:T18	
+R15	Support Arg1:T20 Arg2:T18	
+R16	Attack Arg1:T478 Arg2:T18	
+R17	Support Arg1:T22 Arg2:T21	
+R18	Support Arg1:T21 Arg2:T478	
+R19	Support Arg1:T23 Arg2:T24	
+R20	Support Arg1:T28 Arg2:T29	
+R21	Support Arg1:T27 Arg2:T28	
+R22	Support Arg1:T26 Arg2:T30	
+R23	Support Arg1:T32 Arg2:T31	
+R24	Support Arg1:T34 Arg2:T33	
+R25	Support Arg1:T37 Arg2:T36	
+R26	Attack Arg1:T38 Arg2:T39	
+R27	Support Arg1:T40 Arg2:T38	
+R28	Support Arg1:T42 Arg2:T41	
+R29	Attack Arg1:T41 Arg2:T32	
+R30	Attack Arg1:T47 Arg2:T42	
+R31	Attack Arg1:T48 Arg2:T42	
+R32	Support Arg1:T50 Arg2:T43	
+R33	Support Arg1:T45 Arg2:T44	
+R34	Support Arg1:T46 Arg2:T44	
+R35	Support Arg1:T44 Arg2:T43	
+R36	Support Arg1:T43 Arg2:T51	
+*	Equivalent T485 T52

@@ -1,0 +1,88 @@
+T468	Claim 467 526	that's not exactly an accurate description of what happened
+T469	Premise 528 647	When I was that far ahead, it was immediately following the Democratic Convention, and before the Republican Convention
+T470	Premise 649 757	At that time, uh - 25 or 30 percent of the Reagan supporters said that they would not support President Ford
+T471	Premise 759 856	But as occurred at the end of the con- Democratic Convention, the Republican Party unified itself
+T472	Premise 870 953	immediately following the Republican Convention, there was about a ten-point spread
+T473	Premise 970 1030	to be accurate, I had 49 percent; President Ford, 39 percent
+T474	Premise 1037 1127	the polls uh - are good indications of fluctuations, but they vary widely one from another
+T475	Claim 1133 1221	the only poll I've ever followed is the one that uh - you know, is taken on election day
+T476	Premise 1223 1345	I was in uh - thirty primaries in the spring, and uh - at first it was obvious that I didn't have any standing in the poll
+T477	Premise 1376 1464	when Gallup ran their first poll in December of 1975 they didn't put my name on the list
+T478	Premise 1466 1505	They had thirty-five people on the list
+T479	Premise 1507 1532	My name wasn't even there
+T480	Premise 1538 1588	at the beginning of the year I had about 2 percent
+T481	Claim 1716 1785	I've never depended on powerful political figures to put me in office
+T482	Claim 1593 1689	the polls to me are interesting, but they don't determine, you know, my hopes or - or my despair
+T483	Claim 1691 1714	I campaign among people
+T484	Claim 1787 1918	I have a direct relationship with hundreds of people around - hundreds of thousands around the country who actively campaign for me
+T485	Premise 1920 1980	In Georgia alone, for instance, I got 84 percent of the vote
+T486	Premise 1994 2115	there were fourteen people uh - in addition to myself on the ballot, and Governor Wallace had been very strong in Georgia
+T487	Premise 2117 2183	That's an overwhelming support from my own people who know me best
+T488	Premise 2189 2361	today, we have about five hundred Georgians at their own expense - just working people who believe in me - spread around the country uh - involved in the political campaign
+T490	Claim 2448 2559	I think a lot of it uh - depends on current events - uh - sometimes foreign affairs, sometimes domestic affairs
+T491	Claim 2565 2669	I think our hold uh - of support among those who uh - are crucial to the election has been fairly steady
+T492	Claim 2675 2853	my success in the primary season was, I think, notable for a newcomer, from someone who's from outside Washington, who - who never has been a part of the Washington establishment
+T493	Claim 2859 2961	I think that we'll have good results uh - on November the second for myself and I hope for the country
+T489	Claim 3011 3235	I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes
+T494	Claim 3237 3281	He tends to distort on a number of occasions
+T495	Premise 3288 3420	just a moment ago, for example, uh - he uh - was indicating that uh - uh - in the 1950s, for example, uh - unemployment was very low
+T496	Premise 3422 3504	He fails to point out that uh - in the 1950s we were engaged in the war in Vietnam
+T499	Premise 3634 3698	That's not the way to end unemployment or to reduce unemployment
+T500	Premise 3700 3734	At the present time we're at peace
+T501	Premise 3736 3922	We have reduced the number of people in the Army, Navy, Air Force and Marines from three million, one hundred - three million, five hundred thousand to two mil- lion one hundred thousand
+T502	Premise 3924 3941	We are not at war
+T503	Premise 3943 4015	We have reduced the military manpower by a million four hundred thousand
+T504	Claim 4100 4150	our unemployment figure would be considerably less
+T505	Premise 4017 4098	If we had that many more people in the Army, the Navy, the Air Force, and Marines
+T506	Claim 4156 4291	this administration doesn't believe the way to reduce unemployment is to go to war, or to increase the number of people in the military
+T507	Claim 4296 4388	you cannot compare unemployment, as you sought to, uh - with the present time with the 1950s
+T508	Premise 4402 4496	then administration had people in the military - they were at war, they were fighting overseas
+T509	Premise 4502 4593	this administration has reduced the size of the military by a million four hundred thousand
+T510	Premise 4595 4688	They're in the civilian labor market and they're not fighting anywhere around the world today
+R1	Support Arg1:T469 Arg2:T468	
+R2	Support Arg1:T474 Arg2:T475	
+R3	Support Arg1:T473 Arg2:T468	
+R4	Support Arg1:T472 Arg2:T468	
+R5	Support Arg1:T471 Arg2:T468	
+R6	Support Arg1:T470 Arg2:T468	
+R7	Support Arg1:T469 Arg2:T468	
+R8	Support Arg1:T479 Arg2:T476	
+R9	Equivalent Arg1:T479 Arg2:T477	
+R10	Support Arg1:T477 Arg2:T476	
+R11	Support Arg1:T480 Arg2:T482	
+R12	Support Arg1:T476 Arg2:T482	
+R13	Support Arg1:T483 Arg2:T482	
+R14	Support Arg1:T482 Arg2:T481	
+R15	Support Arg1:T484 Arg2:T483	
+R16	Support Arg1:T485 Arg2:T484	
+R17	Support Arg1:T486 Arg2:T484	
+R18	Support Arg1:T487 Arg2:T484	
+R19	Support Arg1:T486 Arg2:T487	
+R20	Support Arg1:T488 Arg2:T484	
+R21	Support Arg1:T490 Arg2:T482	
+R22	Support Arg1:T491 Arg2:T482	
+R23	Support Arg1:T492 Arg2:T493	
+R24	Support Arg1:T491 Arg2:T493	
+R25	Support Arg1:T487 Arg2:T493	
+R26	Support Arg1:T482 Arg2:T493	
+R27	Support Arg1:T494 Arg2:T489	
+R28	Support Arg1:T495 Arg2:T494	
+R29	Support Arg1:T495 Arg2:T489	
+R30	Support Arg1:T496 Arg2:T494	
+R31	Support Arg1:T496 Arg2:T489	
+T1	Premise 3511 3632	I mean in Korea - we had uh - three million five hundred thousand young men uh - in the Army, Navy, Air Force and Marines
+R32	Support Arg1:T1 Arg2:T496	
+R33	Support Arg1:T1 Arg2:T499	
+R34	Support Arg1:T496 Arg2:T499	
+R35	Equivalent Arg1:T500 Arg2:T502	
+R36	Equivalent Arg1:T501 Arg2:T503	
+R37	Support Arg1:T505 Arg2:T504	
+R38	Support Arg1:T496 Arg2:T504	
+R39	Support Arg1:T500 Arg2:T504	
+R40	Equivalent Arg1:T508 Arg2:T496	
+R41	Support Arg1:T508 Arg2:T507	
+R42	Support Arg1:T506 Arg2:T507	
+R43	Equivalent Arg1:T509 Arg2:T503	
+R44	Equivalent Arg1:T509 Arg2:T501	
+R45	Equivalent Arg1:T510 Arg2:T502	
+R46	Equivalent Arg1:T500 Arg2:T510	

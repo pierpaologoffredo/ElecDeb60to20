@@ -1,0 +1,81 @@
+T229	Claim 414 531	To combat unemployment we first must concentrate on the very areas to which you refer - the so-called depressed areas
+T230	Claim 2815 2841	I do not expect it to come
+T231	Claim 2720 2809	we must use all of these weapons for the purpose of combating recession if it should come
+T232	Claim 2564 2715	I favor that rather than massive federal spending programs which will come into effect usually long after you've passed through the recessionary period
+T233	Claim 2246 2371	if we do get into a recessionary period we should move on that part of the economy which is represented by the private sector
+T234	Claim 2377 2439	I mean stimulate that part of the economy that can create jobs
+T235	Claim 2477 2562	This means through tax reform and if necessary tax cuts that will stimulate more jobs
+T236	Claim 2148 2211	I believe this economy is sound and that we're going to move up
+T237	Claim 1930 2082	we must use the full resources of the government in these respects: one, we must see to it that credit is expanded as we go into any recessionary period
+T238	Claim 2101 2146	I do not believe we're going into a recession
+T239	Claim 1697 1738	That's why I have a program for education
+T240	Premise 1740 1842	a program in the case of equal job opportunities, and one that would also deal with our older citizens
+T241	Claim 1609 1695	If we're going to combat unemployment, then, we have to do a better job in these areas
+T242	Claim 939 1036	we found that the bill got into the legislative difficulties and consequently no action was taken
+T243	Claim 1052 1140	at the highest priority we must get a bill for depressed areas through the next Congress
+T246	Claim 1142 1264	I have made recommendations on that and I have discussed them previously and I will spell them out further in the campaign
+T245	Claim 1277 1349	we consider this problem of unemployment, we have to realize where it is
+T247	Claim 1571 1607	It also exists among minority groups
+T248	Claim 1351 1442	In analyzing the figures we will find that our unemployment exists among the older citizens
+T249	Claim 1444 1569	it exists also among those who are inadequately trained; that is, those who do not have an adequate opportunity for education
+T250	Claim 2883 2964	Mr. Nixon has stated the record inaccurately in regard to the depressed area bill
+T251	Premise 2966 2991	I'm very familiar with it
+T252	Claim 3774 3927	I cannot still understand why this Administration and Mr. Nixon oppose putting medical care for the aged under Social Security to give them some security
+T253	Claim 3936 4055	I believe we should step up the use of our surplus foods in these areas until we're able to get the people back to work
+T254	Claim 4057 4124	Five cents a day - that's what the food package averages per person
+T255	Claim 4136 4264	I believe we should not carry out a hard money, high interest rate policy which helped intensify certainly the recession of 1958
+T256	Claim 4270 4312	I think helped bring the slow-down of 1960
+T257	Claim 4314 4422	If we move into a recession in sixty-one, then I would agree that we have to put more money into the economy
+T258	Claim 4428 4485	it can be done by either one of the two methods discussed
+T260	Premise 4540 4643	The other would be to make a judgment on what's the most effective tax program to stimulate our economy
+T261	Claim 3403 3511	Let me make it very clear that the bill that Mr. Nixon talked about did not mention Wilkes-Barre or Scranton
+T262	Claim 3513 3545	it did not mention West Virginia
+T263	Claim 3547 3578	Our bill was far more effective
+T265	Premise 3722 3772	he has mentioned the problem of our older citizens
+T266	Claim 3117 3233	We passed an area redevelopment bill far more effective than the bill the Administration suggested, on two occasions
+T267	Premise 3239 3273	the President vetoed it both times
+R1	Equivalent Arg1:T243 Arg2:T229	
+R2	Attack Arg1:T242 Arg2:T243	
+R3	Attack Arg1:T242 Arg2:T229	
+R4	Support Arg1:T246 Arg2:T243	
+R5	Support Arg1:T246 Arg2:T229	
+R6	Support Arg1:T245 Arg2:T248	
+R7	Support Arg1:T245 Arg2:T249	
+R8	Support Arg1:T245 Arg2:T247	
+R9	Support Arg1:T241 Arg2:T245	
+R10	Support Arg1:T247 Arg2:T241	
+R11	Support Arg1:T249 Arg2:T241	
+R12	Support Arg1:T248 Arg2:T241	
+R13	Support Arg1:T240 Arg2:T239	
+R14	Support Arg1:T239 Arg2:T248	
+R15	Support Arg1:T240 Arg2:T248	
+R16	Attack Arg1:T238 Arg2:T237	
+R17	Equivalent Arg1:T236 Arg2:T238	
+R18	Attack Arg1:T236 Arg2:T237	
+R19	Attack Arg1:T233 Arg2:T236	
+R20	Attack Arg1:T233 Arg2:T238	
+R21	Support Arg1:T234 Arg2:T233	
+R22	Equivalent Arg1:T235 Arg2:T234	
+R23	Support Arg1:T235 Arg2:T233	
+R24	Support Arg1:T232 Arg2:T233	
+R25	Support Arg1:T231 Arg2:T233	
+R26	Attack Arg1:T230 Arg2:T231	
+R27	Equivalent Arg1:T230 Arg2:T238	
+R28	Support Arg1:T251 Arg2:T250	
+R29	Attack Arg1:T250 Arg2:T242	
+R30	Support Arg1:T267 Arg2:T266	
+R31	Support Arg1:T262 Arg2:T250	
+R32	Support Arg1:T261 Arg2:T250	
+R33	Support Arg1:T263 Arg2:T250	
+R34	Support Arg1:T262 Arg2:T263	
+R35	Support Arg1:T261 Arg2:T263	
+R36	Support Arg1:T265 Arg2:T252	
+R37	Support Arg1:T253 Arg2:T252	
+R38	Attack Arg1:T252 Arg2:T248	
+R39	Support Arg1:T254 Arg2:T253	
+R40	Support Arg1:T256 Arg2:T255	
+R41	Support Arg1:T260 Arg2:T258	
+R42	Attack Arg1:T257 Arg2:T232	
+T1	Premise 4487 4538	One is by ex- the programs such as aid to education
+T2	Premise 3580 3710	The bill introduced and erd- sponsored by Senator Douglas was far more effective in trying to stimulate the economy of those areas
+T3	Premise 3275 3401	We passed a bill again this year in the cong- in the Senate and it died in the Rules Committee of the House of Representatives

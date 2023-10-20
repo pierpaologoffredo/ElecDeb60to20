@@ -1,0 +1,81 @@
+T508	Premise 427 459	I learned something from Vietnam
+T509	Premise 351 395	both of them are very complicated situations
+T510	Claim 461 619	I am not going to commit US forces until I know what the mission is, till the military tell me that it can be completed, and till I know how they can come out
+T511	Claim 621 635	We are helping
+T512	Premise 637 709	American airplanes are helping today on humanitarian relief for Sarajevo
+T513	Premise 711 791	It is America that's in the lead in helping with humanitarian relief for Somalia
+T514	Claim 858 970	I think you got to be a little bit careful and you have to be sure that there's a military plan that can do this
+T515	Premise 972 1073	You have ancient ethnic rivalries that have cropped up as Yugoslavia's dissolved or getting dissolved
+T516	Claim 1079 1138	it isn't going to be solved by sending in the 82nd Airborne
+T517	Claim 1144 1190	I'm not going to do that as commander-in-chief
+T519	Premise 1304 1336	we're making some progress there
+T520	Premise 1396 1515	right now, as you know, the US took the lead in a no-fly operation up there in-- no- fly order up in the United Nations
+T521	Premise 1517 1570	We're working through the international organizations
+T522	Claim 2057 2087	I think I'm on the right track
+T523	Premise 1572 1703	That's one thing I learned by forging that tremendous and greatly--highly successful coalition against Saddam Hussein, the dictator
+T524	Premise 1705 1739	Use--work internationally to do it
+T525	Premise 1741 1769	I am very concerned about it
+T526	Premise 1771 1808	I am concerned about ethnic cleansing
+T527	Premise 1810 1872	I am concerned about a tax on Muslims, for example, over there
+T528	Claim 1878 2051	I must stop short of using American force until I know how those young men and women are going to get out of there as well as get in, know what the mission is, and define it
+T529	Claim 2358 2439	We cannot send our people all over the world to solve every problem that comes up
+T530	Premise 2243 2356	if we learned anything in Vietnam is you first commit this nation before you commit the troops to the battlefield
+T531	Premise 2441 2520	This is basically a problem that is a primary concern to the European Community
+T535	Claim 2617 2752	it is inappropriate for us, just because there's a problem somewhere around the world, to take the sons and daughters of working people
+T536	Premise 2788 2879	all- volunteer armed force is not made up of the sons and daughters of the beautiful people
+T537	Premise 2881 2967	it's the working folks who send their sons and daughters to war, with a few exceptions
+T538	Premise 2969 3029	It's very unlike World War II, when FDR's sons flew missions
+T539	Premise 3031 3045	Everybody went
+T540	Claim 3047 3073	It's a different world now
+T541	Claim 3075 3216	It's very important that we not just, without thinking it through, just rush to every problem in the world and have our people torn to pieces
+T542	Claim 3268 3389	I agree that we cannot commit ground forces to become involved in the quagmire of Bosnia or in the tribal wars of Somalia
+T543	Claim 3395 3488	I think that it's important to recognize that there are things that can be done short of that
+T544	Premise 3527 3657	There are, after all, 2 million refugees now because of the problems in what was Yugoslavia, the largest number since World War II
+T545	Premise 3663 3757	there may be hundreds of thousands of people who will starve or freeze to death in this winter
+T546	Claim 3759 3812	The US should try to work with its allies and stop it
+T547	Premise 3814 3893	I urged the president to support this air cover, and he did--and I applaud that
+T548	Premise 3895 4013	I applaud the no-fly zone, and I know that he's going back to the United Nations to try to get authority to enforce it
+T549	Claim 4015 4079	I think we should stiffen the embargo on the Belgrade government
+T550	Claim 4085 4179	I think we have to consider whether or not we should lift the arms embargo now on the Bosnians
+T551	Premise 4187 4276	they are in no way in a fair fight with a heavily armed opponent bent on ethnic cleansing
+T552	Claim 4278 4315	We can't get involved in the quagmire
+T553	Claim 4321 4343	we must do what we can
+T648	Premise 797 856	when you go to put somebody else's son or daughter into war
+T649	Claim 3499 3525	we do have interests there
+R1	Support Arg1:T508 Arg2:T510
+R2	Support Arg1:T509 Arg2:T510
+R3	Support Arg1:T512 Arg2:T511
+R4	Support Arg1:T513 Arg2:T511
+R5	Support Arg1:T648 Arg2:T514
+R6	Support Arg1:T515 Arg2:T516
+R7	Support Arg1:T516 Arg2:T517
+R8	Support Arg1:T510 Arg2:T517
+R9	Support Arg1:T521 Arg2:T511
+R10	Support Arg1:T520 Arg2:T511
+R11	Support Arg1:T528 Arg2:T517
+R12	Support Arg1:T525 Arg2:T509
+R13	Support Arg1:T526 Arg2:T525
+R14	Support Arg1:T527 Arg2:T509
+R15	Support Arg1:T517 Arg2:T522
+R16	Support Arg1:T530 Arg2:T529
+R17	Support Arg1:T529 Arg2:T517
+R21	Support Arg1:T536 Arg2:T535
+R22	Support Arg1:T537 Arg2:T535
+R23	Support Arg1:T539 Arg2:T538
+R24	Support Arg1:T538 Arg2:T540
+R25	Support Arg1:T541 Arg2:T529
+R26	Support Arg1:T542 Arg2:T529
+R27	Support Arg1:T544 Arg2:T649
+R28	Support Arg1:T545 Arg2:T649
+R29	Support Arg1:T649 Arg2:T546
+R30	Support Arg1:T547 Arg2:T546
+R31	Support Arg1:T548 Arg2:T546
+R32	Support Arg1:T551 Arg2:T550
+R33	Support Arg1:T550 Arg2:T546
+R34	Support Arg1:T549 Arg2:T546
+R35	Support Arg1:T553 Arg2:T546
+R36	Attack Arg1:T514 Arg2:T511
+T1	Claim 1192 1298	I am going to stand by and use the moral persuasion of the US to get satisfaction in terms of prison camps
+T2	Premise 2522 2611	Certainly we care about the people, we care about the children, we care about the tragedy
+R18	Attack Arg1:T535 Arg2:T2
+R19	Support Arg1:T531 Arg2:T529

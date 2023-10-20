@@ -1,0 +1,82 @@
+T162	Claim 443 536	the one thing we might have to slow down is a commitment we made to double foreign assistance
+T163	Claim 538 575	We'll probably have to slow that down
+T164	Claim 576 681	We also are going to make sure that we do not go forward with the tax cut proposals of the administration
+T166	Claim 790 899	We're not going to support the $300 billion tax cut that they have for corporate America and the very wealthy
+T167	Claim 901 969	We're not going to support another $4 billion tax cut for ExxonMobil
+T165	Claim 1134 1164	We cannot slow up on education
+T169	Premise 1174 1269	that's the engine that is going to give us the economic growth and competitiveness that we need
+T170	Claim 1275 1374	we are not going to slow up on the whole idea of providing for affordable health care for Americans
+T171	Claim 1519 1613	we are going to, in fact, eliminate those wasteful spending that exist in the budget right now
+T172	Claim 1737 1846	the $100 billion tax dodge that, in fact, allows people to take their post office box off- shore, avoid taxes
+T173	Claim 2054 2156	he doesn't tell one thing to one group and then turns around and tells something else to another group
+T174	Claim 2242 2278	I want to go back to the energy plan
+T175	Premise 2307 2370	this is an important one that Barack Obama, he voted for in '05
+T176	Premise 2412 2511	in that energy plan that Obama voted for, that's what gave those oil companies those big tax breaks
+T177	Premise 2513 2545	Your running mate voted for that
+T178	Claim 3211 3292	those huge tax breaks aren't coming to the big multinational corporations anymore
+T179	Premise 3433 3531	it was Barack Obama who voted for that energy plan that gave those tax breaks to the oil companies
+T180	Claim 3875 3887	There is not
+T181	Claim 3943 3991	there hasn't been a whole lot that I've promised
+T182	Claim 4256 4343	I don't believe that John McCain has made any promise that he would not be able to keep
+T183	Claim 4447 4477	Obama voted for an energy bill
+T184	Premise 4000 4043	to do what is right for the American people
+T185	Premise 4045 4099	put government back on the side of the American people
+T186	Premise 4101 4145	stop the greed and corruption on Wall Street
+T187	Claim 4150 4250	the rescue plan has got to include that massive oversight that Americans are expecting and deserving
+T188	Premise 4507 4549	it had real support for alternative energy
+T189	Premise 4550 4670	When there were separate votes on eliminating the tax breaks for the oil companies, Barack Obama voted to eliminate them
+T190	Premise 4672 4684	John did not
+T191	Premise 4729 4923	If John really wanted to eliminate them, why is he adding to his budget an additional $4 billion in tax cuts for ExxonMobils of the world that, in fact, already have made $600 billion since 2001
+T192	Premise 4963 5016	She imposed a windfall profits tax up there in Alaska
+T193	Claim 4936 4961	I agree with the governor
+T194	Claim 5018 5059	That's what Barack Obama and I want to do
+T195	Claim 5061 5203	We want to be able to do for all of you Americans, give you back $1,000 bucks, like she's been able to give back money to her folks back there
+T196	Claim 5205 5260	But John McCain will not support a windfall profits tax
+T197	Premise 5262 5426	They've made $600 billion since 2001, and John McCain wants to give them, all by itself -- separate, no additional bill, all by itself -- another $4 billion tax cut
+T313	Claim 26 28	No
+T1	Claim 685 788	of John McCain, the existing one for people making over $250,000, which is $130 billion this year alone
+T2	Claim 971 1133	And what we're not going to also hold up on, Gwen, is we cannot afford to hold up on providing for incentives for new jobs by an energy policy, creating new jobs.
+R1	Support Arg1:T169 Arg2:T165	
+T3	Premise 1848 1871	I call that unpatriotic
+T4	Premise 1873 1896	I call that unpatriotic
+*	Equivalent T4 T3
+R2	Support Arg1:T163 Arg2:T162	
+R3	Support Arg1:T164 Arg2:T1	
+R4	Attack Arg1:T3 Arg2:T172	
+R5	Support Arg1:T172 Arg2:T171	
+R6	Support Arg1:T170 Arg2:T171	
+R7	Support Arg1:T165 Arg2:T171	
+R8	Support Arg1:T2 Arg2:T171	
+R9	Support Arg1:T167 Arg2:T171	
+R10	Support Arg1:T166 Arg2:T171	
+R11	Support Arg1:T1 Arg2:T171	
+R12	Support Arg1:T162 Arg2:T171	
+R13	Support Arg1:T175 Arg2:T174	
+R14	Support Arg1:T177 Arg2:T176	
+R15	Support Arg1:T176 Arg2:T175	
+T5	Premise 2547 2596	You know what I had to do in the state of Alaska?
+T6	Claim 2597 2800	I had to take on those oil companies and tell them, "No," you know, any of the greed there that has been kind of instrumental, I guess, in their mode of operation, that wasn't going to happen in my state
+R16	Support Arg1:T5 Arg2:T6	
+T7	Premise 2802 3205	And that's why Tillerson at Exxon and Mulva at ConocoPhillips, bless their hearts, they're doing what they need to do, as corporate CEOs, but they're not my biggest fans, because what I had to do up there in Alaska was to break up a monopoly up there and say, you know, the people are going to come first and we're going to make sure that we have value given to the people of Alaska with those resources
+R17	Support Arg1:T7 Arg2:T6	
+T8	Premise 3294 3428	not when it adversely affects the people who live in a state and, in this case, in a country who should be benefiting at the same time
+R18	Support Arg1:T6 Arg2:T178	
+R19	Attack Arg1:T178 Arg2:T8	
+T9	Claim 3532 3671	that I then had to turn around, as a governor of an energy-producing state, and kind of undo in my own area of expertise, and that's energy
+R21	Attack Arg1:T9 Arg2:T179	
+R22	Support Arg1:T7 Arg2:T178	
+R20	Support Arg1:T184 Arg2:T185	
+R23	Support Arg1:T185 Arg2:T186	
+R24	Support Arg1:T186 Arg2:T187	
+R25	Support Arg1:T182 Arg2:T187	
+R26	Attack Arg1:T187 Arg2:T181	
+R27	Support Arg1:T189 Arg2:T188	
+R30	Support Arg1:T192 Arg2:T193	
+R31	Support Arg1:T193 Arg2:T194	
+R32	Support Arg1:T194 Arg2:T195	
+R33	Attack Arg1:T195 Arg2:T196	
+R28	Attack Arg1:T191 Arg2:T190	
+R29	Support Arg1:T188 Arg2:T183	
+R34	Support Arg1:T196 Arg2:T197	
+T10	Claim 5428 5489	If that is not proof of what I say, I'm not sure what can be.
+R35	Support Arg1:T197 Arg2:T10	

@@ -1,0 +1,85 @@
+T82	Claim 578 707	there still isn't enough money to pay for those programs and balance the budget by any - any estimates that I've been able to see
+T83	Premise 408 576	if we price them conservatively and we count for full employment by the end of your first term, and we count for the economic growth that would occur during that period
+T84	Premise 352 397	you haven't put a price tag on those programs
+T85	Premise 266 346	You've also said that you wanna balance the budget by the end of your first term
+T86	Premise 80 264	you proposed a number of new or enlarged programs, including jobs, health, welfare reform, child care, aid to education, aid to cities, changes in social security and housing subsidies
+T87	Claim 758 786	as a matter of fact there is
+T88	Premise 788 980	If we assume the ah - uh - a rate of growth of our economy, equivalent to what it was during President Johnson, President Kennedy, even before the - the - the - uh wa uh - Vietnese- namese War
+T89	Premise 986 1105	if we assume that at the end of the four-year period we can cut our unemployment rate down to 4 to 4 and a half percent
+T90	Premise 1108 1534	under those circumstances, even assuming no elimination of unnecessary programs and assuming an increase in the ad- in the allotment of money to finance programs, increasing as the inflation rate does - my economic projections, I think confirmed by the House uh - and the Senate committees, have been with the $60 billion extra amount of money that can be spent in fiscal year '81 which will be the last year of this next term
+T91	Claim 1536 1646	Within that sixty-billion dollars increase there would be fit the programs that I promised the American people
+T92	Premise 1677 1721	if we see that these goals cannot be reached
+T93	Claim 1728 1762	I believe they're reasonable goals
+T94	Claim 1770 1944	I would cut back on the rate of implement- implementation of new programs in order to accommodate a balanced budget by fiscal year '81 which is the last year of the next term
+T95	Claim 1946 2032	I believe that we ought to have a balanced budget during normal economic circumstances
+T96	Premise 2043 2090	these projections have been very carefully made
+T97	Claim 2092 2111	I stand behind them
+T98	Claim 2176 2241	I'll phase in the programs that we've uh - advocated, more slowly
+T99	Premise 2117 2169	if they should be in error slightly on the down side
+T100	Premise 2265 2588	according to the budget committees of the Congress tha- tha- tha- that you referred to, if we get to full employment - what they project at a 4 percent unemployment - and, as you say, even allowing for the inflation in the programs, there would not be anything more than a surplus of $5 billion by the end of ninet- by 1981
+T101	Premise 2594 2695	conservative estimates of your programs would be that they'd be about 85 to a hundred billion dollars
+T102	Claim 3570 3703	we'll have uh - a safety version built in with complete reorganization of the executive branch of government which I am pledged to do
+T103	Premise 3705 3784	The present bureaucratic structure of the - of the Federal Government is a mess
+T104	Claim 3790 3988	if I'm elected president that's gonna be a top priority of mine to completely revise the structure of the federal government, to make it economical, efficient, purposeful and manageable for a change
+T105	Claim 4000 4043	I'm going to institute zero-based budgeting
+T106	Premise 4044 4078	which I used four years in Georgia
+T107	Premise 4080 4188	which uh - assesses every program every year, and eliminates those programs that are obsolete or obsolescent
+T108	Claim 4218 4268	we will have a balanced budget by fiscal year 1981
+T110	Premise 3047 3329	the committees to whom you refer with the - the employment that you uh - state, and with the 5 to 5 and a half percent growth rate in our economy, that the uh - projections would be a uh - a $60 billion increase in the amount of money that we'd have to spend in l981 compared to now
+T111	Claim 3355 3423	in that framework would befit the - any improvements in the programs
+T112	Premise 3429 3563	this does not include uh - any uh - uh extra control over uh unnecessary spending, the weeding out of obsolete or obsolescent programs
+T113	Claim 4296 4335	Keep my promises to the American people
+T114	Claim 4341 4554	it's just predicated on very modest, but I think accurate, projections of employment increases and uh - a growth in our national economy equal to what was experienced under Kennedy, Johnson, before the Vietnam War
+T115	Claim 4818 4920	I think the American taxpayer ought to get an additional tax break - a tax reduction of that magnitude
+T116	Premise 4588 4816	If it is uh true that there will be a $60 billion surplus by fiscal year 1981, rather than spend that money for all the new programs that Governor Carter recommends and endorses, and which are included in the Democratic platform
+T117	Claim 4934 4981	the taxpayers are the ones that need the relief
+T118	Claim 4983 5080	I don't think we should add additional programs of the magnitude that Governor Carter talks about
+T119	Claim 5728 5769	we can give taxpayers adequate tax relief
+T120	Premise 5543 5606	by eliminating ten million taxpayers in the last uh eight years
+T121	Premise 5612 5722	by putting a heavier tax burden on those in the higher tax brackets, plus the other actions that've been taken
+T122	Claim 5884 5932	there isn't going to be any $60 billion dividend
+T123	Premise 5800 5882	as we look at the recommendations of the budget committees and our own projections
+T124	Premise 5934 5975	I've heard of those dividends in the past
+T125	Premise 5977 5994	it always happens
+T126	Premise 5996 6149	We expected one at the time of the Vietnam War, but it was used up before we ever ended the war and taxpayers never got the adequate relief they deserved
+T127	Premise 5197 5341	since 1969, during a Republican administrations, we have had ten million people taken off of the tax rolls at the lower end of the taxpayer area
+T128	Premise 5347 5522	at the same time, assuming that I sign the tax bill that was mentioned by Mr. Gannon, we will in the last two tax bills have increased the minimum tax on all wealthy taxpayers
+T1	Premise 4273 4294	I'm elected president
+R1	Attack Arg1:T87 Arg2:T82	
+R2	Support Arg1:T88 Arg2:T90	
+R3	Support Arg1:T89 Arg2:T90	
+R5	Support Arg1:T91 Arg2:T87	
+R4	Support Arg1:T90 Arg2:T91	
+R6	Support Arg1:T95 Arg2:T94	
+R8	Support Arg1:T93 Arg2:T97	
+R10	Support Arg1:T107 Arg2:T105	
+T2	Claim 2808 2920	the uh - the assumption that - that you uh - have described as different is in the rate of growth of our economy
+T3	Claim 2929 2977	No, they took that into account in those figures
+R11	Attack Arg1:T3 Arg2:T2	
+R12	Support Arg1:T99 Arg2:T98	
+R13	Attack Arg1:T100 Arg2:T90	
+R14	Support Arg1:T110 Arg2:T111	
+R15	Support Arg1:T110 Arg2:T108	
+R16	Support Arg1:T103 Arg2:T102	
+R17	Support Arg1:T114 Arg2:T93	
+R18	Support Arg1:T117 Arg2:T115	
+R19	Support Arg1:T115 Arg2:T118	
+T4	Premise 5082 5153	It seems to me that our tax structure today has rates that are too high
+R20	Support Arg1:T4 Arg2:T115	
+R21	Support Arg1:T121 Arg2:T119	
+R22	Support Arg1:T120 Arg2:T119	
+R23	Support Arg1:T123 Arg2:T122	
+R24	Support Arg1:T124 Arg2:T125	
+R25	Support Arg1:T125 Arg2:T122	
+R26	Support Arg1:T126 Arg2:T124	
+R27	Attack Arg1:T122 Arg2:T110	
+R7	Support Arg1:T96 Arg2:T97	
+R9	Support Arg1:T102 Arg2:T104	
+R28	Support Arg1:T105 Arg2:T104	
+R29	Support Arg1:T106 Arg2:T105	
+R30	Support Arg1:T1 Arg2:T108	
+R31	Support Arg1:T108 Arg2:T113	
+R32	Support Arg1:T105 Arg2:T108	
+R33	Support Arg1:T104 Arg2:T108	
+R34	Support Arg1:T127 Arg2:T119	
+R35	Support Arg1:T128 Arg2:T119	

@@ -1,0 +1,38 @@
+T1	Question 35 174	Should a male who loves a male and a female who loves a female have all -- all the constitutional rights enjoyed by every American citizen?
+T2	Premise 299 645	Maybe I should begin this answer by going back to the beginning of the country and the Declaration of Independence which says there at the outset that all of us are created equal and that we're endowed not by any bunch of politicians or philosophers, but by our Creator, with those inalienable rights of life, liberty and the pursuit of happiness
+T3	Premise 647 821	At the beginning of our history, that promise that ideal was not realized or experienced by all Americans, but over time since then we have extended the orbit of that promise
+T5	Claim 823 1041	In our time at the frontier of that effort is extending those kinds of rights to gay and lesbian Americans who are citizens of this country and children of the same awesome God just as much as any of the rest of us are
+T4	Premise 1054 1255	I have been an original co-sponsor of the Employment Non-Discrimination Act which aims to prevent gay and lesbian Americans who are otherwise qualified from being discriminated against in the workplace
+T6	Premise 1261 1353	I've sponsored other pieces of legislation and taken other actions that carry out that ideal
+T7	Claim 1524 1533	I support
+T8	Premise 1579 1663	I have friends who are in gay and lesbian partnerships who said to me, isn't it fair
+T9	Premise 1665 1767	We don't have legal rights to inheritance, visitation when one partner is ill, to health care benefits
+T10	Claim 1803 1964	My mind is open to taking some action that will address those elements of unfairness while respecting the traditional religious and civil institution of marriage
+R1	Support Arg1:T8 Arg2:T7	
+R2	Support Arg1:T9 Arg2:T8	
+R3	Support Arg1:T10 Arg2:T7	
+R4	Support Arg1:T6 Arg2:T5	
+R5	Support Arg1:T4 Arg2:T5	
+R6	Support Arg1:T3 Arg2:T5	
+R7	Support Arg1:T2 Arg2:T5	
+R8	Support Arg1:T5 Arg2:T7	
+T11	Premise 2026 2118	The fact of the matter is we live in a free society, and freedom means freedom for everybody
+T12	Premise 2120 2222	We do n't get to choose, and we shouldn't be able to choose and say you get to live free and you don't
+T13	Premise 2224 2319	That means people should be free to enter into any kind of relationship they want to enter into
+T14	Premise 2321 2390	It's no one's business in terms of regulating behavior in that regard
+T15	Premise 2665 2725	The fact of the matter is that it is regulated by the states
+T16	Claim 2727 2819	I think different states are likely to come to different conclusions, and that's appropriate
+T17	Claim 2821 2892	I don't think there should necessarily be a federal policy in this area
+T18	Claim 2894 2979	I try to be open minded about it as much as I can and tolerant of those relationships
+T19	Premise 2985 3094	like Joe, I'm also wrestling with the extent to which there ought to be legal sanction of those relationships
+T20	Claim 3096 3221	I think we ought to do everything we can to tolerate and accommodate whatever kind of relationships people want to enter into
+R9	Support Arg1:T16 Arg2:T17	
+R10	Support Arg1:T19 Arg2:T18	
+R11	Support Arg1:T20 Arg2:T18	
+R12	Support Arg1:T15 Arg2:T16	
+R13	Support Arg1:T13 Arg2:T14	
+R14	Support Arg1:T12 Arg2:T13	
+R15	Support Arg1:T11 Arg2:T12	
+T21	Claim 2392 2613	The next step then, of course, is the question you ask of whether or not there ought to be some kind of official sanction of the relationships or if these relationships should be treated the same as a traditional marriage
+T22	Claim 2615 2639	That's a tougher problem
+R16	Attack Arg1:T22 Arg2:T21	

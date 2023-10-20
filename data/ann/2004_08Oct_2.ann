@@ -1,0 +1,137 @@
+T52	Claim 1533 1592	I saw a unique threat in Saddam Hussein, as did my opponent
+T53	Premise 1602 1647	we thought he had weapons of mass destruction
+T54	Premise 1654 1755	the unique threat was that he could give weapons of mass destruction to an organization like Al Qaida
+T55	Claim 1761 1864	the harm they inflicted on us with airplanes would be multiplied greatly by weapons of mass destruction
+T56	Claim 1870 1906	that was the serious, serious threat
+T57	Claim 863 914	After 9/11, we had to look at the world differently
+T58	Claim 916 1027	After 9/11, we had to recognize that when we saw a threat, we must take it seriously before it comes to hurt us
+T59	Premise 1030 1116	In the old days we'd see a threat, and we could deal with it if we felt like it or not
+T60	Premise 735 799	obviously we hope that diplomacy works before you ever use force
+T61	Premise 801 860	The hardest decision a president makes is ever to use force
+T62	Premise 1122 1141	9/11 changed it all
+T63	Premise 1144 1235	I vowed to our countrymen that I would do everything I could to protect the American people
+T64	Claim 1237 1282	That's why we're bringing Al Qaida to justice
+T65	Premise 1284 1341	Seventy five percent of them have been brought to justice
+T66	Premise 1449 1482	the Taliban is no longer in power
+T67	Premise 1488 1526	Al Qaida no longer has a place to plan
+T68	Claim 1378 1443	If you harbor a terrorist, you're just as guilty as the terrorist
+T69	Premise 1912 1957	I tried diplomacy, went to the United Nations
+T70	Premise 1963 2080	as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions
+T71	Premise 2082 2175	He was trying to get rid of sanctions for a reason: He wanted to restart his weapons programs
+T72	Claim 2225 2268	My opponent thought there was weapons there
+T73	Premise 2270 2309	That's why he called him a grave threat
+T75	Premise 2371 2429	we've got an intelligence group together to figure out why
+T76	Claim 2436 2470	Saddam Hussein was a unique threat
+T77	Claim 2476 2520	the world is better off without him in power
+T78	Premise 2527 2649	my opponent's plans lead me to conclude that Saddam Hussein would still be in power, and the world would be more dangerous
+T79	Claim 2844 2877	The world is more dangerous today
+T81	Premise 2921 2966	the president didn't make the right judgments
+T82	Claim 3672 3709	I've never changed my mind about Iraq
+T83	Premise 3711 3751	I do believe Saddam Hussein was a threat
+T84	Premise 3753 3786	I always believed he was a threat
+T85	Premise 3788 3834	Believed it in 1998 when Clinton was president
+T86	Premise 3836 3896	I wanted to give Clinton the power to use force if necessary
+T87	Claim 3903 3938	I would have used that force wisely
+T88	Claim 3940 3979	I would have used that authority wisely
+T89	Claim 3981 4030	not rushed to war without a plan to win the peace
+T90	Claim 4033 4076	I would have brought our allies to our side
+T91	Claim 4078 4176	I would have fought to make certain our troops had everybody possible to help them win the mission
+T92	Premise 4209 4232	pushed our allies aside
+T94	Claim 4238 4309	Iran now is more dangerous, and so is North Korea, with nuclear weapons
+T95	Claim 3023 3130	He wants you to believe that because he can't come here and tell you that he's created new jobs for America
+T96	Claim 2974 3021	the president wishes that I had changed my mind
+T97	Premise 3132 3146	He's lost jobs
+T98	Claim 3149 3224	He can't come here and tell you that he's created health care for Americans
+T99	Premise 3240 3340	we've got 5 million Americans who have lost their health care, 96,000 of them right here in Missouri
+T74	Premise 2312 2365	I wasn't happy when we found out there wasn't weapons
+T93	Premise 4179 4207	This president rushed to war
+T100	Claim 3343 3405	He can't come here and tell you that he's left no child behind
+T101	Premise 3414 3449	he didn't fund no child left behind
+T102	Claim 3472 3496	He's trying to attack me
+T103	Claim 3498 3547	He wants you to believe that I can't be president
+T104	Claim 3553 3587	he's trying to make you believe it
+T105	Claim 3596 3634	he wants you to think I change my mind
+T107	Premise 4995 5063	he could have given weapons of mass destruction to terrorist enemies
+T108	Premise 4699 4794	My opponent said that America must pass a global test before we used force to protect ourselves
+T109	Premise 4796 4855	That's the kind of mindset that says sanctions were working
+T110	Premise 4857 4957	That's the kind of mindset that said, "Let's keep it at the United Nations and hope things go well."
+T111	Claim 5065 5091	Sanctions were not working
+T112	Claim 5093 5156	The United Nations was not effective at removing Saddam Hussein
+T113	Claim 5185 5293	The goal of the sanctions was not to remove Saddam Hussein, it was to remove the weapons of mass destruction
+T114	Premise 5315 5389	just yesterday the Duelfer report told you and the whole world they worked
+T115	Premise 5391 5433	He didn't have weapons of mass destruction
+T116	Claim 5508 5564	we could have saved $200 billion and an invasion of Iraq
+T117	Premise 5478 5506	if we'd used smart diplomacy
+T118	Premise 5450 5472	That was the objective
+T119	Premise 5570 5621	right now, Osama bin Laden might be in jail or dead
+T120	Premise 5623 5652	That's the war against terror
+T1	Claim 2879 2912	The world is more dangerous today
+T2	Claim 4959 4986	Saddam Hussein was a threat
+R1	Support Arg1:T61 Arg2:T60	
+R2	Support Arg1:T57 Arg2:T58	
+R3	Attack Arg1:T58 Arg2:T60	
+R4	Attack Arg1:T62 Arg2:T59	
+R5	Support Arg1:T62 Arg2:T58	
+R6	Attack Arg1:T58 Arg2:T59	
+R7	Support Arg1:T63 Arg2:T64	
+R8	Support Arg1:T65 Arg2:T64	
+R9	Support Arg1:T67 Arg2:T64	
+R10	Support Arg1:T66 Arg2:T64	
+R11	Support Arg1:T53 Arg2:T52	
+R12	Support Arg1:T54 Arg2:T55	
+R13	Support Arg1:T55 Arg2:T56	
+R14	Support Arg1:T52 Arg2:T56	
+R15	Support Arg1:T65 Arg2:T68	
+R16	Support Arg1:T71 Arg2:T70	
+T3	Claim 2178 2216	We all thought there was weapons there
+R17	Support Arg1:T69 Arg2:T70	
+R18	Support Arg1:T71 Arg2:T3	
+R19	Support Arg1:T72 Arg2:T3	
+R20	Support Arg1:T73 Arg2:T72	
+R21	Support Arg1:T75 Arg2:T74	
+R22	Support Arg1:T76 Arg2:T77	
+R23	Support Arg1:T56 Arg2:T76	
+R24	Attack Arg1:T77 Arg2:T78	
+R25	Support Arg1:T79 Arg2:T1	
+R26	Support Arg1:T81 Arg2:T1	
+R27	Attack Arg1:T95 Arg2:T97	
+R28	Attack Arg1:T98 Arg2:T99	
+R29	Attack Arg1:T100 Arg2:T101	
+R30	Support Arg1:T95 Arg2:T96	
+R31	Support Arg1:T98 Arg2:T96	
+R32	Support Arg1:T100 Arg2:T96	
+R33	Support Arg1:T102 Arg2:T103	
+R34	Support Arg1:T104 Arg2:T103	
+R35	Support Arg1:T105 Arg2:T104	
+T4	Premise 3452 3471	So what does he do?
+R36	Support Arg1:T4 Arg2:T102	
+R37	Attack Arg1:T82 Arg2:T105	
+R38	Support Arg1:T83 Arg2:T82	
+R39	Support Arg1:T84 Arg2:T83	
+R40	Support Arg1:T85 Arg2:T84	
+R41	Support Arg1:T86 Arg2:T85	
+R42	Support Arg1:T87 Arg2:T88	
+R43	Attack Arg1:T87 Arg2:T89	
+R44	Attack Arg1:T88 Arg2:T89	
+R45	Attack Arg1:T90 Arg2:T89	
+R46	Attack Arg1:T91 Arg2:T89	
+R47	Attack Arg1:T90 Arg2:T92	
+R48	Attack Arg1:T89 Arg2:T93	
+R49	Support Arg1:T93 Arg2:T94	
+R50	Support Arg1:T92 Arg2:T94	
+R51	Support Arg1:T109 Arg2:T108	
+R52	Support Arg1:T110 Arg2:T108	
+R53	Support Arg1:T107 Arg2:T2	
+R54	Support Arg1:T2 Arg2:T111	
+R55	Support Arg1:T111 Arg2:T112	
+R56	Attack Arg1:T112 Arg2:T110	
+R57	Attack Arg1:T111 Arg2:T109	
+R58	Attack Arg1:T113 Arg2:T111	
+R59	Support Arg1:T114 Arg2:T113	
+R60	Attack Arg1:T114 Arg2:T111	
+R61	Support Arg1:T115 Arg2:T118	
+R62	Support Arg1:T118 Arg2:T117	
+R63	Support Arg1:T117 Arg2:T116	
+R64	Attack Arg1:T116 Arg2:T112	
+R65	Attack Arg1:T116 Arg2:T119	
+R66	Attack Arg1:T116 Arg2:T120	

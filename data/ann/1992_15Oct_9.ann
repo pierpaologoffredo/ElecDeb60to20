@@ -1,0 +1,68 @@
+T1	Premise 489 577	It caused me to disrupt my private life and my business to get involved in this activity
+T2	Claim 579 610	That's how much I care about it
+T3	Premise 628 785	if you knew my family and if you knew the private life I have, you would agree in a minute that that's a whole lot more fun than getting involved in politics
+T4	Claim 791 822	I have lived the American dream
+T5	Premise 824 858	I came from very modest background
+T6	Premise 860 929	Nobody's been luckier than I've been, all the way across the spectrum
+T7	Premise 935 986	the greatest riches of all are my wife and children
+T8	Premise 988 1013	That's true of any family
+T9	Claim 1020 1157	I want all the children -- I want these young people up here to be able to start with nothing but an idea like I did and build a business
+T10	Claim 1163 1205	they've got to have a strong basic economy
+T11	Premise 1210 1273	if you're in debt, it's like having a ball and chain around you
+T12	Premise 1276 1441	I just figure, as lucky as I've been, I owe it to them and I owe it to the future generations and on a very personal basis, I owe it to my children and grandchildren
+T13	Claim 1504 1547	I think the national debt affects everybody
+T14	Claim 1807 1822	I'm sure it has
+T15	Claim 1953 2008	I think that that's an important part of being a parent
+T16	Premise 1883 1951	I want to think that they're going to be able to afford an education
+T17	Premise 2781 2942	you ought to be in the White House for a day and hear what I hear and see what I see and read the mail I read and touch the people that I touch from time to time
+T18	Premise 2944 2973	I was in the Lomax AME Church
+T19	Premise 2975 3025	It's a black church just outside of Washington, DC
+T20	Premise 3031 3146	I read in the bulletin about teenage pregnancies, about the difficulties that families are having to make ends meet
+T21	Premise 3148 3165	I talk to parents
+T22	Claim 3175 3193	you've got to care
+T23	Premise 3195 3238	Everybody cares if people aren't doing well
+T24	Claim 3244 3340	I don't think it's fair to say, you haven't had cancer. Therefore, you don't know what's it like
+T25	Claim 3342 3445	I don't think it's fair to say, you know, whatever it is, that if you haven't been hit by it personally
+T26	Claim 3451 3483	everybody's affected by the debt
+T27	Premise 3484 3581	because of the tremendous interest that goes into paying on that debt everything's more expensive
+T28	Premise 3583 3632	Everything comes out of your pocket and my pocket
+T29	Claim 3653 3741	I think in terms of the recession, of course you feel it when you're president of the US
+T30	Premise 3747 3859	that's why I'm trying to do something about it by stimulating the export, vesting more, better education systems
+T31	Premise 4129 4177	I've been governor of a small state for 12 years
+T32	Premise 4215 4328	Every year Congress and the president sign laws that make us do more things and gives us less money to do it with
+T33	Premise 4330 4490	I see people in my state, middle class people -- their taxes have gone up in Washington and their services have gone down while the wealthy have gotten tax cuts
+T34	Premise 4492 4641	I have seen what's happened in this last 4 years when -- in my state, when people lose their jobs there's a good chance I'll know them by their names
+T35	Premise 4643 4694	When a factory closes, I know the people who ran it
+T36	Premise 4696 4740	When the businesses go bankrupt, I know them
+T37	Premise 4747 4958	I've been out here for 13 months meeting in meetings just like this ever since October, with people like you all over America, people that have lost their jobs, lost their livelihood, lost their health insurance
+T38	Claim 4994 5041	the national debt is not the only cause of that
+T42	Premise 5190 5244	We've gone from first to twelfth in the world in wages
+T43	Premise 5246 5307	We've had 4 years where we've produced no private sector jobs
+T44	Premise 5309 5390	Most people are working harder for less money than they were making ten years ago
+T46	Claim 5459 5594	this decision you're about to make better be about what kind of economic theory you want, not just people saying I'm going to go fix it
+T47	Claim 5624 5692	I think we have to do is invest in American jobs, American education
+T39	Claim 5057 5095	America has not invested in its people
+T40	Premise 5111 5128	we have not grown
+T41	Premise 5144 5188	we've had 12 years of trickle down economics
+T45	Premise 5407 5453	we are in the grip of a failed economic theory
+T388	Claim 5694 5728	control American health care costs
+T389	Claim 5733 5773	bring the American people together again
+R1	Support Arg1:T1 Arg2:T2	
+R2	Support Arg1:T3 Arg2:T2	
+R3	Support Arg1:T5 Arg2:T4	
+R4	Support Arg1:T6 Arg2:T4	
+R5	Support Arg1:T7 Arg2:T4	
+R6	Support Arg1:T16 Arg2:T15	
+T48	Claim 2054 2143	Are you suggesting that if somebody has means that the national debt doesn't affect them?
+R7	Attack Arg1:T24 Arg2:T48	
+R8	Support Arg1:T27 Arg2:T26	
+R9	Support Arg1:T28 Arg2:T26	
+R10	Attack Arg1:T39 Arg2:T38	
+R11	Support Arg1:T41 Arg2:T38	
+R12	Support Arg1:T42 Arg2:T38	
+R13	Support Arg1:T43 Arg2:T38	
+R14	Support Arg1:T45 Arg2:T38	
+R15	Support Arg1:T44 Arg2:T38	
+R16	Support Arg1:T46 Arg2:T47	
+R17	Support Arg1:T388 Arg2:T47	
+R18	Support Arg1:T30 Arg2:T29	

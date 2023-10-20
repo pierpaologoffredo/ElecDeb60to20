@@ -1,0 +1,92 @@
+T573	Premise 279 308	I signed the Family Leave Act
+T574	Premise 310 335	It was my very first bill
+T575	Claim 341 361	I'm very proud of it
+T576	Premise 370 417	it symbolizes what I think we ought to be doing
+T577	Premise 419 492	I don't take credit for all the good things that have happened in America
+T578	Claim 498 584	I take credit for what I've tried to do to work with others to make good things happen
+T579	Premise 586 654	Most important good things that happen in America happen in families
+T580	Claim 1882 1916	yes, I think it should be expanded
+T581	Claim 1918 1968	We have to help people succeed at home and at work
+T582	Claim 777 918	Family medical leave has let 12 million families take a little time off for the birth of a child or a family illness without losing their job
+T583	Premise 920 959	I'd like to see it expanded in two ways
+T584	Claim 961 1081	I'd like to say you can also take a little time off without losing your job to go to a regular parent-teacher conference
+T585	Claim 1085 1145	to go to a regular doctor's appointment with a family member
+T586	Claim 1147 1274	I'd also like to see the overtime laws change so that we could have some more flex time so that at the discretion of the worker
+T587	Premise 1288 1430	if you earn overtime, you could decide when you want that time to be taken, in cash or in time with your family if you've got a family problem
+T588	Premise 1432 1537	I never go anywhere, it seems like, where I don't meet somebody who has benefited from a Family Leave Law
+T589	Premise 1539 1610	In Longview, Texas the other day, I met a woman who was almost in tears
+T590	Premise 1619 1704	she had been able to keep her job while spending time with her husband who had cancer
+T591	Premise 1706 1877	One of the people who's here with me today met a woman in the airport saying her son, Jess was able to be present at the birth of her child because of the Family Leave Law
+T592	Premise 1983 2062	88 percent of the people -- the President claims 11 million are already covered
+T593	Premise 2098 2166	only 5 percent of the employers are affected by the Family Leave Act
+T594	Claim 2168 2188	We had a better idea
+T595	Premise 2190 2203	We didn't win
+T597	Premise 2231 2249	we have a majority
+T598	Premise 2254 2272	we get a president
+T599	Premise 2274 2312	That was a tax credit for the employer
+T600	Claim 2314 2398	Instead of the federal government, we had that tax credit, pick up some of the costs
+T601	Premise 2408 2463	if you have to hire a replacement worker, that's a cost
+T602	Premise 2465 2497	This is the way it ought to work
+T603	Claim 2499 2578	give more power back to the states and back to the people back to the taxpayers
+T604	Premise 2580 2629	not always the long arm of the federal government
+T605	Premise 2648 2691	this bill covers 5 percent of the employers
+T606	Claim 2697 2788	95 percent of the employers and all those employees they employ are not covered in this act
+T607	Claim 2864 2985	88 percent of the people he claims credit for are already covered in collective bargaining agreements or other agreements
+T608	Claim 3204 3224	we want family leave
+T609	Claim 2987 3020	We had family leave in our office
+T610	Premise 3035 3067	I see my friend Senator Mitchell
+T611	Premise 3069 3088	He had family leave
+T612	Premise 3120 3154	I spend a lot of time in hospitals
+T613	Claim 3230 3259	there's a better way to do it
+T614	Claim 3323 3363	It covers the majority of the work force
+T615	Claim 3763 3783	I believe it's right
+T616	Claim 3785 3831	You can decide which of us you think are right
+T617	Premise 3833 3847	It's up to you
+T618	Claim 3365 3399	Employers of under 50 are exempted
+T619	Premise 3401 3453	The bill originally covered employers of 25 and more
+T620	Premise 3459 3498	because of opposition, we went up to 50
+T621	Claim 3500 3537	Senator Dole led the opposition to it
+T622	Premise 3539 3557	He filibustered it
+T623	Premise 3559 3583	He said it was a mistake
+T624	Claim 3620 3699	We've had record numbers of new small businesses and 10 and a half million jobs
+T625	Claim 3701 3727	It didn't hurt the economy
+T626	Premise 3585 3618	He said it would hurt the economy
+T627	Claim 3729 3761	He still believes it's a mistake
+T1	Claim 2205 2225	We had a better idea
+R1	Support Arg1:T574 Arg2:T575	
+R2	Support Arg1:T573 Arg2:T575	
+R3	Support Arg1:T576 Arg2:T575	
+R4	Support Arg1:T577 Arg2:T578	
+R5	Support Arg1:T579 Arg2:T578	
+R6	Support Arg1:T583 Arg2:T582	
+R7	Support Arg1:T587 Arg2:T586	
+R8	Support Arg1:T584 Arg2:T580	
+R9	Support Arg1:T585 Arg2:T580	
+R10	Support Arg1:T586 Arg2:T580	
+R11	Support Arg1:T588 Arg2:T580	
+R12	Support Arg1:T590 Arg2:T589	
+R13	Support Arg1:T589 Arg2:T580	
+R14	Support Arg1:T591 Arg2:T580	
+R15	Support Arg1:T581 Arg2:T580	
+R16	Support Arg1:T593 Arg2:T594	
+R17	Support Arg1:T592 Arg2:T594	
+*	Equivalent T1 T594
+R18	Support Arg1:T597 Arg2:T598	
+R19	Support Arg1:T599 Arg2:T600	
+R20	Support Arg1:T601 Arg2:T600	
+R21	Support Arg1:T604 Arg2:T603	
+R22	Support Arg1:T602 Arg2:T603	
+R23	Support Arg1:T605 Arg2:T606	
+R24	Support Arg1:T610 Arg2:T611	
+R25	Support Arg1:T611 Arg2:T609	
+R26	Support Arg1:T608 Arg2:T613	
+R27	Attack Arg1:T613 Arg2:T580	
+R28	Support Arg1:T619 Arg2:T618	
+R29	Support Arg1:T620 Arg2:T618	
+R30	Support Arg1:T622 Arg2:T621	
+R31	Support Arg1:T623 Arg2:T621	
+R32	Support Arg1:T626 Arg2:T621	
+R33	Support Arg1:T624 Arg2:T625	
+R34	Support Arg1:T625 Arg2:T615	
+R35	Support Arg1:T617 Arg2:T616	
+R36	Support Arg1:T621 Arg2:T616	

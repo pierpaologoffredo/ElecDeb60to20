@@ -1,0 +1,100 @@
+T106	Claim 579 640	where I come from, it's called fairness, just simple fairness
+T107	Claim 642 672	The middle class is struggling
+T108	Premise 674 862	The middle class under John McCain's tax proposal, 100 million families, middle class families, households to be precise, they got not a single change, they got not a single break in taxes
+T110	Claim 1163 1201	that seems to me to be simple fairness
+T111	Claim 1050 1157	And 95 percent of the people in the United States of America making less than $150,000 will get a tax break
+T112	Claim 1203 1253	The economic engine of America is the middle class
+T113	Claim 1255 1298	It's the people listening to this broadcast
+T114	Claim 1301 1335	hen you do well, America does well
+T115	Claim 1337 1361	Even the wealthy do well
+T116	Claim 1363 1383	This is not punitive
+T117	Claim 1385 1543	John wants to add $300 million, billion in new tax cuts per year for corporate America and the very wealthy while giving virtually nothing to the middle class
+T118	Claim 1545 1574	We have a different value set
+T119	Claim 1576 1615	The middle class is the economic engine
+T120	Claim 1617 1626	It's fair
+T121	Claim 1628 1704	They deserve the tax breaks, not the super wealthy who are doing pretty well
+T122	Claim 1706 1741	They don't need any more tax breaks
+T123	Claim 1759 1812	they'll pay no more than they did under Ronald Reagan
+T124	Claim 1841 1967	I do take issue with some of the principle there with that redistribution of wealth principle that seems to be espoused by you
+T125	Claim 1973 2167	when you talk about Barack's plan to tax increase affecting only those making $250,000 a year or more, you're forgetting the millions of small businesses that are going to fit into that category
+T126	Claim 2172 2285	they're going to be the ones paying higher taxes thus resulting in fewer jobs being created and less productivity
+T127	Premise 2290 2388	you said recently that higher taxes or asking for higher taxes or paying higher taxes is patriotic
+T128	Claim 2390 2495	In the middle class of America which is where Todd and I have been all of our lives, that's not patriotic
+T129	Claim 2497 2570	Patriotic is saying, government, you know, you're not always the solution
+T130	Claim 2581 2609	too often you're the problem
+T131	Claim 2610 2667	so, government, lessen the tax burden and on our families
+T132	Claim 2672 2762	get out of the way and let the private sector and our families grow and thrive and prosper
+T135	Premise 3056 3105	he's got a good health care plan that is detailed
+T136	Premise 3156 3287	He's proposing a $5,000 tax credit for families so that they can get out there and they can purchase their own health care coverage
+T137	Claim 3289 3315	That's a smart thing to do
+T138	Claim 3317 3338	That's budget neutral
+T139	Claim 3709 3785	But a $5,000 health care credit through our income tax that's budget neutral
+T140	Claim 3787 3807	That's going to help
+T141	Claim 3813 3873	he also wants to erase those artificial lines between states
+T142	Premise 3903 3927	we can cross state lines
+T143	Premise 3932 4014	if there's a better plan offered somewhere else, we would be able to purchase that
+T144	Claim 4019 4120	affordability and accessibility will be the keys there with that $5,000 tax credit also being offered
+T146	Claim 4499 4532	we don't call that redistribution
+T147	Claim 4534 4566	We call that fairness number one
+T148	Premise 4585 4675	95 percent of the small businesses in America, their owners make less than $250,000 a year
+T149	Claim 4677 4763	They would not get one single solitary penny increase in taxes, those small businesses
+T150	Claim 4835 4862	it's with one hand you give
+T151	Claim 4866 4887	the other you take it
+T152	Premise 5027 5149	He taxes as income every one of you out there, every one of you listening who has a health care plan through your employer
+T153	Claim 5151 5185	That's how he raises $3.6 trillion
+T154	Premise 5198 5328	taxing your health care benefit to give you a $5,000 plan, which his Web site points out will go straight to the insurance company
+T155	Claim 5330 5380	And then you're going to have to replace a $12,000
+T157	Claim 5471 5524	You're going to have to pay -- replace a $12,000 plan
+T158	Premise 5534 5575	20 million of you are going to be dropped
+T159	Premise 5577 5614	Twenty million of you will be dropped
+T160	Claim 5619 5733	you're going to have to place -- replace a $12,000 plan with a $5,000 check you just give to the insurance company
+T161	Claim 5735 5778	I call that the "Ultimate Bridge to Nowhere
+R1	Support Arg1:T106 Arg2:T107	
+R2	Attack Arg1:T107 Arg2:T108	
+T1	Claim 864 1048	No one making less than $250,000 under Barack Obama's plan will see one single penny of their tax raised whether it's their capital gains tax, their income tax, investment tax, any tax
+R3	Support Arg1:T1 Arg2:T111	
+R4	Support Arg1:T111 Arg2:T110	
+R5	Support Arg1:T112 Arg2:T113	
+R6	Support Arg1:T113 Arg2:T114	
+R7	Support Arg1:T114 Arg2:T115	
+R8	Support Arg1:T115 Arg2:T116	
+R9	Attack Arg1:T116 Arg2:T117	
+R10	Support Arg1:T118 Arg2:T119	
+R11	Support Arg1:T119 Arg2:T120	
+R12	Support Arg1:T120 Arg2:T121	
+R13	Attack Arg1:T121 Arg2:T122	
+R14	Support Arg1:T123 Arg2:T122	
+R15	Support Arg1:T124 Arg2:T125	
+R16	Support Arg1:T125 Arg2:T126	
+R17	Attack Arg1:T128 Arg2:T127	
+T2	Claim 2764 2948	An increased tax formula that Barack Obama is proposing in addition to nearly a trillion dollars in new spending that he's proposing is the backwards way of trying to grow our economy.
+R18	Support Arg1:T129 Arg2:T130	
+R19	Support Arg1:T130 Arg2:T131	
+R20	Support Arg1:T131 Arg2:T132	
+R21	Attack Arg1:T132 Arg2:T2	
+R22	Support Arg1:T135 Arg2:T136	
+R23	Support Arg1:T136 Arg2:T137	
+R24	Support Arg1:T138 Arg2:T137	
+T3	Premise 3340 3381	That doesn't cost the government anything
+T4	Claim 3382 3707	as opposed to Barack Obama's plan to mandate health care coverage and have this universal government run program and unless you're pleased with the way the federal government has been running anything lately, I don't think that it's going to be real pleasing for Americans to consider health care being taken over by the feds
+R25	Support Arg1:T3 Arg2:T138	
+R26	Attack Arg1:T137 Arg2:T4	
+R27	Support Arg1:T139 Arg2:T140	
+R28	Attack Arg1:T140 Arg2:T4	
+R29	Support Arg1:T142 Arg2:T141	
+R30	Support Arg1:T143 Arg2:T141	
+R31	Support Arg1:T141 Arg2:T144	
+T5	Premise 4203 4497	We don't call a redistribution in my neighborhood Scranton, Claymont, Wilmington, the places I grew up, to give the fair to say that not giving Exxon Mobil another $4 billion tax cut this year as John calls for and giving it to middle class people to be able to pay to get their kids to college
+R32	Support Arg1:T5 Arg2:T146	
+R33	Support Arg1:T146 Arg2:T147	
+R34	Support Arg1:T148 Arg2:T149	
+R35	Support Arg1:T150 Arg2:T151	
+R36	Support Arg1:T152 Arg2:T153	
+R37	Attack Arg1:T153 Arg2:T151	
+R38	Support Arg1:T158 Arg2:T157	
+R39	Support Arg1:T159 Arg2:T158	
+R40	Support Arg1:T154 Arg2:T153	
+R41	Support Arg1:T155 Arg2:T157	
+R42	Support Arg1:T160 Arg2:T157	
+R43	Support Arg1:T157 Arg2:T161	
+R44	Attack Arg1:T161 Arg2:T153	

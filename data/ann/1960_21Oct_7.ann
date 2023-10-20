@@ -1,0 +1,72 @@
+T319	Claim 525 623	One of the areas, and of course the most vulnerable area is - I have felt, has been Eastern Europe
+T320	Premise 625 868	I've been critical of the Administration's failure to suggest policies which would make it possible for us to establish, for example, closer relations with Poland, particularly after the fifty-five-fifty-six period and the Hungarian revolution
+T321	Premise 870 942	We indicated at that time that we were not going to intervene militarily
+T322	Premise 948 1112	there was a period there when Poland demonstrated a national independence and even the Polish government moved some differn- di- distance away from the Soviet Union
+T323	Claim 1400 1478	Eastern Europe is the area of vulnerability of the uh - s- of the Soviet Union
+T324	Premise 1114 1199	I suggested that we amend our legislation so that we could enjoy closer economic ties
+T325	Premise 1201 1313	We received the support first of the Administration and then not, and we were defeated by one vote in the Senate
+T326	Premise 1315 1386	We passed the bill in the Senate this year but it didn't pass the House
+T327	Claim 1490 1528	the relations between Russia and China
+T328	Premise 1530 1706	They are now engaged in a debate over whether war is the means of Communizing the world or whether they should use subversion, infiltration, economic struggles and all the rest
+T329	Claim 1763 1836	I think the next president of the United States should watch it carefully
+T330	Premise 1838 1927	If those two powers should split, it could have great effects throughout the entire world
+T331	Claim 1938 2023	I believe that India represents a great area for affirmative action by the free world
+T332	Premise 2025 2079	India started from about the same place that China did
+T333	Premise 2081 2141	Chinese Communists have been moving ahead the last ten years
+T334	Premise 2143 2199	India under a free society has been making some progress
+T335	Premise 2205 2498	if India does not succeed - with her four hundred and fifty million people, if she can't make freedom work - then people around the world are going to determine - particularly in the underdeveloped world - that the only way that they can develop their resources is through the Communist system
+T336	Claim 2524 2634	in Africa, Asia, Latin America, Eastern Europe, the great force on our side is the desire of people to be free
+T337	Premise 2636 2694	This has expressed itself in the revolts in Eastern Europe
+T338	Premise 2696 2791	It's expressed itself in the desire of the people of Africa to be independent of Western Europe
+T339	Premise 2793 2813	They want to be free
+T340	Claim 2819 2900	my judgment is that they don't want to give their freedom up to become Communists
+T341	Premise 2902 2996	They want to stay free, independent perhaps of us, but certainly independent of the Communists
+T342	Claim 3002 3486	I believe if we identify ourselves with that force, if we identify ourselves with it as Lincoln, as Wilson did, as Franklin Roosevelt did, if we become known as the friend of freedom, sustaining freedom, helping freedom, helping these people in the fight against poverty and ignorance and disease, helping them build their lives, I believe in Latin America, Africa, and Asia, eventually in the Eastern Europe and the Middle East, certainly in Western Europe, we can strengthen freedom
+T343	Claim 3488 3507	We can make it move
+T344	Claim 3509 3551	We can put the Communists on the defensive
+T345	Claim 4140 4160	This should continue
+T346	Claim 4165 4293	it can be stepped up to give them hope and to keep alive the hope for freedom that I can testify they have so deeply within them
+T347	Premise 3609 3788	with regard to Poland, when I talked to Mr. Gomulka, the present leader of Poland, for six hours in Warsaw last year, I learned something about their problems and particularly his
+T348	Premise 3790 3968	Right under the Soviet gun, with Soviet troops there, he is in a very difficult position in taking anything independent, a position which would be independent of the Soviet Union
+T349	Premise 3978 4138	let's just see what we've done for Poland, A half a billion dollars worth of aid has gone to Poland, primarily economic, primarily to go to the people of Poland
+T350	Premise 4307 4535	we can have more exchange with Poland or with any other of the Iron Curtain countries which show some desire to take a different path than the path that has been taken by the ones that are complete satellites of the Soviet Union
+T351	Claim 5261 5388	If we can get that across to the people of these countries, in this decade of the sixties, the struggle for freedom will be won
+T352	Claim 4958 4978	we want to help them
+T353	Premise 4980 5033	not because we're simply trying to save our own skins
+T354	Premise 5035 5085	not because we're simply trying to fight Communism
+T355	Premise 5099 5115	we care for them
+T356	Premise 5125 5145	we stand for freedom
+T357	Premise 5155 5259	if there were no Communism in the world, we would still fight poverty and misery and disease and tyranny
+T358	Premise 4694 4926	If we are going to have the initiative in the world, we must remember that the people of Africa and Asia and Latin America don't want to be pawns simply in a struggle between two great powers - the Soviet Union and the United States
+R1	Support Arg1:T324 Arg2:T320	
+R2	Support Arg1:T323 Arg2:T319	
+R3	Support Arg1:T321 Arg2:T319	
+R5	Support Arg1:T330 Arg2:T329	
+R6	Support Arg1:T332 Arg2:T331	
+R7	Support Arg1:T335 Arg2:T331	
+R8	Support Arg1:T334 Arg2:T331	
+R9	Support Arg1:T337 Arg2:T336	
+R10	Support Arg1:T338 Arg2:T336	
+R11	Support Arg1:T339 Arg2:T342	
+R12	Support Arg1:T340 Arg2:T342	
+R13	Support Arg1:T347 Arg2:T348	
+R14	Support Arg1:T348 Arg2:T346	
+R15	Support Arg1:T346 Arg2:T345	
+R16	Support Arg1:T355 Arg2:T352	
+R17	Support Arg1:T356 Arg2:T352	
+R18	Support Arg1:T357 Arg2:T352	
+R19	Support Arg1:T358 Arg2:T352	
+R20	Support Arg1:T358 Arg2:T351	
+R21	Support Arg1:T320 Arg2:T319	
+R22	Support Arg1:T322 Arg2:T324	
+R23	Support Arg1:T326 Arg2:T320	
+R24	Support Arg1:T325 Arg2:T326	
+R4	Support Arg1:T328 Arg2:T327	
+R25	Support Arg1:T327 Arg2:T329	
+R26	Support Arg1:T333 Arg2:T335	
+R27	Support Arg1:T341 Arg2:T340	
+R28	Support Arg1:T336 Arg2:T342	
+R29	Support Arg1:T340 Arg2:T342	
+R30	Support Arg1:T342 Arg2:T344	
+R31	Support Arg1:T349 Arg2:T346	
+R32	Support Arg1:T350 Arg2:T346	

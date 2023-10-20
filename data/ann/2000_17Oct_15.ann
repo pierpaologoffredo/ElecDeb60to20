@@ -1,0 +1,126 @@
+T745	Claim 324 356	I am a person who keeps promises
+T746	Claim 536 570	I think the record shows otherwise
+T747	Claim 1643 1666	this is a show me state
+T748	Claim 1300 1330	I promise you I will keep mine
+T749	Claim 1101 1161	I will give middle-class Americans tax cuts, meaningful ones
+T750	Claim 1064 1099	I will pay down the debt every year
+T751	Claim 1026 1062	I will balance the budget every year
+T752	Premise -1 151; -1 151	we've heard a lot from the governor about not much being done in the last eight years, as if the promises that I made eight years ago have not been kept
+T753	Claim 572 668	We have gone from the biggest deficits eight years ago to the biggest surpluses in history today
+T754	Claim 670 798	Instead of high unemployment, we now have the lowest African-American unemployment, the lowest Latino unemployment ever measured
+T755	Premise 800 853	22 million new jobs, very low unemployment nationally
+T756	Claim 855 974	Instead of ballooning the debt and multiplying it four times over, we have seen the debt actually begun to be paid down
+T757	Claim 1167 1258	I will invest in education, health care, protecting the environment and retirement security
+T758	Premise 1332 1375	Let me tell you about one of the governor's
+T759	Premise 1377 1506	He has promised a trillion dollars out of the Social Security Trust Fund for young working adults to invest and save on their own
+T760	Premise 1512 1638	he's promised seniors that their Social Security benefits will not be cut, and he's promised the same trillion dollars to them
+T761	Claim 2170 2186	It didn't happen
+T762	Premise 1999 2023	You asked about promises
+T763	Premise 2025 2118	You were promised that Medicare would be reformed, and that Social Security would be reformed
+T764	Premise 2120 2168	You were promised a middle-class tax cut in 1992
+T765	Premise 2188 2229	There's too much bitterness in Washington
+T766	Claim 2259 2290	It's time to have a fresh start
+T767	Premise 2231 2257	There's too much wrangling
+T768	Claim 2292 2407	One of the reasons I was successful as the governor of Texas is because I didn't try to be all things to all people
+T769	Claim 3870 3902	I'm going to bring them together
+T770	Claim 3754 3777	That's what it requires
+T771	Claim 3663 3752	it's gonna require people to bring both Republicans and Democrats together to get it done
+T772	Claim 3632 3657	That's one of my promises
+T773	Claim 3200 3228	People are going to get paid
+T774	Claim 2794 2826	To me that's what it's all about
+T775	Claim 2746 2792	that's what we need, I think, in this election
+T776	Premise 2640 2690	I had the will of the people in my state behind me
+T777	Claim 2696 2740	then I brought folks together to get it done
+T778	Claim 2629 2634	I won
+T779	Premise 2409 2510	When I campaigned in a race, a lot of folks didn't think I could win including, by the way, my mother
+T780	Claim 3060 3128	we need to take a trillion dollars out of that $2.4 trillion surplus
+T781	Claim 2989 3045	One of my promises is going to be Social Security reform
+T782	Claim 2954 2987	that's what I hope people look at
+T783	Premise 2828 2926	I'm sure your 6th grade kids are listening and saying, these guys will say anything to get elected
+T784	Claim 2932 2948	there's a record
+T785	Premise 3144 3198	Social Security revenue exceeds expenses up until 2015
+T786	Claim 3520 3630	you get a better rate of return on the money than the paltry 2% that the federal government gets for you today
+T787	Premise 3411 3516	you bet we're gonna take a trillion dollars of your own money and let you invest it under safe guidelines
+T788	Claim 3234 3405	if you're a younger worker, if you're younger, you better hope this country thinks differently, otherwise you're gonna be faced with huge payroll taxes or reduced benefits
+T789	Claim 3779 3814	There was a chance to get this done
+T790	Premise 3816 3844	It was a bipartisan approach
+T791	Premise 3850 3868	it's been rejected
+T792	Claim 4287 4316	you cannot keep both promises
+T793	Premise 4183 4281	the trillion dollars that has been promised to young people has also been promised to older people
+T794	Claim 4559 4585	Now that is the difference
+T795	Claim -1 59; -1 59	Under my plan its solvency will be extended until you're 100
+T796	Claim 4318 4481	If you're in your mid-40's under the governor's plan, Social Security will be bankrupt by the time you retire, if he takes it out of the Social Security Trust Fund
+T797	Claim 4721 4788	This election is not about debating tricks, it is about your future
+T798	Premise 4591 4693	the governor may not want to answer that question, he may want to call it a high school debating trick
+T799	Claim 4850 4915	it's not a bank account that just pays back money that's invested
+T801	Premise 4917 5010	It is also used to give your mothers and fathers the Social Security checks that they live on
+T802	Claim -1 117; -1 117	If you take a trillion dollars out of that Social Security Trust Fund how are you going to keep faith with the seniors
+T803	Claim 5570 5610	It's who you trust, government or people
+T804	Claim 5529 5568	I want workers to have their own assets
+T805	Claim 5491 5527	There's just a difference of opinion
+T806	Claim 5452 5489	you can invest some of your own money
+T807	Premise 5398 5443	The trillion dollars comes out of the surplus
+T808	Claim 5301 5396	One reason people are skeptical is because people don't answer the questions they've been asked
+T1	Premise 373 535	we've heard a lot about -- from the governor about not much being done in the last eight years, as if the promises that I made eight years ago have not been kept.
+R1	Attack Arg1:T746 Arg2:T1	
+R2	Support Arg1:T746 Arg2:T745	
+R3	Support Arg1:T755 Arg2:T754	
+R4	Support Arg1:T753 Arg2:T745	
+R5	Support Arg1:T754 Arg2:T745	
+R6	Support Arg1:T756 Arg2:T745	
+R7	Support Arg1:T751 Arg2:T750	
+R8	Support Arg1:T751 Arg2:T748	
+R9	Support Arg1:T750 Arg2:T748	
+R10	Support Arg1:T749 Arg2:T748	
+R11	Support Arg1:T757 Arg2:T748	
+R12	Support Arg1:T758 Arg2:T759	
+R13	Support Arg1:T759 Arg2:T760	
+T2	Premise 1668 1805	Reminds me of the line from the movie, "Show me the money." Which one of those promises will you keep and which will you break, Governor?
+R14	Attack Arg1:T748 Arg2:T2	
+R15	Attack Arg1:T747 Arg2:T760	
+R16	Support Arg1:T762 Arg2:T763	
+R17	Support Arg1:T762 Arg2:T764	
+R18	Attack Arg1:T761 Arg2:T764	
+R19	Attack Arg1:T761 Arg2:T763	
+R20	Support Arg1:T765 Arg2:T767	
+R21	Attack Arg1:T766 Arg2:T767	
+R22	Attack Arg1:T766 Arg2:T765	
+R23	Attack Arg1:T768 Arg2:T767	
+T3	Claim 2523 2623	I said I'd do four things; tort reform, education reform, welfare reform and juvenile justice reform
+R24	Support Arg1:T778 Arg2:T3	
+R25	Support Arg1:T776 Arg2:T3	
+R26	Attack Arg1:T768 Arg2:T779	
+R27	Support Arg1:T768 Arg2:T3	
+R28	Support Arg1:T3 Arg2:T777	
+R29	Support Arg1:T775 Arg2:T777	
+R30	Support Arg1:T774 Arg2:T777	
+R31	Support Arg1:T784 Arg2:T782	
+R32	Attack Arg1:T784 Arg2:T783	
+R33	Support Arg1:T785 Arg2:T781	
+R34	Support Arg1:T773 Arg2:T785	
+R35	Support Arg1:T785 Arg2:T780	
+R36	Support Arg1:T787 Arg2:T786	
+R37	Support Arg1:T780 Arg2:T787	
+R38	Support Arg1:T786 Arg2:T772	
+R39	Support Arg1:T773 Arg2:T772	
+R40	Attack Arg1:T781 Arg2:T788	
+R41	Support Arg1:T770 Arg2:T771	
+R42	Support Arg1:T790 Arg2:T789	
+R43	Attack Arg1:T789 Arg2:T791	
+R44	Support Arg1:T771 Arg2:T769	
+R45	Attack Arg1:T792 Arg2:T793	
+R46	Attack Arg1:T792 Arg2:T780	
+T4	Claim 4483 4557	Under my plan it will be -- its solvency will be extended until you're 100
+R47	Attack Arg1:T4 Arg2:T796	
+R48	Attack Arg1:T792 Arg2:T796	
+R49	Support Arg1:T4 Arg2:T794	
+R50	Attack Arg1:T797 Arg2:T798	
+R51	Support Arg1:T801 Arg2:T799	
+T5	Premise 5012 5165	If you take a trillion dollars out of that Social Security Trust Fund, how are the checks going to be -- how are you going to keep faith with the seniors
+R52	Attack Arg1:T801 Arg2:T5	
+R53	Support Arg1:T807 Arg2:T806	
+R54	Support Arg1:T806 Arg2:T805	
+R55	Attack Arg1:T805 Arg2:T794	
+R56	Support Arg1:T806 Arg2:T804	
+R57	Support Arg1:T804 Arg2:T803	
+R58	Attack Arg1:T803 Arg2:T4	

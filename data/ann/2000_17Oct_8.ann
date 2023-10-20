@@ -1,0 +1,83 @@
+T413	Claim 549 605	I don't think the National Rifle Association ran that ad
+T414	Claim 898 924	I don't think I ran the ad
+T415	Claim 926 1001	I think somebody who doesn't want me to be president might have run that ad
+T416	Claim 1003 1020	That wasn't my ad
+T417	Claim 1022 1073	I think it might have been one of my opponent's ads
+T418	Claim 1104 1195	I believe law-abiding citizens ought to be allowed to protect themselves and their families
+T419	Claim 1197 1285	I believe that we ought to keep guns out of the hands of people that shouldn't have them
+T420	Claim 1287 1344	That's why I'm for instant background checks at gun shows
+T421	Claim 1346 1367	I'm for trigger locks
+T422	Claim 1369 1393	I think that makes sense
+T423	Claim 1475 1550	people can get them and put them on their guns to make their guns more safe
+T424	Premise 1411 1466	we distributed free trigger locks in the State of Texas
+T425	Claim 1552 1619	I think we ought to raise the age at which juveniles can have a gun
+T426	Claim 1625 1813	I also believe strongly that we need to enforce laws on the books that the best way to make sure that we keep our society safe and secure is to hold people accountable for breaking the law
+T427	Claim 1815 1892	If we catch somebody illegally selling a gun, there needs to be a consequence
+T428	Claim 2458 2493	I'm for enforcing laws on the books
+T429	Claim 2427 2452	I'm for is a safe society
+T430	Claim 2228 2282	To me that's how you make society the safest it can be
+T431	Claim 2040 2107	There is a great program called Project Exile in Richmond, Virginia
+T432	Premise 2109 2226	where we focused federal taxpayers' money and federal prosecutors and went after people who were illegally using guns
+T433	Claim 1927 1981	illegally using a gun, there needs to be a consequence
+T434	Claim 1983 2038	Enforcement of law, and the federal government can help
+T435	Claim 2499 2529	that's what is going to happen
+T436	Claim 2607 2649	it was not one of my ads, either, Governor
+T437	Claim 2792 2974	I think that some common sense gun safety measures are certainly needed with the flood of cheap handguns that have sometimes been working their way into the hands of the wrong people
+T438	Claim 3616 3633	Governor, I'm not
+T439	Claim 4388 4402	We can do that
+T440	Claim 4212 4326	my plan for the future, I see a time when we have smaller, smarter government where you don't have to wait in line
+T441	Premise 4335 4386	you can get services online cheaper, better, faster
+T442	Claim 3171 3198	Let's make our schools safe
+T443	Claim 3200 3233	let's make our neighborhoods safe
+T444	Claim 3290 3405	we can have a background check to make sure that criminals and people who really shouldn't have guns don't get them
+T445	Claim 3235 3272	Let's have a three-day waiting period
+T446	Premise 4141 4205	Federal government has gone down, Texas's government has gone up
+T447	Premise 4073 4139	During the last five years, Texas's government has gone up in size
+T448	Claim 3875 3950	The federal government has been reduced in size by more than 300,000 people
+T449	Premise -1 64; -1 64	it's now the smallest in size since John Kennedy's administration
+T450	Claim 2980 3039	all of my proposals are focused on that problem, gun safety
+T451	Claim 3041 3134	None of my proposals would have any effect on hunters, or sportsmen, or people who use rifles
+T452	Claim 3136 3169	They're aimed at the real problem
+R1	Attack Arg1:T415 Arg2:T414	
+R2	Support Arg1:T416 Arg2:T414	
+R3	Attack Arg1:T415 Arg2:T416	
+R4	Attack Arg1:T416 Arg2:T417	
+R5	Support Arg1:T418 Arg2:T420	
+R6	Support Arg1:T419 Arg2:T420	
+R7	Support Arg1:T421 Arg2:T420	
+R8	Support Arg1:T422 Arg2:T421	
+R9	Support Arg1:T422 Arg2:T420	
+R10	Support Arg1:T424 Arg2:T421	
+R11	Support Arg1:T424 Arg2:T423	
+R12	Support Arg1:T432 Arg2:T431	
+R13	Support Arg1:T431 Arg2:T430	
+R14	Support Arg1:T431 Arg2:T434	
+R15	Support Arg1:T434 Arg2:T430	
+R16	Support Arg1:T433 Arg2:T430	
+R17	Support Arg1:T427 Arg2:T430	
+R18	Support Arg1:T426 Arg2:T430	
+R19	Support Arg1:T425 Arg2:T430	
+R20	Support Arg1:T429 Arg2:T430	
+R21	Support Arg1:T428 Arg2:T426	
+R22	Support Arg1:T428 Arg2:T430	
+R23	Support Arg1:T430 Arg2:T435	
+R24	Attack Arg1:T436 Arg2:T417	
+R25	Support Arg1:T437 Arg2:T450	
+R26	Support Arg1:T452 Arg2:T450	
+R27	Support Arg1:T451 Arg2:T450	
+R28	Support Arg1:T442 Arg2:T450	
+R29	Support Arg1:T443 Arg2:T450	
+R30	Support Arg1:T445 Arg2:T450	
+R31	Support Arg1:T444 Arg2:T445	
+T1	Premise 3541 3613	a couple of times the governor has said that I am for a bigger governmen
+R32	Attack Arg1:T438 Arg2:T1	
+T2	Premise 3678 3792	For the last eight years I have had the challenge of running the streamlining program called Reinventing Governmen
+T3	Premise 3952 4071	And it's now the smallest number that we have had since the -- the smallest in size since John Kennedy's administration
+R33	Support Arg1:T2 Arg2:T448	
+R34	Support Arg1:T3 Arg2:T448	
+R35	Attack Arg1:T448 Arg2:T447	
+R36	Attack Arg1:T448 Arg2:T446	
+R37	Support Arg1:T446 Arg2:T447	
+R38	Support Arg1:T441 Arg2:T440	
+R39	Support Arg1:T439 Arg2:T440	
+R40	Support Arg1:T448 Arg2:T440	

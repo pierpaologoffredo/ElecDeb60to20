@@ -1,0 +1,56 @@
+T968	Claim 817 874	We don't need a constitutional amendment for kids to pray
+T969	Claim 880 1044	what I did was to have the justice department and the education department for the first time ever issue a set of guidelines that we gave to every school in America
+T970	Claim 1046 1208	saying that children could not be interfered with in religious advocacy when they were praying, when they were doing whatever they could do under the constitution
+T971	Premise 1223 1258	they were on a public school ground
+T972	Claim 1264 1460	I think anyone who's experienced this will tell you that our administration has done more than any in years to clarify the freedom of religion in the public square, including in the public schools
+T973	Claim 1467 1519	I think I have to let Senator Dole speak for himself
+T974	Claim 1521 1558	It wouldn't be fair for me to do that
+T975	Premise 1696 1739	We have a lot of differences in our country
+T976	Premise 1745 1817	some of us believe that other people's decisions are wrong, even immoral
+T977	Claim 1823 1981	under our constitution, if you show up tomorrow and obey the law, and you work hard and you do what you're supposed to do, you are entitled to equal treatment
+T978	Claim 2016 2063	All over the world, people are being torn apart
+T979	Premise 2144 2176	because of all their differences
+T980	Premise 2178 2221	We still have some of that hatred inside us
+T981	Premise 2223 2256	You see it in the church burnings
+T982	Claim 2262 2367	one of the things I've tried hardest to do is to tell the American people that we have to get beyond that
+T983	Claim 2369 2489	we have to understand that we're stronger when we unite around shared values instead of being divided by our differences
+T984	Claim 2565 2594	I'm opposed to discrimination
+T985	Premise 2605 2662	we've suffered discrimination in the disability community
+T986	Premise 2696 2792	I can recall cases where people would cross the street rather than meet somebody in a wheelchair
+T987	Claim 2828 2855	I think that answers itself
+T988	Claim 2857 2885	No discrimination in America
+T989	Claim 2987 3063	We shouldn't discriminate -- race, color, whatever -- life-style, disability
+T990	Premise 3065 3080	This is America
+T991	Claim 3134 3199	What we need is good, strong leadership going in the next century
+T992	Claim 3687 3878	there is no more important responsibility for the president than to say if you believe in the constitution, the Bill of Rights, and the Declaration of Independence, that's all we need to know
+T993	Premise 3884 3978	you can be part of our America and you can walk across that bridge to the 21st century with us
+T994	Premise 3984 4060	we are not well served when we attack each other in a kind of ad hominem way
+T995	Premise 4062 4084	It doesn't create jobs
+T996	Premise 4086 4113	It doesn't educate children
+T997	Premise 4115 4140	It doesn't solve problems
+T998	Claim 4142 4216	We need to be disagreeing on ideas, honestly, and talking about the future
+T999	Claim 4218 4356	The future will be the greatest time in this country's history if we can beat this division that is bedeviling the whole rest of the world
+R1	Support Arg1:T968 Arg2:T969	
+R2	Support Arg1:T970 Arg2:T969	
+R3	Support Arg1:T971 Arg2:T970	
+R4	Support Arg1:T972 Arg2:T969	
+R5	Support Arg1:T976 Arg2:T975	
+R6	Support Arg1:T979 Arg2:T978	
+R7	Support Arg1:T980 Arg2:T978	
+R8	Support Arg1:T981 Arg2:T980	
+R9	Support Arg1:T978 Arg2:T982	
+R10	Support Arg1:T983 Arg2:T982	
+R11	Support Arg1:T969 Arg2:T977	
+R12	Support Arg1:T982 Arg2:T977	
+R13	Support Arg1:T985 Arg2:T984	
+R14	Support Arg1:T986 Arg2:T985	
+*	Equivalent T984 T988
+R15	Support Arg1:T987 Arg2:T988	
+R16	Support Arg1:T990 Arg2:T989	
+R17	Support Arg1:T989 Arg2:T991	
+R18	Support Arg1:T995 Arg2:T994	
+R19	Support Arg1:T996 Arg2:T994	
+R20	Support Arg1:T997 Arg2:T994	
+R21	Support Arg1:T994 Arg2:T998	
+R22	Support Arg1:T999 Arg2:T998	
+R23	Support Arg1:T993 Arg2:T992	

@@ -1,0 +1,40 @@
+T1	Premise 828 930	As a matter of fact, we are using the Department of Defense in a coordinated effort, in reconnaissance
+T2	Premise 768 826	The military aspect of the drug problem is being addressed
+R1	Support Arg1:T2 Arg2:T1	
+T3	Claim 936 1030	I don't believe that we are going to turn the Department of Defense into a police organization
+T4	Premise 1032 1107	We are using our military assets in a prudent way to deal with interdiction
+R2	Support Arg1:T4 Arg2:T3	
+T5	Premise 1151 1192	Seventy tons of cocaine have been stopped
+T6	Claim 1113 1149	we've made some success in this area
+R3	Support Arg1:T5 Arg2:T6	
+T7	Claim 1588 1617	we've got to get to education
+T8	Claim 1623 1701	education ought to begin at home, and it ought to be reinforced in our schools
+R4	Support Arg1:T7 Arg2:T8	
+T9	Premise 1707 1824	there's another thing that will be more important than the premise of this question on a hypothetical of using troops
+T10	Claim 1826 1978	We will use the military assets, we will use military assets - but we need to focus on another part of this problem, and that problem is law enforcement
+T11	Claim 1984 2061	here is where we have a major disagreement with the governor of Massachusetts
+T12	Claim 2063 2115	He is opposed to the death penalty for drug kingpins
+T13	Claim 2117 2305	We believe people convicted of that crime deserve the death penalty, as does the legislation that's in the Congress that is supported by a bipartisan, including many Democrats of his party
+R5	Attack Arg1:T13 Arg2:T12	
+R6	Support Arg1:T10 Arg2:T13	
+R7	Support Arg1:T9 Arg2:T13	
+R8	Support Arg1:T11 Arg2:T13	
+T14	Claim 2307 2402	He also was opposed to mandatory drug sentencing for drug dealers in the state of Massachusetts
+R9	Support Arg1:T14 Arg2:T12	
+T15	Claim 2404 2482	You cannot have a war on drugs, you cannot be tough on drugs and weak on crime
+R10	Attack Arg1:T15 Arg2:T14	
+T16	Premise 2520 2804	It's interesting to see that the Senator from Indiana, when we had a resolution on the floor of the United States Senate sponsored by Senator Dole, that this government would make no deal with Noriega - that the Senator from Indiana was one of the dozen senators that voted against it
+T17	Premise 2806 2972	It's also interesting to see that one of his campaign managers that's trying to help him with his image was also hired by Noriega to help him with his image in Panama
+T18	Premise 2996 3147	What we have seen under this administration - we have seen them using eight cabinet officers, twenty-eight different agencies, all fighting over turf -
+T19	Claim 3152 3225	that is one thing we would correct under a Dukakis-Bentsen administration
+R11	Support Arg1:T18 Arg2:T19	
+R12	Support Arg1:T17 Arg2:T19	
+R13	Support Arg1:T16 Arg2:T19	
+T20	Claim 3227 3341	We would put one person in charge in the war against drugs, and we would commit the resources to get that job done
+R14	Support Arg1:T19 Arg2:T20	
+T21	Premise 3348 3631	Mike Dukakis has been able to do that type of thing in the state of Massachusetts by cutting the drug use in the high schools while it's going up around the rest of the country, by putting in a drug educational program that the Drug Enforcement Agency said was a model to the country
+R15	Support Arg1:T21 Arg2:T20	
+T22	Premise 3633 3686	We would be doing that around the rest of the country
+T23	Premise 3688 3726	That's a positive attack against drugs
+R16	Support Arg1:T22 Arg2:T20	
+R17	Support Arg1:T23 Arg2:T20	

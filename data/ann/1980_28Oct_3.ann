@@ -1,0 +1,102 @@
+T156	Claim 659 745	I have been talking to a number of Congressmen who have much the same idea that I have
+T157	Claim 764 965	in the inner city areas, that in cooperation with the local government and the national Government, and using tax incentives and with cooperating with the private sector, that we have development zones
+T158	Premise 967 1130	Let the local entity, the city, declare this particular area, based on the standards of the percentage of people on welfare, unemployed, and so forth, in that area
+T159	Premise 1142 1242	through tax incentives, induce the creation of businesses providing jobs and so forth in those areas
+T162	Premise 1509 1553	the city isn't getting any tax from that now
+T163	Premise 1559 1588	there would simply be a delay
+T164	Claim 1613 1748	many of the people who would then be given jobs are presently wards of the Government and it wouldn't hurt to give them a tax incentive
+T165	Premise 1766 1817	that wouldn't be costing Government anything either
+T166	Claim 2386 2407	nothing has been done
+T167	Premise 1866 1949	I stood in the South Bronx on the exact spot that President Carter stood on in 1977
+T168	Premise 1951 1983	You have to see it to believe it
+T169	Premise 1985 2054	It looks like a bombed-out city - great, gaunt skeletons of buildings
+T170	Premise 2056 2075	Windows smashed out
+T171	Premise 2077 2141	painted on one of them "Unkept promises;" on another, "Despair."
+T172	Premise 2146 2274	this was the spot at which President Carter had promised that he was going to bring in a vast program to rebuild this department
+T173	Premise 2276 2380	There are whole or this area there are whole blocks of land that are left bare, just bulldozed down flat
+T174	Claim 1819 1864	I think there are things to do in this regard
+T175	Claim 3137 3152	I believe in it
+T176	Premise 3210 3329	we've made great progress from the days when I was young and when this country didn't even know it had a racial problem
+T177	Premise 3154 3179	I am eternally optimistic
+T179	Claim 3499 3559	I believe the Presidency is what Teddy Roosevelt said it was
+T180	Claim 3561 3580	It's a bully pulpit
+T181	Claim 3641 3898	a goal for all of us should be that one day, things will be done neither because of nor in spite of any of the differences between us - ethnic differences or racial differences, whatever they may be - that we will have total equal opportunity for all people
+T182	Claim 3904 3965	I would do everything I could in my power to bring that about
+T178	Claim 4824 4862	This has been a very successful effort
+T183	Claim 5143 5259	We now are planning to continue the revitalization program with increased commitments of rapid transit, mass transit
+T184	Claim 5405 5442	We also are pursuing housing programs
+T185	Claim 4900 4959	we've had such an increase in the number of people employed
+T188	Premise 4961 5141	Of the nine million people put to work in new jobs since I've been in office, 1.3 million of those has been among black Americans, and another million among those who speak Spanish
+T189	Premise 5261 5403	Under the windfall profits tax, we expect to spend about $43 billion in the next 10 years to rebuild the transportation systems of our country
+T190	Premise 5444 5525	We've had a 73% increase in the allotment of Federal funds for improved education
+T191	Premise 5527 5714	These are the kinds of efforts worked on a joint basis with community leaders, particularly in the minority areas of the central cities that have been deteriorating so rapidly in the past
+T186	Claim 5716 5806	It's very important to us that this be done with the full involvement of minority citizens
+T187	Premise 5808 6057	I have brought into the top level, top levels of government, into the White House, into administrative offices of the Executive branch, into the judicial system, highly qualified black and Spanish citizens and women who in the past had been excluded
+T194	Claim 6914 6966	Ours is a nation of refugees, a nation of immigrants
+T195	Premise 6968 7246	Almost all of our citizens came here from other lands and now have hopes, which are being realized, for a better life, preserving their ethnic commitments, their family structures, their religious beliefs, preserving their relationships with their relatives in foreign countries
+T196	Premise 7252 7349	still holding themselves together in a very coherent society, which gives our nation its strength
+T197	Claim 7351 7458	In the past, those minority groups have often been excluded from participation in the affairs of government
+T198	Premise 7460 7619	Since I've been President, I've appointed, for instance, more than twice as many black Federal judges as all previous presidents in the history of this country
+T199	Premise 7621 7710	I've done the same thing in the appointment of women, and also Spanish-speaking Americans
+T200	Claim 7712 7989	To involve them in the administration of government and the feeling that they belong to the societal structure that makes decisions in the judiciary and in the executive branch is a very important commitment which I am trying to realize and will continue to do so in the future
+T201	Claim 8137 8285	as governor, when I was at that end of the line and receiving some of these grants for Government programs, I saw that so many of them were dead-end
+T202	Premise 8287 8422	They were public employment that these people who really want to get out into the private job market where there are jobs with a future
+T203	Claim 8878 8929	I have been in favor of a separate minimum for them
+T204	Premise 8505 8741	I wish he could have been with me when I sat with a group of teenagers who were black, and who were telling me about their unemployment problems, and that it was the minimum wage that had done away with the jobs that they once could get
+T205	Premise 8747 8861	indeed, every time it has increased you will find there is an increase in minority unemployment among young people
+T206	Premise 8931 9074	With regard to the great progress that has been made with this Government spending, the rate of black unemployment in Detroit, Michigan, is 56%
+T207	Claim 9314 9611	there is no doubt in my mind that the commitment to unemployment compensation, the minimum wage, welfare, national health insurance, those kinds of commitments that have typified the Democratic party since ancient history in this country's political life are a very important element of the future
+T208	Premise 9152 9280	It's obvious that we still have a long way to go in fully incorporating the minority groups into the mainstream of American life
+T209	Premise 9613 9690	In all those elements, Governor Reagan has repeatedly spoken out against them
+T210	Claim 9692 9790	which, to me, shows a very great insensitivity to giving deprived families a better chance in life
+T211	Claim 9792 9871	This, to me, is a very important difference between him and me in this election
+T212	Claim 10184 10266	this will give us an additional opportunity for jobs which will pay rich dividends
+T213	Premise 9965 10050	in the downtown central cities, with the, with the new commitment on an energy policy
+T214	Premise 10052 10122	with a chance to revitalize homes and to make them more fuel efficient
+T215	Premise 10124 10182	with a chance for our synthetic fuels program, solar power
+R1	Support Arg1:T157 Arg2:T156	
+R2	Support Arg1:T158 Arg2:T157	
+R3	Support Arg1:T159 Arg2:T158	
+T1	Claim 1300 1500	For example, a business that would not have, for a period of time, an increase in the property tax reflecting its development of the unused property that it was making wouldn't be any loss to the city
+R4	Support Arg1:T162 Arg2:T1	
+R5	Support Arg1:T165 Arg2:T164	
+R6	Support Arg1:T1 Arg2:T174	
+R7	Support Arg1:T164 Arg2:T174	
+R8	Support Arg1:T169 Arg2:T168	
+R9	Support Arg1:T170 Arg2:T168	
+R10	Support Arg1:T171 Arg2:T168	
+R11	Support Arg1:T168 Arg2:T166	
+R12	Support Arg1:T172 Arg2:T166	
+T2	Claim 2491 2635	I talked to a man just briefly there who asked me one simple question: "Do I have reason to hope that I can someday take care of my family again
+T3	Premise 2637 2659	Nothing has been done.
+R13	Support Arg1:T3 Arg2:T2	
+R14	Support Arg1:T2 Arg2:T166	
+R15	Support Arg1:T177 Arg2:T175	
+R16	Support Arg1:T176 Arg2:T175	
+T4	Claim 3586 3631	I think that something can be done from there
+R17	Support Arg1:T4 Arg2:T175	
+R18	Support Arg1:T181 Arg2:T4	
+R19	Support Arg1:T185 Arg2:T178	
+R20	Support Arg1:T188 Arg2:T185	
+R21	Support Arg1:T189 Arg2:T183	
+R22	Support Arg1:T190 Arg2:T191	
+R23	Support Arg1:T184 Arg2:T191	
+R24	Support Arg1:T183 Arg2:T191	
+R25	Support Arg1:T187 Arg2:T186	
+T5	Claim 6189 6289	Those who suffered from discrimination because of race or sex certainly knew we had a racial problem
+R26	Support Arg1:T5 Arg2:T187	
+T6	Claim 6291 6347;6353 6383	We have gone a long way toward correcting these problems we still have a long way to go
+R27	Support Arg1:T190 Arg2:T6	
+R28	Support Arg1:T195 Arg2:T194	
+R29	Support Arg1:T198 Arg2:T197	
+R30	Support Arg1:T198 Arg2:T200	
+R31	Support Arg1:T199 Arg2:T200	
+R32	Support Arg1:T204 Arg2:T205	
+R33	Support Arg1:T205 Arg2:T203	
+R34	Support Arg1:T209 Arg2:T210	
+R35	Support Arg1:T213 Arg2:T212	
+R36	Support Arg1:T214 Arg2:T212	
+R37	Support Arg1:T215 Arg2:T212	
+R38	Support Arg1:T210 Arg2:T211	
+R39	Support Arg1:T212 Arg2:T211	
+R40	Support Arg1:T207 Arg2:T211	

@@ -1,0 +1,43 @@
+T179	Claim 555 745	I don't think it's a wise idea for presidential candidates to appoint the members of his cabinet prospectively, or to suggest four people - indicate that one of them surely will be appointed
+T180	Premise 747 815	This is a decision that the president of the United States must make
+T181	Premise 817 916	The last candidate who indicated that he knew who his cabinet was going to be was Mr. Dewey in 1948
+T182	Premise 918 1010	This is a race between the Vice President and myself for the presidency of the United States
+T183	Premise 1012 1074	There are a good many able men who could be secretary of state
+T184	Premise 1076 1136	I've made no judgment about who should be secretary of state
+T185	Claim 1138 1207	I think that judgment could be made after election, if I'm successful
+T186	Premise 1209 1428	The people have to make a choice between Mr. Nixon and myself, between the Republican party and the Democratic party, between our approach to the problems which now disturb us as a nation and disturb us as a world power
+T187	Premise 1430 1547	The president bears the constitutional responsibility, not the secretary of state, for the conduct of foreign affairs
+T188	Premise 1549 1653	Some presidents have been strong in foreign policy; others have relied heavily on the secretary of state
+T189	Premise 1655 1715	I've been a member of the Senate Foreign Relations Committee
+T190	Premise 1717 1896	I run for the presidency with full knowledge that his great responsibility, really, given to him by the Constitution and by the force of events, is in the field of foreign affairs
+T191	Premise 1898 1942	I'm asking the people's support as president
+T192	Claim 1944 1982	We will select the best man we can get
+T193	Premise 1988 2012	I've not made a judgment
+T194	Premise 2018 2108	I have not narrowed down a list of three or four people, among whom would be the candidate
+T195	Claim 2208 2489	I have consistently answered all questions with regard to who will be in the next cabinet by saying that that is the responsibility of the next president, and it would be inappropriate to make any decisions on that or to announce any prior to the time that I had the right to do so
+T196	Premise 2767 2966	I would like to point out that when we look at our programs in Latin America, we find that we have appropriated five times as much for Latin America as was appropriated by the previous Administration
+T197	Premise 2981 3040	we have two billion dollars more for the Export-Import Bank
+T198	Premise 3042 3105	we have a new bank for Latin America alone of a billion dollars
+T199	Premise 3107 3296	we have the new program which was submitted at the Bogota Conference - this new program that President Eisenhower submitted, approved by the last Congress - for five hundred million dollars
+T200	Claim 3298 3345	We have moved in Latin America very effectively
+T201	Claim 3384 3488	Senator Kennedy complains very appropriately about our inadequate ra- radio broadcasts for Latin America
+T202	Premise 3490 3632	Let me point out again that his Congress - the Democratic Congress - has cut eighty million dollars off of the Voice of America appropriations
+T203	Premise 3639 3814	he has to get a better job out of his Congress if he's going to get us the money that we need to conduct the foreign affairs of this country in Latin America or any place else
+R1	Support Arg1:T180 Arg2:T179	
+R2	Support Arg1:T181 Arg2:T179	
+R3	Support Arg1:T182 Arg2:T184	
+R5	Support Arg1:T180 Arg2:T184	
+R7	Support Arg1:T187 Arg2:T186	
+R8	Support Arg1:T190 Arg2:T187	
+R9	Equivalent Arg1:T193 Arg2:T184	
+R10	Support Arg1:T195 Arg2:T179	
+R11	Support Arg1:T202 Arg2:T201	
+R12	Support Arg1:T196 Arg2:T200	
+R13	Support Arg1:T197 Arg2:T200	
+R14	Support Arg1:T198 Arg2:T200	
+R15	Support Arg1:T199 Arg2:T200	
+R4	Equivalent Arg1:T185 Arg2:T179	
+R6	Support Arg1:T186 Arg2:T182	
+R16	Support Arg1:T183 Arg2:T184	
+R17	Support Arg1:T189 Arg2:T190	
+R18	Support Arg1:T194 Arg2:T193	

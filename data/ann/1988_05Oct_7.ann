@@ -1,0 +1,96 @@
+T215	Claim 1125 1145	I disagree with that
+T216	Premise 996 1119	The premise of your question, John, is that somehow this administration has been lax in enforcement of the OSHA regulations
+T217	Claim 2670 2695	we'll continue to do that
+T218	Claim 2455 2479	we believe in the market
+T219	Claim 2481 2505	we believe in the people
+T220	Claim 2510 2664	yes, there's a role of government and the role of government is to make sure that those safety - and health and the welfare of the people is taken care of
+T221	Premise 2242 2301	We have produced 17 million jobs in this country since 1982
+T222	Claim 1626 1728	There is a commitment and there will always be a commitment to the safety of our working men and women
+T223	Claim 1730 1745	They deserve it
+T224	Claim 1750 1773	we're committed to them
+T225	Premise 1322 1624	let me tell you this for the record, when we have found violations in this administration, there has not only been tough enforcement, but there have been the most severe penalties - the largest penalties in the history of the Department of Labor - have been levied when these violations have been found
+T226	Claim 1901 1939	In my judgment deregulation has worked
+T227	Premise 1780 1899	the broader question goes to the whole issue of deregulation and has deregulation worked or has deregulation not worked
+T228	Premise 1941 2240	We have a deregulated economy and we have produced through low taxes, not high taxes, through deregulation - the spirit of entrepreneurship, the individual going out and starting a business, the businessman or women willing to go out and risk their investments to start up a business and hire people
+T229	Premise 2303 2370	Deregulation as a form of political philosophy is a good philosophy
+T230	Claim 2741 2872	I think you see once again a piece of Democratic legislation that's been passed to try protect the working men and women of America
+T231	Premise 2992 3091	A good example of that is the environmental protection laws that we were talking about a moment ago
+T232	Claim 3236 3362	that's why it's important that you have people that truly believe and trying to represent the working men and women of America
+T233	Premise 3093 3230	This administration came in and put in a James Watt, an Ann Gorsuch, now that's the Bonnie and Clyde, really, of environmental protection
+T234	Claim 2878 2990	then you've seen an administration that came in and really didn't have it's heart in that kind of an enforcement
+T235	Claim 3455 3487	that's why you have to have OSHA
+T236	Claim 3492 3561	that's why you have to have tough and good and fair enforcement of it
+T237	Claim 3566 3686	that's what a Democratic administration would do to help make this working place a safer and better place to be employed
+T238	Premise 3364 3450	Most employers do a good job of that, but some of them put their profits before people
+T239	Claim 4431 4450	I've supported that
+T240	Premise 4452 4545	I voted for the 50,000 limitation to get away from the million dollar contributions to farmer
+T242	Claim 4679 4733	I think I understand their concerns and their problems
+T243	Premise 4547 4674	You know, of the four that are on this ticket, I'm the only on that was born and reared on a farm and still involved in farming
+T244	Claim 4740 4887	I feel very strongly that we ought to be doing more for the American farmer and what we've seen under this administration is neglect of that farmer
+T245	Premise 4889 4939	We've seen them drive 220,000 farmers off the farm
+T246	Claim 4997 5026	we ought not to be doing that
+T247	Premise 4941 4991	They seem to think the answer is move them to town
+T248	Premise 5122 5219	We're seeing rural hospitals close all over the country because of this kind of an administration
+T249	Claim 5221 5289	We've seen an administration that has lost much of our market abroad
+T250	Premise 5299 5331	they have not had a trade policy
+T251	Premise 5333 5374	We saw our market loss by some 40 percent
+T252	Claim 5380 5554	that's one of the reasons that we've seen the cost of the farm program, which was only about two and a half billion dollars when they took office, now go to about $25 billion
+T253	Claim 5561 5662	we can bring that kind of a cost down and get more to market prices if we'll have a good trade policy
+T241	Claim 6191 6330	We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets
+T254	Claim 6335 6395	I think we can do it with the Dukakis-Bentsen administration
+T255	Claim 6500 6643	I'll tell you one way that we're not going to recapture the foreign markets and that is if, in fact, we have another Jimmy Carter grain embargo
+T256	Claim 6756 6813	You know what the farmer's interested in? Net farm income
+T257	Claim 6815 6908	Every one percent in increase in interest rates, a billion dollars out of the farmer's pocket
+T258	Claim 6973 7091	Another thing that a farmer is not interested in and that's supply management that the Democratic platform talks about
+T259	Claim 6910 6971	Net farm income, increased inflation, another billion dollars
+T260	Claim 7541 7591	I think the American farmer rightfully will reject
+T261	Claim 7385 7532	To come in and to tell our farmers not to grow corn, not to grow soybeans, that's the kind of farm policy you'll get under a Dukakis administration
+T262	Claim 7295 7383	that's what he and his Harvard buddies think of the American farmer, grow Belgium endive
+T263	Premise 7151 7275	He went to the farmers in the Midwest and told them not to grow corn, not to grow soybeans, but to grow Belgium [sic] endive
+T264	Premise 7097 7149	the Governor of Massachusetts, he has a farm program
+R1	Attack Arg1:T215 Arg2:T216	
+R2	Support Arg1:T225 Arg2:T215	
+R3	Support Arg1:T222 Arg2:T224	
+R4	Support Arg1:T223 Arg2:T224	
+R5	Support Arg1:T227 Arg2:T226	
+R6	Support Arg1:T228 Arg2:T226	
+R7	Support Arg1:T221 Arg2:T228	
+R8	Support Arg1:T229 Arg2:T226	
+R9	Support Arg1:T218 Arg2:T220	
+R10	Support Arg1:T219 Arg2:T220	
+R11	Support Arg1:T220 Arg2:T217	
+R12	Support Arg1:T231 Arg2:T234	
+R13	Support Arg1:T233 Arg2:T231	
+R14	Support Arg1:T230 Arg2:T232	
+R15	Support Arg1:T234 Arg2:T232	
+R16	Support Arg1:T238 Arg2:T235	
+R17	Support Arg1:T236 Arg2:T235	
+R18	Support Arg1:T235 Arg2:T237	
+R19	Support Arg1:T237 Arg2:T232	
+R20	Attack Arg1:T234 Arg2:T217	
+R21	Support Arg1:T240 Arg2:T239	
+R22	Support Arg1:T243 Arg2:T242	
+R23	Support Arg1:T242 Arg2:T239	
+R24	Support Arg1:T245 Arg2:T244	
+R25	Support Arg1:T244 Arg2:T239	
+T1	Premise 5028 5120	What you have seen them do is cut the farm assistance for the rural areas by over 50 percent
+R26	Support Arg1:T250 Arg2:T249	
+R27	Support Arg1:T251 Arg2:T252	
+R28	Support Arg1:T252 Arg2:T253	
+T2	Premise 5664 6190	I was in January visiting with Mr. Takeshita, the new Prime Minister of Japan. I said, "You're paying five times as much for beef as we pay for our in country - pay for it in our country, six times as much for rice. You have a $60 billion trade surplus with us. You could improve the standard of living of your people. You're spending 27 percent of your disposable income. We spend 14 or 15 percent." "When you have that kind of barrier up against us, that's not free and fair trade and we don't believe that should continue."
+R29	Support Arg1:T2 Arg2:T241	
+R30	Support Arg1:T241 Arg2:T254	
+R31	Support Arg1:T249 Arg2:T254	
+R32	Support Arg1:T248 Arg2:T249	
+R33	Support Arg1:T1 Arg2:T249	
+R34	Support Arg1:T246 Arg2:T249	
+T3	Premise 6684 6754	Jimmy Carter - Jimmy Carter grain embargo set the American farmer back
+R35	Support Arg1:T3 Arg2:T255	
+R36	Support Arg1:T257 Arg2:T256	
+R37	Support Arg1:T263 Arg2:T262	
+R38	Support Arg1:T264 Arg2:T262	
+R39	Support Arg1:T261 Arg2:T260	
+R40	Support Arg1:T262 Arg2:T260	
+R41	Attack Arg1:T260 Arg2:T254	
+R42	Support Arg1:T258 Arg2:T260	
+R43	Support Arg1:T256 Arg2:T260	

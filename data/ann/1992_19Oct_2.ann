@@ -1,0 +1,63 @@
+T390	Claim 466 562	your credibility has come into question because of your different responses on the Vietnam draft
+T391	Claim 1053 1077	I was opposed to the war
+T392	Claim 1101 1130	I felt very strongly about it
+T393	Claim 1136 1167	I didn't want to go at the time
+T394	Claim 1169 1239	It's easy to say in retrospect I would have done something differently
+T395	Premise 1242 1338	President Lincoln opposed the war and there were people who said maybe he shouldn't be president
+T396	Claim 1344 1397	I think he made us a pretty good president in wartime
+T397	Premise 1399 1574	We've had a lot of other presidents who didn't wear their country's uniform who had to order our young soldiers into battle, including President Wilson and President Roosevelt
+T398	Claim 1580 1609	the answer is I could do that
+T399	Claim 1669 1785	I think that the president has to be prepared to use the power of the nation when our vital interests are threatened
+T400	Claim 1787 1827	when our treaty commitments are at stake
+T401	Claim 1829 1904	when we know that something has to be done that is in the national interest
+T402	Claim 1910 1943	that is a part of being president
+T403	Claim 1961 1973	Yes, I could
+T404	Claim 2161 2295	I've expressed my heartfelt difference with Governor Clinton on organizing demonstrations while in a foreign land against your country
+T405	Premise 2302 2351	young ghetto kids have been drafted and are dying
+T406	Premise 2353 2449	My argument with him on -- the question was about the draft -- is that there's this same pattern
+T407	Claim 2710 2773	I think it's this pattern that troubles me, more than the draft
+T408	Premise 2676 2704	He got a notice or he didn't
+T409	Premise 2643 2674	He got a deferment or he didn't
+T410	Premise 2611 2641	They have not been forthcoming
+T411	Premise 2451 2609	In New Hampshire Senator Kerrey said you ought to level, you ought to tell the truth about it. On April 17 he said he'd bring out all the records on the draft
+T412	Premise 2775 2836	A lot of decent, honorable people felt as he did on the draft
+T414	Claim 2967 3008	you can't be on all these different sides
+T415	Claim 3126 3171	That's my big difference with him on the draf
+T416	Claim 3174 3200	It wasn't failing to serve
+T419	Claim 3614 3655	I don't look on it personally as relevant
+T420	Claim 3587 3612	I look on this as history
+T421	Premise 3525 3585	That's been displayed again and again in a very tangible way
+T422	Claim 3478 3523	Appreciate the sacrifices their families make
+T423	Claim 3431 3476	I appreciate their idealism, their sacrifices
+T424	Claim 3357 3429	I feel very strongly about the people who go into battle for our country
+T425	Premise 3298 3355	I've spent my whole adult life very close to the military
+T793	Claim 3661 3767	I consider it really a waste of time tonight, when you consider the issues that face our country right now
+T1	Claim 2842 2859	it's this pattern
+R1	Support Arg1:T399 Arg2:T402	
+R2	Support Arg1:T400 Arg2:T402	
+R3	Support Arg1:T401 Arg2:T402	
+R4	Support Arg1:T402 Arg2:T403	
+R5	Support Arg1:T393 Arg2:T391	
+R6	Support Arg1:T392 Arg2:T391	
+R7	Support Arg1:T397 Arg2:T398	
+R8	Attack Arg1:T403 Arg2:T390	
+R9	Support Arg1:T405 Arg2:T404	
+R10	Support Arg1:T406 Arg2:T407	
+R11	Support Arg1:T410 Arg2:T411	
+R12	Support Arg1:T408 Arg2:T410	
+R13	Support Arg1:T409 Arg2:T410	
+R14	Support Arg1:T412 Arg2:T407	
+R15	Equivalent Arg1:T1 Arg2:T407	
+R16	Support Arg1:T414 Arg2:T415	
+R17	Support Arg1:T416 Arg2:T415	
+R18	Support Arg1:T1 Arg2:T415	
+R19	Support Arg1:T425 Arg2:T424	
+R20	Support Arg1:T425 Arg2:T423	
+R21	Support Arg1:T425 Arg2:T422	
+R22	Support Arg1:T793 Arg2:T419	
+R23	Support Arg1:T793 Arg2:T420	
+R24	Support Arg1:T395 Arg2:T391	
+R25	Support Arg1:T396 Arg2:T391	
+R26	Support Arg1:T394 Arg2:T393	
+R27	Support Arg1:T398 Arg2:T403	
+R28	Attack Arg1:T404 Arg2:T391	

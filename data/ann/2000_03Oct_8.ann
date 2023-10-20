@@ -1,0 +1,49 @@
+T637	Premise 1667 1740	The big drug companies support Governor Bush's prescription drug proposal
+T638	Claim 1742 1758	They oppose mine
+T639	Claim 1767 1807	they don't want to get Medicare involved
+T640	Premise 1816 1928	they're afraid that Medicare will negotiate lower prices for seniors who currently pay the highest prices of all
+T641	Claim 938 976	it was a calculated risk that paid off
+T642	Premise 410 614	When the action in Kosovo was dragging on and we were searching for a solution to the problem, our country had defeated the adversary on the battlefield without a single American life being lost in combat
+T643	Premise 620 657	the dictator Milosevic was hanging on
+T644	Premise 659 932	I invited the former prime minister of Russia to my house and took a risk in asking him to get personally involved, along with the head of Finland, to go to Belgrade and to take a set of proposals from the United States that would constitute basically a surrender by Serbia
+T645	Claim 1456 1632	I cast my lot with the people even when it means that you have to stand up to some powerful interests who are trying to turn the -- the policies and the laws to their advantage
+T646	Premise 1634 1665	You can see it in this campaign
+T647	Premise 1119 1208	throughout all that time the people I have fought for have been the middle-class families
+T648	Premise 1066 1108	I have been in public service for 24 years
+T649	Premise 1214 1349	I have been willing to stand up to powerful interests like the big insurance companies, the drug companies, the HMOs, the oil companies
+T650	Premise 1351 1454	They have good people and they play constructive roles sometimes, but sometimes they get too much power
+T651	Claim 1961 2018	I've been standing up to big Hollywood, big trial lawyers
+T652	Claim 2136 2203	as governor, one of the things you have to deal with is catastrophe
+T653	Premise 2205 2261	I can remember the fires that swept Parker County, Texas
+T654	Premise 2263 2305	I remember the floods that swept our state
+T655	Premise 2307 2346	I remember going down to Del Rio, Texas
+T656	Claim 2348 2393	I have to pay the administration a compliment
+T657	Premise 2395 2493	James Lee Witt of FEMA has done a really good job of working with governors during times of crisis
+T658	Claim 2499 2667	that's the time when you're tested not only -- it's the time to test your mettle, a time to test your heart when you see people whose lives have been turned upside down
+T659	Premise 2669 2776	It broke my heart to go to the flood scene in Del Rio where a fellow and his family got completely uprooted
+T660	Claim 2967 3026	They are often on the front line of catastrophic situations
+T661	Premise 2778 2939	The only thing I knew to do was to get aid as quickly as possible with state and federal help, and to put my arms around the man and his family and cry with them
+T662	Premise 2941 2965	That's what governors do
+R1	Support Arg1:T642 Arg2:T643	
+R2	Support Arg1:T643 Arg2:T644	
+R3	Support Arg1:T644 Arg2:T641	
+R4	Support Arg1:T648 Arg2:T647	
+R5	Support Arg1:T649 Arg2:T650	
+R6	Support Arg1:T647 Arg2:T645	
+R7	Support Arg1:T649 Arg2:T645	
+R8	Attack Arg1:T645 Arg2:T650	
+R9	Support Arg1:T646 Arg2:T637	
+R10	Support Arg1:T650 Arg2:T646	
+R11	Attack Arg1:T638 Arg2:T637	
+R12	Support Arg1:T639 Arg2:T638	
+R13	Support Arg1:T640 Arg2:T639	
+R14	Support Arg1:T657 Arg2:T656	
+R15	Support Arg1:T652 Arg2:T658	
+R16	Support Arg1:T653 Arg2:T652	
+R17	Support Arg1:T654 Arg2:T652	
+R18	Support Arg1:T655 Arg2:T654	
+R19	Support Arg1:T654 Arg2:T659	
+R20	Support Arg1:T662 Arg2:T661	
+R21	Support Arg1:T661 Arg2:T659	
+R22	Support Arg1:T661 Arg2:T660	
+R23	Support Arg1:T660 Arg2:T652	

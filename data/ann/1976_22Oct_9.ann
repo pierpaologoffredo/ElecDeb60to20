@@ -1,0 +1,103 @@
+T270	Claim 159 226	for black Americans, President Ford is quietly getting the job done
+T271	Premise 234 374	study after study has shown little progress in desegregation and in fact actual increases in segregated schools and housing in the Northeast
+T272	Premise 381 534	civil rights groups have complained repeatedly that there's been lack of progress and commitment to an integrated society uh - during your administration
+T273	Claim 705 756	I'm very proud of the record of this administration
+T274	Premise 758 876	In the cabinet I have one of the outstanding, I think, administrators as the secretary of transportation, Bill Coleman
+T275	Premise 878 970	You're familiar, I'm sure, with the recognition given in the Air Force to uh - General James
+T276	Premise 976 1207	there was just uh - approved a three-star admiral, the first in the history of the United States Navy, so uh - we are giving full recognition to individuals of quality in the Ford administration in positions of great responsibility
+T277	Premise 1227 1413	the Department of Justice is fully enforcing, and enforcing effectively, the Voting Rights Act, the legislation that involves jobs, housing for minorities, not only blacks but all others
+T278	Premise 1420 1533	the Department of uh - uh - HUD is enforcing the new legislation that uhh - outlaws, that takes care of redlining
+T279	Premise 1540 1742	what we're doing is saying that there are opportunities, business opportunities, educational opportunities, responsibilities uh - where people with talent, black or any other minority, can fully qualify
+T280	Premise 1744 1969	The Office of Minority Business in the Department of Commerce has made available more money in trying to help uh - black businessmen or other minority businessmen than any other administration since the office was established
+T281	Premise 1971 2084	The Office of Small Business, under Mr. Kobelinski, has a very massive program trying to help the black community
+T282	Premise 2086 2236	The individual who wants to start a business or expand his business as a black businessman is able to borrow, either directly or with guaranteed loans
+T283	Claim 2238 2357	I believe on the record that this administration has been more responsive and we have carried out the law to the letter
+T284	Claim 2363 2386	I'm proud of the record
+T285	Claim 2447 2535	The uh - description just made of this administration's record is hard to uh - recognize
+T286	Premise 2571 2681	Mr. Ford voted against the uh - Voting Rights Acts and the uh - Civil Rights Acts in their uh - debative stage
+T287	Premise 2690 2757	once it was assured they were going to pass he finally voted for it
+T288	Claim 2759 2804	This country uh - changed drastically in 1969
+T289	Premise 2805 2931	when the uh - terms of John Kennedy and Lyndon Johnson were over and Richard Nixon and - and Gerald Ford became the presidents
+T290	Premise 2933 3092	There was a time when there was hope for those who uh - were poor and downtrodden and who were - uh elderly or who were - uh ill or who were in minority groups
+T291	Premise 3098 3121	that time has been gone
+T292	Claim 3123 3278	I think the greatest thing that ever happened to the South was the passage of the Civil Rights Act and the opening up of opportunities - uh to black people
+T293	Premise 3281 3299	the chance to vote
+T294	Premise 3301 3314	to hold a job
+T295	Premise 3316 3330	to buy a house
+T296	Premise 3332 3347	to go to school
+T297	Premise 3353 3385	to participate in public affairs
+T298	Premise 3387 3459	It not only liberated - uh black people but it also liberated the whites
+T299	Claim 3701 3762	The bankruptcies have gone up - uh in an extraordinary degree
+T300	Premise 3461 3699	We've seen uh - in many instances in recent years a minority affairs uh - section of uh Small Loan Administration, uh - Small Business Administration lend uh - a black entrepreneur just enough money to get started, and then to go bankrupt
+T301	Premise 3769 3901	FHA, which used to be a very responsible agency, uh - that everyone looked to to help own a home, lost six million dollars last year
+T302	Premise 3903 3957	There've been over thirteen hundred indictments in HUD
+T303	Premise 3959 4017	over eight hundred convictions relating just to home loans
+T304	Claim 4023 4095	now the federal government has become the world's greatest slum landlord
+T305	Claim 4671 4714	that's been lacking in the last eight years
+T306	Claim 4571 4665	It requires an aggressive searching out and reaching out to help people who especially need it
+T307	Claim 4494 4569	it doesn't take just a quiet uh - dormant uh minimum enforcement of the law
+T308	Premise 4097 4184	We've got a 30 percent or 40 percent unemployment rate among minority uh - young people
+T309	Premise 4190 4320	there's been no concerted effort given to the needs of those who are both poor and black, or poor and who speak a foreign language
+T310	Premise 4326 4400	that's where there's been a great uh generation of despair, and ill health
+T311	Premise 4406 4427	the lack of education
+T312	Premise 4429 4451	lack of purposefulness
+T313	Premise 4457 4488	the lack of hope for the future
+R1	Attack Arg1:T271 Arg2:T270	
+R2	Attack Arg1:T272 Arg2:T270	
+R3	Support Arg1:T270 Arg2:T273	
+R4	Support Arg1:T274 Arg2:T273	
+R5	Support Arg1:T275 Arg2:T273	
+R6	Support Arg1:T276 Arg2:T275	
+R7	Support Arg1:T277 Arg2:T273	
+R8	Support Arg1:T278 Arg2:T273	
+R9	Support Arg1:T279 Arg2:T273	
+R10	Support Arg1:T280 Arg2:T279	
+R11	Support Arg1:T281 Arg2:T279	
+R12	Support Arg1:T282 Arg2:T279	
+R13	Support Arg1:T282 Arg2:T283	
+R14	Support Arg1:T279 Arg2:T283	
+R15	Support Arg1:T278 Arg2:T283	
+R16	Support Arg1:T277 Arg2:T283	
+R17	Support Arg1:T283 Arg2:T284	
+R18	Equivalent Arg1:T284 Arg2:T273	
+R19	Support Arg1:T282 Arg2:T284	
+R20	Support Arg1:T279 Arg2:T284	
+R21	Support Arg1:T278 Arg2:T284	
+R22	Support Arg1:T277 Arg2:T284	
+R23	Support Arg1:T276 Arg2:T284	
+R24	Support Arg1:T275 Arg2:T284	
+R25	Support Arg1:T274 Arg2:T284	
+R26	Attack Arg1:T285 Arg2:T284	
+R27	Attack Arg1:T285 Arg2:T283	
+R28	Attack Arg1:T285 Arg2:T273	
+R29	Attack Arg1:T285 Arg2:T282	
+R30	Attack Arg1:T285 Arg2:T279	
+R31	Attack Arg1:T285 Arg2:T278	
+R32	Attack Arg1:T285 Arg2:T277	
+R33	Attack Arg1:T285 Arg2:T276	
+R34	Support Arg1:T287 Arg2:T286	
+R35	Support Arg1:T289 Arg2:T288	
+R36	Support Arg1:T290 Arg2:T288	
+R37	Support Arg1:T291 Arg2:T288	
+R38	Attack Arg1:T291 Arg2:T279	
+R39	Support Arg1:T293 Arg2:T292	
+R40	Support Arg1:T294 Arg2:T292	
+R41	Support Arg1:T295 Arg2:T292	
+R42	Support Arg1:T296 Arg2:T292	
+R43	Support Arg1:T297 Arg2:T292	
+R44	Support Arg1:T298 Arg2:T292	
+R45	Support Arg1:T300 Arg2:T299	
+R46	Attack Arg1:T300 Arg2:T282	
+R47	Attack Arg1:T302 Arg2:T278	
+R48	Support Arg1:T303 Arg2:T302	
+R49	Support Arg1:T304 Arg2:T285	
+R50	Support Arg1:T308 Arg2:T304	
+R51	Support Arg1:T309 Arg2:T304	
+R52	Support Arg1:T310 Arg2:T304	
+R53	Support Arg1:T311 Arg2:T304	
+R54	Support Arg1:T312 Arg2:T304	
+R55	Support Arg1:T313 Arg2:T304	
+R56	Support Arg1:T306 Arg2:T305	
+R57	Support Arg1:T307 Arg2:T305	
+R58	Support Arg1:T305 Arg2:T304	
+R59	Support Arg1:T305 Arg2:T285	

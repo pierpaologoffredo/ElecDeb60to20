@@ -1,0 +1,86 @@
+T1	Claim 2532 2632	I think this Republican administration has been almost all style, and spectacular, and not substance
+T2	Claim 2798 2832	the Ford administration has failed
+T3	Premise 2935 2968	Our country is not strong anymore
+T4	Premise 2970 2997	we're not respected anymore
+T5	Premise 2999 3053	We can only be strong overseas if we're strong at home
+T6	Claim 3059 3180	when I became president we'll not only be strong in those areas but also in defense - a defense capability second to none
+T7	Premise 3182 3214;3214 3252	We've lost in our foreign policy , the character of the American people
+T9	Premise 3439 3563	we've had a chance to became now, contrary to our long-standing beliefs and principles, the arms merchant of the whole world
+T10	Premise 3565 3608	We've tried to buy success from our enemies
+T11	Premise 3631 3698	we've excluded from the process the normal friendship of our allies
+T12	Claim 3816 3864	The Soviet Union knows what they want in detente
+T13	Premise 3720 3791	we've become fearful to compete with the Soviet Union on an equal basis
+T14	Claim 3870 3893	they've been getting it
+T15	Claim 3895 3981	We have not known what we've wanted and we've been out-traded in almost every instance
+T16	Claim 4034 4181	We've got to be a nation blessed with a defense capability that's efficient, tough, capable, well organized, narrowly focused - fighting capability
+T19	Claim 4894 4918	That's got to be changed
+T20	Premise 4774 4817	Mr. Ford has shown an absence of leadership
+T21	Claim 4823 4892	an absence of a grasp of what this country is and what it ought to be
+T22	Claim 4720 4772	Mr. Kissinger has been the president of this country
+T23	Claim 4426 4504	Even the Republican platform has criticized the lack of leadership in Mr. Ford
+T24	Claim 4509 4569	they've criticized the foreign policy of this administration
+T25	Claim 5048 5102	Governor Carter again is talking in broad generalities
+T26	Premise 5210 5311	Governor Carter in November of 1975 indicated that he wanted to cut the defense budget by $15 billion
+T27	Premise 5333 5409	he said he wanted to cut the defense budget by eight or nine billion dollars
+T28	Premise 5430 5504	he talks about cutting the defense budget by five to seven billion dollars
+T32	Premise 6138 6191	We would have to stretch out our aircraft procurement
+T33	Premise 6193 6247	we would have to reduce our naval construction program
+T34	Premise 6249 6369	we would have to reduce the uh - research and development for the Army, the Navy, the Air Force and Marines by 8 percent
+T35	Premise 6371 6448	We would have to close twenty military bases in the United States immediately
+T36	Claim 6450 6511	That's the kind of defense program that uh - Mr. Carter wants
+T37	Claim 6562 6613	You don't negotiate with Mr. Brezhnev from weakness
+T38	Claim 6619 6727	the kind of defense program that Mr. Carter wants will mean a weaker defense and a poor negotiating position
+T30	Premise 5920 6055	if we cut the defense budget by three to five billion dollars, we will have to cut military personnel by two hundred and fifty thousand
+T31	Premise 6057 6097	civilian personnel by a hundred thousand
+T533	Premise 6099 6136	jobs in America by a hundred thousand
+T39	Premise 3254 3377	We've uh - ignored or excluded the American people and the Congress from participation in the shaping of our foreign policy
+T42	Claim 4924 4984	that's one of the major issues in this uh - campaign of 1976
+T41	Claim 4330 4424	Mr. Ford, Mr. Kissinger have uh - continued on with the policies and failures of Richard Nixon
+T40	Claim 5506 5619	There is no way you can be strong militarily and have those kind of reductions in our military uh - appropriation
+T8	Claim 3379 3417	It's been one of secrecy and exclusion
+T17	Premise 4183 4288	The ability to fight, if necessary, is the best way to avoid the chance for, or the requirement to fight.
+T18	Premise 4571 4641	This is one instance where I agree with - with the Republican platform
+R1	Support Arg1:T1 Arg2:T2	
+R2	Support Arg1:T4 Arg2:T2	
+R3	Support Arg1:T3 Arg2:T2	
+R4	Support Arg1:T5 Arg2:T3	
+R5	Support Arg1:T5 Arg2:T6	
+R6	Support Arg1:T7 Arg2:T2	
+R7	Support Arg1:T39 Arg2:T7	
+R8	Support Arg1:T39 Arg2:T2	
+R9	Support Arg1:T39 Arg2:T8	
+R10	Support Arg1:T8 Arg2:T2	
+R11	Support Arg1:T12 Arg2:T14	
+R14	Support Arg1:T9 Arg2:T10	
+R15	Support Arg1:T10 Arg2:T11	
+R16	Support Arg1:T11 Arg2:T15	
+R17	Support Arg1:T10 Arg2:T15	
+R13	Support Arg1:T13 Arg2:T15	
+R18	Support Arg1:T17 Arg2:T16	
+R19	Support Arg1:T18 Arg2:T24	
+R20	Support Arg1:T23 Arg2:T41	
+R21	Support Arg1:T24 Arg2:T41	
+R22	Support Arg1:T20 Arg2:T22	
+R23	Support Arg1:T22 Arg2:T21	
+R24	Support Arg1:T18 Arg2:T23	
+R25	Support Arg1:T19 Arg2:T42	
+R26	Attack Arg1:T19 Arg2:T22	
+R27	Attack Arg1:T25 Arg2:T42	
+R28	Support Arg1:T26 Arg2:T27	
+R29	Support Arg1:T27 Arg2:T28	
+R30	Attack Arg1:T40 Arg2:T28	
+R31	Attack Arg1:T40 Arg2:T27	
+R32	Attack Arg1:T40 Arg2:T26	
+R33	Support Arg1:T30 Arg2:T36	
+R34	Support Arg1:T31 Arg2:T36	
+R35	Support Arg1:T533 Arg2:T36	
+R36	Support Arg1:T32 Arg2:T36	
+R37	Support Arg1:T33 Arg2:T36	
+R38	Support Arg1:T34 Arg2:T36	
+R39	Support Arg1:T35 Arg2:T36	
+R40	Attack Arg1:T40 Arg2:T36	
+R41	Attack Arg1:T37 Arg2:T36	
+R42	Support Arg1:T36 Arg2:T38	
+T29	Question 1782 2517	Governor, since the Democrats last ran our foreign policy, including many of the men who are advising you, country has been relieved of the Vietnam agony and the military draft, we've started arms control negotiations with the Russians, we've opened relations with China, we've arranged the disengagement in the Middle East, we've regained influence with the Arabs without deserting Israel, now, maybe we've even begun a process of peaceful change in Africa. Now you've objected in this campaign to the style with which much of this was done, and you've mentioned some other things that - that you think ought to have been done. But do you really have a quarrel with this Republican record? Would you not have done any of those things?
+R12	Attack Arg1:T14 Arg2:T16	
+R43	Attack Arg1:T15 Arg2:T16	

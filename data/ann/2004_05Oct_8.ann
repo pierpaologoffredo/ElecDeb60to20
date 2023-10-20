@@ -1,0 +1,124 @@
+T1	Question 93 341	President Bush has derided John Kerry for putting a trial lawyer on the ticket. You yourself have said that lawsuits are partly to blame for higher medical costs. Are you willing to say that John Edwards, sitting here, has been part of the problem?
+T2	Claim 474 666	My concern is specifically with what's happened to our medical care system because of rising malpractice insurance rates, because we failed to adequately reform our medical liability structure
+T3	Premise 668 961	I was in New Mexico the other day and met with a group of OB/GYN docs.  And they were deeply concerned because they were fearful that there'd be another increase in malpractice insurance rates as a result of what they believe are frivolous lawsuits and that that would put them out of business
+T4	Premise 968 1084	one doctor indicated that her rates have gone up so much that she's now to the point where she is screening patients
+T5	Premise 1086 1227	She won't take high-risk patients anymore because of the danger that that will generate a lawsuit, and a lawsuit will put her out of business
+T6	Premise 1289 1379	My home state of Wyoming, we've lost the top insurer of malpractice insurance in the state
+T7	Premise 1382 1490	he rates for a general practitioner have gone from $40,000 a year to $100,000 a year for an insurance policy
+T8	Premise 1574 1618	high risk patients don't get covered anymore
+T9	Premise 1620 1684	We've lost one out of eleven OB/GYN practitioners in the country
+T10	Claim 1686 1729	We think it can be fixed, needs to be fixed
+T11	Claim 1751 1797	what we need to do is cap non-economic damages
+T12	Claim 1803 1894	we also think you need to limit the awards that the trial attorneys take out of all of this
+T13	Premise 1896 1982	Over 50 percent of the settlements go to the attorneys and for administrating overhead
+T14	Claim 1985 2056	We passed medical liability reform through the House of Representatives
+T15	Premise 2058 2089	It's been blocked in the Senate
+T16	Premise 2091 2154	Senator Kerry's voted 10 times against medical liability reform
+T17	Claim 2160 2250	I don't believe Senator Edwards supports it, either, not the kind that would be meaningful
+R1	Support Arg1:T16 Arg2:T17	
+R2	Support Arg1:T15 Arg2:T16	
+R4	Support Arg1:T13 Arg2:T12	
+R3	Support Arg1:T11 Arg2:T10	
+R5	Support Arg1:T14 Arg2:T10	
+R6	Support Arg1:T12 Arg2:T10	
+R7	Support Arg1:T9 Arg2:T10	
+R8	Support Arg1:T8 Arg2:T10	
+T18	Claim 1493 1561	We think this has a devastating impact on the quality of health care
+R9	Support Arg1:T7 Arg2:T18	
+R10	Support Arg1:T18 Arg2:T10	
+R11	Support Arg1:T6 Arg2:T10	
+R12	Support Arg1:T2 Arg2:T14	
+R13	Support Arg1:T3 Arg2:T2	
+R14	Support Arg1:T4 Arg2:T2	
+R15	Support Arg1:T5 Arg2:T2	
+T20	Premise 2449 2477	We do have too many lawsuits
+T21	Claim 2542 2595	John Kerry and I have a plan to do something about it
+T22	Premise 2597 2850	We want to put more responsibility on the lawyers to require, before a case, malpractice, which the vice president just spoke about, have the case reviewed by independent experts to determine if the case is serious and meritorious before it can be filed
+R16	Support Arg1:T22 Arg2:T21	
+T23	Premise 2852 3128	hold the lawyers responsible for that, certify that and hold the lawyer financially responsible if they don't do it; have a three-strikes-and-you're-out rule so that a lawyer who files three of these cases without meeting this requirement loses their right to file these cases
+R17	Support Arg1:T23 Arg2:T21	
+T24	Premise 3131 3207	That way we keep the cases out of the system that don't belong in the system
+R18	Support Arg1:T24 Arg2:T23	
+T25	Premise 3327 3534	we don't believe that we should take away the right of people like Valerie Lakey, who was the young girl who I represented, five years old, severely injured for life, on a defective swimming pool drain cover
+T26	Premise 3537 3654	It turns out the company knew of 12 other children who had either been killed or severely injured by the same problem
+T27	Claim 3741 3753	That's wrong
+T28	Premise 3656 3667	They hid it
+T29	Premise 3669 3693	They didn't tell anybody
+T30	Premise 3695 3739	They could have fixed it with a 2-cent screw
+R19	Support Arg1:T30 Arg2:T27	
+R20	Support Arg1:T29 Arg2:T27	
+R21	Support Arg1:T28 Arg2:T27	
+R22	Support Arg1:T26 Arg2:T27	
+R23	Support Arg1:T25 Arg2:T27	
+T31	Claim 3756 3873	John Kerry and I are always going to stand with the Valerie Lakeys of the world, and not with the insurance companies
+R24	Support Arg1:T27 Arg2:T31	
+T32	Question 3934 4104	Do you feel personally attacked when Vice President Cheney talks about liability reform and tort reform and the president talks about having a trial lawyer on the ticket?
+T33	Claim 4357 4501	I would be the first to say that what the vice president described a few minutes ago, problems with malpractice premiums, that's true, it's real
+T34	Claim 1230 1287	This has had a devastating impact in a lot of communities
+R25	Equivalent Arg1:T18 Arg2:T34	
+T19	Premise 4624 4767	they have trouble getting reimbursed, first of all, for the care that they provide, you know, from the government or from health-care companies
+T35	Premise 4565 4605	they're getting squeezed from both sides
+R26	Support Arg1:T35 Arg2:T33	
+R27	Support Arg1:T19 Arg2:T33	
+T36	Premise 4774 4828	on the flip side, their malpractice costs are going up
+R28	Support Arg1:T36 Arg2:T33	
+T37	Claim 4862 4941	we have proposed a plan to keep cases out of the system that don't belong there
+T38	Premise 5195 5246	We have double-digit inflation in health care costs
+T39	Premise 5248 5359	We've seen the largest rise in medical costs in the last four years in the country's history: $3,500 nationally
+T40	Premise 5013 5192	everything they're proposing, according to the bipartisan Congressional Budget Office, amounts to about half of 1 percent of health-care costs in this country -- half of 1 percent
+R29	Support Arg1:T36 Arg2:T37	
+R30	Support Arg1:T19 Arg2:T37	
+T41	Premise 5448 5498	Medicare premiums are up 17 percent on their watch
+T42	Premise 5507 5571	largest increase in Medicare premiums in the history of Medicare
+T43	Claim 5574 5647	We think we have a plan to keep cases that don't belong in the system out
+T44	Claim 5653 5686	we also do what they haven't done
+T45	Premise 5689 5748	Five million Americans have lost their health care coverage
+T46	Premise 5750 5780	Medical costs are skyrocketing
+T47	Claim 5782 6002	We have a serious health care plan to bring down costs for everybody, to cover millions more Americans and to actually stand up to drug companies and insurance companies which this administration has been unwilling to do
+R31	Support Arg1:T46 Arg2:T47	
+R32	Support Arg1:T45 Arg2:T47	
+R33	Equivalent Arg1:T37 Arg2:T43	
+T48	Claim 6048 6107	we think lawsuit abuse is a serious problem in this country
+T49	Claim 6109 6143	We think we badly need tort reform
+T50	Premise 6400 6557	He told me that if it weren't for the increased cost of his liability insurance, in this case product liability, he could hire 200 more people in his factory
+R34	Support Arg1:T50 Arg2:T49	
+T51	Claim 6559 6656	We've built into the system enormous costs as a result of our practice with respect to litigation
+T52	Claim 6658 6700	We have to find ways to get a handle on it
+R35	Support Arg1:T51 Arg2:T52	
+R36	Support Arg1:T50 Arg2:T51	
+T53	Premise 6702 6781	 He mentioned Medicare up 17 percent, somehow that that was something we caused
+T54	Premise 6787 6882	The 17 percent increase in Medicare premiums was the direct result of a statute adopted in 1997
+T55	Premise 6884 6907	John Kerry voted for it
+R37	Attack Arg1:T55 Arg2:T53	
+R38	Attack Arg1:T55 Arg2:T41	
+R39	Support Arg1:T48 Arg2:T49	
+R40	Support Arg1:T54 Arg2:T55	
+T56	Premise 6910 7035	It establishes the formula for Part B of Medicare that says, in effect, it has to cover 25 percent of the cost of the program
+T57	Claim 7052 7091	the money had to go into the trust fund
+T58	Premise 7096 7159	to make certain that we could cover those eligible for benefits
+R41	Support Arg1:T58 Arg2:T57	
+T59	Premise 7408 7537	it's those kinds of loopholes that necessitate a premium increase under the law that was enacted in 1997, supported by John Kerry
+R42	Support Arg1:T59 Arg2:T55	
+T60	Premise 7596 7646	first of all, I have paid all the taxes that I owe
+T61	Premise 7162 7401	While you were in private practice in law and as a senator, you had the advantage of a special tax loophole, Subchapter S corporation, which you set up so you could avoid paying $600,000 in Medicare taxes that would have gone into the fund
+R43	Support Arg1:T61 Arg2:T55	
+R44	Attack Arg1:T60 Arg2:T61	
+T62	Premise 7648 7752	When the vice president was CEO of Halliburton, they took advantage of every offshore loophole available
+R45	Attack Arg1:T62 Arg2:T59	
+T63	Premise 7754 7815	They had multiple offshore companies that were avoiding taxes
+R46	Support Arg1:T63 Arg2:T62	
+T64	Claim 7818 7870	Those are the kind of things that ought to be closed
+T65	Claim 7872 7895	They ought to be closed
+T66	Claim 7897 7932	They ought to be closed for anybody
+R47	Equivalent Arg1:T65 Arg2:T64	
+R48	Equivalent Arg1:T66 Arg2:T65	
+T67	Claim 7934 7982	They ought to be closed whether they're personal
+T68	Claim 7988 8047	they ought to be closed whether they apply to a corporation
+T69	Premise 8054 8133	the reality is health care costs are going up every day for the American people
+T70	Claim 8260 8310	We've done a lot to reduce the cost of health care
+T71	Premise 8312 8463	The Medicare drug benefit that we'll be providing to seniors beginning in '06 will provide upwards to $1,300 a year to help them buy prescription drugs
+R49	Support Arg1:T71 Arg2:T70	
+T72	Premise 8465 8623	The drug savings -- drug discount card that's now available saves an estimated 15 percent to 30 percent off the cost of prescription drugs for senior citizens
+R50	Support Arg1:T72 Arg2:T70	
+T73	Claim 8629 8730	we're moving in as many areas as we can to make certain we hold down and reduce the health care costs
+R51	Equivalent Arg1:T70 Arg2:T73	

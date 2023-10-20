@@ -1,0 +1,70 @@
+T130	Claim 1715 1731	That is disgrace
+T131	Premise 1733 1825	The first President out of thirty-eight that ever resigned from public office under pressure
+T132	Claim 1049 1128	I am against- an across-the-board pardon of draft evaders or military deserters
+T133	Premise 769 951	The amnesty program that I recommended in Chicago in September of 1974 would give to all draft evaders and - uh military deserters the opportunity to earn their uh - good record back
+T134	Premise 953 1022	About fourteen to fifteen thousand did take advantage of that program
+T135	Premise 1024 1047	We gave them ample time
+T136	Claim 1134 1278	in the case of Mr. Nixon, the reason the - the pardon was given, was that, when I took office this country was in a very, very divided condition
+T137	Premise 1280 1320	There was hatred, there was divisiveness
+T138	Premise 1326 1390	people had lost faith in their government in many, many respects
+T139	Premise 1392 1434	Mr. Nixon resigned, and I became president
+T140	Premise 1436 1693	It seemed to me that if I was to uh adequately and effectively handle the problems of high inflation, a growing recession, the uh - involvement of the United States still in Vietnam that I had to give a hundred percent of my time to those two major problems
+T141	Claim 2087 2294	it seemed to me that Mr. Nixon had been penalized enough by his resignation in disgrace and the need, and necessity for me to concentrate on the problems of the country fully justified the action that I took
+T142	Premise 1830 1871	when you look at the penalty that he paid
+T143	Premise 1877 2010	when you analyze the requirements that I had - to spend all of my time working on the economy, which was in trouble, that I inherited
+T144	Premise 2012 2084	working on our problems in Southeast Asia - which were still plaguing us
+T145	Claim 2654 2692	I do not agree with that point of view
+T146	Premise 2694 2880	I gave, in September of 1974, an opportunity for all draft evaders, all deserters, to come in voluntarily, clear their records by earning an opportunity to restore their good citizenship
+T147	Claim 2882 2921	I think we gave them a good opportunity
+T148	Claim 2932 2970	I don't think we should go any further
+T149	Claim 3231 3255	I don't advocate amnesty
+T150	Claim 3257 3274	I advocate pardon
+T151	Claim 3276 3310	There's a difference in my opinion
+T152	Premise 3320 3423	in accordance with the ruling of the Supreme Court and accordance with the definition in the dictionary
+T153	Premise 3425 3487	Amnesty means that - that you uh - that what you did was right
+T154	Premise 3489 3572	Pardon means that what you did, whether it's right or wrong, you're forgiven for it
+T155	Claim 3578 3624	I do advocate a pardon for - for draft evaders
+T156	Premise 3668 3840	two years ago when Mr. Nixon - Mr. Ford put in this uh amnesty that three times as many deserters were uh - excused as were - as were the uh - the ones who evaded the draft
+T157	Claim 3846 3916	I think that now is the time to heal our country after the Vietnam War
+T158	Claim 3921 4098	I think that what the people are concerned about is not the - uh pardon or the amnesty of uh - those who evaded the draft, but - but whether or not our crime system is - is fair
+T159	Premise 4100 4254	We've got a - a sharp distinction drawn between white collar crime - the - the - the big shots who are rich, who are influential uh very seldom go to jail
+T160	Premise 4256 4356	those who are poor and - and who have uh no influence - uh quite often are the ones who are punished
+T161	Claim 4368 4439	the whole uh subject of crime is one that concerns our people very much
+T162	Claim 4445 4556	I believe that the fairness of it is - is what - uh - is a - is a major problem that addresses our - our leader
+T163	Claim 4561 4644	this is something that hasn't been addressed adequately by - by this administration
+T164	Claim 4654 4918	I hope to have a complete uh responsibility on my shoulders to help bring about a - a fair uh - criminal justice system and also to - to bring about uh - an end to the - to the divise- divisiveness that has occurred in our country uh as a result of the Vietnam War
+T1	Premise 1695 1713	Mr. Nixon resigned
+R1	Support Arg1:T137 Arg2:T136	
+R2	Support Arg1:T138 Arg2:T137	
+R3	Support Arg1:T131 Arg2:T130	
+R4	Support Arg1:T146 Arg2:T147	
+R5	Support Arg1:T153 Arg2:T151	
+R6	Support Arg1:T154 Arg2:T151	
+R7	Support Arg1:T159 Arg2:T158	
+R8	Support Arg1:T160 Arg2:T158	
+R9	Support Arg1:T162 Arg2:T161	
+R10	Support Arg1:T163 Arg2:T161	
+R11	Support Arg1:T161 Arg2:T164	
+R12	Support Arg1:T164 Arg2:T157	
+R13	Support Arg1:T139 Arg2:T138	
+R15	Support Arg1:T143 Arg2:T141	
+R16	Support Arg1:T144 Arg2:T141	
+R17	Support Arg1:T142 Arg2:T141	
+R19	Support Arg1:T147 Arg2:T148	
+R20	Support Arg1:T148 Arg2:T145	
+T2	Claim 3012 3202	I think it's uh... very difficult for President Ford to uh - explain the difference between the pardon of President Nixon and - and uh - his attitude toward those who violated the draft laws
+R22	Equivalent Arg1:T155 Arg2:T150	
+R23	Support Arg1:T152 Arg2:T151	
+R14	Support Arg1:T140 Arg2:T136	
+R24	Support Arg1:T141 Arg2:T136	
+R25	Support Arg1:T136 Arg2:T141	
+R18	Equivalent Arg1:T145 Arg2:T132	
+R21	Attack Arg1:T2 Arg2:T136	
+R26	Attack Arg1:T2 Arg2:T141	
+R27	Support Arg1:T150 Arg2:T149	
+R28	Attack Arg1:T149 Arg2:T3	
+T3	Premise 2558 2652	Mr. Carter has uh indicated that uh - he would give a blanket pardon to all uh - draft evaders
+R29	Attack Arg1:T145 Arg2:T3	
+R30	Support Arg1:T151 Arg2:T150	
+R31	Support Arg1:T157 Arg2:T155	
+R32	Support Arg1:T161 Arg2:T158	

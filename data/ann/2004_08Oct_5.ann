@@ -1,0 +1,72 @@
+T262	Claim 413 462	I don't think you can just rely on U.N. sanctions
+T263	Claim 503 517	it is a threat
+T264	Claim 519 537	it's a huge threat
+T265	Premise 566 674	it's a threat that has grown while the president has been preoccupied with Iraq, where there wasn't a threat
+T266	Claim 728 835	we wouldn't have 10 times the numbers of forces in Iraq that we have in Afghanistan chasing Osama bin Laden
+T267	Premise 677 726	If he'd let the inspectors do their job and go on
+T268	Premise 838 1083	Meanwhile, while Iran is moving toward nuclear weapons, some 37 tons of what they called yellow cake, the stuff they use to make enriched uranium, while they're doing that, North Korea has moved from one bomb maybe, maybe, to four to seven bombs
+T269	Premise 1086 1350	For two years, the president didn't even engage with North Korea, did nothing at all, while it was growing more dangerous, despite the warnings of former Secretary of Defense William Perry, who negotiated getting television cameras and inspectors into that reactor
+T270	Claim 1353 1403	We were safer before President Bush came to office
+T271	Claim 1433 1448	we're less safe
+T272	Premise 1405 1428	Now they have the bombs
+T273	Claim 1469 1579	We've got to join with the British and the French, with the Germans, who've been involved, in their initiative
+T274	Claim 1581 1654	We've got to lead the world now to crack down on proliferation as a whole
+T275	Premise 1661 1713	the president's been slow to do that, even in Russia
+T276	Claim 1716 1841	At his pace, it's going to take 13 years to reduce and get ahold of all the loose nuclear material in the former Soviet Union
+T277	Premise 1843 1929	I've proposed a plan that can capture it and contain it and clean it within four years
+T278	Premise 1936 2017	the president is moving to the creation of our own bunker- busting nuclear weapon
+T279	Claim 2122 2193	I'm going to lead the world in the greatest counterproliferation effort
+T280	Premise 2019 2119	It's very hard to get other countries to give up their weapons when you're busy developing a new one
+T281	Claim 2199 2263	if we have to get tough with Iran, believe me, we will get tough
+T282	Claim 2419 2455	It's naive and dangerous to say that
+T283	Premise 2457 2494	That's what the Duelfer report showed
+T284	Premise 2360 2418	He keeps talking about, "Let the inspectors do their job."
+T285	Premise 2496 2527	He was deceiving the inspectors
+T286	Claim 2628 2829	we're doing what he suggested we do: Get the Brits, the Germans and the French to go make it very clear to the Iranians that if they expect to be a party to the world to give up their nuclear ambitions
+T287	Premise 2550 2579	we've been involved with Iran
+T288	Premise 2582 2611	I fully understand the threat
+T289	Claim 2831 2852	We've been doing that
+T290	Claim 2887 3016	It is naive and dangerous to take a policy that he suggested the other day, which is to have bilateral relations with North Korea
+T291	Premise 3092 3260	He now wants to take the six-party talks we have -- China, North Korea, South Korea, Russia, Japan and the United States -- and undermine them by having bilateral talks
+T292	Premise 3028 3090	he's the person who's accusing me of not acting multilaterally
+T293	Premise 3263 3296	That's what President Clinton did
+T294	Premise 3298 3343	He had bilateral talks with the North Koreans
+T295	Premise 3371 3400	He didn't honor the agreement
+T296	Premise 3402 3426	He was enriching uranium
+T297	Claim 3428 3448	That is a bad policy
+T298	Claim 3462 3493	we're paying attention to these
+T299	Claim 3577 3630	There's an "Axis of Evil," Iraq, Iran and North Korea
+T300	Claim 3636 3664	we're paying attention to it
+T301	Claim 3670 3691	we're making progress
+R1	Support Arg1:T263 Arg2:T264	
+R2	Support Arg1:T267 Arg2:T266	
+R3	Attack Arg1:T264 Arg2:T265	
+R4	Attack Arg1:T266 Arg2:T265	
+R5	Support Arg1:T268 Arg2:T269	
+R6	Attack Arg1:T270 Arg2:T269	
+R7	Attack Arg1:T270 Arg2:T266	
+R8	Support Arg1:T272 Arg2:T271	
+R9	Support Arg1:T271 Arg2:T270	
+R10	Attack Arg1:T274 Arg2:T275	
+R11	Attack Arg1:T276 Arg2:T275	
+R12	Attack Arg1:T277 Arg2:T276	
+R13	Support Arg1:T278 Arg2:T280	
+R14	Support Arg1:T273 Arg2:T274	
+R15	Support Arg1:T274 Arg2:T279	
+R16	Attack Arg1:T279 Arg2:T280	
+R17	Attack Arg1:T282 Arg2:T284	
+R18	Support Arg1:T283 Arg2:T282	
+R19	Support Arg1:T285 Arg2:T283	
+R20	Support Arg1:T287 Arg2:T288	
+R21	Support Arg1:T288 Arg2:T286	
+R22	Support Arg1:T289 Arg2:T286	
+R23	Attack Arg1:T290 Arg2:T292	
+R24	Support Arg1:T291 Arg2:T290	
+R25	Support Arg1:T293 Arg2:T291	
+R26	Support Arg1:T294 Arg2:T293	
+R27	Support Arg1:T296 Arg2:T295	
+R28	Attack Arg1:T297 Arg2:T295	
+R29	Attack Arg1:T295 Arg2:T294	
+R30	Support Arg1:T298 Arg2:T300	
+R31	Support Arg1:T301 Arg2:T300	
+R32	Support Arg1:T299 Arg2:T300	

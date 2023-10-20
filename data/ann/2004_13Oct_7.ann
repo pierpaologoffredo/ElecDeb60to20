@@ -1,0 +1,103 @@
+T397	Claim 656 774	two leading national news networks have both said the president's characterization of my health-care plan is incorrect
+T398	Premise 776 797	One called it fiction
+T399	Premise 799 825	The other called it untrue
+T400	Claim 844 888	my health-care plan, America, is very simple
+T401	Claim 890 913	It gives you the choice
+T402	Premise 915 947	I don't force you to do anything
+T403	Premise 949 975	It's not a government plan
+T404	Premise 977 1026	The government doesn't require you to do anything
+T405	Claim 1028 1050	You choose your doctor
+T406	Claim 1052 1072	You choose your plan
+T407	Premise 1075 1168	If you don't want to take the offer of the plan that I want to put forward, you don't have do
+T408	Claim 1170 1285	You can keep what you have today, keep a high deductible, keep high premiums, keep a high co-pay, keep low benefits
+T409	Claim 1317 1393	I don't think a lot of people are going to want to keep what they have today
+T410	Claim 1292 1311	I got a better plan
+T411	Claim 1414 1502	We take over Medicaid children from the states so that every child in America is covered
+T412	Claim 1664 1689	I think they'll choose it
+T413	Premise 1699 1736	it's a net plus of $5 billion to them
+T414	Claim 1993 2077	I believe that your health care is just as important as any politician in Washington
+T415	Premise 1521 1642	if the states want to -- they're not forced to, they can choose to -- they cover individuals up to 300 percent of poverty
+T416	Premise 1644 1661	It's their choice
+T417	Claim 1798 1926	we give you broader competition to allow you to buy into the same health care plan that senators and congressmen give themselves
+T418	Premise 1928 1991	If it's good enough for us, it's good enough for every American
+T419	Premise 2200 2263	we're going to allow people 55 to 64 to buy into Medicare early
+T420	Premise 2153 2176	That helps lower prices
+T421	Premise 2120 2151	We give you broader competition
+T422	Premise 2086 2118	You want to buy into it, you can
+T423	Premise 2287 2381	we give small business a 50 percent tax credit so that after we lower the costs of health care
+T424	Premise 2383 2497	they also get, whether they're self-employed or a small business, a lower cost to be able to cover their employees
+T425	Premise 2597 2725	if you diagnose diabetes early, you could save $50 billion in the health care system of America by avoiding surgery and dialysis
+T426	Claim 2741 2773	I'm going to offer it to America
+T427	Premise 2727 2735	It works
+T428	Claim 3667 3780	I think government- run health will lead to poor-quality health, will lead to rationing, will lead to less choice
+T429	Premise 2960 3031	The Lewin report is a group of folks who are not politically affiliated
+T430	Premise 3033 3065	They analyzed the senator's plan
+T431	Premise 3067 3088	It cost $1.2 trillion
+T432	Premise 3090 3235	The Lewin report accurately noted that there are going to be 20 million people, over 20 million people added to government-controlled health care
+T433	Claim 3237 3300	It would be the largest increase in government health care ever
+T434	Claim 3303 3442	If you raise the Medicaid to 300 percent, it provides an incentive for small businesses not to provide private insurance to their employees
+T435	Premise 3444 3525	Why should they insure somebody when the government's going to insure it for them
+T436	Premise 3528 3619	It's estimated that 8 million people will go from private insurance to government insurance
+T437	Claim 3783 3892	Once a health-care program ends up in a line item in the federal government budget, it leads to more controls
+T438	Premise 3899 3984	just look at other countries that have tried to have federally controlled health care
+T439	Premise 3986 4020	They have poor-quality health care
+T440	Claim 4023 4070	Our health-care system is the envy of the world
+T441	Premise 4079 4198	we believe in making sure that the decisions are made by doctors and patients, not by officials in the nation's capital
+T442	Claim 4596 4639	I am not proposing a government-run program
+T443	Claim 4741 4771	Americans ought to have it too
+T444	Premise 4696 4739	Senators and congressmen have a wide choice
+T445	Premise 4665 4694	I have Blue Cross/Blue Shield
+T446	Claim 4230 4309	The president just said that government-run health care results in poor quality
+T447	Premise 4316 4436	maybe that explains why he hasn't fully funded the VA and the VA hospital is having trouble and veterans are complaining
+T448	Premise 4438 4530	Maybe that explains why Medicare patients are complaining about being pushed off of Medicare
+T449	Premise 4532 4561	He doesn't adequately fund it
+T450	Premise 4641 4663	That's not what I have
+T451	Premise 4827 4912	We've increased VA funding by $22 billion in the four years since I've been president
+T452	Claim 5065 5125	We're expanding veterans' health care throughout the country
+T453	Claim 5127 5180	We're aligning facilities where the veterans live now
+T454	Claim 5182 5248	Veterans are getting very good health care under my administration
+T455	Claim 5254 5308	they will continue to do so during the next four years
+T456	Premise 4914 4978	That's twice the amount that my predecessor increased VA funding
+T457	Claim 4990 5034	we're meeting our obligation to our veterans
+T458	Premise 5040 5062	the veterans know that
+R1	Support Arg1:T405 Arg2:T401	
+R2	Support Arg1:T406 Arg2:T401	
+R3	Support Arg1:T407 Arg2:T401	
+R4	Support Arg1:T413 Arg2:T412	
+R5	Support Arg1:T401 Arg2:T400	
+R6	Support Arg1:T411 Arg2:T410	
+R7	Support Arg1:T418 Arg2:T417	
+R8	Support Arg1:T417 Arg2:T410	
+R9	Support Arg1:T414 Arg2:T417	
+R10	Support Arg1:T422 Arg2:T414	
+R11	Support Arg1:T420 Arg2:T421	
+R12	Support Arg1:T421 Arg2:T410	
+R13	Support Arg1:T423 Arg2:T410	
+R14	Support Arg1:T419 Arg2:T410	
+R15	Support Arg1:T424 Arg2:T410	
+R16	Support Arg1:T425 Arg2:T410	
+R17	Support Arg1:T427 Arg2:T426	
+R18	Support Arg1:T432 Arg2:T433	
+R19	Support Arg1:T431 Arg2:T433	
+R20	Support Arg1:T430 Arg2:T432	
+R21	Support Arg1:T429 Arg2:T432	
+R22	Support Arg1:T435 Arg2:T434	
+R23	Support Arg1:T436 Arg2:T434	
+R24	Support Arg1:T438 Arg2:T437	
+R25	Support Arg1:T439 Arg2:T438	
+R26	Support Arg1:T441 Arg2:T440	
+R27	Support Arg1:T447 Arg2:T446	
+R28	Support Arg1:T448 Arg2:T446	
+R29	Attack Arg1:T446 Arg2:T428	
+R30	Support Arg1:T449 Arg2:T446	
+R31	Support Arg1:T445 Arg2:T442	
+R33	Support Arg1:T444 Arg2:T443	
+R32	Support Arg1:T442 Arg2:T443	
+R34	Attack Arg1:T451 Arg2:T447	
+R35	Support Arg1:T456 Arg2:T451	
+R36	Support Arg1:T451 Arg2:T457	
+R37	Support Arg1:T458 Arg2:T457	
+R38	Support Arg1:T452 Arg2:T457	
+R39	Support Arg1:T453 Arg2:T457	
+R40	Equivalent Arg1:T454 Arg2:T457	
+R41	Support Arg1:T457 Arg2:T455	

@@ -1,0 +1,45 @@
+T1	Premise 1019 1212	we have had not one but two detailed studies which indicate that there are billions and billions of dollars to be collected that are not being paid these are not taxes owed by average Americans
+T2	Claim 1214 1242	We don't have an alternative
+T3	Premise 1244 1315	We'll lose it when it's taken out of our paycheck before we even get it
+T4	Premise 1321 1451	it's the Internal Revenue Service which estimates now that we aren't collecting $100 billion or more in taxes owed in this country
+T5	Premise 1457 1562	that is just absolutely unfair to the vast majority of Americans who pay their taxes and pay them on time
+T6	Premise 1564 1825	The Dorgan Task Force, which included two internal revenue commissioners, one a Republican, one a Democrat. It was a bipartisan commission, a study by two respected economists, which indicated that we could collect some 40, 45, 50 billion dollars of those funds
+T7	Premise 2039 2064	In my own state, we did i
+T8	Premise 2067 2097	In other states, we've done it
+T9	Premise 2099 2151	Republican governors as well as Democratic governors
+T10	Claim 2157 2203	we've had great success at revenue enforcement
+T11	Claim 2210 2307	the Vice President will probably tell you that it's going to take an army of IRS collectors again
+T12	Premise 2315 2561	his campaign manager, who used to be the secretary of the treasury, was taking great credit about a year ago and asking and receiving from the Congress substantial additional funds to hire internal revenue agents to go out and collect these funds
+T13	Claim 2610 2626	we agree on this
+R1	Support Arg1:T12 Arg2:T13	
+R2	Attack Arg1:T12 Arg2:T11	
+T14	Claim 2687 2769	we must begin it's going to take at least the first year of the new administration
+T15	Premise 2776 2959	the Dorgan Task Force, the bipartisan task force estimated that we could collect about $35 billion in the fifth year, $105 billion over five years, the other study even more than that
+T16	Claim 3080 3167	you didn't predicate that lack of economists' support for what I call a flexible freeze
+T17	Premise 3177 3231	some good very good economists do support that concept
+T18	Claim 3424 3474	I believe we can keep this longest expansion going
+T19	Premise 3404 3419	I am optimistic
+T20	Claim 3626 3655	it isn't the end of the world
+T21	Claim 3661 3714	what we have to do is restrain the growth of spending
+T22	Premise 3720 3751	we are doing a better job of it
+T23	Premise 3753 3793	The Congress is doing a better job of it
+T24	Premise 3799 3816	the dynamics work
+T25	Claim 3822 3915	they don't work if you go raise taxes and then the Congress spends it continues to spend that
+T26	Premise 3917 3976	The American working man and woman are not taxed too little
+T27	Premise 3978 4028	The Federal Government continues to spend too much
+R3	Support Arg1:T9 Arg2:T10	
+R4	Support Arg1:T8 Arg2:T10	
+R5	Support Arg1:T7 Arg2:T10	
+R6	Support Arg1:T15 Arg2:T14	
+R8	Support Arg1:T3 Arg2:T2	
+T28	Claim 990 1010	I'm going to have to
+R9	Support Arg1:T1 Arg2:T28	
+R7	Support Arg1:T2 Arg2:T28	
+R10	Support Arg1:T4 Arg2:T28	
+R11	Support Arg1:T5 Arg2:T28	
+R12	Support Arg1:T6 Arg2:T28	
+R13	Support Arg1:T17 Arg2:T16	
+R14	Support Arg1:T19 Arg2:T18	
+R15	Support Arg1:T22 Arg2:T21	
+R16	Support Arg1:T23 Arg2:T22	
+R17	Support Arg1:T24 Arg2:T22	

@@ -1,0 +1,91 @@
+T411	Claim 420 503	I think age is very -- you know, wisdom comes from age, experience and intelligence
+T412	Premise 509 621	if you have some of each -- and I have some age, some experience and some intelligence -- that adds up to wisdom
+T413	Claim 623 652	I think it also is a strength
+T414	Claim 654 671	It's an advantage
+T415	Claim 881 913	I'm looking at our economic plan
+T416	Premise 922 969	I'm concerned about the future for young people
+T417	Claim 971 994	I'm looking about drugs
+T418	Premise 996 1038	The president has been AWOL for four years
+T419	Claim 1040 1063	I'm looking about crime
+T420	Premise 677 744	I have a lot of young people work in my office, work in my campaign
+T421	Premise 746 767	This is about America
+T422	Premise 769 849	This is about, somebody said earlier, one of the first questions, we're together
+T423	Premise 851 879	It's one America, one nation
+T424	Premise 1065 1108	He'll claim credit now for crime going down
+T425	Claim 1114 1124	it happens
+T426	Premise 1133 1188	mayors and governors and others have brought crime down
+T427	Premise 1190 1275	Rudy Giuliani, Mayor of New York, brought crime down 25 percent just in New York City
+T428	Premise 1277 1326	Of course the president will take credit for that
+T429	Claim 1328 1391	My view is we want to find jobs and opportunities and education
+T430	Claim 1393 1510	This year the Republican Congress, as far as student loans went from 24 billion to 36 billion over the next six years
+T431	Premise 1512 1533	A 50 percent increase
+T432	Premise 1535 1560	The highest appropriation
+T433	Claim 1665 1797	In our economic plan, the $500 child credit can be used for young people, rolled over and over and over, you, of course not this age
+T434	Claim 1803 1930	if you have a child two years old, 7 percent interest would be worth about $18,000 by the time that child was ready for college
+T435	Premise 1619 1663	We also raised the amount of each Pell Grant
+T436	Claim 1562 1617	6 billion dollars for Pell Grants, very, very important
+T437	Premise 1967 2020	I don't think Senator Dole is too old to be president
+T438	Claim 2022 2063	It's the age of his ideas that I question
+T439	Premise 2065 2110	You're almost not old enough to remember this
+T440	Claim 2116 2199	we tried this before, promising people an election year tax cut that's not paid for
+T441	Claim 2208 2238	You tried it last time you ran
+T442	Claim 2250 2290	Tell him you can have everything you got
+T443	Premise 2321 2409	Did you hear him say that Congress just voted to increase student loans and scholarships
+T444	Claim 2411 2433	They did after he left
+T445	Claim 2435 2492	The last budget he led cut Pell Grants, cut student loans
+T446	Premise 2494 2540	I vetoed it when they shut the government down
+T447	Claim 2542 2651	My plan would give students a dollar-for-dollar reduction for the cost of a typical community college tuition
+T448	Claim 2653 2711	A $10,000 deduction a year for the cost of college tuition
+T449	Claim 2819 2863	My whole administration is about your future
+T450	Premise 2713 2817	We let families save in an IRA, withdraw tax free to pay for the cost of education and it's all paid for
+T451	Premise 2865 2925	It's about what the 21st century is going to be like for you
+T452	Claim 2986 3065	When you don't have any ideas, I guess you say the other person's ideas are old
+T453	Claim 3086 3112	they don't have any ideas.
+T454	Premise 3113 3163	Their ideas is to raise taxes and spend more money
+T455	Premise 3165 3194	That's the liberal philosophy
+T456	Claim 3382 3410	Now all you got that tax cut
+T457	Premise 3437 3463	you got a big tax increase
+T458	Premise 3465 3506	You got a 265 billion dollar tax increase
+T459	Claim 3512 3595	he stands here and says politicians who make promises like that ought to be ignored
+T460	Premise 3602 3621	he made the promise
+T461	Claim 3623 3666	I keep my word, and you will have a tax cut
+T462	Claim 3668 3737	It will help you in whatever you're going to do in the next few years
+T463	Premise 3218 3248	you've got a perfect candidate
+T464	Premise 3250 3294	President Clinton came to California in 1992
+T465	Premise 3296 3380	He said the centerpiece in my first four years is going to be a middle class tax cut
+R1	Support Arg1:T412 Arg2:T411	
+R2	Support Arg1:T413 Arg2:T411	
+R3	Support Arg1:T414 Arg2:T411	
+R4	Support Arg1:T416 Arg2:T415	
+R5	Support Arg1:T421 Arg2:T415	
+R6	Support Arg1:T422 Arg2:T415	
+R7	Support Arg1:T423 Arg2:T415	
+R8	Support Arg1:T424 Arg2:T419	
+R9	Support Arg1:T426 Arg2:T425	
+R10	Support Arg1:T427 Arg2:T425	
+R11	Support Arg1:T428 Arg2:T424	
+R12	Support Arg1:T431 Arg2:T430	
+R13	Support Arg1:T432 Arg2:T430	
+R14	Support Arg1:T436 Arg2:T430	
+R15	Support Arg1:T430 Arg2:T429	
+R16	Support Arg1:T435 Arg2:T436	
+R17	Support Arg1:T434 Arg2:T433	
+R18	Support Arg1:T437 Arg2:T438	
+R19	Support Arg1:T439 Arg2:T440	
+R20	Support Arg1:T441 Arg2:T440	
+R21	Support Arg1:T443 Arg2:T444	
+R22	Support Arg1:T446 Arg2:T445	
+R23	Attack Arg1:T445 Arg2:T429	
+R24	Support Arg1:T447 Arg2:T449	
+R25	Support Arg1:T448 Arg2:T449	
+R26	Support Arg1:T450 Arg2:T449	
+R27	Support Arg1:T451 Arg2:T449	
+R28	Support Arg1:T454 Arg2:T453	
+R29	Support Arg1:T455 Arg2:T454	
+R30	Support Arg1:T463 Arg2:T453	
+R31	Support Arg1:T457 Arg2:T456	
+R32	Support Arg1:T458 Arg2:T456	
+R33	Support Arg1:T460 Arg2:T459	
+R34	Support Arg1:T462 Arg2:T461	
+R35	Attack Arg1:T461 Arg2:T440	
+R36	Attack Arg1:T452 Arg2:T438	

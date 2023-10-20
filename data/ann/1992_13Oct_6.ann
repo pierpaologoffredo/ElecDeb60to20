@@ -1,0 +1,127 @@
+T423	Claim 587 644	Bill Clinton and I support the right of a woman to choose
+T424	Premise 658 694	That doesn't mean we're pro-abortion
+T425	Claim 705 764	we believe there are way too many abortions in this country
+T426	Claim 770 842	the way to reduce them is by reducing the number of unwanted pregnancies
+T427	Claim 1011 1168	we believe that during the early stages of a pregnancy the government has no business coming in and ordering a woman to do what the government thinks is best
+T428	Premise 1170 1316	What Dan Quayle and George Bush and Jerry Falwell and Pat Robertson think is the right decision in a given set of circumstances is their privilege
+T429	Claim 1413 1579	We ought to be able to build more common ground among those who describe themselves as pro-choice and pro-life in efforts to reduce the number of unwanted pregnancies
+T430	Claim 1912 2000	My objective and the president's objective is to try to reduce abortions in this country
+T431	Premise 1815 1838	I happen to be pro-life
+T432	Premise -1 50; -1 50	I have been pro-life for my 16 years in public life
+T433	Premise 2002 2031	We have 1.6 million abortions
+T434	Premise 2033 2097	We have more abortions in Washington, DC, than we do live births
+T435	Premise 2099 2199	Why shouldn't we have more reflection upon the issue before abor -- the decision of abortion is made
+T436	Premise 2245 2307	Something like a 24-hour waiting period, parental notification
+T437	Premise 2310 2429	I was in Los Angeles recently and I talked to a woman who told me that she had an abortion when she was 17 years of age
+T438	Premise 2435 2481	looking back on that she said it was a mistake
+T439	Premise 2495 2745	she said I wished at that time, that I was going through this difficult time, that I had counseling to talk about the post-abortion trauma, and talk about adoption rather than abortion. Because if I had had that discussion, I would have had the child
+T440	Premise 2747 2805	Let's not forget that every abortion stops a beating heart
+T441	Claim 2807 2861	I think we have far too many abortions in this country
+T442	Claim 2928 3018	I believe that a woman owns her body and what she does with it is her own business, period
+T443	Premise 3097 3120	I, too, abhor abortions
+T444	Claim 3126 3167	I don't think they should be made illegal
+T445	Claim 3188 3224	I don't think it's a political issue
+T446	Claim 3226 3254	I think it's a privacy issue
+T447	Claim 3488 3731	he and George Bush have turned over their party to Pat Buchanan and Phyllis Schlafly, who have ordered them to endorse a platform which makes all abortions illegal under any circumstances, regardless of what has led to that decision by a woman
+T448	Premise 3414 3470	Dan did not say I support the right of a woman to choose
+T449	Claim 3733 4011	Even in cases of rape and incest, their platform requires that a woman be penalized, that she not be allowed to make a choice, if she believes, in consultation with her family, her doctor, and others, whoever she chooses, that she wants to have an abortion after rape, or incest
+T450	Premise 4280 4385	now you want to waffle around on it and give the impression that maybe you don't really mean what you say
+T451	Premise 4662 4739	It has been debated throughout your public life and throughout my public life
+T452	Premise 4624 4660	This issue is a very important issue
+T453	Claim 4745 4832	one thing that I don't think that it is wise to do, and that is to change your position
+T454	Claim 4834 4928	At one time, and most of the time in the House of Representatives, you had a pro-life position
+T455	Claim 4938 4960	That's simply not true
+T456	Premise 4971 5036	In 1987, you wrote a letter, and we'll pass this out to the media
+T457	Claim 5047 5070	That is simply not true
+T458	Claim 5081 5151	You wrote a letter saying that you oppose taxpayer funding of abortion
+T459	Claim 5153 5195	Bill Clinton has the same type of a record
+T460	Claim 5204 5225	In some circumstances
+T461	Claim 5279 5289	I still do
+T462	Claim 5304 5454	Bill Clinton, when he was governor of Arkansas, also worked with the Right to Life people and supported Right to Life positions and now he has changed
+T463	Premise 5563 5594	He's on both sides of the issue
+T464	Premise 5484 5528	This is the typical type of Clinton response
+T465	Claim 5925 5961	He changes his position all the time
+T466	Claim 6035 6077	Bill Clinton has trouble telling the truth
+T467	Claim 7652 7688	that is exactly what they want to do
+T468	Claim 7693 7791	that is why Dan Quayle refuses to say this evening that he supports the right of a woman to choose
+T469	Premise 7340 7443	There are millions of women in this country who passionately believe in the right of a woman to privacy
+T470	Premise 7449 7539	they want to stack the Supreme Court with justices who will take away the right to privacy
+T471	Claim 7567 7587	That is their agenda
+T472	Claim 7922 7981	so many Republicans are supporting the Clinton- Gore ticket
+T473	Claim 8601 8650	we're facing a desperate situation in our economy
+T474	Premise 8652 8702	I've seen the cost of living double in my lifetime
+T475	Premise 8704 8779	A new granddaughter was born in my family -- my granddaughter- -3 weeks ago
+T476	Premise 8785 8927	according to the statistics that we have -- that is, the Perot group -- the chances of her seeing a doubling of the standard of living are nil
+T477	Premise 8938 9016	her children will be dead before another -- this standard of living is doubled
+T704	Claim 844 925	not vetoing family planning legislation the way George Bush has consistently done
+T705	Premise 1324 1410	don't have the government order a woman to do what they think is the right thing to do
+T706	Claim 6996 7074	I have had the same position on abortion in favor of a woman's right to choose
+T707	Premise 7993 8156	they've turned over the party to this right wing extremist group which takes positions on issues like abortion that don't even allow exceptions for rape and incest
+R1	Attack Arg1:T423 Arg2:T424	
+R2	Attack Arg1:T425 Arg2:T424	
+R3	Support Arg1:T426 Arg2:T425	
+R4	Attack Arg1:T426 Arg2:T704	
+R5	Support Arg1:T423 Arg2:T427	
+R6	Attack Arg1:T427 Arg2:T428	
+R7	Attack Arg1:T427 Arg2:T705	
+R8	Attack Arg1:T429 Arg2:T705	
+R9	Support Arg1:T429 Arg2:T428	
+R10	Support Arg1:T425 Arg2:T429	
+T1	Premise 1761 1814	This issue is an issue that divides Americans deeply.
+T2	Premise 1840 1876;1896 1910	I have been pro-life for my 16 years in public life
+R11	Support Arg1:T433 Arg2:T434	
+R12	Support Arg1:T431 Arg2:T2	
+R13	Support Arg1:T434 Arg2:T435	
+R14	Support Arg1:T435 Arg2:T430	
+R15	Support Arg1:T437 Arg2:T438	
+R16	Support Arg1:T438 Arg2:T439	
+R17	Support Arg1:T439 Arg2:T440	
+R18	Support Arg1:T440 Arg2:T441	
+R19	Support Arg1:T435 Arg2:T441	
+R20	Support Arg1:T441 Arg2:T430	
+R21	Support Arg1:T436 Arg2:T435	
+R22	Support Arg1:T446 Arg2:T445	
+R23	Support Arg1:T445 Arg2:T442	
+R24	Support Arg1:T446 Arg2:T442	
+R25	Attack Arg1:T444 Arg2:T443	
+R26	Support Arg1:T444 Arg2:T442	
+R27	Support Arg1:T449 Arg2:T447	
+R28	Support Arg1:T448 Arg2:T447	
+T3	Claim 4013 4036;4110 4150	They make it completely illegal under any of those circumstances
+R29	Support Arg1:T3 Arg2:T449	
+T4	Claim 4398 4477	you can clear it up by simply repeating I support the right of a woman to choos
+R30	Support Arg1:T450 Arg2:T4	
+R31	Attack Arg1:T4 Arg2:T448	
+R32	Support Arg1:T452 Arg2:T451	
+R33	Support Arg1:T451 Arg2:T453	
+R34	Attack Arg1:T453 Arg2:T454	
+R35	Attack Arg1:T455 Arg2:T454	
+R36	Support Arg1:T456 Arg2:T454	
+R37	Support Arg1:T457 Arg2:T455	
+R38	Attack Arg1:T457 Arg2:T456	
+R39	Support Arg1:T459 Arg2:T458	
+R40	Support Arg1:T458 Arg2:T454	
+R41	Attack Arg1:T460 Arg2:T458	
+R42	Support Arg1:T461 Arg2:T460	
+R43	Support Arg1:T464 Arg2:T462	
+R44	Attack Arg1:T464 Arg2:T463	
+R45	Support Arg1:T462 Arg2:T459	
+R46	Attack Arg1:T453 Arg2:T462	
+R47	Support Arg1:T464 Arg2:T465	
+R48	Support Arg1:T466 Arg2:T465	
+T5	Premise 7076 7118	Do you support a woman's right to choose -
+R49	Attack Arg1:T706 Arg2:T5	
+R50	Attack Arg1:T469 Arg2:T470	
+R51	Attack Arg1:T471 Arg2:T470	
+R52	Support Arg1:T467 Arg2:T471	
+T6	Premise 7607 7646	if you support them, don't be surprised
+R53	Support Arg1:T6 Arg2:T467	
+R54	Support Arg1:T471 Arg2:T468	
+T7	Premise 7794 7892	I agree with Admiral Stockdale and the vast majority of Democrats and Republicans in this country.
+R55	Support Arg1:T7 Arg2:T472	
+R56	Support Arg1:T707 Arg2:T472	
+R57	Support Arg1:T475 Arg2:T476	
+R58	Support Arg1:T476 Arg2:T477	
+R59	Attack Arg1:T473 Arg2:T477	
+T8	Premise 9036 9089	Let's get on with talking about something substantive
+R60	Support Arg1:T8 Arg2:T473	

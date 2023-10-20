@@ -1,0 +1,105 @@
+T906	Premise 645 739	I was seeing B-52s, they're old enough that your father, your grandfather could be flying them
+T907	Premise 619 643	I looked the other night
+T908	Premise 569 618	We have not been updating from the new standpoint
+T910	Claim 796 848	I would like everybody to end it, just get rid of it
+T911	Claim 892 952	I think that once the nuclear alternative happens, it's over
+T912	Claim 854 891	I would certainly not do first strike
+T913	Claim 972 994	we have to be prepared
+T914	Claim 996 1031	I can't take anything off the table
+T915	Premise 1041 1128	you look at some of these countries, you look at North Korea, we're doing nothing there
+T916	Claim 1130 1168	China should solve that problem for us
+T917	Claim 1204 1258	China is totally powerful as it relates to North Korea
+T918	Claim 1170 1202	China should go into North Korea
+T919	Claim 1275 1381	another one powerful is the worst deal I think I've ever seen negotiated that you started is the Iran deal
+T920	Premise 1383 1428	Iran is one of their biggest trading partners
+T921	Premise 1430 1461	Iran has power over North Korea
+T922	Claim 1466 1596	when they made that horrible deal with Iran, they should have included the fact that they do something with respect to North Korea
+T923	Claim 1602 1682	they should have done something with respect to Yemen and all these other places
+T924	Premise 1789 1872	One of the great giveaways of all time, of all time, including $400 million in cash
+T925	Premise 1935 2008	It was actually $1.7 billion in cash, obviously, I guess for the hostages
+T926	Premise 1874 1904	Nobody's ever seen that before
+T927	Premise 1906 1933	That turned out to be wrong
+T928	Premise 2010 2037	It certainly looks that way
+T929	Claim 2099 2165	This is one of the worst deals ever made by any country in history
+T930	Claim 2167 2215	The deal with Iran will lead to nuclear problems
+T931	Claim 2217 2289	All they have to do is sit back 10 years, and they don't have to do much
+T932	Claim 2337 2376	they're going to end up getting nuclear
+T933	Premise 2431 2454	he's not a happy camper
+T934	Premise 2378 2417	I met with Bibi Netanyahu the other day
+T935	Claim 2574 2586	words matter
+T936	Claim 2633 2674	they really matter when you are president
+T937	Claim 2588 2627	Words matter when you run for president
+T938	Claim 2680 2808	I want to reassure our allies in Japan and South Korea and elsewhere that we have mutual defense treaties and we will honor them
+T939	Claim 2809 2852	It is essential that America's word be good
+T940	Premise 2861 2976	I know that this campaign has caused some questioning and some worries on the part of many leaders across the globe
+T941	Premise 2978 3011	I've talked with a number of them
+T942	Claim 3128 3144	our word is good
+T943	Claim 3282 3395	I'd rather deal with the other problems having put that lid on their nuclear program than still to be facing that
+T944	Premise 3210 3264	There's no doubt that we have other problems with Iran
+T945	Premise 3145 3208	It's also important that we look at the entire global situation
+T946	Claim 3497 3681	If he's going to criticize a deal that has been very successful in giving us access to Iranian facilities that we never had before, then he should tell us what his alternative would be
+T947	Premise 3400 3439	Donald never tells you what he would do
+T948	Premise 3722 3748	He says it's a secret plan
+T949	Claim 3754 3792	the only secret is that he has no plan
+T950	Claim 3796 3856	we need to be more precise in how we talk about these issues
+T951	Premise 3858 3968	People around the word follow our presidential campaigns so closely, trying to get hints about what we will do
+T952	Claim 3991 4097	Are we going to lead the world with strength and in accordance with our values? That's what I intend to do
+T953	Claim 4099 4325	I intend to be a leader of our country that people can count on, both here at home and around the world, to make decisions that will further peace and prosperity, but also stand up to bullies, whether they're abroad or at home
+T955	Claim 4666 4836	Hillary will tell you to go to her website and read all about how to defeat ISIS, which she could have defeated by never having it, you know, get going in the first place
+T956	Claim 4838 4896	Right now, it's getting tougher and tougher to defeat them
+T957	Premise 4906 4982	they're in more and more places, more and more states, more and more nations
+T958	Claim 5012 5030	it's a big problem
+T959	Claim 5152 5191	We cannot be the policemen of the world
+T960	Premise 5104 5150	we are losing billions and billions of dollars
+T962	Claim 5395 5424	she's got no business ability
+T963	Premise 5365 5385	she doesn't say that
+T964	Claim 5518 5539	she doesn't have that
+T967	Claim 5541 5676	All of the things that she's talking about could have been taken care of during the last 10 years, let's say, while she had great power
+T968	Premise 5682 5708	they weren't taken care of
+T969	Claim 5714 5769	if she ever wins this race, they won't be taken care of
+T970	Claim 5426 5439	We need heart
+T971	Claim 5441 5464	We need a lot of things
+T972	Claim 5470 5505	you have to have some basic ability
+R1	Support Arg1:T907 Arg2:T908	
+R2	Support Arg1:T906 Arg2:T908	
+R3	Support Arg1:T918 Arg2:T916	
+R4	Support Arg1:T917 Arg2:T918	
+R5	Support Arg1:T920 Arg2:T919	
+R6	Support Arg1:T921 Arg2:T922	
+R7	Support Arg1:T922 Arg2:T919	
+R8	Support Arg1:T923 Arg2:T919	
+R9	Support Arg1:T924 Arg2:T919	
+R10	Support Arg1:T926 Arg2:T924	
+R11	Support Arg1:T925 Arg2:T927	
+R12	Support Arg1:T927 Arg2:T929	
+R13	Support Arg1:T911 Arg2:T912	
+R14	Support Arg1:T915 Arg2:T914	
+R15	Support Arg1:T913 Arg2:T914	
+R16	Support Arg1:T930 Arg2:T929	
+R17	Support Arg1:T931 Arg2:T930	
+R18	Support Arg1:T932 Arg2:T931	
+R19	Support Arg1:T933 Arg2:T930	
+R20	Support Arg1:T934 Arg2:T930	
+R21	Support Arg1:T937 Arg2:T935	
+*	Equivalent T936 T937
+R22	Support Arg1:T939 Arg2:T938	
+R23	Support Arg1:T941 Arg2:T940	
+R24	Support Arg1:T949 Arg2:T950	
+R25	Support Arg1:T948 Arg2:T950	
+R26	Support Arg1:T947 Arg2:T950	
+R27	Support Arg1:T953 Arg2:T952	
+T1	Claim 4326 4434	We cannot let those who would try to destabilize the world to interfere with American interests and security
+R28	Support Arg1:T1 Arg2:T953	
+R29	Support Arg1:T957 Arg2:T956	
+R30	Support Arg1:T956 Arg2:T958	
+R31	Support Arg1:T960 Arg2:T959	
+T2	Claim 5193 5239	We cannot protect countries all over the world
+R32	Support Arg1:T959 Arg2:T2	
+R33	Support Arg1:T968 Arg2:T969	
+R34	Support Arg1:T964 Arg2:T969	
+T3	Claim 741 794	We are not — we are not keeping up with other countries
+R35	Support Arg1:T908 Arg2:T3	
+R36	Support Arg1:T935 Arg2:T938	
+R37	Support Arg1:T946 Arg2:T950	
+R38	Support Arg1:T963 Arg2:T962	
+R39	Support Arg1:T962 Arg2:T969	

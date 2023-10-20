@@ -1,0 +1,93 @@
+T131	Claim 2170 2326	I've proposed what I think is a fair and a responsible proposal that helps protect these people who've already got no relief or actually got a tax increase.
+T132	Claim 2122 2153	I believe we need some fairness
+T135	Claim 1833 1883	In 1981 I think he paid about 40 percent in taxes.
+T138	Claim 3419 3464	I don't think we can do that for a few years.
+T148	Claim 8871 8947	I have proposed that the program we must treat with that particular problem.
+T149	Claim 8809 8869	I never proposed any $20 billion should come out of Medicare
+T316	Claim 4005 4037	it's that government is overfed.
+T331	Claim 7161 7212	they had to do with his setting up of a blind trust
+T329	Premise 7214 7249	All of those are legally deductions
+T330	Premise 7251 7283	deductible in computing your tax
+T332	Premise 7289 7319	it was a 1-year thing with him
+T333	Premise 8952 9095	maybe part of that problem is because during the 4 years of the Carter-Mondale administration medical costs in this country went up 87 percent.
+T129	Claim 995 1123	In my opinion, as we deal with this deficit, people from about $70,000 a year on down have to be dealt with very, very carefully
+T582	Premise 1133 1198	they are the ones who didn't get any relief the first time around
+T130	Premise 1200 1405	Under the 1981 tax bill, people making $200,000 a year got $60,000 in tax relief over 3 years, while people making $30,000 a year, all taxes considered, got no relief at all or their taxes actually went up
+T128	Claim 1407 1502	That's why my proposal protects everybody from $25,000 a year or less against any tax increases
+T136	Claim 1508 1638	treats those $70,000 and under in a way that is more beneficial than the way the President proposes with a sales tax or a flat tax
+T583	Premise 1696 1764	Vice President Bush disclosed his tax returns to the American people
+T133	Claim 1988 2053	That meant that he paid a lower percent in taxes than the janitor
+T134	Premise 2054 2119	who cleaned up his office or the chauffeur who drives him to work
+T584	Premise 1884 1986	In 1983, as a result of these tax preferences, he paid a little over 12 percent, 12.8 percent in taxes
+T317	Claim 3130 3222	They hit middle- and moderate-income Americans and leave wealthy Americans largely untouched
+T318	Claim 3274 3314	my proposals will be far more beneficial
+T319	Premise 3225 3272	Up until about $70,000, as you go up the ladder
+T137	Claim 3373 3417	I'd like to see the total repeal of indexing
+T320	Premise 3316 3371	As soon as we get the economy on a sound ground as well
+T139	Claim 3469 3510	at some point, we want to do that as well
+T140	Claim 3733 3780	I don't have a plan to tax -- or increase taxes
+T321	Claim 3782 3813	I'm not going to increase taxes
+T585	Claim 3815 3856	I can understand why you are, Mr. Mondale
+T586	Premise 3866 3915	as a Senator you voted 16 times to increase taxes
+T142	Claim 3922 4003	I believe that our problem has not been that anybody in our country is undertaxed
+T141	Claim 4077 4216	this is why we had a 25-percent tax cut across the board which maintained the same progressivity of our tax structure in the brackets on up
+T322	Claim 4572 4643	this indeed was a tax that hit people in the lower brackets the hardest
+T323	Premise 4538 4568	the Social Security tax of '77
+T324	Claim 5386 5419	it just doesn't work out that way
+T325	Claim 5292 5384	I don't think that to try and say that we were taxing the rich, and not the other way around
+T327	Premise 5537 5595	if you take it in numbers of dollars instead of percentage
+T587	Claim 5623 5676	that person got 10 times as much as this other person
+T588	Claim 5687 5717	he paid 10 times as much, also
+T144	Claim 6378 6472	you yourself could say it could not go any lower and still perform the services for the people
+T589	Premise 6321 6371	If you got the Government down to the lowest level
+T326	Claim 5759 5818	you find out that it is fair and equitable across the board
+T590	Premise 5723 5752	if you take it in percentages
+T146	Premise 6478 6611	if the recovery was so complete that you knew you were getting the ultimate amount of revenues that you could get through that growth
+T591	Claim 6617 6685	there was still some slight difference there between those two lines
+T145	Claim 6719 6785	you would have to then look to see if taxes should not be adjusted
+T143	Claim 6787 6825	I don't foresee those things happening
+T592	Claim 6830 6887	I say with great confidence I'm not going to go for a tax
+T328	Premise 6890 7022	With regard to assailing Mr. Bush about his tax problems and the difference from the tax he once paid and then the later tax he paid
+T593	Claim 7024 7105	I think if you looked at the deductions, there were great legal expenses in there
+T594	Claim 7109 7155	had to do, possibly, with the sale of his home
+T147	Claim 8709 8798	something is going to have to be done in the next several years to make it fiscally sound
+T595	Premise 8571 8594	With regard to Medicare
+T596	Claim 8604 8703	it's time for us to say that Medicare is in pretty much the same condition that Social Security was
+R1	Support Arg1:T582 Arg2:T129	
+R2	Support Arg1:T130 Arg2:T582	
+R3	Support Arg1:T582 Arg2:T128	
+R4	Support Arg1:T582 Arg2:T136	
+R5	Support Arg1:T583 Arg2:T135	
+R6	Support Arg1:T584 Arg2:T133	
+R7	Support Arg1:T134 Arg2:T133	
+R8	Support Arg1:T133 Arg2:T132	
+R9	Support Arg1:T132 Arg2:T131	
+R10	Support Arg1:T319 Arg2:T317	
+R11	Support Arg1:T317 Arg2:T318	
+R12	Support Arg1:T320 Arg2:T137	
+R13	Support Arg1:T138 Arg2:T139	
+R14	Support Arg1:T140 Arg2:T321	
+R15	Support Arg1:T586 Arg2:T585	
+R16	Support Arg1:T142 Arg2:T316	
+R17	Support Arg1:T316 Arg2:T141	
+R18	Support Arg1:T323 Arg2:T322	
+R19	Support Arg1:T324 Arg2:T325	
+R20	Support Arg1:T327 Arg2:T587	
+R21	Support Arg1:T590 Arg2:T326	
+R22	Support Arg1:T588 Arg2:T326	
+R23	Support Arg1:T589 Arg2:T144	
+R24	Support Arg1:T146 Arg2:T591	
+R25	Support Arg1:T144 Arg2:T145	
+R26	Support Arg1:T591 Arg2:T145	
+R27	Support Arg1:T143 Arg2:T592	
+R28	Support Arg1:T328 Arg2:T593	
+R29	Support Arg1:T594 Arg2:T593	
+R30	Support Arg1:T331 Arg2:T593	
+R31	Support Arg1:T329 Arg2:T593	
+R32	Support Arg1:T330 Arg2:T593	
+R33	Support Arg1:T332 Arg2:T593	
+R34	Support Arg1:T595 Arg2:T596	
+R35	Support Arg1:T595 Arg2:T147	
+R36	Support Arg1:T596 Arg2:T147	
+R37	Support Arg1:T148 Arg2:T149	
+R38	Support Arg1:T333 Arg2:T148	

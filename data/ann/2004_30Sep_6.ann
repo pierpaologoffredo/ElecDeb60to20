@@ -1,0 +1,46 @@
+T825	Claim 435 558	we have a different set of convictions about how we make our country stronger here at home and respected again in the world
+T826	Claim 1044 1094	I will defend it as president of the United States
+T827	Premise 993 1038	I defended this country as a young man in war
+T828	Claim 1101 1140	I have a difference with this president
+T829	Claim 1142 1236	I believe when we're strongest when we reach out and lead the world and build strong alliances
+T830	Premise 1239 1261	I have a plan for Iraq
+T831	Claim 1263 1293	I believe we can be successful
+T832	Claim 1357 1443	we need a fresh start, a new credibility, a president who can bring allies to our side
+T833	Claim 1446 1626	I also have a plan to win the war on terror, funding homeland security, strengthening our military, cutting our finances, reaching out to the world, again building strong alliances
+T834	Claim 1629 1674	I believe America's best days are ahead of us
+T835	Claim 1683 1740	I believe that the future belongs to freedom, not to fear
+T836	Claim 2158 2250	If America shows uncertainty or weakness in this decade, the world will drift toward tragedy
+T837	Claim 2252 2309	That's not going to happen, so long as I'm your president
+T838	Claim 2312 2384	The next four years we will continue to strengthen our homeland defenses
+T839	Claim 2386 2440	We will strengthen our intelligence-gathering services
+T840	Claim 2442 2469	We will reform our military
+T841	Claim 2471 2513	The military will be an all-volunteer army
+T842	Claim 2516 2555	We will continue to stay on the offense
+T843	Claim 2606 2646	we do not have to face them here at home
+T844	Claim 2557 2602	We will fight the terrorists around the world
+T845	Claim 2649 2686	We'll continue to build our alliances
+T846	Claim 2688 2813	I'll never turn over America's national security needs to leaders of other countries, as we continue to build those alliances
+T847	Claim 2819 2851	we'll continue to spread freedom
+T848	Claim 2853 2903	I believe in the transformational power of liberty
+T849	Claim 2905 2963	I believe that the free Iraq is in this nation's interests
+T850	Claim 2965 3022	I believe a free Afghanistan is in this nation's interest
+T851	Claim 3029 3184	I believe both a free Afghanistan and a free Iraq will serve as a powerful example for millions who plead in silence for liberty in the broader Middle East
+R1	Support Arg1:T827 Arg2:T826	
+R2	Support Arg1:T829 Arg2:T828	
+R3	Support Arg1:T830 Arg2:T828	
+R4	Support Arg1:T832 Arg2:T828	
+R5	Support Arg1:T836 Arg2:T837	
+R6	Support Arg1:T838 Arg2:T837	
+R7	Support Arg1:T839 Arg2:T838	
+R8	Support Arg1:T840 Arg2:T838	
+R9	Support Arg1:T841 Arg2:T840	
+R10	Support Arg1:T842 Arg2:T838	
+R11	Support Arg1:T844 Arg2:T838	
+R12	Support Arg1:T843 Arg2:T844	
+R13	Support Arg1:T845 Arg2:T838	
+R14	Support Arg1:T846 Arg2:T845	
+R15	Support Arg1:T847 Arg2:T838	
+R16	Support Arg1:T848 Arg2:T847	
+R17	Support Arg1:T849 Arg2:T847	
+R18	Support Arg1:T850 Arg2:T847	
+R19	Support Arg1:T851 Arg2:T847	

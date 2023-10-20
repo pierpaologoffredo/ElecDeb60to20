@@ -1,0 +1,90 @@
+T266	Claim 751 779	I think it's a good decision
+T267	Claim 812 853	I think it was the correct decision to do
+T268	Premise 888 957	we're moving forward all around the world in a much more peaceful way
+T269	Claim 962 1029	that one we came away with in creating jobs for the American people
+T270	Premise 1064 1128	take a look at what the president has proposed on job retraining
+T271	Premise 1130 1215	When you cut back on defense spending, some people are going to be thrown out of work
+T272	Premise 1217 1353	If you throw another 50,000 kids on the street because of cutting recklessly in troop levels, you're going to put a lot more out of work
+T273	Premise 1376 1432	look at the job retraining programs that we're proposing
+T274	Premise 1531 1562	we've got big economic problems
+T275	Claim 1568 1604	we are not coming apart at the seams
+T276	Claim 1606 1632	we're ready for a recovery
+T277	Premise 1634 1744	With interest rates down and inflation down, the cruelest tax of all, caught up in a global slowdown right now
+T278	Claim 1751 1767	that will change
+T280	Premise 1962 1998	it's going to take awhile to educate
+T281	Claim 2004 2024	it is a good program
+T282	Claim 2033 2075	best help for short term is job retraining
+T283	Claim 2140 2164	it's not all that gloomy
+T284	Premise 2166 2178	we're the US
+T285	Premise 2212 2297	Look at the misery index when the Democrats had both the White House and the Congress
+T286	Premise 2299 2333	It was just right through the roof
+T287	Claim 2340 2356	we can do better
+T288	Claim 2362 2475	the way to do better is not to tax and spend but to retrain, get that control of the mandatory spending programs.
+T289	Claim 2608 2678	Defense industries are going to have to convert to civilian industries
+T292	Premise 2756 2794	there will be a significant transition
+T293	Claim 2800 2879	it's very important that we not continue to let our industrial base deteriorate
+T294	Premise 2881 3016	We had someone who I'm sure regrets said it in the president's staff said he didn't care whether we made potato chips or computer chips
+T291	Claim 3024 3071	anybody that thinks about it cares a great deal
+T295	Premise 3085 3138	you make more making computer chips than potato chips
+T296	Premise 3155 3231	19 out of 20 computer chips that we have in this country now come from Japan
+T297	Premise 3233 3266	We've given away whole industries
+T298	Premise 3271 3364	as we phase these industries over, there's a whole of intellectual talent in these industries
+T299	Claim 3454 3491	that's where the high-paying jobs are
+T300	Premise 3366 3448	A lot of these people in industries can be converted to the industries of tomorrow
+T301	Claim 3493 3552	We need to have a very carefully thought through phase-over
+T302	Premise 3564 3599	we practice 19th century capitalism
+T303	Premise 3601 3656	The rest of the world practices 21st century capitalism
+T304	Premise 3733 3863	In the rest of the world, the countries and the businesses would be working together to make this transition in an intelligent way
+T305	Claim 3928 4014	We must have a transition plan to plan to convert from a defense to a domestic economy
+T306	Premise 4016 4094	No other nation would have cut defense as much as we already have without that
+T307	Premise 4160 4275	we have cut defense without planning to retrain them and to reinvest in the technologies of the future here at home
+T308	Claim 4277 4302	That is what I want to do
+T309	Premise 4304 4461	This administration may say they have a plan, but the truth is they have not even released all the money, the paltry sum of money, that Congress appropriated
+T310	Premise 4463 4650	I want to take very dollar by which we reduce defense and reinvest it in technologies for the 21st century--in new transportation, in communication, in environmental clean-up technologies
+T608	Premise 1768 1813	if you go with the programs I've talked about
+T609	Premise 1818 1863	if you help with job retraining and education
+T279	Claim 1865 1939	I am a firm believer that our America 2000 education problem is the answer
+T610	Premise 2077 2125	if she was thrown out of work at a defense plant
+T611	Premise 2180 2210	we faced tough problems before
+T612	Claim 4096 4151	There are 200,000 people unemployed in California alone
+R1	Equivalent Arg1:T266 Arg2:T267	
+R2	Support Arg1:T268 Arg2:T267	
+R3	Support Arg1:T271 Arg2:T269	
+R4	Support Arg1:T269 Arg2:T267	
+R5	Support Arg1:T272 Arg2:T271	
+R6	Support Arg1:T273 Arg2:T271	
+R7	Support Arg1:T275 Arg2:T276	
+R8	Support Arg1:T274 Arg2:T276	
+R9	Support Arg1:T608 Arg2:T278	
+R10	Support Arg1:T609 Arg2:T278	
+R11	Support Arg1:T277 Arg2:T278	
+R12	Support Arg1:T280 Arg2:T279	
+R13	Support Arg1:T281 Arg2:T279	
+R14	Support Arg1:T282 Arg2:T271	
+R15	Support Arg1:T610 Arg2:T282	
+R16	Support Arg1:T284 Arg2:T283	
+R17	Support Arg1:T611 Arg2:T284	
+R18	Support Arg1:T285 Arg2:T286	
+R19	Support Arg1:T286 Arg2:T287	
+R20	Support Arg1:T288 Arg2:T287	
+R23	Attack Arg1:T291 Arg2:T294	
+R24	Support Arg1:T295 Arg2:T291	
+R27	Support Arg1:T300 Arg2:T299	
+R28	Support Arg1:T298 Arg2:T300	
+R29	Support Arg1:T299 Arg2:T291	
+R30	Support Arg1:T303 Arg2:T304	
+R31	Support Arg1:T304 Arg2:T301	
+R32	Support Arg1:T301 Arg2:T289	
+R33	Support Arg1:T293 Arg2:T289	
+R34	Support Arg1:T307 Arg2:T612	
+R35	Support Arg1:T310 Arg2:T308	
+R36	Support Arg1:T309 Arg2:T612	
+R37	Support Arg1:T306 Arg2:T612	
+R38	Attack Arg1:T307 Arg2:T281	
+R39	Support Arg1:T270 Arg2:T269	
+T1	Claim 1489 1521	stimulate investment and savings
+R40	Support Arg1:T1 Arg2:T267	
+R21	Support Arg1:T291 Arg2:T293	
+R25	Support Arg1:T296 Arg2:T297	
+R26	Support Arg1:T297 Arg2:T291	
+R22	Support Arg1:T302 Arg2:T304	

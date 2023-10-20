@@ -1,0 +1,207 @@
+T177	Claim 974 1012	the situation in Syria is catastrophic
+T178	Premise 1018 1280	every day that goes by, we see the results of the regime by Assad in partnership with the Iranians on the ground, the Russians in the air, bombarding places, in particular Aleppo, where there are hundreds of thousands of people, probably about 250,000 still left
+T179	Premise 1286 1461	there is a determined effort by the Russian air force to destroy Aleppo in order to eliminate the last of the Syrian rebels who are really holding out against the Assad regime
+T181	Claim 2883 2891	I wasn’t
+T182	Premise 2893 2903	I was gone
+T183	Claim 5089 5114	I don’t like Assad at all
+T184	Premise 5120 5141	Assad is killing ISIS
+T185	Claim 5197 5261	those three have now lined up because of our weak foreign policy
+T186	Premise 5143 5165	Russia is killing ISIS
+T187	Premise 5171 5191	Iran is killing ISIS
+T188	Claim 5807 5817	I disagree
+T189	Claim 5884 5918	I think you have to knock out ISIS
+T190	Premise 5955 6010	We have people that want to fight both at the same time
+T191	Premise 5920 5953	Right now, Syria is fighting ISIS
+T192	Claim 6042 6208	Syria is Russia and it’s Iran, who she made strong and Kerry and Obama made into a very powerful nation and a very rich nation, very, very quickly, very, very quickly
+T193	Claim 6016 6040	Syria is no longer Syria
+T194	Claim 6476 6523	I think Aleppo is a disaster, humanitarian-wise
+T195	Claim 6584 6620	I think that it basically has fallen
+T196	Claim 6704 6786	The biggest problem I have with the stupidity of our foreign policy, we have Mosul
+T197	Premise 6788 6837	They think a lot of the ISIS leaders are in Mosul
+T198	Premise 6842 6911	we have announcements coming out of Washington and coming out of Iraq
+T199	Claim 6913 6968	we will be attacking Mosul in three weeks or four weeks
+T200	Premise 6975 7027	all of these bad leaders from ISIS are leaving Mosul
+T201	Claim 7029 7057	Why can’t they do it quietly
+T202	Claim 7059 7236	Why can’t they do the attack, make it a sneak attack, and after the attack is made, inform the American public that we’ve knocked out the leaders, we’ve had a tremendous success
+T203	Claim 7252 7373	Why do they have to say we’re going to be attacking Mosul within the next four to six weeks, which is what they’re saying
+T204	Claim 7411 7461	There are sometimes reasons the military does that
+T205	Premise 7463 7484	Psychological warfare
+T206	Claim 7493 7513	I can’t think of any
+T207	Claim 7573 7610	It might be to help get civilians out
+T208	Claim 7926 7959	why would these people stay there
+T209	Claim 7829 7920	why can’t they do something secretively, where they go in and they knock out the leadership
+T210	Premise 7812 7827	They understand
+T211	Premise 7781 7810	We talk about it all the time
+T212	Premise 7714 7779	I have 21 Congressional Medal of Honor recipients who endorsed me
+T213	Premise 7664 7712	I have 200 generals and admirals who endorsed me
+T214	Premise 7623 7644	we have General Flynn
+T215	Claim 9184 9222	I don’t think that is a smart strategy
+T216	Claim 9066 9182	I don’t think American troops should be holding territory, which is what they would have to do as an occupying force
+T217	Claim 9020 9064	I think that would be a very serious mistake
+T218	Claim 8971 9018	I would not use American ground forces in Syria
+T219	Premise 8761 8794	You talk about diplomatic efforts
+T220	Claim 8796 8813	Those have failed
+T221	Claim 8815 8838	Cease-fires have failed
+T222	Claim 8840 8960	Would you introduce the threat of U.S. military force beyond a no-fly zone against the Assad regime to back up diplomacy
+T223	Premise 8282 8373	everybody’s talking about how Iraq, which is us with our leadership, goes in to fight Mosul
+T224	Claim 8260 8272	They’re gone
+T225	Claim 8225 8258	they’re not staying there anymore
+T227	Premise 8153 8198	this is where they think the ISIS leaders are
+T228	Claim 9616 9691	I hope by the time I am president that we will have pushed ISIS out of Iraq
+T229	Claim 9693 9754	I do think that there is a good chance that we can take Mosul
+T232	Premise 9771 9825	Donald says he knows more about ISIS than the generals
+T233	Claim 10070 10095	I would go after Baghdadi
+T234	Claim 10279 10302	I think that could help
+T235	Claim 10097 10133	I would specifically target Baghdadi
+R1	Support Arg1:T178 Arg2:T177	
+T1	Premise 1462 1503	Russia hasn’t paid any attention to ISIS.
+T2	Claim 1504 1548	They’re interested in keeping Assad in power
+R3	Support Arg1:T1 Arg2:T2	
+R2	Support Arg1:T179 Arg2:T1	
+T3	Premise 1556 1646	when I was secretary of state, advocated and I advocate today a no-fly zone and safe zones
+T4	Claim 1648 1817	We need some leverage with the Russians, because they are not going to come to the negotiating table for a diplomatic resolution, unless there is some leverage over them
+T5	Claim 1823 1894	we have to work more closely with our partners and allies on the ground
+T6	Claim 1894 1995	.But I want to emphasize that what is at stake here is the ambitions and the aggressiveness of Russia
+T7	Premise 1997 2042	Russia has decided that it’s all in, in Syria
+T8	Claim 2048 2149	they’ve also decided who they want to see become president of the United States, too, and it’s not me
+T9	Claim 2151 2174	I’ve stood up to Russia
+T10	Claim 2176 2240	I’ve taken on Putin and others, and I would do that as president
+T11	Claim 2241 2299	I think wherever we can cooperate with Russia, that’s fine
+T12	Claim 2305 2333	I did as secretary of state.
+T13	Premise 2334 2385	That’s how we got a treaty reducing nuclear weapons
+T14	Premise 2387 2499	It’s how we got the sanctions on Iran that put a lid on the Iranian nuclear program without firing a single shot
+T15	Claim 2501 2575	So I would go to the negotiating table with more leverage than we have now
+T16	Claim 2577 2717	But I do support the effort to investigate for crimes, war crimes committed by the Syrians and the Russians and try to hold them accountable
+R4	Support Arg1:T3 Arg2:T4	
+R5	Support Arg1:T7 Arg2:T6	
+R6	Support Arg1:T8 Arg2:T6	
+R7	Attack Arg1:T9 Arg2:T8	
+R8	Support Arg1:T10 Arg2:T9	
+R9	Support Arg1:T12 Arg2:T11	
+R10	Support Arg1:T13 Arg2:T12	
+R11	Support Arg1:T14 Arg2:T12	
+R12	Support Arg1:T5 Arg2:T4	
+R13	Attack Arg1:T4 Arg2:T6	
+R14	Attack Arg1:T11 Arg2:T10	
+R15	Support Arg1:T12 Arg2:T15	
+R16	Support Arg1:T182 Arg2:T181	
+T18	Claim 3181 3241	I don’t think he would be listening to you very much anymore
+T19	Premise 3242 3274	Obama draws the line in the sand
+T20	Claim 3276 3326	It was laughed at all over the world what happened
+T21	Premise 3354 3385	she talks tough against Russia.
+T22	Claim 3386 3431	But our nuclear program has fallen way behind
+T23	Claim 3437 3481	they’ve gone wild with their nuclear program
+T24	Claim 3483 3491	Not good
+T17	Claim 3075 3179	You were in total contact with the White House, and perhaps, sadly, Obama probably still listened to you
+T25	Claim 3493 3545	Our government shouldn’t have allowed that to happen
+T26	Claim 3547 3581	Russia is new in terms of nuclear.
+T27	Claim 3582 3592	We are old
+T28	Claim 3594 3605	We’re tired
+T29	Claim 3607 3642	We’re exhausted in terms of nuclear
+T30	Claim 3644 3661	A very bad thing.
+T31	Premise 3661 3737	Now, she talks tough, she talks really tough against Putin and against Assad
+T32	Premise 3739 3771	She talks in favor of the rebels
+T33	Claim 3773 3813	She doesn’t even know who the rebels are
+R17	Support Arg1:T17 Arg2:T18	
+R18	Support Arg1:T19 Arg2:T20	
+R19	Support Arg1:T20 Arg2:T18	
+R20	Attack Arg1:T22 Arg2:T21	
+R21	Support Arg1:T24 Arg2:T22	
+R22	Attack Arg1:T23 Arg2:T22	
+R23	Support Arg1:T25 Arg2:T24	
+R24	Attack Arg1:T26 Arg2:T27	
+R25	Support Arg1:T27 Arg2:T28	
+R26	Support Arg1:T28 Arg2:T29	
+R27	Support Arg1:T30 Arg2:T29	
+R28	Support Arg1:T31 Arg2:T32	
+R29	Attack Arg1:T33 Arg2:T32	
+T34	Premise 3816 3910	ou know, every time we take rebels, whether it’s in Iraq or anywhere else, we’re arming people
+T35	Premise 3979 4021	Look at what she did in Libya with Gadhafi
+T36	Claim 3939 3978	They end up being worse than the people
+T37	Claim 4038 4050	It’s a mess.
+T38	Premise 4023 4036	Gadhafi’s out
+R30	Support Arg1:T34 Arg2:T36	
+R31	Support Arg1:T35 Arg2:T36	
+R32	Support Arg1:T38 Arg2:T37	
+R33	Support Arg1:T37 Arg2:T36	
+T39	Claim 4068 4102	ISIS has a good chunk of their oil
+T40	Claim 4143 4160	It was a disaster
+T41	Claim 4170 4273	the fact is, almost everything she’s done in foreign policy has been a mistake and it’s been a disaster
+T42	Premise 4274 4364	But if you look at Russia, just take a look at Russia, and look at what they did this week
+T43	Premise 4429 4451	We sign a peace treaty
+T44	Premise 4453 4475	Everyone’s all excited
+T46	Claim 4775 4813	Iran now and Russia are now against us
+R34	Support Arg1:T36 Arg2:T39	
+R35	Support Arg1:T40 Arg2:T39	
+R36	Support Arg1:T42 Arg2:T43	
+R37	Support Arg1:T43 Arg2:T44	
+T47	Claim 4815 4837	So she wants to fight.
+T48	Claim 4838 4867	She wants to fight for rebels
+T49	Claim 4895 4933	You don’t even know who the rebels are
+R39	Attack Arg1:T184 Arg2:T183	
+R40	Support Arg1:T186 Arg2:T185	
+R41	Support Arg1:T187 Arg2:T185	
+R38	Support Arg1:T48 Arg2:T47	
+R42	Attack Arg1:T49 Arg2:T48	
+T45	Premise 4477 4536	Well, what Russia did with Assad and, by the way, with Iran
+T50	Claim 4538 4774	who you made very powerful with the dumbest deal perhaps I’ve ever seen in the history of deal-making, the Iran deal, with the $150 billion, with the $1.7 billion in cash, which is enough cash to fill up this room.But look at that deal.
+R43	Attack Arg1:T50 Arg2:T45	
+R44	Support Arg1:T44 Arg2:T45	
+R45	Support Arg1:T45 Arg2:T46	
+R46	Attack Arg1:T46 Arg2:T41	
+R47	Support Arg1:T41 Arg2:T185	
+R48	Support Arg1:T184 Arg2:T185	
+T51	Claim 5819 5829	I disagree
+*	Equivalent T51 T188
+R49	Support Arg1:T191 Arg2:T190	
+T52	Claim 6209 6239	I believe we have to get ISIS.
+T53	Claim 6240 6308	We have to worry about ISIS before we can get too much more involved
+R50	Attack Arg1:T193 Arg2:T190	
+R51	Support Arg1:T192 Arg2:T193	
+R52	Support Arg1:T189 Arg2:T52	
+R53	Support Arg1:T52 Arg2:T53	
+T54	Claim 6626 6650	It basically has fallen.
+R54	Support Arg1:T194 Arg2:T195	
+R55	Support Arg1:T195 Arg2:T54	
+R56	Support Arg1:T197 Arg2:T198	
+R57	Support Arg1:T198 Arg2:T199	
+R59	Attack Arg1:T201 Arg2:T199	
+R58	Support Arg1:T200 Arg2:T199	
+R60	Support Arg1:T196 Arg2:T199	
+R61	Support Arg1:T203 Arg2:T202	
+T55	Premise 7375 7401	How stupid is our country?
+R62	Attack Arg1:T55 Arg2:T203	
+R63	Attack Arg1:T202 Arg2:T199	
+R64	Attack Arg1:T209 Arg2:T208	
+R65	Support Arg1:T214 Arg2:T213	
+R66	Support Arg1:T213 Arg2:T212	
+R67	Support Arg1:T212 Arg2:T211	
+R68	Support Arg1:T211 Arg2:T210	
+R69	Attack Arg1:T210 Arg2:T209	
+R70	Support Arg1:T224 Arg2:T225	
+R71	Attack Arg1:T208 Arg2:T227	
+R72	Attack Arg1:T227 Arg2:T225	
+T56	Claim 8375 8438	ow, with these 200 admirals and generals, they can’t believe it
+T57	Claim 8459 8591	General George Patton, General Douglas MacArthur are spinning in their grave at the stupidity of what we’re doing in the Middle East
+R73	Support Arg1:T56 Arg2:T57	
+R74	Attack Arg1:T57 Arg2:T223	
+R75	Support Arg1:T218 Arg2:T217	
+R76	Support Arg1:T217 Arg2:T216	
+R77	Support Arg1:T216 Arg2:T215	
+T58	Premise 9223 9428	I do think the use of special forces, which we’re using, the use of enablers and trainers in Iraq, which has had some positive effects, are very much in our interests, and so I do support what is happening
+R78	Support Arg1:T228 Arg2:T229	
+T59	Claim 9827 9841	No, he doesn’t
+T60	Premise 9842 10020	There are a lot of very important planning going on, and some of it is to signal to the Sunnis in the area, as well as Kurdish Peshmerga fighters, that we all need to be in this.
+R79	Attack Arg1:T59 Arg2:T232	
+T61	Premise 10025 10069	that takes a lot of planning and preparation
+R80	Support Arg1:T61 Arg2:T60	
+R81	Attack Arg1:T60 Arg2:T59	
+R82	Support Arg1:T233 Arg2:T235	
+T62	Premise 10143 10274	I think our targeting of Al Qaida leaders—and I was involved in a lot of those operations, highly classified ones—made a difference
+R83	Support Arg1:T62 Arg2:T235	
+R84	Support Arg1:T234 Arg2:T235	
+T63	Claim 10303 10342	I would also consider arming the Kurds.
+T64	Claim 10343 10406	The Kurds have been our best partners in Syria, as well as Iraq
+T65	Claim 10412 10644	I know there’s a lot of concern about that in some circles, but I think they should have the equipment they need so that Kurdish and Arab fighters on the ground are the principal way that we take Raqqa after pushing ISIS out of Iraq
+R85	Support Arg1:T63 Arg2:T64	
+R86	Support Arg1:T64 Arg2:T65	

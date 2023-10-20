@@ -1,0 +1,91 @@
+T1	Claim 1900 1952	I think it's neither the best or worst of Washington
+T2	Claim 1958 2087	it's evidence of the fact that the economic policies of the last eight years have been the worst economic policies we've ever had
+T3	Claim 2331 2395	I don't think you needed any more evidence than what you see now
+T4	Claim 2399 2492	the Congress has been put -- Democrats and Republicans have been put in a very difficult spot
+T5	Claim 2498 2572	Barack Obama laid out four basic criteria for any kind of rescue plan here
+T7	Premise 2736 2808	He secondly said you have to focus on homeowners and folks on Main Stree
+T8	Premise 2820 2892	he said that you have to treat the taxpayers like investors in this case
+T9	Premise 2907 3062	what you have to do is make sure that CEOs don't benefit from this, because this could end up, in the long run, people making money off of this rescue plan
+T10	Claim 3098 3219	it brings us back to maybe the fundamental disagreement between Governor Palin and me and Senator McCain and Barack Obama
+T11	Premise 3225 3313	that is that the -- we're going to fundamentally change the focus of the economic policy
+T12	Claim 3315 3355	We're going to focus on the middle class
+T13	Premise 3373 3448	when the middle class is growing, the economy grows and everybody does well
+T15	Claim 3971 4101	you're going to hear some fear in that parent's voice, fear regarding the few investments that some of us have in the stock market
+T16	Claim 4376 4558	is going to be resounding that our economy is hurting and the federal government has not provided the sound oversight that we need and that we deserve, and we need reform to that end
+T17	Claim 4902 4989	I think that the alarm has been heard, though, and there will be that greater oversight
+T18	Premise 4997 5231	thanks to John McCain's bipartisan efforts that he was so instrumental in bringing folks together over this past week, even suspending his own campaign to make sure he was putting excessive politics aside and putting the country first
+T19	Claim 4565 4620	John McCain thankfully has been one representing reform
+T20	Premise 4622 4736	Two years ago, remember, it was John McCain who pushed so hard with the Fannie Mae and Freddie Mac reform measures
+T21	Premise 4738 4766	He sounded that warning bell
+T22	Premise 4768 4900	People in the Senate with him, his colleagues, didn't want to listen to him and wouldn't go towards that reform that was needed then
+T23	Claim 5469 5548	that's what I've done my whole career, Gwen, on very, very controversial issues
+T24	Claim 5550 5590	from dealing with violence against women
+T25	Claim 5592 5640	to putting 100,000 police officers on the street
+T26	Claim 5642 5726	to trying to get something done about the genocide in -- that was going on in Bosnia
+T27	Claim 5736 5778	I have been able to reach across the aisle
+T28	Claim 5780 5916	I think it's fair to say that I have almost as many friends on the Republican side of the aisle as I do the Democratic side of the aisle
+T29	Premise 6076 6192	it was two Mondays ago John McCain said at 9 o'clock in the morning that the fundamentals of the economy were strong
+T30	Premise 6194 6335	Two weeks before that, he said George -- we've made great economic progress under George Bush's policies.Nine o'clock, the economy was strong
+T31	Premise 6337 6432	Eleven o'clock that same day, two Mondays ago, John McCain said that we have an economic crisis
+T32	Claim 6434 6514	That doesn't make John McCain a bad guy, but it does point out he's out of touch
+T33	Claim 6516 6569	Those folks on the sidelines knew that two months ago
+T34	Premise 6695 6760	he was talking to and he was talking about the American workforce
+T35	Claim 6762 6898	And the American workforce is the greatest in this world, with the ingenuity and the work ethic that is just entrenched in our workforce
+T36	Claim 6900 6917	That's a positive
+T37	Claim 6919 6939	That's encouragement
+T38	Claim 6945 6974	that's what John McCain meant
+T40	Premise 7081 7147	I've joined this team that is a team of mavericks with John McCain
+T41	Claim 7188 7266	where we're known for putting partisan politics aside to just get the job done
+T42	Claim 7273 7347	Barack Obama, of course, he's pretty much only voted along his party lines
+T43	Premise 7358 7415	96 percent of his votes have been solely along party line
+T44	Claim 7417 7629	not having that proof for the American people to know that his commitment, too, is, you know, put the partisanship, put the special interests aside, and get down to getting business done for the people of America
+T45	Claim 7631 7671	We're tired of the old politics as usual
+T46	Claim 7711 7745	I do respect your years in the U.S
+T47	Claim 7759 7893	I think Americans are craving something new and different and that new energy and that new commitment that's going to come with reform
+T48	Claim 7895 8022	I think that's why we need to send the maverick from the Senate and put him in the White House, and I'm happy to join him there
+R1	Support Arg1:T3 Arg2:T4	
+R2	Support Arg1:T4 Arg2:T2	
+R3	Attack Arg1:T5 Arg2:T2	
+T6	Premise 2578 2622	first of all, said there has to be oversight
+T14	Premise 2624 2735	We're not going to write any check to anybody unless there's oversight for the -- of the secretary of Treasury.
+R4	Support Arg1:T6 Arg2:T14	
+R5	Support Arg1:T14 Arg2:T5	
+R6	Support Arg1:T7 Arg2:T5	
+R7	Support Arg1:T8 Arg2:T5	
+R8	Support Arg1:T9 Arg2:T5	
+R9	Support Arg1:T11 Arg2:T12	
+R10	Support Arg1:T13 Arg2:T12	
+R11	Attack Arg1:T12 Arg2:T10	
+R12	Support Arg1:T5 Arg2:T12	
+T39	Premise 4156 4223	Fear about, how are we going to afford to send our kids to college?
+T49	Premise 4224 4343	A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more peopl
+R13	Support Arg1:T21 Arg2:T22	
+R14	Support Arg1:T20 Arg2:T21	
+R15	Support Arg1:T22 Arg2:T19	
+R17	Support Arg1:T49 Arg2:T16	
+R18	Support Arg1:T39 Arg2:T16	
+R19	Support Arg1:T15 Arg2:T16	
+R20	Attack Arg1:T19 Arg2:T16	
+R16	Support Arg1:T18 Arg2:T17	
+R21	Support Arg1:T17 Arg2:T19	
+R22	Support Arg1:T24 Arg2:T23	
+R23	Support Arg1:T25 Arg2:T23	
+R24	Support Arg1:T26 Arg2:T23	
+R25	Support Arg1:T23 Arg2:T27	
+R26	Support Arg1:T27 Arg2:T28	
+R27	Attack Arg1:T31 Arg2:T30	
+R28	Support Arg1:T29 Arg2:T30	
+R29	Support Arg1:T31 Arg2:T32	
+R30	Support Arg1:T33 Arg2:T32	
+R31	Support Arg1:T34 Arg2:T35	
+R32	Support Arg1:T36 Arg2:T35	
+R33	Support Arg1:T37 Arg2:T35	
+R34	Support Arg1:T35 Arg2:T38	
+R35	Attack Arg1:T38 Arg2:T32	
+R36	Support Arg1:T43 Arg2:T42	
+R37	Attack Arg1:T41 Arg2:T42	
+R38	Support Arg1:T40 Arg2:T41	
+R39	Attack Arg1:T45 Arg2:T44	
+R40	Support Arg1:T42 Arg2:T44	
+R41	Support Arg1:T47 Arg2:T45	
+R42	Support Arg1:T48 Arg2:T47	

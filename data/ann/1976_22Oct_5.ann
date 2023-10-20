@@ -1,0 +1,38 @@
+T139	Claim 1554 1711	I think in the fact that he apologized, that he was reprimanded, uh - does permit him to stay on and continue that kind of leadership that's we so badly need
+T140	Premise 1712 1779	as we enter into uh - negotiations uh - under the SALT II agreement
+T141	Premise 1784 1887	if we have operations that might be developing uh in the Middle East or southern Africa, in the Pacific
+T142	Claim 1894 1959	we need a man with that experience, that knowledge, that know-how
+T143	Claim 1965 2083	I think, in light of the fact that he has uh - apologized, uh - would not have justified my asking for his resignation
+T144	Claim 907 967	I think that will, uh - in this situation, settle the matter
+T145	Premise 684 838	I have indicated to General Brown that uh - the words that he used in that interview, in that particular case and in several others, were very ill advised
+T146	Premise 844 901	General Brown has indicated uh - his apology, his regrets
+T149	Claim 1163 1228	General Brown has an exemply [sic] record of military performance
+T147	Premise 1230 1321	He served this nation with great, great skill and courage and bravery for thirty-five years
+T148	Premise 1335 1509	it's the consensus of the people who are knowledgeable in the military field, that he is probably the outstanding military leader and strategist that we have in America today
+T150	Claim 2939 3178	I think the only criticism that I would have uh - on - of Mr. Ford is that uh - immediately when the statement was re - re - revealed, uh - perhaps a - a statement from the president would have been a clarifying and a very beneficial thing
+T151	Premise 2171 2289	I think this is uh - the second time that General Brown has made a statement that - for which he did have to apologize
+T152	Premise 2295 2336	I know that everybody uh - makes mistakes
+T153	Premise 2346 2460	the first one was related to uh - the unwarranted influence of American Jews on the media and uh - in the Congress
+T154	Premise 2462 2499	This one concerned uh - Great Britain
+T155	Premise 2509 2614	he said that Israel was a - a military burden on us and that Iran hoped to reestablish the Persian Empire
+T156	Premise 2621 2762	I'm not uh - sure that I remembered earlier that President Ford had - had expressed uh - his concern about the statement or apologized for it
+T157	Claim 2777 2922	something, though, that I think uh - is indicative of the need among the American people to know how its commander-in-chief, the president, feels
+R1	Support Arg1:T146 Arg2:T144	
+R2	Support Arg1:T145 Arg2:T144	
+R3	Support Arg1:T147 Arg2:T149	
+R4	Support Arg1:T148 Arg2:T149	
+R5	Support Arg1:T146 Arg2:T139	
+R6	Support Arg1:T148 Arg2:T139	
+R7	Support Arg1:T149 Arg2:T139	
+R8	Support Arg1:T147 Arg2:T139	
+R10	Support Arg1:T141 Arg2:T139	
+R11	Support Arg1:T142 Arg2:T139	
+R12	Support Arg1:T141 Arg2:T142	
+R13	Support Arg1:T140 Arg2:T142	
+R14	Equivalent Arg1:T143 Arg2:T139	
+R9	Support Arg1:T153 Arg2:T151	
+R15	Support Arg1:T154 Arg2:T151	
+R16	Support Arg1:T156 Arg2:T157	
+R17	Support Arg1:T156 Arg2:T150	
+R18	Support Arg1:T157 Arg2:T150	
+R19	Support Arg1:T155 Arg2:T153	

@@ -1,0 +1,87 @@
+T204	Claim 570 596	I naturally am aware of it
+T205	Premise 606 698	I, of course, pay attention to everything Senator Kennedy says, as well as Senator Fulbright
+T206	Claim 749 782	the facts simply aren't as stated
+T207	Premise 798 953	the report to which Senator Kennedy refers is one that was made many, many months ago and related particularly to the uh - period immediately after Sputnik
+T208	Premise 963 1049	as far as this report is concerned, I would have no objection to having it made public
+T209	Claim 1058 1329	I would say this with regard to this report, with regard to Gallup Polls of prestige abroad and everything else that we've been hearing about "what about American prestige abroad": America's prestige abroad will be just as high as the spokesmen for America allow it to be
+T210	Claim 1725 1734	we're not
+T211	Claim 1440 1476	the United States is second in space
+T212	Premise 1481 1558	the fact of the matter is that the space score today is twenty-eight to eight
+T213	Premise 1561 1619	we've had twenty-eight successful shots, they've had eight
+T215	Premise 1672 1719	I have seen Soviet education and I've seen ours
+T216	Claim 1741 1764	we're second in science
+T217	Premise 1773 1813	they may be ahead in one area or another
+T218	Claim 1820 1898	overall we're way ahead of the Soviet Union and all other countries in science
+T220	Claim 1982 2014	we have the most crowded schools
+T221	Claim 2034 2087	seventeen million people go to bed hungry every night
+T222	Claim 2171 2223	it can only have the effect certainly of reducing it
+T223	Claim 2259 2399	Senator Kennedy has a responsibility to criticize those things that are wrong, but he has also a responsibility to be right in his criticism
+T224	Claim 2401 2476	Every one of these items that I have mentioned he's been wrong - dead wrong
+T225	Claim 2498 2540	he has contributed to any lack of prestige
+T226	Premise 2568 2664	as far as prestige is concerned, the first place it would show up would be in the United Nations
+T227	Premise 2670 2729	Senator Kennedy has referred to the vote on Communist China
+T228	Premise 2731 2764	Let's look at the vote on Hungary
+T229	Premise 2772 2870	we got more votes for condemning Hungary and looking into that situation than we got the last year
+T232	Claim 3077 3097	The President gained
+T233	Claim 3099 3306	America gained by continuing the dignity, the decency that has characterized us and it's that that keeps the prestige of America up, not running down America the way Senator Kennedy has been running her down
+T234	Claim 3351 3444	I really don't need uh - Mr. Nixon to tell me about what my responsibilities are as a citizen
+T235	Premise 3446 3536	I've served this country for fourteen years in the Congress and before that in the service
+T236	Premise 3538 3591	I've just as high a devotion, just as high an opinion
+T237	Premise 3593 3679	What I downgrade, Mr. Nixon, is the leadership the country is getting, not the country
+T238	Claim 3685 3742	I didn't make most of the statements that you said I made
+T239	Claim 3751 3801	I believe the Soviet Union is first in outer space
+T240	Premise 3803 3890	We have - may have made more shots but the size of their rocket thrust and all the rest
+T241	Premise 3893 4051	you yourself said to Khrushchev, "You may be ahead of us in rocket thrust but we're ahead of you in color television" in your famous discussion in the kitchen
+T242	Claim 4053 4119	I think that color television is not as important as rocket thrust
+T243	Claim 4131 4179	I didn't say we had the worst slums in the world
+T244	Premise 4181 4209	I said we had too many slums
+T248	Claim 4358 4410	I didn't say we had the worst education in the world
+T249	Premise 4412 4629	What I said was that ten years ago, we were producing twice as many scientists and engineers as the Soviet Union and today they're producing twice as many as we are, and that this affects our security around the world
+T245	Premise 4215 4273	that they are bad, and we ought to do something about them
+T246	Premise 4279 4356	we ought to support housing legislation which this Administration has opposed
+T247	Claim 4643 4970	I believe that the polls and other studies and votes in the United Nations and anyone reading the paper and any citizen of the United States must come to the conclusion that the United States no longer carries the same image of a vital society on the move with its brightest days ahead as it carried a decade or two decades ago
+T250	Premise 4996 5026	we've stood still here at home
+T251	Premise 5036 5084	we haven't met our problems in the United States
+T252	Premise 5094 5125	we haven't had a moving economy
+T253	Premise 5178 5229	the Soviet Union made a breakthrough in outer space
+T254	Premise 5231 5379	Mr. George Allen, head of your Information Service, has said that that made the people of the world begin to wonder whether we were first in science
+T255	Premise 5381 5474	We're first in other areas of science but in space, which is the new science, we're not first
+R1	Support Arg1:T205 Arg2:T204	
+R2	Support Arg1:T207 Arg2:T206	
+R3	Support Arg1:T208 Arg2:T206	
+R4	Support Arg1:T213 Arg2:T212	
+R5	Attack Arg1:T212 Arg2:T211	
+R6	Support Arg1:T215 Arg2:T210	
+R8	Support Arg1:T217 Arg2:T216	
+R9	Attack Arg1:T218 Arg2:T216	
+T1	Claim 2089 2163	when he makes statements like this, what does this do to American prestige
+R10	Support Arg1:T1 Arg2:T209	
+R11	Support Arg1:T222 Arg2:T1	
+R12	Support Arg1:T225 Arg2:T223	
+R16	Support Arg1:T235 Arg2:T236	
+R17	Support Arg1:T240 Arg2:T239	
+R18	Support Arg1:T241 Arg2:T239	
+R19	Attack Arg1:T240 Arg2:T212	
+T2	Claim 1900 1975	when he says as he did in January of this year that we have the worst slums
+R20	Support Arg1:T244 Arg2:T243	
+R21	Attack Arg1:T243 Arg2:T2	
+R22	Support Arg1:T245 Arg2:T243	
+R23	Support Arg1:T246 Arg2:T243	
+R24	Support Arg1:T243 Arg2:T238	
+R25	Support Arg1:T248 Arg2:T238	
+T3	Claim 1621 1666	when he states that we're second in education
+R7	Attack Arg1:T210 Arg2:T3	
+R26	Attack Arg1:T248 Arg2:T3	
+R27	Support Arg1:T249 Arg2:T248	
+R28	Support Arg1:T250 Arg2:T247	
+R29	Support Arg1:T251 Arg2:T247	
+R30	Support Arg1:T252 Arg2:T247	
+R34	Support Arg1:T253 Arg2:T255	
+T4	Premise 2872 3075	Let's look at the reaction eh - reaction to Khrushchev and Eisenhower at the last U.N. session. Did Khrushchev gain because he took his shoe off and pounded the table and shouted and insulted? Not at all
+R13	Support Arg1:T4 Arg2:T232	
+R14	Support Arg1:T206 Arg2:T209	
+R15	Support Arg1:T224 Arg2:T225	
+R35	Support Arg1:T232 Arg2:T233	
+R36	Attack Arg1:T234 Arg2:T223	
+R31	Support Arg1:T254 Arg2:T255	
+R33	Support Arg1:T255 Arg2:T247	

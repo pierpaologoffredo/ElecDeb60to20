@@ -1,0 +1,86 @@
+T54	Claim 773 840	I think we can bring it down by 50% in 4 years and grow the economy
+T55	Premise 847 906	I could get rid of it in 4 years in theory on the books now
+T56	Premise 912 1005	to do it you'd have to raise taxes too much and cut benefits too much to people who need them
+T57	Claim 1010 1046	it would even make the economy worse
+T58	Claim 1863 1927	I don't think a president should be judged solely on the deficit
+T59	Premise 674 723	the deficit now has been building up for 12 years
+T60	Claim 1753 1804	If you don't grow the economy you can't get it done
+T61	Premise 1810 1857	I can't foresee all the things that will happen
+T62	Premise 1554 1751	I ask everybody to look at my economic ideas and 9 Nobel prize winners and over 500 economists and hundreds of business people, including a lot of Republicans said, this is the way you've got to go
+T63	Claim 2273 2327	I don't think the American people are taxed too little
+T64	Claim 2329 2359	I think they're taxed too much
+T65	Claim 2856 2952	I think it would discipline not only the Congress, which needs it, but also the executive branch
+T66	Claim 3918 4019	I believe that we need to control the growth of mandatory spending, back to this gentleman's question
+T67	Claim 3281 3298	I think it's good
+T68	Claim 3227 3279	Some sophisticates think it may be a little gimmicky
+T69	Claim 2191 2262	I don't see how you can grow the deficit down by raising people's taxes
+T70	Premise 2361 2425	I went for one tax increase and when I make a mistake I admit it
+T71	Premise 2427 2467	I said that wasn't the right thing to do
+T72	Claim 2469 2577	Governor Clinton's program wants to tax more and spend more -- $150 billion in new taxes, spend another $220
+T73	Claim 2579 2618	I don't believe that's the way to do it
+T76	Premise 3200 3225	I've proposed another one
+T77	Claim 4302 4369	I just don't believe that would stimulate any kind of growth at all
+T78	Claim 4066 4181	The program that the president -- two-thirds of the budget, I as president never get to look at, never get to touch
+T79	Premise 4021 4064	That's the main growing thing in the budget
+T80	Premise 3622 3752	if the Congress won't do it, if they can't get together and negotiate how to do that, then you'd have a sequester across the board
+T81	Premise 3409 3483	You can check 10% of that if you want to, in the 1 box, and that 10%, $100
+T82	Premise 3485 3615	or if you're paying $10,000, whatever it is, $1000, check it off and make the government, make it lower the deficit by that amount
+T83	Claim 3832 3912	I'm the president that said hey, don't mess with Social Security, and we haven't
+T85	Claim 4183 4252	We've got to control that growth to inflation and population increase
+T86	Claim 4258 4300	not raise taxes on the American people now
+T87	Premise 4422 4447	we're $4 trillion in debt
+T88	Premise 4449 4554	We're going into debt an additional $1 billion, little more than $1 billion every working day of the year
+T97	Premise 5150 5167	we have to fix it
+T98	Premise 5329 5374	Young people with high grades can't get a job
+T99	Premise 5251 5327	When I was a young man, when I got out of the Navy I had multiple job offers
+T100	Premise 5169 5249	I'm here tonight for these young people up here in the balcony from this college
+T101	Claim 4929 5006	it's not the Republicans' fault, of course, and it's not the Democrats' fault
+T102	Premise 4795 4921	I just find it fascinating that while we sit here tonight we will go into debt an additional $50 million in an hour and a half
+T103	Premise 5693 5712	whose fault is that
+T104	Premise 5714 5731	Not the Democrats
+T105	Premise 5733 5752	Not the Republicans
+T106	Claim 5754 5825	Somewhere out there there's an extraterrestrial that's doing this to us
+T107	Premise 5840 5879	everybody says they take responsibility
+T108	Claim 5496 5589	we were down to 18% of them were making -- 18- to 24-year- olds were making less than $12,000
+T109	Claim 5650 5685	The dollar's gone through the floor
+R1	Support Arg1:T55 Arg2:T54	
+R2	Attack Arg1:T56 Arg2:T55	
+R3	Attack Arg1:T57 Arg2:T56	
+T1	Premise 1048 1233	Mr. Perot will tell you, for example, that the expert he hired to analyze his plan says that it will bring the deficit down in 5 years but it will make unemployment bad for 4 more years
+R4	Support Arg1:T1 Arg2:T57	
+T2	Claim 1238 1551	my view is, sir, you have to increase investment, grow the economy and reduce the deficit by controlling health care costs, prudent reductions in defense, cuts in domestic programs and asking the wealthiest Americans and foreign corporations to pay their fair share of taxes and investing and growing this economy
+R5	Support Arg1:T62 Arg2:T2	
+R6	Support Arg1:T60 Arg2:T2	
+R8	Support Arg1:T61 Arg2:T58	
+R7	Attack Arg1:T69 Arg2:T56	
+R9	Equivalent Arg1:T64 Arg2:T63	
+R10	Support Arg1:T71 Arg2:T70	
+R11	Attack Arg1:T73 Arg2:T72	
+R12	Attack Arg1:T64 Arg2:T72	
+T3	Premise 2955 3016	I'd like to have what 43 governors have -- the line item veto
+T4	Claim 3021 3197	if the Congress can't cut, and we've got a reckless spending Congress, let the president have a shot at it by wiping out things that are pork barrel or something of that nature
+R13	Support Arg1:T3 Arg2:T4	
+R14	Support Arg1:T4 Arg2:T65	
+R15	Attack Arg1:T67 Arg2:T68	
+T5	Premise 3300 3317	It's a check- off
+R16	Support Arg1:T5 Arg2:T67	
+T6	Premise 3319 3407	It says to you as a taxpayer -- say you're going to pay a tax of 1000 bucks or something
+R17	Support Arg1:T6 Arg2:T67	
+R18	Support Arg1:T81 Arg2:T67	
+R19	Support Arg1:T82 Arg2:T67	
+R20	Support Arg1:T80 Arg2:T67	
+T7	Claim 3786 3830	I don't want to tax or touch Social Security
+T8	Premise 3754 3782	You'd exempt Social Security
+R21	Support Arg1:T83 Arg2:T7	
+R22	Support Arg1:T8 Arg2:T67	
+R23	Support Arg1:T77 Arg2:T86	
+R24	Support Arg1:T63 Arg2:T69	
+T9	Premise 5376 5478	People -- the 18- to 24-year-old high school graduates 10 years ago were making more than they are now
+R25	Support Arg1:T105 Arg2:T106	
+R26	Support Arg1:T104 Arg2:T106	
+T10	Claim 6105 6124	We'll down our debt
+T11	Claim 6126 6174	We'll pass on the American dream to our children
+T12	Claim 6180 6242	I will not leave our children a situation that they have today
+T13	Premise 6245 6316	When I was a boy it took 2 generations to double the standard of living
+T14	Premise 6318 6351	Today it will take 12 generations
+T15	Claim 6353 6456	Our children will not see the American dream because of this debt that somebody somewhere dropped on us

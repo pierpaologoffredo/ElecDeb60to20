@@ -1,0 +1,84 @@
+T72	Claim 4240 4288	I think that's an abuse of faith in our country.
+T73	Premise 3986 4137	When the Republican platform says that from here on out, we're going to have a religious test for judges before they're selected for the Federal court,
+T75	Claim 4290 4339	This nation is the most religious nation on Earth
+T76	Claim 4343 4413	more people go to church and synagogues than any other nation on Earth
+T77	Premise 4434 4513	we kept the politicians and the state out of the personal exercise of our faith
+T78	Claim 4526 4610	faith in the United States is pure and unpolluted by the intervention of politicians
+T80	Claim 5476 5645	what I object to is someone seeking to use his faith to question the faith of another or to use that faith and seek to use the power of government to impose it on others
+T81	Claim 6267 6367	I, too, want that wall that is in the Constitution of separation of church and state to remain there
+T85	Claim 6705 6814	they have been using these things to have government, through court orders, inhibit the practice of religion.
+T262	Claim 919 940	I do resort to prayer
+T263	Claim 1137 1247	I think religion became a part of this campaign when Mr. Mondale's running mate said I wasn't a good Christian
+T265	Claim 1335 1455	I don't believe that I could carry on unless I had a belief in a higher authority and a belief that prayers are answered
+T266	Claim 2122 2165	I know the threats that are made against me
+T269	Claim 2061 2121	I pose a threat to several hundred people if I go to church.
+T270	Claim 2167 2208	We all know the possibility of terrorism.
+T274	Claim 2557 2579	I miss going to church
+T275	Claim 2585 2613	I think the Lord understands
+T276	Claim 3336 3433	I believe I have sung at more weddings and more funerals than anybody ever to seek the Presidency
+T277	Claim 3591 3674	I think our faith tells us, instructs us, about the moral life that we should lead.
+T278	Claim 3477 3506	I have a deep religious faith
+T279	Claim 3508 3523	Our family does
+T280	Claim 3525 3542	It is fundamental
+T281	Claim 3544 3589	It's probably the reason that I'm in politics
+T282	Claim 3679 3713	I think we're all together on that
+T285	Claim 7176 7246	I have appointed one member to the Supreme Court: Sandra Day O'Connor.
+T261	Claim 676 913	I should say, as Lincoln once said, that I could not -- I would be the most stupid man in the world if I thought I could confront the duties of the office I hold if I could not turn to someone who was stronger and greater than all others
+T526	Claim 969 1114	I have not believed that prayer should be introduced into an election or be a part of a political campaign -- or religion a part of that campaign
+T264	Claim 1254 1284	it does play a part in my life
+T527	Claim 1286 1318	I have no hesitancy in saying so
+T528	Premise 1789 1832	I have gone to church regularly all my life
+T267	Claim 2382 2430	I don't feel that I have a right to go to church
+T268	Claim 2323 2378	my minister knows this and supports me in this position
+T271	Claim 2445 2551	my being there could cause something of the kind that we have seen in other places, in Beirut, for example
+T272	Claim 3941 3983	All history tells us that that's a mistake
+T74	Premise 4147 4238	Jerry Falwell announces that that means they get at least two Justices of the Supreme Court
+T273	Claim -1 96; -1 96	I think if we want to continue to have a religious nation, lets keep that line and never cross it
+T79	Premise 5647 5768	A minister who is in civil rights or in the conservative movement, because he believes his faith instructs him to do that
+T529	Claim 5770 5778	I admire
+T530	Claim 5780 5881	The fact that the faith speaks to us and that we are moral people, hopefully, I accept and rejoice in
+T532	Premise -1 155; -1 155	It's when you try to use that to undermine the integrity of private political -- or private religious faith for the most personal decisions in American life
+T531	Claim -1 44; -1 44	the use of the state is where I draw the line
+T82	Claim 6369 6547	The only attacks I have made are on people who apparently would break away at that wall from the government side, using the government, using the power of the courts and so forth
+T83	Premise 6548 6699	to hinder that part of the Constitution that says the government shall not only not establish a religion, it shall not inhibit the practice of religion
+T84	Premise 6815 6932	A child wants to say grace in a school cafeteria and a court rules that they can't do it because it's school property
+T86	Claim 6934 7063	These are they types of things that I think have been happening in a kind of a secular way that have been eroding that separation
+T533	Claim 7069 7089	I am opposed to that
+T534	Claim 7247 7278	I'll stand on my record on that
+T283	Claim 7284 7388	if I have the opportunity to appoint any more, I'll do it in the same manner that I did in selecting her
+T284	Claim 8188 8295	It seems to me that a moment's reflection tells you why the United States Senate turned that amendment down
+T535	Premise 8305 8385	it will undermine the practice of honest faith in our country by politicizing it
+R1	Support Arg1:T261 Arg2:T262	
+R2	Support Arg1:T527 Arg2:T264	
+R3	Support Arg1:T264 Arg2:T262	
+R4	Support Arg1:T261 Arg2:T265	
+R5	Support Arg1:T265 Arg2:T262	
+R6	Support Arg1:T266 Arg2:T269	
+R7	Support Arg1:T270 Arg2:T269	
+R8	Support Arg1:T268 Arg2:T267	
+R9	Support Arg1:T269 Arg2:T267	
+R10	Support Arg1:T271 Arg2:T267	
+R11	Support Arg1:T269 Arg2:T275	
+R12	Support Arg1:T267 Arg2:T274	
+R13	Support Arg1:T276 Arg2:T278	
+R14	Support Arg1:T279 Arg2:T278	
+R15	Support Arg1:T280 Arg2:T278	
+R16	Support Arg1:T278 Arg2:T281	
+R17	Support Arg1:T277 Arg2:T281	
+R18	Support Arg1:T73 Arg2:T72	
+R19	Support Arg1:T74 Arg2:T72	
+R20	Support Arg1:T72 Arg2:T272	
+R22	Support Arg1:T77 Arg2:T75	
+R23	Support Arg1:T76 Arg2:T75	
+R21	Support Arg1:T77 Arg2:T78	
+R24	Support Arg1:T79 Arg2:T529	
+R25	Support Arg1:T79 Arg2:T530	
+R26	Support Arg1:T83 Arg2:T82	
+R27	Support Arg1:T85 Arg2:T82	
+R28	Support Arg1:T84 Arg2:T86	
+R29	Support Arg1:T86 Arg2:T533	
+R30	Support Arg1:T285 Arg2:T534	
+R31	Support Arg1:T283 Arg2:T534	
+R32	Support Arg1:T535 Arg2:T284	
+R33	Support Arg1:T284 Arg2:T81	
+R34	Support Arg1:T284 Arg2:T78	

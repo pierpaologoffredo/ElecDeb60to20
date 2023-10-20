@@ -1,0 +1,39 @@
+T1	Question 46 402	Mr. Vice President, your campaign stresses the value of your eight year experience, and the question arises as to whether that experience was as an observer or as a participant or as an initiator of policy-making. Would you tell us please specifically what major proposals you have made in the last eight years that have been adopted by the Administration?
+T2	Claim 410 492	It would be rather difficult to cover them in eight and- in two and a half minutes
+T3	Premise 551 639	First, after each of my foreign trips I have made recommendations that have been adopted
+T4	Premise 641 863	For example, after my first trip abroad - abroad, I strongly recommended that we increase our exchange programs particularly as they related to exchange of persons of leaders in the labor field and in the information field
+R1	Support Arg1:T4 Arg2:T3	
+T5	Premise 865 1142	After my trip to South America, I made recommendations that a separate inter-American lending agency be set up which the South American nations would like much better than a lend- than to participate in the lending agencies which treated all the countries of the world the same
+R2	Support Arg1:T5 Arg2:T3	
+R3	Support Arg1:T3 Arg2:T2	
+T6	Premise 1149 1212	I have made other recommendations after each of the other trips
+R4	Equivalent Arg1:T6 Arg2:T3	
+T7	Premise 1214 1434	for example, after my trip abroad to Hungary I made some recommendations with regard to the Hungarian refugee situation which were adopted, not only by the President but some of them were enacted into law by the Congress
+R5	Support Arg1:T7 Arg2:T6	
+T8	Premise 1436 1695	Within the Administration, as a chairman of the President's Committee on Price Stability and Economic Growth, I have had the opportunity to make recommendations which have been adopted within the Administration and which I think have been reasonably effective
+R6	Support Arg1:T8 Arg2:T2	
+T9	Claim 1697 1822	I know Senator Kennedy suggested in his speech at Cleveland yesterday that that committee had not been particularly effective
+T10	Premise 1824 2021	I would only suggest that while we do not take the credit for it - I would not presume to - that since that committee has been formed the price line has been held very well within the United States
+R7	Attack Arg1:T10 Arg2:T9	
+T11	Premise 2256 2465	Mr. Truman came to office in nineteen uh - forty-four and at the end of the war, and uh - difficulties that were facing the United States during that period of transition - 1946 when price controls were lifted
+T12	Claim 2471 2596	it's rather difficult to use an overall figure taking those seven and a half years and comparing them to the last eight years
+T13	Claim 2038 2248	I would say in the latter that the - and that's what I found uh - somewhat unsatisfactory about the figures uh - Mr. Nixon, that you used in your previous speech, when you talked about the Truman Administration
+R8	Support Arg1:T12 Arg2:T13	
+R9	Support Arg1:T11 Arg2:T12	
+T14	Premise 2598 2761	I prefer to take the overall percentage record of the last twenty years of the Democrats and the eight years of the Republicans to show an overall period of growth
+R10	Support Arg1:T14 Arg2:T13	
+T15	Premise 2763 2978	In regard to uh - price stability uh - I'm not aware that that committee did produce recommendations that ever were certainly before the Congress from the point of view of legislation in regard to controlling prices
+R11	Support Arg1:T13 Arg2:T9	
+T16	Premise 2980 3079	In regard to the exchange of students and labor unions, I am chairman of the subcommittee on Africa
+T17	Claim 3084 3218	I think that one of the most unfortunate phases of our policy towards that country was the very minute number of exchanges that we had
+R13	Support Arg1:T16 Arg2:T17	
+R14	Attack Arg1:T17 Arg2:T4	
+T18	Claim 3220 3259	I think it's true of Latin America also
+T19	Premise 3261 3426	We did come forward with a program of students for the Congo of over three hundred which was more than the federal government had for all of Africa the previous year
+T20	Claim 3436 3523	I don't think that uh - we have moved at least in those two areas with sufficient vigor
+R15	Support Arg1:T19 Arg2:T20	
+R16	Attack Arg1:T18 Arg2:T5	
+R17	Attack Arg1:T17 Arg2:T4	
+R12	Attack Arg1:T15 Arg2:T8	
+R18	Support Arg1:T17 Arg2:T20	
+R19	Support Arg1:T18 Arg2:T20	

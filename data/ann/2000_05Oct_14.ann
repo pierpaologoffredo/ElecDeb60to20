@@ -1,0 +1,81 @@
+T650	Claim 1881 2005	Al Gore and I believe that with your help and God's help we can make the future of this good and blessed country even better
+T651	Claim 1612 1675	To me Al Gore is that leader and will be that kind of president
+T652	Premise 1687 1795	for 224 years Americans have dreamed bigger dreams and tried bolder solutions than any other people on earth
+T653	Claim 1797 1850	Now is not the time to settle for less than we can be
+T654	Premise 1400 1448	for prescription drug benefits for their parents
+T655	Premise 1369 1398	For a sound retirement system
+T656	Premise 1454 1520	for a government that is fiscally responsible, balances the budget
+T657	Premise 1522 1547	Keeps interest rates down
+T658	Claim 1249 1296	to make it they need a leader who will stand up
+T659	Premise 1336 1367	the best education in the world
+T660	Premise 1301 1334	fight for them for good education
+T661	Premise 594 748	here I am even the son of a man who started working the night shift on a bakery truck can end up being a candidate for Vice President of the United States
+T662	Claim 750 845	That says a lot about the character of this nation and the goodness of you, the American people
+T663	Premise 868 945	Hadassah and I have traveled around this country in the last couple of months
+T664	Premise 950 1113	met thousands and thousands of parents just like our moms and dads, hard working middle-class people paying their taxes, doing the jobs to keep the country running
+T665	Premise 1115 1224	Trying so hard to teach their kids right from wrong and believing in their hearts that their kids can make it
+T666	Claim 1226 1243	I agree with them
+T667	Claim 2289 2357	This is a very important decision you're going to make on November 7
+T668	Claim 3442 3565	We think it's very important now that we have a surplus, that a portion of that surplus go back to the people who earned it
+T669	Claim 3737 3794	we think it's very important to rebuild the U.S. military
+T670	Claim 4322 4389	George Bush is good man, an honorable man, a man of great integrity
+T671	Claim 2359 2458	We have a fundamental choice between whether or not we continue with our old ways of big government
+T672	Premise 2460 2506	high taxes and ever more intrusive bureaucracy
+T673	Claim 2508 2553	or whether we take a new course for a new era
+T674	Claim 2555 2604	Governor Bush and I want to pursue the new course
+T675	Claim 2606 2708	We want to reform the Social Security system to guarantee benefits will be there for our retired folks
+T676	Claim 2899 2999	We want to reform the Medicare system to make certain the benefits are there for our senior citizens
+T677	Claim 3133 3171	We want to reform the education system
+T678	Claim 3405 3440	We also want to reform the tax code
+T679	Premise 3567 3598	It's not the government's money
+T680	Claim 3600 3615	it's your money
+T681	Premise 2721 2897	make it possible for our young people to invest a portion of their payroll tax into a retirement account that they'll control and give them greater control over their own lives
+T682	Premise 3010 3131	to provide prescription drug coverage for them and give them a range of choices in terms of the kind of insurance we have
+T683	Claim 3173 3249	We want to restore our public schools to the greatness they once represented
+T684	Premise 3253 3329	that every parent has the opportunity to choose what is best for their child
+T685	Claim 3337 3403	that every child has an opportunity to share in the American dream
+T686	Claim 3617 3638	You're entitled to it
+T687	Premise 3644 3726	we would like to see to it that we provide tax relief for everybody who pays taxes
+T688	Claim 3796 3822	The military is in trouble
+T689	Claim 3824 3861	The trends are in the wrong direction
+T690	Premise 3863 3937	The finest men and women in uniform that you'll find anyplace in the world
+T691	Claim 3942 3966	they deserve our support
+T692	Claim 3968 4027	They deserve the resources that we need to provide for them
+T693	Claim 4032 4060	they deserve good leadership
+T694	Claim 4062 4095	George Bush is the man to do this
+T695	Premise 4097 4125	I've seen him do it in Texas
+T696	Premise 4132 4179	we need is to be able to reach across the aisle
+T697	Premise 4181 4233	Put together coalitions of Republicans and Democrats
+T698	Premise 4238 4320	build the kinds of coalitions that will get something done, finally, in Washington
+T699	Claim 4391 4426	He will make a first rate president
+R1	Support Arg1:T661 Arg2:T662	
+R2	Support Arg1:T697 Arg2:T699	
+R3	Support Arg1:T698 Arg2:T699	
+R4	Support Arg1:T670 Arg2:T699	
+R5	Support Arg1:T696 Arg2:T699	
+R6	Support Arg1:T695 Arg2:T699	
+R7	Support Arg1:T694 Arg2:T699	
+R8	Support Arg1:T692 Arg2:T694	
+R9	Support Arg1:T693 Arg2:T694	
+R10	Support Arg1:T688 Arg2:T669	
+R11	Support Arg1:T689 Arg2:T669	
+R12	Support Arg1:T668 Arg2:T678	
+R13	Support Arg1:T690 Arg2:T691	
+R14	Support Arg1:T691 Arg2:T694	
+R15	Support Arg1:T687 Arg2:T686	
+R16	Support Arg1:T686 Arg2:T678	
+R17	Support Arg1:T680 Arg2:T668	
+R18	Support Arg1:T679 Arg2:T668	
+R19	Support Arg1:T684 Arg2:T683	
+R20	Support Arg1:T685 Arg2:T683	
+R21	Support Arg1:T683 Arg2:T677	
+R22	Support Arg1:T682 Arg2:T676	
+R23	Support Arg1:T681 Arg2:T675	
+R24	Support Arg1:T675 Arg2:T674	
+R25	Support Arg1:T676 Arg2:T674	
+R26	Support Arg1:T677 Arg2:T674	
+R27	Support Arg1:T678 Arg2:T674	
+R28	Support Arg1:T669 Arg2:T674	
+R29	Support Arg1:T672 Arg2:T671	
+R30	Support Arg1:T671 Arg2:T667	
+R31	Support Arg1:T673 Arg2:T667	

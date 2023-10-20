@@ -1,0 +1,73 @@
+T1	Premise 1136 1206	There is a considerable anti-Washington feeling throughout the country
+T2	Claim 1212 1244	I think the feeling is misplaced
+T3	Premise 1246 1386	In the last two years, we have restored integrity in the White House, and we've set high standards in the executive branch of the government
+T4	Claim 1388 1488	The anti-Washington feeling, in my opinion, ought to be focused on the Congress of the United States
+T5	Premise 1490 1629	For example, this Congress, very shortly, will spend a billion dollars a year for its housekeeping, its salaries, its expenses and the like
+T6	Premise 1636 1740	the next Congress will probably be the first billion-dollar Congress in the history of the United States
+T7	Claim 1742 1854	I don't think the American people are getting their money's worth from the majority party that run this Congress
+T8	Premise 1856 2093	We, in addition, see that uh - in the last uh - four years the number of employees hired by the Congress has gone up substantial- uh much more than uh - the gross national product, much more than any other increase throughout our society
+T9	Premise 2095 2134	Congress is hiring people by the droves
+T10	Claim 2140 2172	the cast as a result has gone up
+T11	Claim 2178 2269	I don't see any improvement in the performance of the Congress under the present leadership
+T12	Claim 2388 2519	the focus should be where the problem is, which is the Congress of the United States, and particularly the majority in the Congress
+T13	Premise 2521 2560	They spend too much money on themselves
+T14	Premise 2562 2590	They have too many employees
+T15	Premise 2592 2634	There's some question about their morality
+T16	Claim 2674 2721	the focus should not be on the executive branch
+T17	Claim 2726 2857	the corrections should come as the voters vote for their members of the House of Representatives or for their United States senator
+T18	Claim 2859 2886	That's where the problem is
+T19	Claim 4104 4223	I think it would be contrary to one of the basic concepts in our system of government - a system of checks and balances
+T20	Premise 3900 4102	He has, in effect, said that he would agree with all of - he would disapprove of the vetoes that I have made, and would have added significantly to expenditures and the deficit in the federal government
+T21	Premise 4351 4543	If we have a Democratic Congress next year, and a president who wants to spend an additional one hundred billion dollars a year, or maybe two hundred billion dollars a year, with more programs
+T22	Claim 4545 4636	we will have in my judgment, greater deficits with more spending, more dangers of inflation
+T23	Claim 4638 4785	I think the American people want a Republican president to check on any excesses that come out of the next Congress, if it is a Democratic Congress
+T24	Claim 4828 4877	it's not a matter of uh - Republican and Democrat
+T25	Premise 4879 4923	It's a matter of leadership or no leadership
+T26	Premise 4925 4989	President Eisenhower worked with a Democratic Congress very well
+T27	Premise 4991 5097	Even President Nixon, because he was a strong leader at least, worked with a Democratic Congress very well
+T28	Premise 5104 5190	Mr. Ford has vetoed, as I said earlier, four times as many bills per year as Mr. Nixon
+T29	Premise 5192 5345	Mr. Ford quite often puts forward a program just as a public relations stunt, and never tries to put it through the Congress by working with the Congress
+T30	Premise 5347 5458	I think under presidents For- uh - Nixon and Eisenhower they passed about 60 to 75 percent of their legislation
+T31	Claim 5564 5595	This is government by stalemate
+T32	Claim 5460 5562	This year Mr. Ford will not pass more than 26 percent of all the legislative proposals he puts forward
+T33	Premise 5602 5781	e've seen almost a complete breakdown in the proper relationship between the president, who represents this country, and the Congress, who collectively also represent this country
+T34	Premise 5783 5881	We've had uh - Republican presidents before who've tried to run against a Democratic - uh Congress
+T35	Claim 5887 5946	I don't think it's uh - the Congress is Mr. Ford's opponent
+T36	Claim 5965 6075	if he insists that uh - that I be responsible for the Democratic Congress, of which I'm - have not been a part
+T37	Claim 6082 6196	I think it's only fair that he be responsible for the Nixon administration in its entirety, of which he was a part
+T38	Claim 6302 6431	Mr. Ford, so far as I know, except for avoiding another Watergate, has not accomplished one single major program for this country
+T39	Premise 6437 6510	there's been a constant squabbling between the president and the Congress
+T40	Claim 6516 6563	that's not the way this country ought to be run
+T41	Claim 6601 6682	Mr. Ford has uh - misquoted an AP uh - news story that was in error to begin with
+T42	Premise 6684 6964	That story reported several times that I would lower taxes for low and middle-income families and uh - that correction was delivered to the White House and I am sure that the president knows about this uh - correction, but he still insists uh - on repeating an erroneous statement
+R1	Attack Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T2	
+R3	Support Arg1:T4 Arg2:T2	
+R4	Support Arg1:T5 Arg2:T4	
+R5	Support Arg1:T6 Arg2:T4	
+R6	Support Arg1:T7 Arg2:T4	
+R7	Support Arg1:T8 Arg2:T4	
+R8	Support Arg1:T9 Arg2:T10	
+R9	Support Arg1:T10 Arg2:T7	
+R10	Support Arg1:T11 Arg2:T4	
+R11	Support Arg1:T12 Arg2:T4	
+R12	Support Arg1:T13 Arg2:T12	
+R13	Support Arg1:T14 Arg2:T12	
+R14	Support Arg1:T15 Arg2:T12	
+R15	Support Arg1:T17 Arg2:T16	
+R16	Support Arg1:T18 Arg2:T17	
+R17	Support Arg1:T16 Arg2:T12	
+R18	Attack Arg1:T19 Arg2:T20	
+R19	Support Arg1:T21 Arg2:T22	
+R20	Support Arg1:T22 Arg2:T23	
+R21	Attack Arg1:T24 Arg2:T23	
+R22	Support Arg1:T25 Arg2:T24	
+R23	Support Arg1:T26 Arg2:T24	
+R24	Support Arg1:T27 Arg2:T24	
+R25	Support Arg1:T32 Arg2:T31	
+R26	Support Arg1:T34 Arg2:T35	
+R27	Support Arg1:T33 Arg2:T35	
+R28	Support Arg1:T36 Arg2:T37	
+R29	Support Arg1:T39 Arg2:T38	
+R30	Attack Arg1:T40 Arg2:T38	
+R31	Support Arg1:T42 Arg2:T41	

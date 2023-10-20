@@ -1,0 +1,99 @@
+T48	Claim 1318 1368	I think it's projected out to be sound beyond that
+T49	Premise 1262 1312	The Social Security system was fixed about 5 years
+T50	Claim 1416 1487	on all of these things, a sound economy is the only way to get it going
+T51	Premise 1489 1560	Growth in the economy is gonna add to the overall prosperity and wealth
+T52	Claim 1643 1699	we have firm government credit to guarantee the pensions
+T53	Claim 1741 1828	the full faith and credit of the US, in spite of our difficulties, is still pretty good
+T54	Claim 1830 1866	It's still the most respected credit
+T55	Claim 1892 2002	as these dates get close, you're going to have to reorganize and refix as we did with the Social Security Fund
+T56	Claim 2008 2038	I think that's the only answer
+T57	Claim 2044 2212	the more immediate answer is to do what this lady was suggesting we do, and that is to get this deficit down and get on without adding to the woes, and then restructure
+T59	Claim 2338 2489	It is absolutely essential in terms of bringing our banking system and credit system into the new age instead of having it living back in the dark ages
+T60	Claim 2581 2632	I am fighting with the Congress to get this through
+T61	Claim 2638 2686	you can't just go up and say I'm going to fix it
+T62	Premise 2688 2758	You've got some pretty strong-willed guys up there that argue with you
+T63	Claim 2864 2952	sound fiscal policy is the best answer, I think, to all the three problems you mentioned
+T64	Claim 3639 3699	The reason Medicare and Medicaid are a mess is we froze them
+T66	Premise 3020 3081	when you're trying to solve a problem, you get the best plans
+T67	Premise 3083 3125	You have a raging debate about those plans
+T68	Premise 3127 3184	Then out of that debate, with leadership, comes consensus
+T69	Premise 3186 3288	Then, if the plans are huge and complex like health care, I would urge you to implement pilot programs
+T70	Premise 3290 3341	Like the old carpenter says measure twice, cut once
+T71	Premise 3343 3427	Let's make sure this thing's as good as we all think it is at the end of the meeting
+T72	Premise 3429 3502	Then finally, our government passes laws and freezes the plan in concrete
+T73	Claim 3702 3733	Everybody knows how to fix them
+T74	Premise 3735 3845	There are people all over the federal government, if they could just touch it with a screwdriver, could fix it
+T75	Claim 5348 5400	there's one way out -- a growing, expanding job base
+T76	Premise 3874 3902	we've got a $4 trillion debt
+T77	Claim 4072 4126	You don't finance long-term debt with short-term money
+T78	Claim 4128 4188	Why did our government do it? To get the interest rates down
+T79	Premise 4190 4265	A 1% increase in interest rates in that $2.8 trillion is $28 billion a year
+T80	Premise 4273 4385	when you look at what Germany pays for money and what we don't pay for money, you realize there's quite a spread
+T81	Claim 4398 4520	you realize this is a temporary thing and there's going to be another sucking sound that runs our deficit through the roof
+T82	Claim 4586 4634	we are not letting that surplus stay in the bank
+T83	Claim 4636 4689	We are not investing that surplus like a pension fund
+T84	Claim 4691 4777	We are spending that surplus to make the deficit look smaller to you than it really is
+T85	Premise 4793 4911	put you in jail in corporate America if you kept books that way but in government it's just kind of the way things are
+T86	Premise 4996 5030	they don't even pay interest on it
+T87	Premise 5032 5071	They just write a note for the interest
+T88	Premise 5402 5514	A growing, expanding job base to generate the funds and the tax revenues to pay off the mess and rebuild America
+T89	Claim 5516 5539	We've got to double-hit
+T92	Claim 5617 5694	We've got to pay it off and build money to renew it- -spend money to renew it
+T93	Claim 5700 5750	that's going to take a growing, expanding job base
+T94	Claim 5752 5788	That is priority one in this country
+T96	Premise 5834 5931	I'd love to be out of workers and have to import them, like some of our international competitors
+T97	Claim 6342 6375	there should be a growing economy
+T98	Claim 6633 6694	on Medicare, it is not true that everyone knows how to fix it
+T99	Premise 6442 6469	we all have ideas out there
+T101	Premise 6475 6496	Mr. Bush has a record
+T102	Premise 6696 6794	There are different ideas -- the Bush plan, the Perot plan, the Clinton -- we have different ideas
+T103	Claim 6927 7135	you cannot control the cost of Medicare until you control the cost of private health care and public health care, with managed competition, ceiling on cost, and radical reorganization of the insurance markets
+T104	Claim 7137 7158	You've got to do that
+T105	Claim 7160 7190	we got to get those costs down
+T106	Claim 7538 7573	I want some middle-class tax relief
+T107	Premise 7327 7368	Social Security is in surplus $70 billion
+T108	Premise 7370 7523	Six increases in the payroll tax -- that means people with incomes of $51,000 a year or less pay a disproportionally high share of the federal tax burden
+T109	Claim 7599 7675	By the time the century turns, we have got to have our deficit under control
+T110	Premise 7734 7782	when the baby boomers like me retire, we're okay
+T112	Claim 7869 8002	What I would do is to bring in the pension experts of the country, take a look at it, and strengthen the pension requirements further
+T113	Claim 8012 8054	it's not just enough to have the guarantee
+T390	Premise 3907 3995	only in America would you have $2.8 trillion of it or 70% of it financed 5 years or less
+T392	Claim 7677 7730	we have to work out of so that surplus is building up
+R1	Support Arg1:T62 Arg2:T61	
+R2	Support Arg1:T49 Arg2:T48	
+R3	Support Arg1:T51 Arg2:T50	
+R4	Support Arg1:T53 Arg2:T52	
+R5	Support Arg1:T54 Arg2:T53	
+T2	Premise 3504 3637	Anybody that's ever built a successful business will tell you you optimize, optimize, optimize after you've put something into effect
+R6	Support Arg1:T72 Arg2:T64	
+R7	Support Arg1:T74 Arg2:T73	
+R8	Support Arg1:T77 Arg2:T78	
+R9	Support Arg1:T80 Arg2:T81	
+R10	Support Arg1:T79 Arg2:T81	
+R11	Support Arg1:T82 Arg2:T84	
+R12	Support Arg1:T83 Arg2:T84	
+R13	Support Arg1:T85 Arg2:T84	
+R14	Support Arg1:T86 Arg2:T84	
+R15	Support Arg1:T87 Arg2:T86	
+R16	Support Arg1:T88 Arg2:T75	
+T1	Premise 5541 5601	If we're $4 trillion down, we should have everything perfect
+T4	Premise 5607 5615	we don't
+R17	Attack Arg1:T4 Arg2:T1	
+R18	Support Arg1:T4 Arg2:T92	
+R19	Support Arg1:T92 Arg2:T93	
+R20	Equivalent Arg1:T75 Arg2:T93	
+R21	Support Arg1:T93 Arg2:T94	
+R22	Attack Arg1:T98 Arg2:T73	
+R23	Support Arg1:T102 Arg2:T98	
+T3	Premise 6796 6920	I am convinced, having studied health care for a year hard and talking to hundreds and hundreds of people all across America
+R24	Support Arg1:T3 Arg2:T103	
+R25	Equivalent Arg1:T104 Arg2:T103	
+R26	Support Arg1:T105 Arg2:T103	
+R27	Support Arg1:T108 Arg2:T106	
+R28	Support Arg1:T107 Arg2:T108	
+R29	Support Arg1:T110 Arg2:T392	
+R30	Support Arg1:T392 Arg2:T109	
+T5	Premise 8056 8231	We had a guarantee on the S&Ls, right? We had a guarantee -- and what happened? You picked up a $500-billion bill because of the dumb way the federal government deregulated it
+T6	Claim 8237 8343	I think we are going to have to change and strengthen the pension requirements on private retirement plans
+R31	Support Arg1:T5 Arg2:T113	
+R32	Support Arg1:T113 Arg2:T112	

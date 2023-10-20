@@ -1,0 +1,103 @@
+T80	Claim 777 877	the first way we will do that is by supporting the Equal Pay Act which has been proposed in Congress
+T81	Claim 878 1006	which gives women the right to file legal actions against employers who are not treating them fairly and not paying them equally
+T83	Premise 568 662	Al Gore and I have issued an economic plan in which we've stated specific goals for the future
+T84	Claim 668 736	one of those goals is to eliminate the pay gap between men and women
+T85	Premise 738 771	It's unfair and it's unacceptable
+T86	Claim 307 420	fortunately, great advances have been made by women achieving the kind of equality that they were too long denied
+T87	Premise 474 566	actually the number I have received 72 cents for every $1 a man receives in a comparable job
+T88	Claim 1265 1350	there are other civil rights and human rights laws that I think can come to play here
+T89	Premise 1368 1412	this is an unfair and unacceptable situation
+T90	Claim 1641 1692	we've not achieved genuine equality in this country
+T91	Premise 1418 1540	even though, as the economy has risen in the last eight years, America's women have risen with it and received more income
+T92	Premise 1542 1639	until women are receiving the same amount of pay for the same job they're doing as a man receives
+T93	Claim 1694 1769	Al Gore and I are committed to closing that gap and achieving that equality
+T94	Premise 1771 1852	In so many families women are a significant bread earner or the only bread earner
+T95	Premise 1857 1894	this cause affects not only the women
+T96	Claim 1900 1933	families and the children as well
+T97	Premise 1966 2060	I share the view that we ought to have equal pay for equal work regardless of someone's gender
+T98	Premise 2062 2099	We have made progress in recent years
+T99	Claim 2105 2133	I think we have a ways to go
+T100	Claim 3141 3202	The proposal we have from Al Gore, basically, doesn't do that
+T101	Premise 2646 2748	we're trying to change and address in the course of the campaign and what our agenda is for the future
+T102	Claim 2750 2858	our plans are for the future, focus very much about giving as much control as we can to individual Americans
+T103	Premise 2860 2907	be they men or women, be they single or married
+T104	Claim 2909 2957	as much control as possible over their own lives
+T105	Premise 2959 2993	especially in the area of taxation
+T106	Premise 2135 2193	It's not just about the differential with respect to women
+T107	Premise 2195 2419	If you look at our opponent's tax proposal, they discriminate between stay-at-home moms with children that they take care of themselves and those who go to work or who, in fact, have their kids taken care of outside the home
+T108	Claim 2542 2604	It provides tax relief for absolutely everybody who pays taxes
+T110	Claim 3256 3417	If you live your life the way they want you to live your life, if you behave in a certain way, you qualify for a tax credit and at that point you get some relief
+T111	Premise 3443 3536	50 million American taxpayers out there get no advantages at all out of the Gore tax proposal
+T112	Claim 3538 3610	whereas under the Bush plan everybody who pays taxes will get tax relief
+T113	Claim 3204 3254	It in effect lays out some 29 separate tax credits
+T1	Question 43 235	Gentlemen, this is the 21st Century. Yet on average an American working woman in our great nation earns 75 cents for each $1 earned by a working male. What do you males propose to do about it?
+R1	Support Arg1:T87 Arg2:T86
+R2	Support Arg1:T83 Arg2:T84
+R3	Support Arg1:T85 Arg2:T84	
+R4	Support Arg1:T81 Arg2:T84	
+R5	Support Arg1:T80 Arg2:T84	
+T2	Claim 1008 1259	Secondly, we're going to do everything we can using governmental support of business agencies such as the Small Business Administration to help women business owners have an opportunity to invest and begin businesses and make larger incomes themselves
+R6	Support Arg1:T2 Arg2:T84	
+R7	Equivalent Arg1:T85 Arg2:T89	
+R8	Support Arg1:T91 Arg2:T89	
+R9	Support Arg1:T92 Arg2:T90	
+R11	Support Arg1:T94 Arg2:T96	
+R10	Support Arg1:T95 Arg2:T93	
+R12	Support Arg1:T96 Arg2:T93	
+R13	Support Arg1:T90 Arg2:T93	
+R14	Support Arg1:T98 Arg2:T86	
+R15	Attack Arg1:T99 Arg2:T98	
+R16	Support Arg1:T97 Arg2:T99	
+R17	Support Arg1:T106 Arg2:T99	
+T3	Premise 2421 2540	You, in effect, as a stay-at-home mom get no tax advantage under the Gore tax plan as contrasted with the Bush proposal
+R18	Support Arg1:T3 Arg2:T107	
+R19	Support Arg1:T3 Arg2:T108	
+R20	Support Arg1:T101 Arg2:T102	
+R21	Support Arg1:T102 Arg2:T108	
+R22	Support Arg1:T103 Arg2:T102	
+R23	Support Arg1:T105 Arg2:T102	
+R24	Equivalent Arg1:T102 Arg2:T104	
+R25	Support Arg1:T113 Arg2:T100	
+R26	Support Arg1:T110 Arg2:T100	
+R27	Support Arg1:T111 Arg2:T100	
+R28	Support Arg1:T108 Arg2:T112	
+T4	Premise 4001 4249	The first thing is the tax relief program that we've proposed, one of the many tax credits for the middle class includes a $500 tax credit for stay-at-home moms just as a way of saying we understand that you are performing a service for our society
+R29	Attack Arg1:T4 Arg2:T107	
+T5	Claim 4251 4286	We want you to have that tax credit
+R30	Support Arg1:T4 Arg2:T5	
+T6	Claim 4296 4391	the number of 50 million Americans not benefitting from our tax cut program is absolutely wrong
+R31	Attack Arg1:T6 Arg2:T111	
+T7	Premise 4393 4482	It's an estimate done on an earlier form of our tax cut program and it's just plain wrong
+R32	Support Arg1:T7 Arg2:T6	
+T8	Premise 4507 4596	Governor Bush says that his tax cut program, large as it is, gives a tax cut to everybody
+T9	Premise 4598 4810	as the newspapers indicated earlier this week, the Joint Committee on Taxation, again a nonpartisan group in Congress, says that 27 million Americans don't get what the governor said they would in the tax program
+R33	Attack Arg1:T9 Arg2:T8	
+R34	Attack Arg1:T9 Arg2:T108	
+T10	Claim 4812 4855	Al Gore and I want to live within our means
+T11	Claim 4857 4979	We are not going to give it all away in one big tax cut and certainly not to the 1% of the public that doesn't need it now
+T12	Claim 4981 5066	We're focusing our tax cut on the middle class in the areas they tell us they need it
+R35	Support Arg1:T12 Arg2:T11	
+T13	Premise 5068 5213	Tax credits for better and more expensive child care, tax credits for middle class families that don't have health insurance from their employers
+R36	Support Arg1:T13 Arg2:T12	
+T14	Premise 5215 5465	The tax deduction I talked about earlier. Very exciting deduction for up to $10,000 a year in the cost of a college tuition. A $3,000 tax credit for the cost -- well, actually for a family member who stays home with a parent or grandparent who is ill
+R37	Support Arg1:T14 Arg2:T12	
+T15	Premise 5471 5756	a very exciting tax credit program that I hope I'll have a chance to talk about later, Bernie, that encourages savings by people early in life and any time in life by having the federal government match savings for the 75 million Americans who make $100,000 or less up to $2,000 a year
+R38	Support Arg1:T15 Arg2:T12	
+T16	Premise 5772 5880	if a young couple making $50,000 a year saves $1,000, the government will put another $1,000 in that account
+R39	Support Arg1:T16 Arg2:T15	
+T17	Premise 5882 6003	By the time they retire, they'll not only have guaranteed Social Security, but more than $200,000 in that retirement fund
+R40	Support Arg1:T17 Arg2:T16	
+T18	Claim 6062 6114	You have to be a CPA to understand what he just said
+T19	Claim 6116 6252	The fact of the matter is the plan is so complex that the ordinary American is never going to ever figure out what they even qualify for
+R41	Support Arg1:T18 Arg2:T19	
+T20	Premise 6254 6465	It's a classic example of wanting to have a program, in this case a tax program, that will, in fact, direct people to live their lives in certain ways rather than empowering them to make decisions for themselves
+R42	Attack Arg1:T19 Arg2:T14	
+R43	Attack Arg1:T19 Arg2:T16	
+R44	Attack Arg1:T19 Arg2:T17	
+R45	Attack Arg1:T18 Arg2:T17	
+R46	Attack Arg1:T18 Arg2:T16	
+R47	Attack Arg1:T18 Arg2:T15	
+R48	Attack Arg1:T18 Arg2:T14	
+R49	Support Arg1:T20 Arg2:T19	
+T21	Claim 6502 6556	They like tax credits, we like tax reform and tax cuts
+R50	Support Arg1:T19 Arg2:T21	

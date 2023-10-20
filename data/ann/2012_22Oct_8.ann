@@ -1,0 +1,113 @@
+T911	Premise 365 552	Over the last four years we've made real progress digging our way out of policies that gave us two prolonged wars, record deficits and the worst economic crisis since the Great Depression
+T912	Claim 558 657	Governor Romney wants to take us back to those policies, a foreign policy that's wrong and reckless
+T913	Claim 659 821	economic policies that won't create jobs, won't reduce our deficit, but will make sure that folks at the very top don't have to play by the same rules that you do
+T914	Claim 1086 1154	I want to make sure we've got the best education system in the world
+T915	Claim 869 901	I want to build on our strengths
+T916	Claim 828 867	I've got a different vision for America
+T917	Claim 907 1001	I've put forward a plan to make sure that we're bringing manufacturing jobs back to our shores
+T918	Premise 1002 1083	by rewarding companies and small businesses that are investing here, not overseas
+T919	Claim 1156 1212	And we're retaining our workers for the jobs of tomorrow
+T920	Claim 1215 1323	I want to control our own energy by developing oil and natural gas but also the energy sources of the future
+T921	Claim 1331 1453	I want to reduce our deficit by cutting spending that we don't need but also by asking the wealthy to do a little bit more
+T922	Premise 1454 1557	so that we can invest in things like research and technology that are the key to a 21st century economy
+T923	Claim 1560 1634	As Commander in Chief, I will maintain the strongest military in the world
+T924	Claim 1667 1702	go after those who would do us harm
+T925	Claim 1636 1662	keep faith with our troops
+T926	Claim 1756 1805	we've got to do some nation building here at home
+T927	Premise 1708 1729	after a decade of war
+T928	Claim 1807 1840	rebuilding our roads, our bridges
+T929	Claim 1845 1918	especially caring for our Veterans who sacrificed so much for our freedom
+T930	Premise 1925 1955	we've been through tough times
+T931	Claim 1960 1981	we always bounce back
+T932	Premise 1982 2006	because of our character
+T933	Premise 2016 2032	we pull together
+T934	Claim 2037 2158	if I have the privilege of being your president for another four years, I promise you I will always listen to your voices
+T935	Claim 2160 2190	I will fight for your families
+T936	Claim 2195 2294	I will work every single day to make sure that America continues to be the greatest nation on earth
+T937	Claim 2829 2884	I also want to make sure that we get this economy going
+T938	Claim 2562 2580	It's our objective
+T939	Claim 2517 2560	I want to see growing peace in this country
+T940	Claim 2496 2515	I want to see peace
+T941	Premise 2418 2449	I'm optimistic about the future
+T942	Premise 2451 2494	I'm excited about our prospects as a nation
+T943	Claim 2583 2629	We have an opportunity to have real leadership
+T944	Claim 2631 2827	America's going to have that kind of leadership and continue to promote principles of peace to make a world a safer place and make people in this country more confident that their future is secure
+T945	Claim 3088 3129	I'll get us on track to a balanced budget
+T946	Claim 3132 3200	The president's path will mean continuing declining in take-home pay
+T947	Claim 2947 3086	One is a path represented by the president, which at the end of four years would mean we'd have $20 trillion in debt heading towards Greece
+T948	Claim 3344 3409	I want to make sure take-home pay turns around and starts to grow
+T950	Claim 3202 3271	I want to make sure our take-home pay turns around and starts to grow
+T951	Claim 3495 3548	I'll get people back to work with 12 million new jobs
+T952	Claim 3411 3493	The president's path means 20 million people out of work struggling for a good job
+T953	Claim 3551 3670	I'm going to make sure that we get people off of food stamps, not by cutting the program, but by getting them good jobs
+T954	Claim 3727 3796	we're going to have to have a president who can work across the aisle
+T955	Premise 3673 3701	America's going to come back
+T956	Claim 3920 3954	We've got to do that in Washington
+T957	Claim 3861 3918	I learned how to get along on the other side of the aisle
+T958	Premise 3798 3859	I was in a state where my legislature was 87 percent Democrat
+T959	Premise 3956 3976	Washington is broken
+T960	Claim 3978 4023	I know what it takes to get this country back
+T961	Claim 4029 4090	will work with good Democrats and good Republicans to do that
+T962	Claim 4504 4543	I'll lead you in an open and honest way
+T963	Claim 4484 4502	I'll work with you
+T964	Claim 4411 4436	We need strong leadership
+T965	Claim 4383 4408	I'm convinced we'll do it
+T966	Premise 4349 4381	it's our turn to take that torch
+T967	Premise 4252 4342	They've held a torch for the world to see -- the torch of freedom and hope and opportunity
+T968	Premise 4131 4250	We've been blessed by having a nation that's free and prosperous thanks to the contributions of the greatest generation
+T969	Premise 4093 4129	This nation is the hope of the earth
+T1	Claim 3274 3342	The president's path will mean continuing declining in take-home pay
+R1	Attack Arg1:T911 Arg2:T912	
+R2	Support Arg1:T912 Arg2:T913	
+R3	Attack Arg1:T916 Arg2:T913	
+R5	Support Arg1:T918 Arg2:T917	
+R4	Support Arg1:T915 Arg2:T916	
+R6	Support Arg1:T917 Arg2:T916	
+R7	Support Arg1:T914 Arg2:T916	
+R8	Support Arg1:T919 Arg2:T916	
+R9	Support Arg1:T920 Arg2:T916	
+R10	Support Arg1:T921 Arg2:T916	
+R11	Support Arg1:T922 Arg2:T916	
+R12	Support Arg1:T925 Arg2:T923	
+R13	Support Arg1:T924 Arg2:T923	
+R14	Support Arg1:T927 Arg2:T926	
+R15	Support Arg1:T928 Arg2:T926	
+R16	Support Arg1:T929 Arg2:T926	
+R17	Attack Arg1:T931 Arg2:T930	
+R18	Support Arg1:T932 Arg2:T931	
+R19	Support Arg1:T933 Arg2:T931	
+R20	Support Arg1:T935 Arg2:T936	
+R21	Support Arg1:T934 Arg2:T936	
+R22	Support Arg1:T931 Arg2:T934	
+R23	Support Arg1:T916 Arg2:T936	
+R24	Support Arg1:T941 Arg2:T942	
+R25	Support Arg1:T942 Arg2:T940	
+R26	Support Arg1:T940 Arg2:T939	
+R27	Support Arg1:T939 Arg2:T938	
+R28	Support Arg1:T938 Arg2:T943	
+R29	Support Arg1:T943 Arg2:T944	
+R30	Support Arg1:T944 Arg2:T937	
+T2	Premise 2886 2945	And there are two very different paths the country can take
+R31	Attack Arg1:T2 Arg2:T947	
+R32	Support Arg1:T937 Arg2:T945	
+R33	Attack Arg1:T945 Arg2:T946	
+R34	Support Arg1:T946 Arg2:T947	
+R35	Attack Arg1:T950 Arg2:T946	
+R36	Support Arg1:T1 Arg2:T946	
+R37	Attack Arg1:T948 Arg2:T1	
+R38	Attack Arg1:T951 Arg2:T952	
+R39	Support Arg1:T953 Arg2:T951	
+R40	Attack Arg1:T955 Arg2:T954	
+R41	Support Arg1:T958 Arg2:T957	
+R42	Support Arg1:T954 Arg2:T957	
+R43	Support Arg1:T957 Arg2:T956	
+R44	Attack Arg1:T956 Arg2:T959	
+R45	Support Arg1:T960 Arg2:T961	
+R46	Support Arg1:T961 Arg2:T956	
+R47	Support Arg1:T969 Arg2:T968	
+R48	Support Arg1:T968 Arg2:T967	
+R49	Support Arg1:T967 Arg2:T966	
+R50	Support Arg1:T966 Arg2:T965	
+R51	Support Arg1:T965 Arg2:T964	
+R52	Support Arg1:T964 Arg2:T963	
+R53	Support Arg1:T963 Arg2:T962	

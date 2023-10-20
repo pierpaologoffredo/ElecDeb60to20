@@ -1,0 +1,105 @@
+T221	Claim 482 516	I think "punish" is the wrong word
+T222	Premise 530 558	I didn't create this problem
+T223	Claim 560 584	We're trying to solve it
+T224	Premise 393 424	It's 10 cents a year cumulative
+T225	Premise 426 480	It finally gets to 50 cents at the end of the 5th year
+T226	Premise 591 778	if you study our international competitors, some of our international competitors collect up to $3.50 a gallon in taxes, and they use that money to build infrastructure and to create jobs
+T227	Premise 780 799	We collect 35 cents
+T228	Claim 907 1024	the people who will be helped the most by it are the working people who will get the jobs created because of this tax
+T229	Claim 1113 1146	it is now time to pay the fiddler
+T230	Claim 1152 1205	if we don't, we will be spending our children's money
+T231	Premise 1207 1238	We have spent $4 trillion worth
+T232	Premise 1320 1393	they are deeply concerned that we have taken the American dream from them
+T233	Claim 1395 1464	I think it's fitting that we're on the campus of a university tonight
+T234	Claim 1466 1568	These young people, when they get out of this wonderful university, will have difficulty finding a job
+T235	Premise 1570 1601	We've got to clean this mess up
+T236	Claim 1677 1716	We've got to collect the taxes to do it
+T237	Claim 1896 1941	I think it's a good time to face it, November
+T238	Claim 1960 2020	they will have heard the harsh reality of what we have to do
+T239	Premise 2022 2065	I'm not playing Lawrence Welk music tonight
+T240	Claim 2237 2282	we really have 2 deficits in America, not one
+T241	Premise 2284 2334	We have a budget deficit in the federal government
+T242	Premise 2340 2393	we also have an investment, a jobs, an income deficit
+T243	Premise 2395 2493	People are working harder for less money than they were making 10 years ago, 2- 3rds of our people
+T244	Claim 2702 2731	it will increase unemployment
+T245	Claim 2775 2814	I think we shouldn't do it that quickly
+T246	Premise 2816 2892	We have a disciplined reduction in the deficit of 50 % over the next 4 years
+T247	Claim 2984 3012	We've got to invest and grow
+T248	Premise 3165 3262	it offers the best hope to put America back to work and get our incomes rising instead of falling
+T249	Premise 3014 3156	9 Nobel Prize-winning economists and 500 others, including numerous Republican and Democratic business executives, have endorsed this approach
+T250	Claim 3376 3535	I don't believe it is fair to slap a 50-cent-a-gallon tax over whatever many years on the people that have to drive for a living, people that go long distances
+T251	Claim 3537 3567	I don't think we need to do it
+T252	Claim 3713 3763	I think we ought to totally exempt Social Security
+T253	Premise 3611 3702	I agree with what he's talking about in trying to get this spending down and the discipline
+T254	Premise 3769 3796	he's talking tough medicine
+T255	Claim 3802 3821	I think that's good
+T257	Claim 3878 3980	I don't think we need to tax more and spend more, and then say that's going to make the problem better
+T258	Claim 3997 4050	that's what I think I'm hearing from Governor Clinton
+T256	Claim 4052 4180	I believe what you need to do is some of what Ross is talking about: control the growth of mandatory spending and get taxes down
+T259	Premise 4182 4239	He's mentioned some ways to do it--and I agree with those
+T260	Premise 4241 4300	I've been talking about getting a capital gains cut forever
+T261	Claim 4384 4413	It would stimulate investment
+T262	Claim 4415 4450	I'm for an investment tax allowance
+T263	Claim 4452 4498	I'm for a tax break for first- time homebuyers
+T265	Claim 4622 4665	I do not want to go the tax-and-spend route
+T595	Premise 805 830	we don't have it to spend
+T596	Premise 1059 1107	we have so mismanaged our country over the years
+T597	Claim 1240 1311	An incredible number of young people are active in supporting my effort
+T598	Premise 1603 1635	leave this country in good shape
+T599	Premise 1641 1675	pass on the American dream to them
+T600	Premise 1840 1894	If people don't have the stomach to fix these problems
+T601	Premise 1943 1953	If they do
+T602	Premise 2495 2550	a $1600 drop in average income in just the last 2 years
+T603	Premise 2607 2701	almost all economists who've looked at it say that if you cut the deficit this much this quick
+T604	Claim 2733 2762	it will slow down the economy
+T605	Premise 2898 2982	first get incentives to invest in this economy, put the American people back to work
+T606	Premise 4306 4382	his friends in Congress have been telling me that's a tax break for the rich
+R1	Support Arg1:T224 Arg2:T221	
+R2	Support Arg1:T225 Arg2:T221	
+R3	Support Arg1:T222 Arg2:T223	
+R5	Support Arg1:T227 Arg2:T595	
+R6	Support Arg1:T596 Arg2:T229	
+R7	Support Arg1:T230 Arg2:T229	
+R8	Support Arg1:T231 Arg2:T229	
+R9	Support Arg1:T232 Arg2:T597	
+R18	Support Arg1:T600 Arg2:T237	
+R19	Support Arg1:T601 Arg2:T238	
+R20	Support Arg1:T239 Arg2:T238	
+R21	Support Arg1:T241 Arg2:T240	
+R22	Support Arg1:T242 Arg2:T240	
+R23	Support Arg1:T602 Arg2:T243	
+R24	Support Arg1:T243 Arg2:T242	
+R25	Support Arg1:T603 Arg2:T244	
+R26	Support Arg1:T603 Arg2:T604	
+R29	Support Arg1:T245 Arg2:T247	
+R30	Support Arg1:T248 Arg2:T249	
+R31	Support Arg1:T249 Arg2:T247	
+R32	Attack Arg1:T245 Arg2:T236	
+R33	Support Arg1:T251 Arg2:T250	
+R34	Attack Arg1:T250 Arg2:T236	
+R35	Support Arg1:T254 Arg2:T255	
+R39	Support Arg1:T259 Arg2:T256	
+R40	Support Arg1:T260 Arg2:T259	
+R41	Support Arg1:T606 Arg2:T259	
+R42	Support Arg1:T261 Arg2:T256	
+R46	Support Arg1:T251 Arg2:T265	
+R47	Attack Arg1:T265 Arg2:T236	
+R4	Support Arg1:T226 Arg2:T223	
+T1	Claim 832 856	I know it's not popular,
+R48	Attack Arg1:T228 Arg2:T1	
+R37	Support Arg1:T235 Arg2:T236	
+R49	Support Arg1:T598 Arg2:T236	
+R50	Support Arg1:T599 Arg2:T236	
+R51	Support Arg1:T234 Arg2:T236	
+R10	Support Arg1:T597 Arg2:T233	
+R11	Support Arg1:T233 Arg2:T234	
+R12	Support Arg1:T244 Arg2:T245	
+R13	Support Arg1:T604 Arg2:T245	
+R14	Support Arg1:T246 Arg2:T247	
+R15	Support Arg1:T605 Arg2:T247	
+T2	Claim 3344 3374	I just disagree with Mr. Perot
+R16	Support Arg1:T250 Arg2:T2	
+R17	Support Arg1:T253 Arg2:T252	
+T3	Claim 3823 3867	I disagree with the tax-and-spend philosophy
+R27	Support Arg1:T257 Arg2:T3	
+R28	Attack Arg1:T3 Arg2:T258	

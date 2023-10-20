@@ -1,0 +1,104 @@
+T786	Claim 334 368	we have not moved far enough along
+T787	Claim 374 475	I regret to say that this administration has even blocked steps that could help us move further along
+T788	Claim 1184 1221	I think that we have a long way to go
+T791	Claim 648 746	we have a goal there for minority set-aside programs, to try to encourage ownership in the country
+T792	Claim 875 930	many parts of our country, we still have discrimination
+T793	Claim 936 1008	affirmative action is not just something that applies to people of color
+T794	Premise 748 776	They don't reach those goals
+T795	Premise 778 820	They don't even fight to reach those goals
+T796	Premise 822 848	They've tried to undo them
+T797	Premise 1635 1759	there are too many people still in this country who feel the stark resistance of racism, and so we have a distance to travel
+T798	Premise 1844 1923	This president is the first president ever, I think, not to meet with the NAACP
+T799	Premise 1925 1995	This is a president who hasn't met with the Black Congressional Caucus
+T800	Premise 1997 2080	This is a president who has not met with the civil rights leadership of our country
+T801	Claim 2251 2284	I'll make my best effort to do it
+T802	Claim 1236 1326	If you look at what's happened -- we've made progress, I want to say that at the same time
+T803	Premise 1329 1415	During the Clinton years, as you may recall, there was a fight over affirmative action
+T804	Premise 1421 1530	there were many people, like myself, who opposed quotas, who felt there were places where it was overreaching
+T805	Claim 1775 1807	I will make certain we travel it
+T806	Premise 2083 2202	If a president doesn't reach out and bring people in and be inclusive, then how are we going to get over those barriers
+T807	Claim 3186 3278	I believe the best way to help our small businesses is not only through small-business loans
+T808	Claim 3360 3490	to unbundle government contracts so people have a chance to be able to bid and receive a contract to help get their business going
+T809	Premise 3280 3354	which we have increased since I've been the president of the United States
+T810	Claim 3614 3689	I believe part of a hopeful society is one in which somebody owns something
+T811	Claim 2341 2415	it is just not true that I haven't met with the Black Congressional Caucus
+T812	Premise 2417 2477	I met with the Black Congressional Caucus at the White House
+T813	Claim 2511 2548	I don't agree we ought to have quotas
+T814	Claim 2550 2583	I agree, we shouldn't have quotas
+T815	Claim 3493 3532	Minority ownership of businesses are up
+T816	Premise 3542 3611	we created an environment for the entrepreneurial spirit to be strong
+T817	Claim 2954 3069	That's the access I believe is necessary, is to make sure every child learns to read, write, add and subtract early
+T818	Claim 3071 3183	to be able to build on that education by going to college so they can start their careers with a college diploma
+T819	Premise 2858 2951	we spend $73 billion to help 10 million low- and middle-income families better afford college
+T820	Premise 2774 2822	We've expanded Pell Grants by a million students
+T821	Claim 2590 2660	we ought to have an aggressive effort to make sure people are educated
+T822	Claim 2662 2746	to make sure when they get out of high school there's Pell Grants available for them
+T823	Premise 2757 2772	what we've done
+T824	Claim 3691 3751	Today in America more minorities own a home than ever before
+T825	Premise 3757 3771	that's hopeful
+T826	Premise 3777 3792	that's positive
+T827	Claim 5450 5495	I believe that God wants everybody to be free
+T828	Claim 5564 5640	In Afghanistan, I believe that the freedom there is a gift from the Almighty
+T829	Claim 4155 4175	my faith plays a lot
+T830	Claim 4327 4367	my faith is a very -- it's very personal
+T831	Premise 4369 4495	I pray for strength. I pray for wisdom. I pray for our troops in harm's way. I pray for my family. I pray for my little girls.
+T832	Premise 4501 4577	I'm mindful in a free society that people can worship if they want to or not
+T833	Claim 4579 4667	You're equally an American if you choose to worship an almighty and if you choose not to
+T834	Claim 5244 5304	I believe we ought to love our neighbor like we love ourself
+T835	Claim 5525 5562	that's been part of my foreign policy
+T836	Claim 5095 5145	I never want to impose my religion on anybody else
+T837	Premise 5849 5929	I respect everything that the president has said and certainly respect his faith
+T838	Claim 5931 5968	I think it's important and I share it
+T839	Claim 5970 6036	I think that he just said that freedom is a gift from the Almighty
+T840	Claim 7087 7126	I think we've got a lot more work to do
+T841	Claim 7146 7243	I will always respect everybody's right to practice religion as they choose -- or not to practice
+T842	Premise 7255 7277	that's part of America
+T843	Claim 6600 6690	I think we have a lot more loving of our neighbor to do in this country and on this planet
+T844	Claim 6038 6076	Everything is a gift from the Almighty
+T845	Premise 6085 6134	I measure the words of the Bible -- and we all do
+T846	Premise 6136 6201	different people measure different things -- the Koran, the Torah
+T847	Premise 6217 6333	Native Americans who gave me a blessing the other day had their own special sense of connectedness to a higher being
+T848	Claim 6693 6769	We have a separate and unequal school system in the United States of America
+T849	Premise 6771 6853	There's one for the people who have, and there's one for the people who don't have
+T850	Premise 6994 7084	I talked about it earlier when I talked about the works and faith without works being dead
+R1	Support Arg1:T787 Arg2:T786	
+R2	Support Arg1:T792 Arg2:T786	
+R3	Equivalent Arg1:T788 Arg2:T786	
+R4	Support Arg1:T797 Arg2:T788	
+R5	Attack Arg1:T811 Arg2:T799	
+R6	Attack Arg1:T813 Arg2:T804	
+R7	Equivalent Arg1:T813 Arg2:T814	
+R8	Support Arg1:T822 Arg2:T821	
+R9	Support Arg1:T820 Arg2:T822	
+R10	Support Arg1:T823 Arg2:T822	
+R11	Support Arg1:T819 Arg2:T821	
+R12	Support Arg1:T818 Arg2:T817	
+R13	Support Arg1:T807 Arg2:T817	
+R14	Support Arg1:T809 Arg2:T807	
+R15	Support Arg1:T816 Arg2:T815	
+R16	Support Arg1:T815 Arg2:T824	
+R17	Support Arg1:T825 Arg2:T824	
+R18	Support Arg1:T826 Arg2:T824	
+R19	Support Arg1:T810 Arg2:T824	
+R20	Support Arg1:T815 Arg2:T824	
+R21	Support Arg1:T808 Arg2:T807	
+R22	Support Arg1:T794 Arg2:T795	
+R23	Support Arg1:T795 Arg2:T796	
+R24	Support Arg1:T796 Arg2:T787	
+R25	Support Arg1:T831 Arg2:T830	
+R26	Support Arg1:T832 Arg2:T833	
+R27	Support Arg1:T830 Arg2:T833	
+T1	Premise 4670 4734	If you're a Christian, Jew or Muslim, you're equally an American
+R28	Support Arg1:T1 Arg2:T833	
+R29	Attack Arg1:T836 Arg2:T829	
+R30	Support Arg1:T827 Arg2:T835	
+R31	Support Arg1:T834 Arg2:T835	
+R32	Support Arg1:T828 Arg2:T835	
+R33	Support Arg1:T837 Arg2:T838	
+R34	Support Arg1:T845 Arg2:T844	
+R35	Support Arg1:T846 Arg2:T844	
+R36	Support Arg1:T847 Arg2:T844	
+R37	Support Arg1:T839 Arg2:T844	
+R38	Support Arg1:T848 Arg2:T843	
+R39	Equivalent Arg1:T840 Arg2:T843	
+R40	Support Arg1:T842 Arg2:T841	

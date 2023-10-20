@@ -1,0 +1,80 @@
+T381	Claim 455 460	I did
+T382	Claim 2879 2950	I have a responsibility to correct him every time he misstates the case
+T383	Claim 2956 2985	I intend to continue to do so
+T384	Claim 2759 2810	he's doing a very effective job of that, in his way
+T388	Claim 2447 2539	in pointing out the things that are wrong, I think we ought to emphasize America's strengths
+T389	Premise 2300 2440	We're the best fed; we're the best clothed, with a better distribution of this world's goods to all of our people than any people in history
+T390	Claim 1916 1937	this just wasn't true
+T391	Premise 2128 2298	the thing that is right about the United States, it should be emphasized, is that less people go to bed hungry in the United States than in any major country in the world
+T392	Premise 1944 2122	there are people who go to bed hungry in the United States - far less, incidentally, than used to go to bed hungry when we came into power at the end of the Truman Administration
+T394	Premise 1642 1703	I think this is very harmful at a time Mr. Khrushchev is here
+T395	Claim 1722 1732	it's wrong
+T396	Claim 1573 1640	I don't think he should say that our prestige is at an all-time low
+T397	Claim 1503 1571	he has a responsibility to be accurate, and not to misstate the case
+T398	Claim 1382 1497	I think he has a perfect right and a responsibility to criticize this Administration whenever he thinks we're wrong
+T400	Premise 960 1117	In the Truman Administration, six hundred million people went behind the Iron Curtain including the satellite countries of Eastern Europe and Communist China
+T402	Premise 641 714	What I criticized were the policies that made it necessary to go to Korea
+T403	Claim 4772 4901	I believe that on this subject we can balance the budget unless we have a national emergency or unless we have a severe recession
+T404	Claim 4531 4562	I believed in a balanced budget
+T408	Premise 3892 3953	there are twenty-five million of them according to Mr. Benson
+T410	Claim 4287 4322	we ought to try to meet the problem
+T412	Premise 4616 4690	the worst unbalanced budget in history was in 1958, twelve billion dollars
+T413	Claim 4487 4512	They're wholly inaccurate
+T1	Premise 1734 1780;1831 1910	I don't think it was helpful when he suggested that seventeen million people go to bed hungry every night in the United States
+T2	Claim 2541 2562;2568 2609	It isn't necessary to run America down in order to build her up
+T4	Claim 2623 2686;2724 2753	we get it absolutely clear: Senator Kennedy must as a candidate criticize us when we're wrong
+T3	Claim 2835 2873	he has a responsibility to be accurate
+T10	Claim 3650 3714;3719 3729;3732 3740;3744 3801	You can't tell me that a surplus food distribution of five cents per person and that nearly six million Americans receiving that - is adequate
+T7	Claim 3803 3885;3956 3985	You can't tell me that any one who uses beans instead of meat in the United States is well fed or adequately fed
+T9	Claim 3987 4225;4231 4281	I believe that we should not compare what our figures may be to India or some other country that has serious problems but to remember that we are the most prosperous country in the world and that these people are not getting adequate food they're not getting in many cases adequate shelter
+T12	Premise 4334 4366;4398 4451;4466 4485	Mr. Nixon has continued to state these fantastic figures of what the Democratic budget platform would cost
+T11	Premise 4564 4599;4693 4762	Unless there was a severe recession larger than in any Administration in the history of the United States
+R2	Support Arg1:T402 Arg2:T381	
+R4	Equivalent Arg1:T395 Arg2:T396	
+R5	Support Arg1:T395 Arg2:T396	
+R8	Attack Arg1:T390 Arg2:T1	
+R9	Equivalent Arg1:T390 Arg2:T395	
+R10	Support Arg1:T391 Arg2:T389	
+R11	Support Arg1:T392 Arg2:T389	
+R14	Support Arg1:T388 Arg2:T2	
+R12	Equivalent Arg1:T3 Arg2:T397	
+R13	Equivalent Arg1:T398 Arg2:T4	
+T8	Premise 3559 3648	Now I've seen a good many hundreds of thousands of people who are uh - not adequately fed
+R16	Support Arg1:T8 Arg2:T10	
+R17	Equivalent Arg1:T7 Arg2:T10	
+R18	Support Arg1:T408 Arg2:T7	
+R19	Support Arg1:T9 Arg2:T7	
+R20	Support Arg1:T9 Arg2:T10	
+R21	Support Arg1:T12 Arg2:T413	
+R22	Attack Arg1:T404 Arg2:T413	
+R23	Equivalent Arg1:T404 Arg2:T403	
+R24	Attack Arg1:T11 Arg2:T404	
+T5	Premise 466 639	as I pointed out in 1952, I made it very clear that as far as the Korean War was concerned, that I felt that the decision to go into the war in Korea was right and necessary
+R1	Support Arg1:T5 Arg2:T381	
+T6	Claim 734 810	I should point out here that Senator Kennedy has attacked our foreign policy
+T13	Premise 812 880	He's said that it's been a policy that has led to defeat and retreat
+R25	Support Arg1:T13 Arg2:T6	
+T14	Premise 1119 1180	In this Administration we've stopped them at Quemoy and Matsu
+T15	Premise 1182 1213	we've stopped them in Indochina
+T16	Premise 1215 1244	we've stopped them in Lebanon
+T17	Premise 1246 1292	we've stopped them in other parts of the world
+R3	Attack Arg1:T400 Arg2:T6	
+R26	Attack Arg1:T14 Arg2:T6	
+R27	Attack Arg1:T15 Arg2:T6	
+R28	Attack Arg1:T16 Arg2:T6	
+R29	Attack Arg1:T17 Arg2:T6	
+R30	Attack Arg1:T398 Arg2:T397	
+R31	Support Arg1:T396 Arg2:T397	
+R32	Support Arg1:T394 Arg2:T395	
+R6	Support Arg1:T390 Arg2:T397	
+R7	Support Arg1:T389 Arg2:T388	
+R33	Attack Arg1:T384 Arg2:T3	
+R15	Support Arg1:T382 Arg2:T383	
+R34	Support Arg1:T3 Arg2:T382	
+T18	Premise 3028 3343	Mr. Nixon uh- I'll just give you the testimony of Mr. George Aiken - Senator George Aiken, the ranking minority member - Republican member - and former chairman of the Senate Agricultural Committee testifying in 1959 - said there were twenty-six million Americans who did not have the income to afford a decent diet
+T19	Premise 3345 3493	Mr. Benson, testifying on the food stamp plan in 1957, said there were twenty-five million Americans who could not afford a elementary low-cost diet
+T20	Premise 3499 3557	he defined that as someone who uses beans in place of meat
+R35	Support Arg1:T20 Arg2:T10	
+R36	Support Arg1:T19 Arg2:T10	
+R37	Support Arg1:T18 Arg2:T10	
+R38	Attack Arg1:T9 Arg2:T389	

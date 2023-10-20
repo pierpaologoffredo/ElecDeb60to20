@@ -1,0 +1,97 @@
+T563	Claim 546 568	We've got to change it
+T564	Claim 2792 2798	We can
+T565	Claim 2687 2790	we can renew and rekindle the American spirit and make our future what our founders dreamed it could be
+T566	Claim 2555 2586	We need campaign finance reform
+T567	Claim 2591 2681	we need to shoot straight with young and old alike and tell them what the real choices are
+T568	Claim 2439 2476	They ought to have their voices heard
+T569	Claim 2482 2553	they shouldn't have a big megaphone that drowns out the American people
+T570	Premise 2340 2437	The big oil companies are against the measures to get more energy independence and renewable fuel
+T571	Premise 2317 2338	Bush does not support
+T572	Claim 1928 1982	I think that the special interests have too much power
+T573	Claim 1988 2045	we need to give our democracy back to the American people
+T574	Claim 1711 1835	I will make the McCain-Feingold Campaign Finance Reform bill the very first measure that I send to the Congress as president
+T575	Claim 1633 1670	I don't believe that's a fair measure
+T576	Claim 1457 1521	we've got to address one of the biggest threats to our democracy
+T577	Premise 1527 1572	that is the current campaign financing system
+T578	Premise 1578 1631	I know they say it doesn't rank anywhere on the polls
+T579	Claim 1374 1398	we believe in our future
+T580	Claim 1403 1450	we know we have the ability to shape our future
+T581	Premise 852 994	Sometimes people who are very idealistic and have great dreams, as young people do, are apt to stay at arm's length from the political process
+T582	Premise 1003 1048	they think their good hearts might be brittle
+T583	Claim 1054 1161	if they invest their hopes and allow themselves to believe, then they're gonna be let down and disappointed
+T584	Claim 1167 1353	thank goodness we've always had enough people who have been willing in every generation to push past the fear of a broken heart and become deeply involved in forming a more perfect union
+T585	Premise 1837 1861	Governor Bush opposes it
+T586	Premise 1863 1918	I wish that he would consider changing his mind on that
+T587	Premise 2068 2213	Those issues you mentioned, Social Security, prescription drugs, the big drug companies are against the prescription drug proposal that I've made
+T588	Premise 2215 2301	The HMOs are against the patient's rights bill, the Dingle-Norwood bill that I support
+T589	Claim 2956 2992	they don't want any part of politics
+T590	Premise 2869 2941	A lot of people are sick and tired of the bitterness in Washington, D.C.
+T591	Claim 4554 4606	That's the best way to get people back in the system
+T592	Claim 4422 4456	That's what Washington, D.C. needs
+T593	Claim 4321 4374	I didn't care whether he was a Republican or Democrat
+T594	Claim 4376 4420	What I cared about is could we work together
+T595	Premise 4304 4319	He's a Democrat
+T596	Claim 3613 3634	I think it's the tone
+T597	Claim 3636 3661	I think it's the attitude
+T598	Claim 3663 3700	I think it's a cynicism in Washington
+T599	Claim 3705 3735	it doesn't have to be that way
+T600	Claim 4085 4114	That's what happened in Texas
+T601	Claim 4010 4083	I believe the answer is yes, otherwise I wouldn't be asking for your vote
+T602	Claim 3563 3611	I don't think it's the issues that turn kids off
+T603	Claim 3487 3513	We better get it right now
+T604	Claim 3204 3386	what I think needs to happen in order to encourage the young to become involved is to shoot straight, is to set aside the partisan differences, and set an agenda that will make sense
+T605	Premise 3430 3485	Medicare is relevant for all of us, young and old alike
+T606	Premise 3515 3561	Tax reform is relevant for old and young alike
+T607	Premise 4136 4192	There is a man here in this audience named Hugo Berlanga
+T608	Premise 4194 4236	He is the chairman of the health committee
+T609	Premise 4238 4302	He came here for a reason, to tout our record on health in Texas
+R1	Support Arg1:T581 Arg2:T582	
+R2	Support Arg1:T582 Arg2:T583	
+R3	Attack Arg1:T584 Arg2:T583	
+R4	Support Arg1:T579 Arg2:T580	
+R5	Attack Arg1:T576 Arg2:T577	
+R6	Attack Arg1:T574 Arg2:T585	
+R7	Support Arg1:T586 Arg2:T585	
+R8	Support Arg1:T572 Arg2:T573	
+R9	Support Arg1:T574 Arg2:T573	
+R10	Attack Arg1:T575 Arg2:T578	
+R11	Attack Arg1:T574 Arg2:T577	
+R12	Attack Arg1:T569 Arg2:T568	
+R13	Attack Arg1:T573 Arg2:T587	
+R14	Attack Arg1:T573 Arg2:T588	
+R15	Attack Arg1:T573 Arg2:T571	
+R16	Attack Arg1:T573 Arg2:T570	
+R17	Support Arg1:T566 Arg2:T567	
+R18	Attack Arg1:T566 Arg2:T577	
+R19	Support Arg1:T567 Arg2:T565	
+R20	Support Arg1:T564 Arg2:T565	
+R21	Support Arg1:T573 Arg2:T565	
+R22	Support Arg1:T590 Arg2:T589	
+T1	Premise 2994 3106	They look at Washington and see people pointing fingers and casting blame and saying one thing and doing another
+T2	Premise 3108 3198	There's a lot of young folks saying, you know, why do I want to be involved with this mess
+R23	Support Arg1:T1 Arg2:T589	
+R24	Support Arg1:T2 Arg2:T589	
+R25	Support Arg1:T605 Arg2:T603	
+R26	Attack Arg1:T604 Arg2:T1	
+R27	Attack Arg1:T604 Arg2:T2	
+R28	Support Arg1:T605 Arg2:T604	
+R29	Support Arg1:T606 Arg2:T604	
+R30	Attack Arg1:T604 Arg2:T602	
+R31	Attack Arg1:T596 Arg2:T602	
+R32	Attack Arg1:T597 Arg2:T602	
+R33	Attack Arg1:T598 Arg2:T602	
+R34	Attack Arg1:T599 Arg2:T598	
+R35	Support Arg1:T599 Arg2:T604	
+T3	Premise 3946 4004	could an administration change the tone in Washington, D.C
+R36	Attack Arg1:T601 Arg2:T3	
+R37	Support Arg1:T601 Arg2:T600	
+T4	Premise 4116 4134	We worked together
+R38	Support Arg1:T4 Arg2:T600	
+R39	Support Arg1:T607 Arg2:T608	
+R40	Support Arg1:T608 Arg2:T609	
+R41	Support Arg1:T609 Arg2:T595	
+R42	Support Arg1:T593 Arg2:T594	
+R43	Support Arg1:T594 Arg2:T592	
+R44	Support Arg1:T4 Arg2:T592	
+R45	Support Arg1:T591 Arg2:T592	
+R46	Support Arg1:T595 Arg2:T593	
