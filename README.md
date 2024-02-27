@@ -1,4 +1,4 @@
-# ElecDeb60to20
+# ElecDeb60to20 Dataset
 
 In this repository is available the dataset named **ElecDeb60to20** that is split in different annotation types:
  - Fallacy Annotation
@@ -44,9 +44,11 @@ The components are split into:
  - Premises
 
  **Claims**
+ 
 Being them the ultimate goal of an argument, in the context of political debates, claims can be a policy advocated by a party or a candidate to be undertaken which needs to be justified in order to be accepted by the audience.
 
 **Premises**
+
 Premises are assertions made by the debaters for supporting their claims (i.e., reasons
 or justifications).
 
@@ -56,9 +58,11 @@ The relationships are split into:
  - Attack
 
 **Support**
+
 Links two components from a supporting argument component to a supported argument component. 
 
 **Attack**
+
 Holds when one argument component is in contradiction with another argument component
 
 
