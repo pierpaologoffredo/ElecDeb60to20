@@ -5,6 +5,8 @@ In this repository is available the dataset named **ElecDeb60to20** that is spli
  - Argument Component Annotations
  - Argument Relationship Annotations
 
+In addition, it is possible to explore the debates from the "speech turn" point of view in the folder `debates`.
+
 This dataset is a collection of televised debates of the US presidential campaign debates from **1960** to **2020** [[1](https://aclanthology.org/2023.emnlp-main.684)], [[2](https://aclanthology.org/P19-1463)], [[3](https://www.debates.org/voter-education/debate-transcripts/)].
 
 The guidelines used to annotate the fallacy are provided [here](https://github.com/pierpaologoffredo/ElecDeb60to20/blob/main/guidelines/fallacy.pdf), whereas for the argumentative component and relationship are [here](https://github.com/pierpaologoffredo/ElecDeb60to20/blob/main/guidelines/annotation_guidelines.pdf).

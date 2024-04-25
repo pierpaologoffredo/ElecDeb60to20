@@ -1,1 +1,4 @@
 .DS_Store
+full_speeches.csv
+process.ipynb
+*[0-9][0-9][0-9][0-9][0-9][0-9]*
